@@ -1,0 +1,38 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="com.developerphil.adbidea.action.StartWithDebuggerAction">
+        <abbreviation name="debug" />
+        <abbreviation name="deb" />
+      </action>
+      <action id="com.developerphil.adbidea.action.GrantPermissionsAction">
+        <abbreviation name="grant" />
+      </action>
+      <action id="com.developerphil.adbidea.action.UninstallAction">
+        <abbreviation name="un" />
+      </action>
+      <action id="com.developerphil.adbidea.action.ClearDataAction">
+        <abbreviation name="clear" />
+      </action>
+      <action id="com.developerphil.adbidea.action.AdbIdeaQuickList">
+        <abbreviation name="adb" />
+      </action>
+      <action id="XDebugger.AttachToProcess">
+        <abbreviation name="att" />
+      </action>
+      <action id="com.developerphil.adbidea.action.RevokePermissionsAndRestartAction">
+        <abbreviation name="rev" />
+      </action>
+      <action id="com.developerphil.adbidea.action.ClearDataAndRestartAction">
+        <abbreviation name="clear restart" />
+        <abbreviation name="cstart" />
+      </action>
+      <action id="com.developerphil.adbidea.action.RestartAction">
+        <abbreviation name="restart" />
+      </action>
+      <action id="com.developerphil.adbidea.action.RevokePermissionsAction">
+        <abbreviation name="revoke" />
+      </action>
+    </abbreviations>
+  </component>
+</application>

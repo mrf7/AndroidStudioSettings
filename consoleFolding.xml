@@ -1,0 +1,19 @@
+<application>
+  <component name="ConsoleFoldingSettings">
+    <option name="addedPositive">
+      <list>
+        <option value="01-16 15:08:12.206 211-13085/? D/AudioALSACaptureDataProviderNormal: readThread, latency_in_us,0.000064,0.028267,0.004999" />
+        <option value="AudioRecord" />
+        <option value="D/AudioALSACaptureDataProviderNormal:" />
+        <option value="D/MRF: Found device" />
+        <option value="E/ConnectivityErrorHelper: Default : Not handling this value - 200 OK" />
+        <option value="I/AUDIOALG:" />
+        <option value="I/Paladin.MetricLogger" />
+        <option value="I/RxBle#Client: ScanResult{bleDevice=RxBleDe" />
+        <option value="ViewPostIme pointer" />
+        <option value="Vitals" />
+        <option value="I/RxBle#Client: ScanResult" />
+      </list>
+    </option>
+  </component>
+</application>
