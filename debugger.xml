@@ -83,6 +83,17 @@
     </Renderer>
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundTypeRenderer">
+        <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.lutron.mmw.adapter.viewmodel.AreaDevicesViewModel" />
+        <Renderer ID="EnumerationChildrenRenderer" role="children">
+          <option name="QUALIFIED_NAME" value="com.lutron.mmw.adapter.viewmodel.AreaDevicesViewModel" />
+          <option name="AppendDefault" value="true" />
+          <ChildrenExpression Name="">
+            <TextWithImports text="&#13;&#13;Kotlin" type="expression" />
+          </ChildrenExpression>
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
         <option name="NAME" value="com.lutron.sharedutils.DoubleStack" />
         <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.lutron.sharedutils.DoubleStack" />
