@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../app/src/main/java/com/lutron/lutronconnect/common/CloudHVACSystemMapDao.java [app]'" />
-    <option name="defaultScopeName" value="File '.../app/src/main/java/com/lutron/lutronconnect/common/CloudHVACSystemMapDao.java [app]'" />
+    <option name="customScope" value="File '.../app/src/main/java/com/lutron/lutronconnect/common/DbHelper.java [app]'" />
+    <option name="defaultScopeName" value="File '.../app/src/main/java/com/lutron/lutronconnect/common/DbHelper.java [app]'" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../app/src/main/java/com/lutron/lutronconnect/common/CloudHVACSystemMapDao.java [app]'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/src/main/java/com/lutron/lutronconnect/common/DbHelper.java [app]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
