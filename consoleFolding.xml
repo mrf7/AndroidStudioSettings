@@ -9,10 +9,11 @@
         <option value="E/ConnectivityErrorHelper: Default : Not handling this value - 200 OK" />
         <option value="I/AUDIOALG:" />
         <option value="I/Paladin.MetricLogger" />
+        <option value="I/RxBle#Client: ScanResult" />
         <option value="I/RxBle#Client: ScanResult{bleDevice=RxBleDe" />
         <option value="ViewPostIme pointer" />
         <option value="Vitals" />
-        <option value="I/RxBle#Client: ScanResult" />
+        <option value="D/ScanRecord: same manuId data exists, combine both data and store" />
       </list>
     </option>
   </component>
