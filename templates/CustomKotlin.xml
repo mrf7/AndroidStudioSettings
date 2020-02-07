@@ -7,4 +7,11 @@
       <option name="KOTLIN_CLASS" value="true" />
     </context>
   </template>
+  <template name="ise" value="throw IllegalStateException($MESSAGE$)" description="illegal state exception" toReformat="false" toShortenFQNames="true">
+    <variable name="MESSAGE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN_EXPRESSION" value="true" />
+      <option name="KOTLIN_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
