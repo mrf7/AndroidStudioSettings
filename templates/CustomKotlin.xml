@@ -1,7 +1,8 @@
 <templateSet group="CustomKotlin">
-  <template name="ld" value="private val _$VARNAME$ = MutableLiveData&lt;$TYPE$&gt;()&#10;/**&#10; * TODO MRF write property comment &#10; */&#10; val $VARNAME$: LiveData&lt;$TYPE$&gt;&#10;    get() = _$VARNAME$" description="Creates a private MutableLiveData with a public LiveData" toReformat="false" toShortenFQNames="true">
+  <template name="ld" value="&#10;/**&#10; *  $COMMENT$&#10; */&#10; val $VARNAME$: LiveData&lt;$TYPE$&gt;&#10;    get() = _$VARNAME$&#10;    &#10;private val _$VARNAME$ = MutableLiveData&lt;$TYPE$&gt;()" description="Creates a private MutableLiveData with a public LiveData" toReformat="false" toShortenFQNames="true">
     <variable name="VARNAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="COMMENT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN_CLASS" value="true" />
     </context>
