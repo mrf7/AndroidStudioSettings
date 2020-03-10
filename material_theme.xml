@@ -1,0 +1,10 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isContrastMode" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="tabsHeight" value="30" />
+    <option name="selectedTheme" value="DRACULA" />
+    <option name="userId" value="-1c6eeaa:170c2295622:-8000" />
+    <option name="version" value="4.5.2" />
+  </component>
+</application>
