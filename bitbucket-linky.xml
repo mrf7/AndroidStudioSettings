@@ -1,0 +1,28 @@
+<application>
+  <component name="BitbucketCloudRegistry">
+    <lookup />
+  </component>
+  <component name="BitbucketServerRegistry">
+    <instances>
+      <instance uuid="929509f8-2f78-360c-ae7c-9b9fed7318ca" baseUri="https://git.intra.lutron.com/" />
+    </instances>
+    <lookup>
+      <record scheme="ssh" hostname="git.intra.lutron.com" port="7999" path="/" uuid="929509f8-2f78-360c-ae7c-9b9fed7318ca" />
+    </lookup>
+  </component>
+  <component name="Instance" id="406a4566-e613-46d7-a757-ab4d1b478546" version="8.0.112" />
+  <component name="UsageLog">
+    <event name="OpenFile" place="ChangesBrowser" timestamp="2020-03-12T15:48:11.331Z">
+      <attribute name="editor">false</attribute>
+      <attribute name="multipleLines">false</attribute>
+      <attribute name="multipleCarets">false</attribute>
+      <attribute name="bitbucket">server</attribute>
+    </event>
+    <event name="OpenFile" place="Vcs.FileHistory.ContextMenu" timestamp="2020-03-12T15:49:15.204Z">
+      <attribute name="editor">false</attribute>
+      <attribute name="multipleLines">false</attribute>
+      <attribute name="multipleCarets">false</attribute>
+      <attribute name="bitbucket">server</attribute>
+    </event>
+  </component>
+</application>
