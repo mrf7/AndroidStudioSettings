@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Fix issues from bench test " />
-    <option name="FILE_MASK" value="*.kt" />
+    <option name="FILE_MASK" value="detekt-baseline.*" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -22,7 +22,7 @@
     <mask>*.pl</mask>
     <mask>*Contract.java</mask>
     <mask>detek-baseline.*</mask>
-    <mask>detekt-baseline.*</mask>
     <mask>*.kt</mask>
+    <mask>detekt-baseline.*</mask>
   </component>
 </application>
