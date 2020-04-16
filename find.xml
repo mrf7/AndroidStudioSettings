@@ -7,7 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="build.*" />
+    <option name="FILE_MASK" value="*Test.*" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -27,5 +27,6 @@
     <mask>*.kt</mask>
     <mask>detekt-baseline.*</mask>
     <mask>build.*</mask>
+    <mask>*Test.*</mask>
   </component>
 </application>
