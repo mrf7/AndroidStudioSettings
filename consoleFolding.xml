@@ -6,6 +6,10 @@
         <option value="AudioRecord" />
         <option value="D/AudioALSACaptureDataProviderNormal:" />
         <option value="D/MRF: Found device" />
+        <option value="D/ScanRecord: same manuId data exists, combine both data and store" />
+        <option value="D/Zone: getFanSpeed called for non fan speed Zone. controlType=null" />
+        <option value="D/Zone: getLevel called for Zone that don't have level. controlType=null" />
+        <option value="D/Zone: getTilt called for Zone that don't have tilt. controlType=null" />
         <option value="E/ConnectivityErrorHelper: Default : Not handling this value - 200 OK" />
         <option value="I/AUDIOALG:" />
         <option value="I/Paladin.MetricLogger" />
@@ -13,7 +17,7 @@
         <option value="I/RxBle#Client: ScanResult{bleDevice=RxBleDe" />
         <option value="ViewPostIme pointer" />
         <option value="Vitals" />
-        <option value="D/ScanRecord: same manuId data exists, combine both data and store" />
+        <option value="D/BtGatt.GattService: onScanResult to scannerId:" />
       </list>
     </option>
   </component>
