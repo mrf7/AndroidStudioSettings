@@ -5,6 +5,7 @@
         <option value="01-16 15:08:12.206 211-13085/? D/AudioALSACaptureDataProviderNormal: readThread, latency_in_us,0.000064,0.028267,0.004999" />
         <option value="AudioRecord" />
         <option value="D/AudioALSACaptureDataProviderNormal:" />
+        <option value="D/BtGatt.GattService: onScanResult to scannerId:" />
         <option value="D/MRF: Found device" />
         <option value="D/ScanRecord: same manuId data exists, combine both data and store" />
         <option value="D/Zone: getFanSpeed called for non fan speed Zone. controlType=null" />
@@ -17,7 +18,7 @@
         <option value="I/RxBle#Client: ScanResult{bleDevice=RxBleDe" />
         <option value="ViewPostIme pointer" />
         <option value="Vitals" />
-        <option value="D/BtGatt.GattService: onScanResult to scannerId:" />
+        <option value="I/GnssLocationProvider: WakeLock released by h" />
       </list>
     </option>
   </component>
