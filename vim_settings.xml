@@ -133,16 +133,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManagerKot.kt" timestamp="1588011346816">
-        <mark key="[" line="229" column="0" />
-        <mark key="]" line="229" column="0" />
-        <mark key="." line="229" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/LutBleDevice.java" timestamp="1587582198880">
-        <mark key="[" line="98" column="3" />
-        <mark key="]" line="99" column="69" />
-        <mark key="." line="99" column="69" />
-        <mark key="^" line="99" column="69" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManagerKot.kt" timestamp="1588011678993">
+        <mark key="[" line="240" column="12" />
+        <mark key="]" line="240" column="12" />
+        <mark key="." line="240" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/CommunicationManagerKot.kt" timestamp="1587743141860">
         <mark key="[" line="36" column="31" />
@@ -182,6 +176,9 @@
         <mark key="]" line="57" column="33" />
         <mark key="." line="150" column="24" />
         <mark key="^" line="150" column="28" />
+      </file>
+      <file name="/fragment.kt" timestamp="1588011683239">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/timeScratchSpace/TimeSpanExtractorApplier.kt" timestamp="1588000855400">
         <mark key="[" line="38" column="0" />
@@ -328,8 +325,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJvcmcuamV0YnJhaW5zLmtvdGxpbng6a290bGlueC1jb3JvdXRpbmVzLWd1YXZhOiRrb3RsaW5fY29yb3V0aW5lc192ZXJzaW9uIgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFOwo=</text>
@@ -341,7 +338,7 @@
         <text>rxBleScanResult.bleDevice.name == &quot;Ketra&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>core</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -350,49 +347,49 @@
         <text>FORM_FACTOR</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJvcmcuamV0YnJhaW5zLmtvdGxpbng6a290bGlueC1jb3JvdXRpbmVzLWNvcmU6JGtvdGxpbl9jb3JvdXRpbmVzX3ZlcnNpb24iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHVwZGF0ZWRPckluc2VydGVkRE9zID0gUmVzcG9uc2VQcm9jZXNzb3IucHJvY2Vzcyhjb250ZXh0LCByZXNwb25zZU1vZGVsKQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtRm91bmREZXZpY2VzLnB1dChkZXZpY2UuZ2V0U2VyaWFsTnVtYmVyKCksIGRldmljZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJvcmcuamV0YnJhaW5zLmtvdGxpbng6a290bGlueC1jb3JvdXRpbmVzLWd1YXZhOiRrb3RsaW5fY29yb3V0aW5lc192ZXJzaW9uIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICB1cGRhdGUgCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbGkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVE9ETygpCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVwbGFjZUZyYWdtZW50KG5ldyBCbGVEZXZpY2VTZWxlY3RvckZyYWdtZW50KCksIFIuaWQuZnJhZ21lbnRfY29udGFpbmVyLCBudWxsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmdXR1cmVSZXNwb25zZS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgVE9ETygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmdXR1cmVSZXNwb25zZS5hZGRDYWxsYmFjayhvYmplY3QgOiBGdXR1cmVDYWxsYmFjazxMZWFwUmVxdWVzdFJlc3BvbnNlTW9kZWw+IHsKICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uU3VjY2VzcyhyZXN1bHQ6IExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD8pIHsKICAgICAgICAgICAgICAgIGNvbnQucmVzdW1lKHJlc3VsdCkKICAgICAgICAgICAgfQoKICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uRmFpbHVyZSh0OiBUaHJvd2FibGUpIHsKICAgICAgICAgICAgICAgIGNvbnQucmVzdW1lV2l0aEV4Y2VwdGlvbih0KQogICAgICAgICAgICB9CiAgICAgICAgfSwgbUV4ZWN1dG9yKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnV0dXJlUmVzcG9uc2UuYXdhaXQoKQo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgdGVzdFVVSUQgPSBVVUlEKDB4REVBRCwgMHhCRUVGKQogICAgICAgIHZhbCBjYWxsYmFjazogQ2xhaW1EZXZpY2VDb21tYW5kLkNsYWltRGV2aWNlQ29tbWFuZENhbGxiYWNrID0gbW9ja2socmVsYXhlZCA9IHRydWUpCiAgICAgICAgdmFsIGNvbW1hbmQgPSBDbGFpbURldmljZUNvbW1hbmQoCiAgICAgICAgICAgIHRlc3RVVUlELCAiYm9ndXNLZXkiLCAwLCAiYm9ndVhQYW5JZCIsCiAgICAgICAgICAgICJhTmV0d29ya05hbWUiLCAwLCByb290Q2VydCwgY2FsbGJhY2sKICAgICAgICApCgogICAgICAgIC8vIFZhbGlkIHJlc3BvbnNlcyBmb3IgZWFjaCBjaGFyYWN0ZXJpc3RpYyBleGNlcHQgb25lCiAgICAgICAgZXZlcnkgeyBtb2NrQ29ubmVjdGlvbi53cml0ZUNoYXJhY3RlcmlzdGljKENsYWltRGV2aWNlQ29tbWFuZC5DTEFJTUVSX0dVSUQsIGFueSgpKSB9IHJldHVybnMgU2luZ2xlLmVycm9yKAogICAgICAgICAgICBFeGNlcHRpb24oKQogICAgICAgICkKCiAgICAgICAgY29tbWFuZC5leGVjdXRlKG1vY2tEZXZpY2UpCiAgICAgICAgdmVyaWZ5IHsKICAgICAgICAgICAgY2FsbGJhY2sub25DbGFpbURldmljZUNvbW1hbmRSZXN1bHQoCiAgICAgICAgICAgICAgICBMdXRCbGVDb21tYW5kLkNvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFLAogICAgICAgICAgICAgICAgbnVsbAogICAgICAgICAgICApCiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZnV0dXJlUmVzcG9uc2UgPSBtUmVnaXN0cnkucmVnaXN0ZXJGb3JSZXN1bHQocmVxdWVzdElEKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGRlZiA9IGFzeW5jIHsKICAgICAgICAgICAgICAgIGRlbGF5KDEwMCkKICAgICAgICAgICAgICAgIDEwMAogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJrb3RsaW54LWNvcm91dGluZXMtZ3VhdmE6MS4zLjMtbmF0aXZlLW10Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9TVUNDRVNTOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGZ1dCA9IGdldENvbUZ1dCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBmdXR1cmVSZXNwb25zZS5hd2FpdCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnV0LmF3YWl0KCkK</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJvcmcuamV0YnJhaW5zLmtvdGxpbng6a290bGlueC1jb3JvdXRpbmVzLWd1YXZhOiRrb3RsaW5fY29yb3V0aW5lc192ZXJzaW9uIgo=</text>
       </register>
       <register name=":" type="4">
         <text>s/FORM_FACTOR/DEVICE_CLASS/g</text>
