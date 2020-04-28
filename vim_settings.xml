@@ -166,14 +166,19 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/MyApplication/app/build.gradle" timestamp="1588101398819">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="38" column="83" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Personal/DJApp/app/build.gradle" timestamp="1588083264967">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1588011366377">
-        <mark key="[" line="275" column="0" />
-        <mark key="]" line="275" column="94" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1588101394954">
+        <mark key="[" line="302" column="0" />
+        <mark key="]" line="304" column="83" />
         <mark key="." line="275" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/MyApplication/build.gradle" timestamp="1588101221373">
@@ -318,7 +323,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1hdmVuIHsKLy8gICAgICAgICAgICB1cmwgImh0dHBzOi8vbWZyaWVuZHRlc3QuamZyb2cuaW8vYXJ0aWZhY3RvcnkvbGlicy1yZWxlYXNlIgovLyAgICAgICAgICAgIGNyZWRlbnRpYWxzIHsKLy8gICAgICAgICAgICAgICAgdXNlcm5hbWUgPSAiYWRtaW4iCi8vICAgICAgICAgICAgICAgIHBhc3N3b3JkID0gImomM3FDSEdYM3FxbCIKLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBwb3dlck1vY2tpdG9WZXJzaW9uID0gJzIuMC4wJwogICAgLy9HZXQgUG93ZXJNb2NrIGFuZCBSb2JvbGVjdHJpYyB0byBiZSBmcmllbmRzOiBodHRwczovL2dpdGh1Yi5jb20vcm9ib2xlY3RyaWMvcm9ib2xlY3RyaWMvd2lraS9Vc2luZy1Qb3dlck1vY2sKICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAib3JnLnBvd2VybW9jazpwb3dlcm1vY2stbW9kdWxlLWp1bml0NDokcG93ZXJNb2NraXRvVmVyc2lvbiIK</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFOwo=</text>
@@ -339,7 +344,7 @@
         <text>FORM_FACTOR</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1hdmVuIHsKLy8gICAgICAgICAgICB1cmwgImh0dHBzOi8vbWZyaWVuZHRlc3QuamZyb2cuaW8vYXJ0aWZhY3RvcnkvbGlicy1yZWxlYXNlIgovLyAgICAgICAgICAgIGNyZWRlbnRpYWxzIHsKLy8gICAgICAgICAgICAgICAgdXNlcm5hbWUgPSAiYWRtaW4iCi8vICAgICAgICAgICAgICAgIHBhc3N3b3JkID0gImomM3FDSEdYM3FxbCIKLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBwb3dlck1vY2tpdG9WZXJzaW9uID0gJzIuMC4wJwogICAgLy9HZXQgUG93ZXJNb2NrIGFuZCBSb2JvbGVjdHJpYyB0byBiZSBmcmllbmRzOiBodHRwczovL2dpdGh1Yi5jb20vcm9ib2xlY3RyaWMvcm9ib2xlY3RyaWMvd2lraS9Vc2luZy1Qb3dlck1vY2sKICAgIHRlc3RJbXBsZW1lbnRhdGlvbiAib3JnLnBvd2VybW9jazpwb3dlcm1vY2stbW9kdWxlLWp1bml0NDokcG93ZXJNb2NraXRvVmVyc2lvbiIK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtRm91bmREZXZpY2VzLnB1dChkZXZpY2UuZ2V0U2VyaWFsTnVtYmVyKCksIGRldmljZSk7Cg==</text>
