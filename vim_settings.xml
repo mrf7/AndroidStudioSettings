@@ -144,18 +144,22 @@
         <mark key="]" line="240" column="12" />
         <mark key="." line="240" column="12" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-core-data/0.10.4/50441bcf2b67ea3a1b7dfa00e21c02e0b5e83ff1/arrow-core-data-0.10.4-sources.jar!/arrow/core/Either.kt" timestamp="1587925889243">
-        <mark key="'" line="868" column="53" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/AssociatedResourceReadCallable.kt" timestamp="1588011361163" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/request/handler/ZoneRequestResponseHandler.java" timestamp="1587841964933">
-        <mark key="'" line="26" column="11" />
+      <file name="$USER_HOME$/Documents/Sample/ArtifactoryExample/AwesomeApplication/app/build.gradle" timestamp="1588084823139">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/ActivationFileDecryptionCallable.kt" timestamp="1588001382384">
         <mark key="[" line="78" column="44" />
         <mark key="]" line="78" column="45" />
         <mark key="^" line="78" column="45" />
         <mark key="." line="78" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/Sample/ArtifactoryExample/AwesomeApplication/build.gradle" timestamp="1588084388655">
+        <mark key="[" line="17" column="28" />
+        <mark key="]" line="17" column="28" />
+        <mark key="." line="17" column="28" />
       </file>
       <file name="/Dummy.txt" timestamp="1588083402847">
         <mark key="[" line="0" column="0" />
@@ -298,8 +302,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlcG9zaXRvcmllcyB7CiAgICAgICAgZ29vZ2xlKCkKICAgICAgICBqY2VudGVyKCkKICAgICAgICBtYXZlbiB7IHVybCAiaHR0cHM6Ly9kbC5iaW50cmF5LmNvbS9hcnJvdy1rdC9hcnJvdy1rdC8iIH0KICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>localhost</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFOwo=</text>
@@ -311,7 +315,7 @@
         <text>rxBleScanResult.bleDevice.name == &quot;Ketra&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>${artifactory_password}</text>
+        <text>localhost</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
