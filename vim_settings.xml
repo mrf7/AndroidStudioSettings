@@ -174,10 +174,10 @@
         <mark key="]" line="275" column="94" />
         <mark key="." line="275" column="0" />
       </file>
-      <file name="$USER_HOME$/Downloads/MyApplication/build.gradle" timestamp="1588100363390">
-        <mark key="[" line="34" column="57" />
-        <mark key="]" line="34" column="131" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/Downloads/MyApplication/build.gradle" timestamp="1588100919565">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Sample/ArtifactoryExample/AwesomeApplication/gradle/wrapper/gradle-wrapper.properties" timestamp="1588085134066">
         <mark key="[" line="5" column="66" />
@@ -316,7 +316,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHRVcmwgPSAnbWZyaWVuZHRlc3QuamZyb2cuaW8vYXJ0aWZhY3RvcnknICAgLy9UaGUgYmFzZSBBcnRpZmFjdG9yeSBVUkwgaWYgbm90IG92ZXJyaWRkZW4gYnkgdGhlIHB1Ymxpc2hlci9yZXNvbHZlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFdXRnB1YmxpY2F0aW8K</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFOwo=</text>
@@ -328,7 +328,7 @@
         <text>rxBleScanResult.bleDevice.name == &quot;Ketra&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>${artifactory_contextUrl}</text>
+        <text>n</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -343,13 +343,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtRm91bmREZXZpY2VzLnB1dChkZXZpY2UuZ2V0U2VyaWFsTnVtYmVyKCksIGRldmljZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnRleHRVcmwgPSAnbWZyaWVuZHRlc3QuamZyb2cuaW8vYXJ0aWZhY3RvcnknICAgLy9UaGUgYmFzZSBBcnRpZmFjdG9yeSBVUkwgaWYgbm90IG92ZXJyaWRkZW4gYnkgdGhlIHB1Ymxpc2hlci9yZXNvbHZlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFdXRnB1YmxpY2F0aW8K</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnRleHRVcmwgPSAnbWZyaWVuZHRlc3QuamZyb2cuaW8vYXJ0aWZhY3RvcnknICAgLy9UaGUgYmFzZSBBcnRpZmFjdG9yeSBVUkwgaWYgbm90IG92ZXJyaWRkZW4gYnkgdGhlIHB1Ymxpc2hlci9yZXNvbHZlcgo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVwbGFjZUZyYWdtZW50KG5ldyBCbGVEZXZpY2VTZWxlY3RvckZyYWdtZW50KCksIFIuaWQuZnJhZ21lbnRfY29udGFpbmVyLCBudWxsKTsK</text>
@@ -358,28 +358,28 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgdGVzdFVVSUQgPSBVVUlEKDB4REVBRCwgMHhCRUVGKQogICAgICAgIHZhbCBjYWxsYmFjazogQ2xhaW1EZXZpY2VDb21tYW5kLkNsYWltRGV2aWNlQ29tbWFuZENhbGxiYWNrID0gbW9ja2socmVsYXhlZCA9IHRydWUpCiAgICAgICAgdmFsIGNvbW1hbmQgPSBDbGFpbURldmljZUNvbW1hbmQoCiAgICAgICAgICAgIHRlc3RVVUlELCAiYm9ndXNLZXkiLCAwLCAiYm9ndVhQYW5JZCIsCiAgICAgICAgICAgICJhTmV0d29ya05hbWUiLCAwLCByb290Q2VydCwgY2FsbGJhY2sKICAgICAgICApCgogICAgICAgIC8vIFZhbGlkIHJlc3BvbnNlcyBmb3IgZWFjaCBjaGFyYWN0ZXJpc3RpYyBleGNlcHQgb25lCiAgICAgICAgZXZlcnkgeyBtb2NrQ29ubmVjdGlvbi53cml0ZUNoYXJhY3RlcmlzdGljKENsYWltRGV2aWNlQ29tbWFuZC5DTEFJTUVSX0dVSUQsIGFueSgpKSB9IHJldHVybnMgU2luZ2xlLmVycm9yKAogICAgICAgICAgICBFeGNlcHRpb24oKQogICAgICAgICkKCiAgICAgICAgY29tbWFuZC5leGVjdXRlKG1vY2tEZXZpY2UpCiAgICAgICAgdmVyaWZ5IHsKICAgICAgICAgICAgY2FsbGJhY2sub25DbGFpbURldmljZUNvbW1hbmRSZXN1bHQoCiAgICAgICAgICAgICAgICBMdXRCbGVDb21tYW5kLkNvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFLAogICAgICAgICAgICAgICAgbnVsbAogICAgICAgICAgICApCiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">YnVpbGRzY3JpcHQgewogICAgcmVwb3NpdG9yaWVzIHsKICAgICAgICBqY2VudGVyKCkKCiAgICB9CiAgICBkZXBlbmRlbmNpZXMgewogICAgICAgIC8vQ2hlY2sgZm9yIHRoZSBsYXRlc3QgdmVyc2lvbiBoZXJlOiBodHRwOi8vcGx1Z2lucy5ncmFkbGUub3JnL3BsdWdpbi9jb20uamZyb2cuYXJ0aWZhY3RvcnkKICAgIH0KfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggIm9yZy5qZnJvZy5idWlsZGluZm86YnVpbGQtaW5mby1leHRyYWN0b3ItZ3JhZGxlOjQrIgo=</text>
+        <text encoding="base64">YnVpbGRzY3JpcHQgewogICAgcmVwb3NpdG9yaWVzIHsKICAgICAgICBqY2VudGVyKCkKCiAgICB9CiAgICBkZXBlbmRlbmNpZXMgewogICAgICAgIC8vQ2hlY2sgZm9yIHRoZSBsYXRlc3QgdmVyc2lvbiBoZXJlOiBodHRwOi8vcGx1Z2lucy5ncmFkbGUub3JnL3BsdWdpbi9jb20uamZyb2cuYXJ0aWZhY3RvcnkKICAgIH0KfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlcm5hbWUgPSAiJHthcnRpZmFjdG9yeV91c2VyfSIKICAgICAgICAgICAgcGFzc3dvcmQgPSAiJHthcnRpZmFjdG9yeV9wYXNzd29yZH0iCg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggIm9yZy5qZnJvZy5idWlsZGluZm86YnVpbGQtaW5mby1leHRyYWN0b3ItZ3JhZGxlOjQrIgo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9TVUNDRVNTOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcm5hbWUgPSAiJHthcnRpZmFjdG9yeV91c2VyfSIKICAgICAgICAgICAgcGFzc3dvcmQgPSAiJHthcnRpZmFjdG9yeV9wYXNzd29yZH0iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnbWF2ZW4tcHVibGlzaCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/FORM_FACTOR/DEVICE_CLASS/g</text>
