@@ -141,18 +141,9 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-core-data/0.10.4/50441bcf2b67ea3a1b7dfa00e21c02e0b5e83ff1/arrow-core-data-0.10.4-sources.jar!/arrow/core/Either.kt" timestamp="1587925889243">
         <mark key="'" line="868" column="53" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/25.0-android/3f2c31a51cb9744f6639a420253d267c5a885855/guava-25.0-android-sources.jar!/com/google/common/util/concurrent/SettableFuture.java" timestamp="1587744241976">
-        <mark key="[" line="41" column="35" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/AssociatedResourceReadCallable.kt" timestamp="1588011361163" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/request/handler/ZoneRequestResponseHandler.java" timestamp="1587841964933">
         <mark key="'" line="26" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/FutureResultRegistry.java" timestamp="1587744336047">
-        <mark key="[" line="4" column="8" />
-        <mark key="]" line="4" column="17" />
-        <mark key="^" line="4" column="17" />
-        <mark key="." line="4" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/ActivationFileDecryptionCallable.kt" timestamp="1588001382384">
         <mark key="[" line="78" column="44" />
@@ -160,15 +151,17 @@
         <mark key="^" line="78" column="45" />
         <mark key="." line="78" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/reviewrequests/ReviewRequestsViewModel.kt" timestamp="1587931758945">
-        <mark key="[" line="28" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1588011741949">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/build.gradle" timestamp="1588081143702" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/build.gradle" timestamp="1588082685191">
+        <mark key="[" line="146" column="0" />
+        <mark key="]" line="147" column="37" />
+        <mark key="." line="146" column="0" />
+        <mark key="^" line="133" column="24" />
+      </file>
       <file name="/fragment.kt" timestamp="1588011683239">
         <mark key="[" line="0" column="0" />
       </file>
@@ -176,12 +169,6 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/SettableFutureResultRegistry.java" timestamp="1587744261453">
-        <mark key="[" line="4" column="79" />
-        <mark key="]" line="4" column="16" />
-        <mark key="." line="4" column="16" />
-        <mark key="^" line="4" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1588011366377">
         <mark key="[" line="275" column="0" />
@@ -302,8 +289,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcm5hbWUgPSAiJHthcnRpZmFjdG9yeV91c2VyfSIKICAgICAgICAgICAgcGFzc3dvcmQgPSAiJHthcnRpZmFjdG9yeV9wYXNzd29yZH0iCg==</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFOwo=</text>
@@ -315,7 +302,7 @@
         <text>rxBleScanResult.bleDevice.name == &quot;Ketra&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>${artifactory_password}</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -324,49 +311,87 @@
         <text>FORM_FACTOR</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHVwZGF0ZWRPckluc2VydGVkRE9zID0gUmVzcG9uc2VQcm9jZXNzb3IucHJvY2Vzcyhjb250ZXh0LCByZXNwb25zZU1vZGVsKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcm5hbWUgPSAiYWRtaW4iCiAgICAgICAgICAgIHBhc3N3b3JkID0gIjF2M1gxYyNNQHVeciIK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtRm91bmREZXZpY2VzLnB1dChkZXZpY2UuZ2V0U2VyaWFsTnVtYmVyKCksIGRldmljZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICB1cGRhdGUgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcm5hbWUgPSAiJHthcnRpZmFjdG9yeV91c2VyfSIKICAgICAgICAgICAgcGFzc3dvcmQgPSAiJHthcnRpZmFjdG9yeV9wYXNzd29yZH0iCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVE9ETygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVwbGFjZUZyYWdtZW50KG5ldyBCbGVEZXZpY2VTZWxlY3RvckZyYWdtZW50KCksIFIuaWQuZnJhZ21lbnRfY29udGFpbmVyLCBudWxsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVE9ETygpCg==</text>
+        <text encoding="base64">CmJ1aWxkc2NyaXB0IHsKICAgIHJlcG9zaXRvcmllcyB7CiAgICAgICAgamNlbnRlcigpCgogICAgfQp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnV0dXJlUmVzcG9uc2UuYXdhaXQoKQo=</text>
+        <text encoding="base64">ICAgIGRlcGVuZGVuY2llcyB7CiAgICAgICAgLy9DaGVjayBmb3IgdGhlIGxhdGVzdCB2ZXJzaW9uIGhlcmU6IGh0dHA6Ly9wbHVnaW5zLmdyYWRsZS5vcmcvcGx1Z2luL2NvbS5qZnJvZy5hcnRpZmFjdG9yeQogICAgfQo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgdGVzdFVVSUQgPSBVVUlEKDB4REVBRCwgMHhCRUVGKQogICAgICAgIHZhbCBjYWxsYmFjazogQ2xhaW1EZXZpY2VDb21tYW5kLkNsYWltRGV2aWNlQ29tbWFuZENhbGxiYWNrID0gbW9ja2socmVsYXhlZCA9IHRydWUpCiAgICAgICAgdmFsIGNvbW1hbmQgPSBDbGFpbURldmljZUNvbW1hbmQoCiAgICAgICAgICAgIHRlc3RVVUlELCAiYm9ndXNLZXkiLCAwLCAiYm9ndVhQYW5JZCIsCiAgICAgICAgICAgICJhTmV0d29ya05hbWUiLCAwLCByb290Q2VydCwgY2FsbGJhY2sKICAgICAgICApCgogICAgICAgIC8vIFZhbGlkIHJlc3BvbnNlcyBmb3IgZWFjaCBjaGFyYWN0ZXJpc3RpYyBleGNlcHQgb25lCiAgICAgICAgZXZlcnkgeyBtb2NrQ29ubmVjdGlvbi53cml0ZUNoYXJhY3RlcmlzdGljKENsYWltRGV2aWNlQ29tbWFuZC5DTEFJTUVSX0dVSUQsIGFueSgpKSB9IHJldHVybnMgU2luZ2xlLmVycm9yKAogICAgICAgICAgICBFeGNlcHRpb24oKQogICAgICAgICkKCiAgICAgICAgY29tbWFuZC5leGVjdXRlKG1vY2tEZXZpY2UpCiAgICAgICAgdmVyaWZ5IHsKICAgICAgICAgICAgY2FsbGJhY2sub25DbGFpbURldmljZUNvbW1hbmRSZXN1bHQoCiAgICAgICAgICAgICAgICBMdXRCbGVDb21tYW5kLkNvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFLAogICAgICAgICAgICAgICAgbnVsbAogICAgICAgICAgICApCiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZnV0dXJlUmVzcG9uc2UgPSBtUmVnaXN0cnkucmVnaXN0ZXJGb3JSZXN1bHQocmVxdWVzdElEKQo=</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ29yZy5qZnJvZy5idWlsZGluZm86YnVpbGQtaW5mby1leHRyYWN0b3ItZ3JhZGxlOjQuNS40Jwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggIm9yZy5qZnJvZy5idWlsZGluZm86YnVpbGQtaW5mby1leHRyYWN0b3ItZ3JhZGxlOjQrIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>project('app') {
+    artifactoryPublish.dependsOn('build')
+    publishing {
+        publications {
+            app(MavenPublication) {
+                groupId = group
+                artifactId = project.getName()
+                version = versionName
+
+                artifact(&quot;$buildDir/outputs/apk/release/app-release-unsigned.apk&quot;)
+            }
+        }
+    }
+
+    artifactoryPublish {
+        publications(publishing.publications.app)
+    }
+}
+
+artifactory {
+
+    contextUrl = 'http://mfriendtest.jfrog.io/artifactory'
+    publish {
+        repository {
+            repoKey = 'libs-snapshot-local' // The Artifactory repository key to publish to
+            username = &quot;admin&quot; // The publisher user name
+            password = &quot;1v3X1c#M@u^r&quot; // The publisher password
+        }
+        defaults {
+            // Reference to Gradle publications defined in the build script.
+            // This is how we tell the Artifactory Plugin which artifacts should be
+            // published to Artifactory.
+            publishArtifacts = true
+            // Properties to be attached to the published artifacts.
+            properties = ['qa.level': 'basic', 'dev.team' : 'core']
+            publishPom = true // Publish generated POM files to Artifactory (true by default)
+        }
+    }
+}</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9TVUNDRVNTOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmdXR1cmVSZXNwb25zZS5hd2FpdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICB1cGRhdGUgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJvcmcuamV0YnJhaW5zLmtvdGxpbng6a290bGlueC1jb3JvdXRpbmVzLWd1YXZhOiRrb3RsaW5fY29yb3V0aW5lc192ZXJzaW9uIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgVE9ETygpCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/FORM_FACTOR/DEVICE_CLASS/g</text>
