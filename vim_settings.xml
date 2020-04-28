@@ -139,32 +139,15 @@
         <mark key="^" line="13" column="74" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManagerKot.kt" timestamp="1588011720266">
-        <mark key="[" line="240" column="12" />
-        <mark key="]" line="240" column="12" />
-        <mark key="." line="240" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/AssociatedResourceReadCallable.kt" timestamp="1588011361163" />
-      <file name="$USER_HOME$/Documents/Sample/ArtifactoryExample/AwesomeApplication/app/build.gradle" timestamp="1588084823139">
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="9" column="27" />
-        <mark key="." line="9" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/ActivationFileDecryptionCallable.kt" timestamp="1588001382384">
-        <mark key="[" line="78" column="44" />
-        <mark key="]" line="78" column="45" />
-        <mark key="^" line="78" column="45" />
-        <mark key="." line="78" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/Sample/ArtifactoryExample/AwesomeApplication/build.gradle" timestamp="1588084388655">
-        <mark key="[" line="17" column="28" />
-        <mark key="]" line="17" column="28" />
-        <mark key="." line="17" column="28" />
-      </file>
       <file name="/Dummy.txt" timestamp="1588083402847">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManagerKot.kt" timestamp="1588011720266">
+        <mark key="[" line="240" column="12" />
+        <mark key="]" line="240" column="12" />
+        <mark key="." line="240" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/build.gradle" timestamp="1588083028760">
         <mark key="[" line="17" column="0" />
@@ -188,10 +171,32 @@
         <mark key="]" line="275" column="94" />
         <mark key="." line="275" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Sample/ArtifactoryExample/AwesomeApplication/gradle/wrapper/gradle-wrapper.properties" timestamp="1588085134066">
+        <mark key="[" line="5" column="66" />
+        <mark key="]" line="5" column="71" />
+        <mark key="." line="5" column="70" />
+        <mark key="^" line="5" column="71" />
+      </file>
       <file name="$USER_HOME$/Documents/doubles/caseta-android-app/app/build.gradle" timestamp="1588011355024">
         <mark key="[" line="278" column="0" />
         <mark key="]" line="278" column="0" />
         <mark key="." line="278" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Sample/ArtifactoryExample/AwesomeApplication/app/build.gradle" timestamp="1588084903064">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="24" />
+        <mark key="." line="3" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/ActivationFileDecryptionCallable.kt" timestamp="1588001382384">
+        <mark key="[" line="78" column="44" />
+        <mark key="]" line="78" column="45" />
+        <mark key="^" line="78" column="45" />
+        <mark key="." line="78" column="44" />
+      </file>
+      <file name="$USER_HOME$/Documents/Sample/ArtifactoryExample/AwesomeApplication/build.gradle" timestamp="1588084388655">
+        <mark key="[" line="17" column="28" />
+        <mark key="]" line="17" column="28" />
+        <mark key="." line="17" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -303,7 +308,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>localhost</text>
+        <text>2</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFOwo=</text>
@@ -315,7 +320,7 @@
         <text>rxBleScanResult.bleDevice.name == &quot;Ketra&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>2</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
