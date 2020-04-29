@@ -177,7 +177,7 @@
         <mark key="." line="9" column="20" />
         <mark key="^" line="9" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1588101394954">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1588188937335">
         <mark key="[" line="302" column="0" />
         <mark key="]" line="304" column="83" />
         <mark key="." line="275" column="0" />
@@ -193,6 +193,7 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/roomDb/build.gradle" timestamp="1588188720571" />
       <file name="$USER_HOME$/Documents/Sample/ArtifactoryExample/AwesomeApplication/gradle/wrapper/gradle-wrapper.properties" timestamp="1588085134066">
         <mark key="[" line="5" column="66" />
         <mark key="]" line="5" column="71" />
