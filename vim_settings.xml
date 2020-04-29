@@ -161,11 +161,6 @@
       <file name="/fragment.kt" timestamp="1588011683239">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/timeScratchSpace/TimeSpanExtractorApplier.kt" timestamp="1588000855400">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
       <file name="$USER_HOME$/Downloads/MyApplication/app/build.gradle" timestamp="1588101398819">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="38" column="83" />
@@ -214,7 +209,7 @@
         <mark key="]" line="3" column="24" />
         <mark key="." line="3" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1588181299833" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1588188307989" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/ActivationFileDecryptionCallable.kt" timestamp="1588170822063">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="19" />
