@@ -136,18 +136,22 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.10.1/ebb50922deb157028c54ff84bc9702804ae72545/jackson-databind-2.10.1-sources.jar!/com/fasterxml/jackson/databind/node/ObjectNode.java" timestamp="1588251131376">
         <mark key="'" line="384" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/detekt.gradle" timestamp="1588341037547" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/detekt.gradle" timestamp="1588344477378">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/build.gradle.kts" timestamp="1588344439228" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/vigiles.gradle.kts" timestamp="1588345478835">
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="29" column="20" />
+        <mark key="." line="29" column="20" />
+        <mark key="^" line="29" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/Utils/build.gradle" timestamp="1588252015561">
         <mark key="[" line="32" column="20" />
         <mark key="]" line="32" column="20" />
         <mark key="." line="32" column="20" />
         <mark key="^" line="31" column="67" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/DependencyParser.kts" timestamp="1588171384590">
-        <mark key="[" line="9" column="27" />
-        <mark key="]" line="9" column="21" />
-        <mark key="." line="9" column="20" />
-        <mark key="^" line="9" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/DependencyParser.kt" timestamp="1588171884416">
         <mark key="[" line="10" column="0" />
@@ -155,48 +159,38 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/vigiles.gradle" timestamp="1588344402573">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/layout/test.xml" timestamp="1588193076930">
         <mark key="[" line="4" column="4" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/buildSrc/build/build.gradle.kts" timestamp="1588343311517">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/ActivationFileDecryptionCallable.kt" timestamp="1588170822063">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="19" />
-        <mark key="^" line="17" column="19" />
-        <mark key="." line="17" column="18" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/buildSrc/build/build.gradle.kts" timestamp="1588344191692">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="16" column="12" />
+        <mark key="." line="16" column="167" />
+        <mark key="^" line="16" column="12" />
       </file>
       <file name="/Dummy.txt" timestamp="1588193041053">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/build.gradle" timestamp="1588343600623">
-        <mark key="[" line="46" column="19" />
-        <mark key="]" line="46" column="19" />
-        <mark key="^" line="142" column="23" />
-        <mark key="." line="46" column="19" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MyApplication/app/build.gradle" timestamp="1588101398819">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="38" column="83" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/build.gradle" timestamp="1588344790464">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="27" column="20" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/buildSrc/main/java/VigilesDependencyTask.kts" timestamp="1588342973833">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1588188937335">
-        <mark key="[" line="302" column="0" />
-        <mark key="]" line="304" column="83" />
-        <mark key="." line="275" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/MyApplication/build.gradle" timestamp="1588101221373">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1588344845468">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/responsecreator/LinkResponseCreator.kt" timestamp="1588252019891">
         <mark key="[" line="51" column="48" />
@@ -211,6 +205,10 @@
         <mark key="." line="3" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/roomDb/build.gradle" timestamp="1588188720571" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/buildSrc/main/java/lutron/mmw/DependencyVigilesTask.kts" timestamp="1588344090304">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="36" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1588188307989" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/buildSrc/main/java/DependencyVigilesTask.kts" timestamp="1588343088872">
         <mark key="[" line="2" column="0" />
@@ -331,7 +329,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFOwo=</text>
@@ -343,7 +341,7 @@
         <text>rxBleScanResult.bleDevice.name == &quot;Ketra&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -352,49 +350,49 @@
         <text>FORM_FACTOR</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnVuIGRlcGVuZFRvQ3N2SXRlbShkZXBlbmQ6IFN0cmluZyk6IFN0cmluZz8gewogICAgdmFsIChkZXBlbmRlbmN5LCB2ZXJzaW9uKSA9IGRlcGVuZFZlcnNpb25SZWdleC5maW5kKGRlcGVuZCk/Lmdyb3VwVmFsdWVzPy5kcm9wKDEpID86IHJ1biB7CiAgICAgICAgcHJpbnRsbigiY291bGRudCBwYXJzZSAkZGVwZW5kIikKICAgICAgICByZXR1cm4gbnVsbAogICAgfQogICAgcmV0dXJuICIkZGVwZW5kZW5jeSwkdmVyc2lvbiIKfQo=</text>
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnaW8uZ2l0bGFiLmFydHVyYm9zY2guZGV0ZWt0Jwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtRm91bmREZXZpY2VzLnB1dChkZXZpY2UuZ2V0U2VyaWFsTnVtYmVyKCksIGRldmljZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnVuIGRlcGVuZFRvQ3N2SXRlbShkZXBlbmQ6IFN0cmluZyk6IFN0cmluZz8gewogICAgdmFsIChkZXBlbmRlbmN5LCB2ZXJzaW9uKSA9IGRlcGVuZFZlcnNpb25SZWdleC5maW5kKGRlcGVuZCk/Lmdyb3VwVmFsdWVzPy5kcm9wKDEpID86IHJ1biB7CiAgICAgICAgcHJpbnRsbigiY291bGRudCBwYXJzZSAkZGVwZW5kIikKICAgICAgICByZXR1cm4gbnVsbAogICAgfQogICAgcmV0dXJuICIkZGVwZW5kZW5jeSwkdmVyc2lvbiIKfQo=</text>
+        <text encoding="base64">ICAgICAgICBkZXBlbmRlbmNpZXMuZGVsZXRlKCkK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCJNUkYgJG91dHB1dEZpbGUiKQo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVwbGFjZUZyYWdtZW50KG5ldyBCbGVEZXZpY2VTZWxlY3RvckZyYWdtZW50KCksIFIuaWQuZnJhZ21lbnRfY29udGFpbmVyLCBudWxsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFsIGRlcGVuZFZlcnNpb25SZWdleCA9ICIiIjooLiopOigoPzpcZCtcLikoPzpcZCtcLj8pKyg/Oi1bXHdcZF0rKSopQChhYXJ8amFyKSIiIi50b1JlZ2V4KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFsIG91dHNpZGVEZXBlbmRSZWdleCA9ICJbK1xcXFxdLS0tIChbXjpdLiopIi50b1JlZ2V4KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgdGVzdFVVSUQgPSBVVUlEKDB4REVBRCwgMHhCRUVGKQogICAgICAgIHZhbCBjYWxsYmFjazogQ2xhaW1EZXZpY2VDb21tYW5kLkNsYWltRGV2aWNlQ29tbWFuZENhbGxiYWNrID0gbW9ja2socmVsYXhlZCA9IHRydWUpCiAgICAgICAgdmFsIGNvbW1hbmQgPSBDbGFpbURldmljZUNvbW1hbmQoCiAgICAgICAgICAgIHRlc3RVVUlELCAiYm9ndXNLZXkiLCAwLCAiYm9ndVhQYW5JZCIsCiAgICAgICAgICAgICJhTmV0d29ya05hbWUiLCAwLCByb290Q2VydCwgY2FsbGJhY2sKICAgICAgICApCgogICAgICAgIC8vIFZhbGlkIHJlc3BvbnNlcyBmb3IgZWFjaCBjaGFyYWN0ZXJpc3RpYyBleGNlcHQgb25lCiAgICAgICAgZXZlcnkgeyBtb2NrQ29ubmVjdGlvbi53cml0ZUNoYXJhY3RlcmlzdGljKENsYWltRGV2aWNlQ29tbWFuZC5DTEFJTUVSX0dVSUQsIGFueSgpKSB9IHJldHVybnMgU2luZ2xlLmVycm9yKAogICAgICAgICAgICBFeGNlcHRpb24oKQogICAgICAgICkKCiAgICAgICAgY29tbWFuZC5leGVjdXRlKG1vY2tEZXZpY2UpCiAgICAgICAgdmVyaWZ5IHsKICAgICAgICAgICAgY2FsbGJhY2sub25DbGFpbURldmljZUNvbW1hbmRSZXN1bHQoCiAgICAgICAgICAgICAgICBMdXRCbGVDb21tYW5kLkNvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFLAogICAgICAgICAgICAgICAgbnVsbAogICAgICAgICAgICApCiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuIHByaW50U29ydGVkVW5pcXVlKGZpbGU6IEZpbGUpIHsKICAgIHZhbCBsaW5lcyA9IGZpbGUucmVhZExpbmVzKCkuYXNTZXF1ZW5jZSgpCgogICAgRmlsZSgic29ydGVkVW5pcXVlRGVwZW5kb3MuY3N2Iikud3JpdGVyKCkudXNlIHtvdXRGaWxlIC0+CiAgICAgICAgb3V0RmlsZS53cml0ZSgicGFja2FnZSx2ZXJzaW9uXG4iKQogICAgICAgIGxpbmVzCiAgICAgICAgICAgIC5hc1NlcXVlbmNlKCkKICAgICAgICAgICAgLm1hcE5vdE51bGwgeyBvdXRzaWRlRGVwZW5kUmVnZXguZmluZChpdCk/Lmdyb3VwVmFsdWVzPy5jb21wb25lbnQyKCkgfQogICAgICAgICAgICAuZGlzdGluY3QoKQogICAgICAgICAgICAuc29ydGVkKCkKICAgICAgICAgICAgLm1hcE5vdE51bGwgewogICAgICAgICAgICAgICAgZGVwZW5kVG9Dc3ZJdGVtKGl0ICsgIlxuIikKICAgICAgICAgICAgfS5mb3JFYWNoIHsKICAgICAgICAgICAgICAgIG91dEZpbGUud3JpdGUoIiRpdFxuIikKICAgICAgICAgICAgfQogICAgfQp9Cg==</text>
+        <text encoding="base64">Ly9hcHBseSgia290bGluLWRzbCIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PCEtLSAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBkcmF3YWJsZS9pcGhvbmVfMTFfcCItLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KGlucHV0U3RyZWFtKQo=</text>
+        <text encoding="base64">ICAgIGFwcGx5IGZyb206ICIkcm9vdERpci92aWdpbGVzLmdyYWRsZS5rdHMiCg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9TVUNDRVNTOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAibmFoIgo=</text>
+        <text encoding="base64">cGx1Z2lucyB7CiAgICBga290bGluLWRzbGAKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBTdXByZXNzKCkK</text>
       </register>
       <register name=":" type="4">
         <text>s/FORM_FACTOR/DEVICE_CLASS/g</text>
