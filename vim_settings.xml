@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>mockk</entry>
         <entry>diagnostic</entry>
         <entry>Left</entry>
         <entry>next</entry>
@@ -27,9 +26,9 @@
         <entry>.</entry>
         <entry>INCREASE</entry>
         <entry>FORM_FACTOR</entry>
+        <entry>vigilesReportDirectory</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3N3aXRjaGVkL3NoYWRlV2l0aFRpbHQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3N3aXRjaGVkL3NoYWRlL2c=</entry>
         <entry>s/diagnostic/claiming</entry>
         <entry>s/Left/Right/g</entry>
@@ -49,6 +48,7 @@
         <entry encoding="base64">JzwsJz5zL0lOQ1JFQVNFL0RFQ1JFQVNFL2c=</entry>
         <entry>s/FORM_FACTOR/DEVICE_CLASS/g</entry>
         <entry>wq</entry>
+        <entry>s/vigilesReportDirectory/otherDir/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -140,34 +140,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/build.gradle.kts" timestamp="1588344439228" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/vigiles.gradle.kts" timestamp="1588355489482">
-        <mark key="'" line="49" column="41" />
-        <mark key="[" line="11" column="33" />
-        <mark key="]" line="62" column="22" />
-        <mark key="." line="62" column="21" />
-        <mark key="^" line="62" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/Utils/build.gradle" timestamp="1588252015561">
-        <mark key="[" line="32" column="20" />
-        <mark key="]" line="32" column="20" />
-        <mark key="." line="32" column="20" />
-        <mark key="^" line="31" column="67" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/vigiles.gradle" timestamp="1588344402573">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/layout/test.xml" timestamp="1588193076930">
-        <mark key="[" line="4" column="4" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/buildSrc/build/build.gradle.kts" timestamp="1588344191692">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="16" column="12" />
-        <mark key="." line="16" column="167" />
-        <mark key="^" line="16" column="12" />
-      </file>
       <file name="/Dummy.txt" timestamp="1588193041053">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -179,12 +151,24 @@
         <mark key="^" line="27" column="20" />
         <mark key="." line="49" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/vigiles.gradle.kts" timestamp="1588358246512">
+        <mark key="[" line="57" column="27" />
+        <mark key="]" line="57" column="27" />
+        <mark key="^" line="59" column="33" />
+        <mark key="." line="57" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/Utils/build.gradle" timestamp="1588252015561">
+        <mark key="[" line="32" column="20" />
+        <mark key="]" line="32" column="20" />
+        <mark key="." line="32" column="20" />
+        <mark key="^" line="31" column="67" />
+      </file>
+      <file name="$USER_HOME$/.gradle/wrapper/dists/gradle-5.4.1-bin/e75iq110yv9r9wt1a6619x2xm/gradle-5.4.1/lib/gradle-kotlin-dsl-5.4.1.jar!/org/gradle/kotlin/dsl/support/delegates/ProjectDelegate.kt" timestamp="1588357851627" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/buildSrc/main/java/VigilesDependencyTask.kts" timestamp="1588342973833">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d2e7c1f2dfec4bc5344addcdaa060228/unzipped-distribution/gradle-5.4.1/subprojects/core-api/src/main/java/org/gradle/api/artifacts/Configuration.java" timestamp="1588347687165" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1588345622753">
-        <mark key="[" line="5" column="0" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1588357160389">
+        <mark key="[" line="216" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
@@ -200,11 +184,23 @@
         <mark key="^" line="3" column="38" />
         <mark key="." line="3" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/roomDb/build.gradle" timestamp="1588188720571" />
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d2e7c1f2dfec4bc5344addcdaa060228/unzipped-distribution/gradle-5.4.1/subprojects/core-api/src/main/java/org/gradle/api/artifacts/Dependency.java" timestamp="1588348446943" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/vigiles.gradle" timestamp="1588344402573">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/layout/test.xml" timestamp="1588193076930">
+        <mark key="[" line="4" column="4" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/buildSrc/main/java/lutron/mmw/DependencyVigilesTask.kts" timestamp="1588344090304">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="36" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/buildSrc/build/build.gradle.kts" timestamp="1588344191692">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="16" column="12" />
+        <mark key="." line="16" column="167" />
+        <mark key="^" line="16" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/buildSrc/main/java/DependencyVigilesTask.kts" timestamp="1588343088872">
         <mark key="[" line="2" column="0" />
@@ -217,7 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="34" filename="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/BleAdvertiserFactory.kt" />
       <jump line="31" column="33" filename="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/BleAdvertiserFactory.kt" />
       <jump line="369" column="32" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" />
       <jump line="72" column="27" filename="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/RssiAdjustingBLEAdvertiser.kt" />
@@ -317,6 +312,7 @@
       <jump line="384" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.10.1/ebb50922deb157028c54ff84bc9702804ae72545/jackson-databind-2.10.1-sources.jar!/com/fasterxml/jackson/databind/node/ObjectNode.java" />
       <jump line="56" column="14" filename="$USER_HOME$/Documents/caseta-android-app/vigiles.gradle.kts" />
       <jump line="39" column="41" filename="$USER_HOME$/Documents/caseta-android-app/vigiles.gradle.kts" />
+      <jump line="68" column="8" filename="$USER_HOME$/Documents/caseta-android-app/vigiles.gradle.kts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -324,8 +320,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBvcmcuZ3JhZGxlLmFwaS50YXNrcy5UYXNrQWN0aW9uCg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFOwo=</text>
@@ -337,22 +333,22 @@
         <text>rxBleScanResult.bleDevice.name == &quot;Ketra&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Ta</text>
+        <text>/</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
       </register>
       <register name="/" type="4">
-        <text>FORM_FACTOR</text>
+        <text>vigilesReportDirectory</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBvcmcuZ3JhZGxlLmFwaS50YXNrcy5UYXNrQWN0aW9uCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHZhbCB2aWdpbGVzUmVwb3J0RGlyZWN0b3J5ID0gRmlsZSgiYnVpbGQvcmVwb3J0cy92aWdpbGVzLyIpCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtRm91bmREZXZpY2VzLnB1dChkZXZpY2UuZ2V0U2VyaWFsTnVtYmVyKCksIGRldmljZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBvcmcuZ3JhZGxlLmFwaS50YXNrcy5UYXNrQWN0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdmlnaWxlc1JlcG9ydERpcmVjdG9yeSA9IEZpbGUoInZpZ2lsZXMvIikKICAgICAgICB2aWdpbGVzUmVwb3J0RGlyZWN0b3J5Lm1rZGlyKCkuYWxzbyB7CiAgICAgICAgICAgIGlmIChpdCkgewogICAgICAgICAgICAgICAgcHJpbnRsbigibWFkZSBkaXI6ICR7dmlnaWxlc1JlcG9ydERpcmVjdG9yeS5hYnNvbHV0ZVBhdGh9IikKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHByaW50bG4oIm5vIGRpY2UiKQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
@@ -364,49 +360,44 @@
         <text encoding="base64">ICAgICAgICAgICAgcmVwbGFjZUZyYWdtZW50KG5ldyBCbGVEZXZpY2VTZWxlY3RvckZyYWdtZW50KCksIFIuaWQuZnJhZ21lbnRfY29udGFpbmVyLCBudWxsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGFza3MucmVnaXN0ZXI8VGFza3k+KCJ0YXNreSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBDcmVhdGUgdGhlIHJlcG9ydCBkaXJlY3RvcnkgaWYgaXQgZG9lc250IGV4aXN0Ci8vICAgICAgICBwcmludGxuKCJpbiBpbml0IikKLy8gICAgICAgIHZhbCB2aWdpbGVzUmVwb3J0RGlyZWN0b3J5ID0gRmlsZSgiYnVpbGQvcmVwb3J0cy92aWdpbGVzLyIpCi8vICAgICAgICB2aWdpbGVzUmVwb3J0RGlyZWN0b3J5Lm1rZGlyKCkuYWxzbyB7Ci8vICAgICAgICAgICAgaWYgKCFpdCkgewovLyAgICAgICAgICAgICAgICBwcmludGxuKCJtYWluIGRpZG50IHdvcmsiKQovLyAgICAgICAgICAgIH0KLy8gICAgICAgIH0KLy8gICAgICAgIHZhbCBvdGhlckRpciA9IEZpbGUoInRlc3REaXIvIikKLy8gICAgICAgIG90aGVyRGlyLm1rZGlyKCkuYWxzbyB7Ci8vICAgICAgICAgICAgaWYgKCFpdCkgewovLyAgICAgICAgICAgICAgICBwcmludGxuKCJvdGhlciBvbmUgZGlkbnQgd29yayIpCi8vICAgICAgICAgICAgfQovLyAgICAgICAgfQovLyAgICAgICAgcHJpbnRsbigiY3JlYXRlZCAke3ZpZ2lsZXNSZXBvcnREaXJlY3RvcnkuYWJzb2x1dGVQYXRofSIpCi8vICAgICAgICBwcmludGxuKCJjcmVhdGVkICR7b3RoZXJEaXIuYWJzb2x1dGVQYXRofSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text>open class Tasky: DefaultTask() {
-    @org.gradle.api.tasks.TaskAction
-    fun test() {
-        println(&quot;yoyoyo&quot;)
-    }
-}</text>
+        <text encoding="base64">ICAgICAgICBvdXRwdXRGaWxlPSBmaWxlKCJkZXQiKQo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgdGVzdFVVSUQgPSBVVUlEKDB4REVBRCwgMHhCRUVGKQogICAgICAgIHZhbCBjYWxsYmFjazogQ2xhaW1EZXZpY2VDb21tYW5kLkNsYWltRGV2aWNlQ29tbWFuZENhbGxiYWNrID0gbW9ja2socmVsYXhlZCA9IHRydWUpCiAgICAgICAgdmFsIGNvbW1hbmQgPSBDbGFpbURldmljZUNvbW1hbmQoCiAgICAgICAgICAgIHRlc3RVVUlELCAiYm9ndXNLZXkiLCAwLCAiYm9ndVhQYW5JZCIsCiAgICAgICAgICAgICJhTmV0d29ya05hbWUiLCAwLCByb290Q2VydCwgY2FsbGJhY2sKICAgICAgICApCgogICAgICAgIC8vIFZhbGlkIHJlc3BvbnNlcyBmb3IgZWFjaCBjaGFyYWN0ZXJpc3RpYyBleGNlcHQgb25lCiAgICAgICAgZXZlcnkgeyBtb2NrQ29ubmVjdGlvbi53cml0ZUNoYXJhY3RlcmlzdGljKENsYWltRGV2aWNlQ29tbWFuZC5DTEFJTUVSX0dVSUQsIGFueSgpKSB9IHJldHVybnMgU2luZ2xlLmVycm9yKAogICAgICAgICAgICBFeGNlcHRpb24oKQogICAgICAgICkKCiAgICAgICAgY29tbWFuZC5leGVjdXRlKG1vY2tEZXZpY2UpCiAgICAgICAgdmVyaWZ5IHsKICAgICAgICAgICAgY2FsbGJhY2sub25DbGFpbURldmljZUNvbW1hbmRSZXN1bHQoCiAgICAgICAgICAgICAgICBMdXRCbGVDb21tYW5kLkNvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFLAogICAgICAgICAgICAgICAgbnVsbAogICAgICAgICAgICApCiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBUYXNrQWN0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICB2aWdpbGVzUmVwb3J0RmlsZSA9IEZpbGUodmlnaWxlc1JlcG9ydERpcmVjZXRvcnksICJ2aWdpbGVzX3JlcG9ydHQuY3N2IikuYWxzbyB7aXQuY3JlfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbGluZXMgPSBmaWxlLnJlYWRMaW5lcygpLmFzU2VxdWVuY2UoKQo=</text>
+        <text encoding="base64">ICAgICAgICB2aWdpbGVzUmVwb3J0RGlyZWNldG9yeS5kZWwK</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9TVUNDRVNTOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>s/vigilesReportDirectory/otherDir/g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>FORM_FACTOR</last-search>
+      <last-search>vigilesReportDirectory</last-search>
       <last-offset />
-      <last-pattern>FORM_FACTOR</last-pattern>
-      <last-replace>DEVICE_CLASS</last-replace>
-      <last-substitute>FORM_FACTOR</last-substitute>
+      <last-pattern>vigilesReportDirectory</last-pattern>
+      <last-replace>otherDir</last-replace>
+      <last-substitute>vigilesReportDirectory</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
