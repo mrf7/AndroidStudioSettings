@@ -141,10 +141,12 @@
         <mark key="]" line="0" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/build.gradle.kts" timestamp="1588344439228" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/vigiles.gradle.kts" timestamp="1588354284436">
-        <mark key="[" line="50" column="6" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/vigiles.gradle.kts" timestamp="1588355461901">
+        <mark key="'" line="49" column="41" />
+        <mark key="[" line="11" column="33" />
+        <mark key="]" line="62" column="22" />
+        <mark key="." line="62" column="21" />
+        <mark key="^" line="62" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/Utils/build.gradle" timestamp="1588252015561">
         <mark key="[" line="32" column="20" />
@@ -215,7 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="13" filename="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/reviewrequests/ReviewRequestRepo.kt" />
       <jump line="29" column="34" filename="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/BleAdvertiserFactory.kt" />
       <jump line="31" column="33" filename="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/BleAdvertiserFactory.kt" />
       <jump line="369" column="32" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" />
@@ -315,6 +316,7 @@
       <jump line="27" column="13" filename="$USER_HOME$/Downloads/MyApplication/app/src/main/java/com/mfriend/myapplication/ItemDetailFragment.kt" />
       <jump line="384" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.10.1/ebb50922deb157028c54ff84bc9702804ae72545/jackson-databind-2.10.1-sources.jar!/com/fasterxml/jackson/databind/node/ObjectNode.java" />
       <jump line="56" column="14" filename="$USER_HOME$/Documents/caseta-android-app/vigiles.gradle.kts" />
+      <jump line="39" column="41" filename="$USER_HOME$/Documents/caseta-android-app/vigiles.gradle.kts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -323,7 +325,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZ1biAoKSB7CiAgICAgICAgZ2VuZXJhdGVWaWdpbGVzQ3N2KCkKICAgIH0KICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgIEBvcmcuZ3JhZGxlLmFwaS50YXNrcy5UYXNrQWN0aW9uCg==</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFOwo=</text>
@@ -335,7 +337,7 @@
         <text>rxBleScanResult.bleDevice.name == &quot;Ketra&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Ta</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -344,49 +346,54 @@
         <text>FORM_FACTOR</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlKCJzb3J0ZWRVbmlxdWVEZXBlbmRvcy5jc3YiKS53cml0ZXIoKS51c2UgeyBvdXRGaWxlIC0+Cg==</text>
+        <text encoding="base64">ICAgIEBvcmcuZ3JhZGxlLmFwaS50YXNrcy5UYXNrQWN0aW9uCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtRm91bmREZXZpY2VzLnB1dChkZXZpY2UuZ2V0U2VyaWFsTnVtYmVyKCksIGRldmljZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZ1biAoKSB7CiAgICAgICAgZ2VuZXJhdGVWaWdpbGVzQ3N2KCkKICAgIH0KICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgIEBvcmcuZ3JhZGxlLmFwaS50YXNrcy5UYXNrQWN0aW9uCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBvcmcuZ3JhZGxlLmFwaS50YXNrcy5UYXNrQWN0aW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVwbGFjZUZyYWdtZW50KG5ldyBCbGVEZXZpY2VTZWxlY3RvckZyYWdtZW50KCksIFIuaWQuZnJhZ21lbnRfY29udGFpbmVyLCBudWxsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBUYXNrQWN0aW9uCiAgICBmdW4gKCkgewogICAgICAgIGdlbmVyYXRlVmlnaWxlc0NzdigpCiAgICB9Cg==</text>
+        <text encoding="base64">dGFza3MucmVnaXN0ZXI8VGFza3k+KCJ0YXNreSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludFNvcnRlZFVuaXF1ZShkZXBlbmRlbmNpZXNPdXRwdXRmaWxlKQo=</text>
+        <text>open class Tasky: DefaultTask() {
+    @org.gradle.api.tasks.TaskAction
+    fun test() {
+        println(&quot;yoyoyo&quot;)
+    }
+}</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgdGVzdFVVSUQgPSBVVUlEKDB4REVBRCwgMHhCRUVGKQogICAgICAgIHZhbCBjYWxsYmFjazogQ2xhaW1EZXZpY2VDb21tYW5kLkNsYWltRGV2aWNlQ29tbWFuZENhbGxiYWNrID0gbW9ja2socmVsYXhlZCA9IHRydWUpCiAgICAgICAgdmFsIGNvbW1hbmQgPSBDbGFpbURldmljZUNvbW1hbmQoCiAgICAgICAgICAgIHRlc3RVVUlELCAiYm9ndXNLZXkiLCAwLCAiYm9ndVhQYW5JZCIsCiAgICAgICAgICAgICJhTmV0d29ya05hbWUiLCAwLCByb290Q2VydCwgY2FsbGJhY2sKICAgICAgICApCgogICAgICAgIC8vIFZhbGlkIHJlc3BvbnNlcyBmb3IgZWFjaCBjaGFyYWN0ZXJpc3RpYyBleGNlcHQgb25lCiAgICAgICAgZXZlcnkgeyBtb2NrQ29ubmVjdGlvbi53cml0ZUNoYXJhY3RlcmlzdGljKENsYWltRGV2aWNlQ29tbWFuZC5DTEFJTUVSX0dVSUQsIGFueSgpKSB9IHJldHVybnMgU2luZ2xlLmVycm9yKAogICAgICAgICAgICBFeGNlcHRpb24oKQogICAgICAgICkKCiAgICAgICAgY29tbWFuZC5leGVjdXRlKG1vY2tEZXZpY2UpCiAgICAgICAgdmVyaWZ5IHsKICAgICAgICAgICAgY2FsbGJhY2sub25DbGFpbURldmljZUNvbW1hbmRSZXN1bHQoCiAgICAgICAgICAgICAgICBMdXRCbGVDb21tYW5kLkNvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFLAogICAgICAgICAgICAgICAgbnVsbAogICAgICAgICAgICApCiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZXBlbmRlbmNpZXNPdXRwdXRmaWxlLmRlbGV0ZSgpCg==</text>
+        <text encoding="base64">ICAgIEBUYXNrQWN0aW9uCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvdXRwdXRGaWxlID0gbnVsbAo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbGluZXMgPSBmaWxlLnJlYWRMaW5lcygpLmFzU2VxdWVuY2UoKQo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9TVUNDRVNTOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzaW5jZSB3ZSdyZSBkZWxldGluZyB0aGUgcGFyZW50IGNsYXNzZXMgb3V0cHV0LCAK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIC4uLjo8ZGVwZW5kZW5jeU5hbWU+Ojx2ZXJzaW9uIG51bWJlcj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
