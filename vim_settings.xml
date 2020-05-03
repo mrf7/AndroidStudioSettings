@@ -142,7 +142,17 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="43" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/bluetooth/le/BluetoothLeAdvertiser.java" timestamp="1588364450036" />
+      <file name="/Dummy.txt" timestamp="1588358677338">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/build.gradle" timestamp="1588353788967">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="^" line="27" column="20" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/vigiles.gradle.kts" timestamp="1588358618673">
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="0" />
@@ -158,7 +168,14 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/ConsumableStackData.java" timestamp="1588361833171">
         <mark key="^" line="81" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/LutBleDevice.java" timestamp="1588367202940" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/bridge-setup-module/src/main/java/com/lutron/bridgesetup/BridgeSetupSession.java" timestamp="1588539787779">
+        <mark key="'" line="419" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1588357160389">
+        <mark key="[" line="216" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/BleSelectorHelper.kt" timestamp="1588362678892">
         <mark key="[" line="37" column="23" />
         <mark key="]" line="37" column="44" />
@@ -170,24 +187,6 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588358677338">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/build.gradle" timestamp="1588353788967">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="27" column="20" />
-        <mark key="." line="49" column="0" />
-      </file>
-      <file name="$USER_HOME$/.gradle/wrapper/dists/gradle-5.4.1-bin/e75iq110yv9r9wt1a6619x2xm/gradle-5.4.1/lib/gradle-kotlin-dsl-5.4.1.jar!/org/gradle/kotlin/dsl/support/delegates/ProjectDelegate.kt" timestamp="1588357851627" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1588357160389">
-        <mark key="[" line="216" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/command/ClaimDeviceCommand.kt" timestamp="1588361037990" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/BleDeviceSelectorFragment.java" timestamp="1588362657505">
         <mark key="[" line="213" column="34" />
         <mark key="]" line="213" column="34" />
@@ -197,10 +196,8 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1588363593047">
         <mark key="'" line="454" column="62" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/BleDeviceData.kt" timestamp="1588364005432" />
     </filemarks>
     <jumps>
-      <jump line="369" column="32" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" />
       <jump line="72" column="27" filename="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/RssiAdjustingBLEAdvertiser.kt" />
       <jump line="76" column="12" filename="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/RssiAdjustingBLEAdvertiser.kt" />
       <jump line="80" column="11" filename="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/RssiAdjustingBLEAdvertiser.kt" />
@@ -300,6 +297,7 @@
       <jump line="39" column="41" filename="$USER_HOME$/Documents/caseta-android-app/vigiles.gradle.kts" />
       <jump line="68" column="8" filename="$USER_HOME$/Documents/caseta-android-app/vigiles.gradle.kts" />
       <jump line="454" column="62" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" />
+      <jump line="419" column="7" filename="$USER_HOME$/Documents/caseta-android-app/bridge-setup-module/src/main/java/com/lutron/bridgesetup/BridgeSetupSession.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
