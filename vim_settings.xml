@@ -154,7 +154,7 @@
         <mark key="^" line="27" column="20" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/vigiles.gradle.kts" timestamp="1588358618673">
+      <file name="$USER_HOME$/Documents/caseta-android-app/vigiles.gradle.kts" timestamp="1588606789019">
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="0" />
         <mark key="^" line="59" column="33" />
@@ -198,6 +198,7 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1588363593047">
         <mark key="'" line="454" column="62" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/BleDeviceData.kt" timestamp="1588603403474" />
     </filemarks>
     <jumps>
       <jump line="72" column="27" filename="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/RssiAdjustingBLEAdvertiser.kt" />
