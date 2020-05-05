@@ -191,19 +191,18 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/BleDeviceSelectorFragment.java" timestamp="1588690884855">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/BleDeviceSelectorFragment.java" timestamp="1588694230760">
         <mark key="'" line="323" column="17" />
         <mark key="[" line="221" column="20" />
         <mark key="]" line="221" column="21" />
         <mark key="^" line="221" column="21" />
         <mark key="." line="221" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1588622167311">
-        <mark key="'" line="454" column="62" />
-        <mark key="[" line="330" column="50" />
-        <mark key="]" line="330" column="24" />
-        <mark key="." line="330" column="23" />
-        <mark key="^" line="330" column="24" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1588694288602">
+        <mark key="'" line="469" column="62" />
+        <mark key="[" line="149" column="32" />
+        <mark key="]" line="157" column="23" />
+        <mark key="." line="149" column="32" />
       </file>
       <file name="/fragment.java" timestamp="1588622267190">
         <mark key="[" line="0" column="0" />
@@ -318,7 +317,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>lBeClaimingScreenViewModel.getFailedToClaimDeviceError().getValue() == null</text>
+        <text encoding="base64">IHZhbCBjb25zdW1hYmxlRXZlbnQgPQogICAgICAgICAgICAgICAgQ29uc3VtYWJsZUV2ZW50KAogICAgICAgICAgICAgICAgICAgIEJsZUFzc2lnbm1lbnRNaXNtYXRjaEVycm9yRGF0YSgKICAgICAgICAgICAgICAgICAgICAgICAgd2FudGVkVHlwZSwKICAgICAgICAgICAgICAgICAgICAgICAgYWN0dWFsVHlwZQogICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICk=</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFOwo=</text>
@@ -338,43 +337,43 @@
       <register name="/" type="4">
         <text>vigilesReportDirectory</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVNob3VsZFNob3dDbGFpbUVycm9yID1mYWxzZTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">IHZhbCBjb25zdW1hYmxlRXZlbnQgPQogICAgICAgICAgICAgICAgQ29uc3VtYWJsZUV2ZW50KAogICAgICAgICAgICAgICAgICAgIEJsZUFzc2lnbm1lbnRNaXNtYXRjaEVycm9yRGF0YSgKICAgICAgICAgICAgICAgICAgICAgICAgd2FudGVkVHlwZSwKICAgICAgICAgICAgICAgICAgICAgICAgYWN0dWFsVHlwZQogICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICk=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtRm91bmREZXZpY2VzLnB1dChkZXZpY2UuZ2V0U2VyaWFsTnVtYmVyKCksIGRldmljZSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>else {
-                    showClaimDeviceError();
-                }</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgY29uc3VtYWJsZUV2ZW50ID0KICAgICAgICAgICAgICAgICAgICAgICAgQ29uc3VtYWJsZUV2ZW50KGJsZURldmljZSkK</text>
+      <register name="2" type="4">
+        <text>else {
+                    showClaimDeviceError();
+                }</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVwbGFjZUZyYWdtZW50KG5ldyBCbGVEZXZpY2VTZWxlY3RvckZyYWdtZW50KCksIFIuaWQuZnJhZ21lbnRfY29udGFpbmVyLCBudWxsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vblVzZXJJbnRlcmFjdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWwgY29uc3VtYWJsZUV2ZW50ID0KICAgICAgICAgICAgICAgICAgICAgICAgQ29uc3VtYWJsZUV2ZW50KGJsZURldmljZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5vblVzZXJJbnRlcmFjdCgpCg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgdGVzdFVVSUQgPSBVVUlEKDB4REVBRCwgMHhCRUVGKQogICAgICAgIHZhbCBjYWxsYmFjazogQ2xhaW1EZXZpY2VDb21tYW5kLkNsYWltRGV2aWNlQ29tbWFuZENhbGxiYWNrID0gbW9ja2socmVsYXhlZCA9IHRydWUpCiAgICAgICAgdmFsIGNvbW1hbmQgPSBDbGFpbURldmljZUNvbW1hbmQoCiAgICAgICAgICAgIHRlc3RVVUlELCAiYm9ndXNLZXkiLCAwLCAiYm9ndVhQYW5JZCIsCiAgICAgICAgICAgICJhTmV0d29ya05hbWUiLCAwLCByb290Q2VydCwgY2FsbGJhY2sKICAgICAgICApCgogICAgICAgIC8vIFZhbGlkIHJlc3BvbnNlcyBmb3IgZWFjaCBjaGFyYWN0ZXJpc3RpYyBleGNlcHQgb25lCiAgICAgICAgZXZlcnkgeyBtb2NrQ29ubmVjdGlvbi53cml0ZUNoYXJhY3RlcmlzdGljKENsYWltRGV2aWNlQ29tbWFuZC5DTEFJTUVSX0dVSUQsIGFueSgpKSB9IHJldHVybnMgU2luZ2xlLmVycm9yKAogICAgICAgICAgICBFeGNlcHRpb24oKQogICAgICAgICkKCiAgICAgICAgY29tbWFuZC5leGVjdXRlKG1vY2tEZXZpY2UpCiAgICAgICAgdmVyaWZ5IHsKICAgICAgICAgICAgY2FsbGJhY2sub25DbGFpbURldmljZUNvbW1hbmRSZXN1bHQoCiAgICAgICAgICAgICAgICBMdXRCbGVDb21tYW5kLkNvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFLAogICAgICAgICAgICAgICAgbnVsbAogICAgICAgICAgICApCiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJsZVNlbGVjdG9ySGVscGVyLkNvbXBhbmlvbi51cGRhdGVCdWxiVGl0bGUocmVxdWlyZUNvbnRleHQoKSwgc2VsZWN0b3JEYXRhLmdldEJsZURldmljZURhdGEoKS5nZXRMaWdodFN0YXRlKCksIG1UdkJ1bGJUaXRsZSwgZ2V0RnJhZ21lbnRNYW5hZ2VyKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEJsZVNlbGVjdG9ySGVscGVyLkNvbXBhbmlvbi51cGRhdGVCdWxiVGl0bGUocmVxdWlyZUNvbnRleHQoKSwgc2VsZWN0b3JEYXRhLmdldEJsZURldmljZURhdGEoKS5nZXRMaWdodFN0YXRlKCksIG1UdkJ1bGJUaXRsZSwgZ2V0RnJhZ21lbnRNYW5hZ2VyKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZz8gZXJyb3JNZXNzYWdlID0gaWYgKGVycm9yIT1udWxsKSAiIiBlbHNlIG51bGwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICgpCg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9TVUNDRVNTOwo=</text>
@@ -383,7 +382,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZz8gZXJyb3JNZXNzYWdlID0gaWYgKGVycm9yIT1udWxsKSAiIiBlbHNlIG51bGwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhZHZlcnRpc2VyLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZz8gZXJyb3JNZXNzYWdlID0gaWYgKGVycm9yIT1udWxsKSAiIiBlbHNlIG51bGwK</text>
       </register>
       <register name=":" type="4">
         <text>s/vigilesReportDirectory/otherDir/g</text>
