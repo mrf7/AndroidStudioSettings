@@ -169,12 +169,6 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/bridge-setup-module/src/main/java/com/lutron/bridgesetup/BridgeSetupSession.java" timestamp="1588539787779">
         <mark key="'" line="419" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/command/ClaimDeviceCommand.kt" timestamp="1588620518418">
-        <mark key="[" line="264" column="29" />
-        <mark key="]" line="264" column="31" />
-        <mark key="^" line="264" column="31" />
-        <mark key="." line="264" column="30" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/utils/Utils.java" timestamp="1588689252557" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/BleSelectorHelper.kt" timestamp="1588615373956">
         <mark key="[" line="37" column="23" />
