@@ -150,11 +150,11 @@
         <mark key="." line="86" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/view/popover/SpectrumPopoverView.java" timestamp="1588689387326" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/vigiles.gradle.kts" timestamp="1588606789019">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="^" line="59" column="33" />
-        <mark key="." line="86" column="0" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/vigiles.gradle.kts" timestamp="1588707321156">
+        <mark key="[" line="36" column="40" />
+        <mark key="]" line="36" column="56" />
+        <mark key="^" line="73" column="16" />
+        <mark key="." line="73" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/SelectorData.kt" timestamp="1588361602522">
         <mark key="[" line="5" column="0" />
@@ -169,17 +169,13 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/bridge-setup-module/src/main/java/com/lutron/bridgesetup/BridgeSetupSession.java" timestamp="1588539787779">
         <mark key="'" line="419" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/dependenciesReport.txt" timestamp="1588707265441" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/utils/Utils.java" timestamp="1588689252557" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/BleSelectorHelper.kt" timestamp="1588615373956">
         <mark key="[" line="37" column="23" />
         <mark key="]" line="37" column="44" />
         <mark key="." line="37" column="43" />
         <mark key="^" line="37" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/.gitignore" timestamp="1588359106515">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/BleDeviceSelectorFragment.java" timestamp="1588703771132">
         <mark key="'" line="290" column="41" />
@@ -303,8 +299,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICgoQmFzZUFjdGl2aXR5KSBnZXRBY3Rpdml0eSgpKS5oaWRlUHJvZ3Jlc3NEaWFsb2coKTsK</text>
+      <register name="&quot;" type="4">
+        <text>[+\\]--- ([^:].*)</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFOwo=</text>
@@ -324,8 +320,8 @@
       <register name="/" type="4">
         <text>vigilesReportDirectory</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICgoQmFzZUFjdGl2aXR5KSBnZXRBY3Rpdml0eSgpKS5oaWRlUHJvZ3Jlc3NEaWFsb2coKTsK</text>
+      <register name="0" type="4">
+        <text>[+\\]--- ([^:].*)</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtRm91bmREZXZpY2VzLnB1dChkZXZpY2UuZ2V0U2VyaWFsTnVtYmVyKCksIGRldmljZSk7Cg==</text>
