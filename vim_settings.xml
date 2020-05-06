@@ -170,10 +170,10 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/command/ClaimDeviceCommand.kt" timestamp="1588793021894">
-        <mark key="[" line="174" column="96" />
-        <mark key="]" line="174" column="98" />
-        <mark key="." line="174" column="97" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/command/ClaimDeviceCommand.kt" timestamp="1588794170552">
+        <mark key="[" line="174" column="76" />
+        <mark key="]" line="174" column="76" />
+        <mark key="." line="174" column="76" />
         <mark key="^" line="174" column="98" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1588694288602">
@@ -292,7 +292,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>ti</text>
+        <text>insecure</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFOwo=</text>
@@ -304,7 +304,7 @@
         <text>rxBleScanResult.bleDevice.name == &quot;Ketra&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>ti</text>
+        <text>insecure</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
