@@ -153,27 +153,27 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BaseBleSelectorScreenViewModel.kt" timestamp="1588621902836">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BaseBleSelectorScreenViewModel.kt" timestamp="1588796136427">
         <mark key="[" line="86" column="31" />
         <mark key="]" line="86" column="24" />
         <mark key="^" line="86" column="24" />
         <mark key="." line="86" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BaseActivity.java" timestamp="1588775633862" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/test/java/com/lutron/bluetoothclaiming/command/ClaimDeviceCommandTest.kt" timestamp="1588791637785">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/test/java/com/lutron/bluetoothclaiming/command/ClaimDeviceCommandTest.kt" timestamp="1588796148098">
+        <mark key="[" line="446" column="0" />
+        <mark key="]" line="446" column="0" />
+        <mark key="." line="446" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/vigiles_report.csv" timestamp="1588774126335">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/command/ClaimDeviceCommand.kt" timestamp="1588794170552">
-        <mark key="[" line="174" column="76" />
-        <mark key="]" line="174" column="76" />
-        <mark key="." line="174" column="76" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/command/ClaimDeviceCommand.kt" timestamp="1588796155758">
+        <mark key="[" line="253" column="0" />
+        <mark key="]" line="253" column="0" />
+        <mark key="." line="253" column="0" />
         <mark key="^" line="174" column="98" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1588694288602">
@@ -291,8 +291,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>insecure</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogRGV0ZXJtaW5lcyBpZiB3ZSBzaG91bGQgYXR0ZW1wdCBpbnNlY3VyZSB3cml0aW5nIG9mIE5NSy4gQnkgZGVmdWFsdCBpdCBjaGVja3MgW0J1aWxkQ29uZmlnLkJVSUxEX1RZUEVdLAogICAgICogYnV0IHRha2VzIHRoZSBidWlsZCB0eXBlIGFzIGEgcGFyYW1ldGVyIGZvciBlYXNpZXIgdGVzdGluZwogICAgICovCiAgICBAVmlzaWJsZUZvclRlc3RpbmcKICAgIGludGVybmFsIGZ1biBzaG91bGRUcnlJbnNlY3VyZU5ta1dyaXRlKGJ1aWxkVHlwZTogU3RyaW5nID0gQnVpbGRDb25maWcuQlVJTERfVFlQRSk6IEJvb2xlYW4gPQogICAgICAgIGJ1aWxkVHlwZSBpbiBsaXN0T2YoImFscGhhIiwgImJldGEiLCAiZGVidWciKQoK</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFOwo=</text>
@@ -319,19 +319,19 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtRm91bmREZXZpY2VzLnB1dChkZXZpY2UuZ2V0U2VyaWFsTnVtYmVyKCksIGRldmljZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgfSBjYXRjaCAoZTogSU9FeGNlcHRpb24pIHsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogRGV0ZXJtaW5lcyBpZiB3ZSBzaG91bGQgYXR0ZW1wdCBpbnNlY3VyZSB3cml0aW5nIG9mIE5NSy4gQnkgZGVmdWFsdCBpdCBjaGVja3MgW0J1aWxkQ29uZmlnLkJVSUxEX1RZUEVdLAogICAgICogYnV0IHRha2VzIHRoZSBidWlsZCB0eXBlIGFzIGEgcGFyYW1ldGVyIGZvciBlYXNpZXIgdGVzdGluZwogICAgICovCiAgICBAVmlzaWJsZUZvclRlc3RpbmcKICAgIGludGVybmFsIGZ1biBzaG91bGRUcnlJbnNlY3VyZU5ta1dyaXRlKGJ1aWxkVHlwZTogU3RyaW5nID0gQnVpbGRDb25maWcuQlVJTERfVFlQRSk6IEJvb2xlYW4gPQogICAgICAgIGJ1aWxkVHlwZSBpbiBsaXN0T2YoImFscGhhIiwgImJldGEiLCAiZGVidWciKQoK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgLy8gbW9jayB0aGUgY2hlY2sgb24gYnVpbGQgY29uZmlnIGJ5IHJldHVybmluZyB0cnVlIGZyb20gc2hvdWxkVHJ5SW5zZWN1cmVObWtXcml0ZQogICAgICAgIGV2ZXJ5IHsgY29tbWFuZC5zaG91bGRUcnlJbnNlY3VyZU5ta1dyaXRlKCkgfSByZXR1cm5zIGZhbHNlCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVwbGFjZUZyYWdtZW50KG5ldyBCbGVEZXZpY2VTZWxlY3RvckZyYWdtZW50KCksIFIuaWQuZnJhZ21lbnRfY29udGFpbmVyLCBudWxsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEx1dExvZy53KExPR0dFUl9UQUcsICJUTFMgd3JpdGUgb2YgTmV0d29yayBtYXN0ZXIga2V5IGZhaWxlZCwgdHJ5aW5nIGluc2VjdXJlIiwgZSkKICAgICAgICAgICAgICAgIGNhbGxiYWNrLm9uQ2xhaW1EZXZpY2VDb21tYW5kUmVzdWx0KENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFLCBudWxsKQogICAgICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgfSBjYXRjaCAoZTogSU9FeGNlcHRpb24pIHsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -340,19 +340,19 @@
         <text encoding="base64">ICAgICAgICB2YWwgdGVzdFVVSUQgPSBVVUlEKDB4REVBRCwgMHhCRUVGKQogICAgICAgIHZhbCBjYWxsYmFjazogQ2xhaW1EZXZpY2VDb21tYW5kLkNsYWltRGV2aWNlQ29tbWFuZENhbGxiYWNrID0gbW9ja2socmVsYXhlZCA9IHRydWUpCiAgICAgICAgdmFsIGNvbW1hbmQgPSBDbGFpbURldmljZUNvbW1hbmQoCiAgICAgICAgICAgIHRlc3RVVUlELCAiYm9ndXNLZXkiLCAwLCAiYm9ndVhQYW5JZCIsCiAgICAgICAgICAgICJhTmV0d29ya05hbWUiLCAwLCByb290Q2VydCwgY2FsbGJhY2sKICAgICAgICApCgogICAgICAgIC8vIFZhbGlkIHJlc3BvbnNlcyBmb3IgZWFjaCBjaGFyYWN0ZXJpc3RpYyBleGNlcHQgb25lCiAgICAgICAgZXZlcnkgeyBtb2NrQ29ubmVjdGlvbi53cml0ZUNoYXJhY3RlcmlzdGljKENsYWltRGV2aWNlQ29tbWFuZC5DTEFJTUVSX0dVSUQsIGFueSgpKSB9IHJldHVybnMgU2luZ2xlLmVycm9yKAogICAgICAgICAgICBFeGNlcHRpb24oKQogICAgICAgICkKCiAgICAgICAgY29tbWFuZC5leGVjdXRlKG1vY2tEZXZpY2UpCiAgICAgICAgdmVyaWZ5IHsKICAgICAgICAgICAgY2FsbGJhY2sub25DbGFpbURldmljZUNvbW1hbmRSZXN1bHQoCiAgICAgICAgICAgICAgICBMdXRCbGVDb21tYW5kLkNvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFLAogICAgICAgICAgICAgICAgbnVsbAogICAgICAgICAgICApCiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdyaXRlTm1rKGdhdHRUbHNNYW5hZ2VyLCBiYXNlNjROZXR3b3JrTWFzdGVyS2V5KQogICAgICAgICAgICAgICAgTHV0TG9nLmQoTE9HR0VSX1RBRywgIldyb3RlIG5tayBzZWN1cmVseSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEx1dExvZy53KExPR0dFUl9UQUcsICJUTFMgd3JpdGUgb2YgTmV0d29yayBtYXN0ZXIga2V5IGZhaWxlZCwgdHJ5aW5nIGluc2VjdXJlIiwgZSkKICAgICAgICAgICAgICAgIGNhbGxiYWNrLm9uQ2xhaW1EZXZpY2VDb21tYW5kUmVzdWx0KENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFLCBudWxsKQogICAgICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGdhdHRUbHNNYW5hZ2VyID0gR2F0dFRsc01hbmFnZXIoY29ubiwgdHJ1c3RNYW5hZ2VyRmFjdG9yeSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHdyaXRlTm1rKGdhdHRUbHNNYW5hZ2VyLCBiYXNlNjROZXR3b3JrTWFzdGVyS2V5KQogICAgICAgICAgICAgICAgTHV0TG9nLmQoTE9HR0VSX1RBRywgIldyb3RlIG5tayBzZWN1cmVseSIpCg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9TVUNDRVNTOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGdhdHRUbHNNYW5hZ2VyID0gR2F0dFRsc01hbmFnZXIoY29ubiwgdHJ1c3RNYW5hZ2VyRmFjdG9yeSkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
