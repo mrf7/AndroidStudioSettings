@@ -165,12 +165,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/command/ClaimDeviceCommand.kt" timestamp="1588775032788">
-        <mark key="[" line="289" column="97" />
-        <mark key="]" line="289" column="103" />
-        <mark key="^" line="289" column="103" />
-        <mark key="." line="289" column="102" />
-      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/command/ClaimDeviceCommand.kt" timestamp="1588775032788" />
       <file name="$USER_HOME$/Documents/caseta-android-app/dependenciesReport.txt" timestamp="1588711426114" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/utils/Utils.java" timestamp="1588689252557" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/BleSelectorHelper.kt" timestamp="1588615373956">
