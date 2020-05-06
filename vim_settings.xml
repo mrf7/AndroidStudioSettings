@@ -148,7 +148,7 @@
         <mark key="." line="37" column="43" />
         <mark key="^" line="37" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588794882663">
+      <file name="/Dummy.txt" timestamp="1588796250284">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -171,10 +171,10 @@
         <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/command/ClaimDeviceCommand.kt" timestamp="1588796155758">
-        <mark key="[" line="253" column="0" />
-        <mark key="]" line="253" column="0" />
-        <mark key="." line="253" column="0" />
-        <mark key="^" line="174" column="98" />
+        <mark key="[" line="252" column="0" />
+        <mark key="]" line="252" column="0" />
+        <mark key="." line="252" column="0" />
+        <mark key="^" line="173" column="98" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1588694288602">
         <mark key="'" line="461" column="62" />
