@@ -142,12 +142,7 @@
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/dependenciesReport.txt" timestamp="1588711426114" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/utils/Utils.java" timestamp="1588689252557" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/BleSelectorHelper.kt" timestamp="1588615373956">
-        <mark key="[" line="37" column="23" />
-        <mark key="]" line="37" column="44" />
-        <mark key="." line="37" column="43" />
-        <mark key="^" line="37" column="44" />
-      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/bridgesetup/DefaultSetupPresenterFactory.kt" timestamp="1588882517276" />
       <file name="/Dummy.txt" timestamp="1588797083430">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
