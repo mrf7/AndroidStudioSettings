@@ -148,7 +148,7 @@
         <mark key="." line="37" column="43" />
         <mark key="^" line="37" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588796250284">
+      <file name="/Dummy.txt" timestamp="1588797083430">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -176,6 +176,12 @@
         <mark key="." line="252" column="0" />
         <mark key="^" line="173" column="98" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/BleDeviceSelectorFragment.java" timestamp="1588797011899">
+        <mark key="'" line="230" column="38" />
+        <mark key="[" line="79" column="89" />
+        <mark key="]" line="79" column="89" />
+        <mark key="." line="79" column="89" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1588694288602">
         <mark key="'" line="461" column="62" />
       </file>
@@ -184,8 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="43" filename="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/RssiAdjustingBLEAdvertiser.kt" />
-      <jump line="18" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/coroutinedispatchers/DispatcherProvider.kt" />
       <jump line="26" column="36" filename="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/reviewrequests/ReviewRequestRepo.kt" />
       <jump line="23" column="18" filename="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/reviewrequests/ReviewRequestsViewModel.kt" />
       <jump line="42" column="36" filename="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/reviewrequests/ReviewRequestsFragment.kt" />
@@ -284,6 +288,8 @@
       <jump line="315" column="17" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/BleDeviceSelectorFragment.java" />
       <jump line="290" column="41" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/BleDeviceSelectorFragment.java" />
       <jump line="440" column="26" filename="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/test/java/com/lutron/bluetoothclaiming/command/ClaimDeviceCommandTest.kt" />
+      <jump line="274" column="32" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/BleDeviceSelectorFragment.java" />
+      <jump line="230" column="38" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/BleDeviceSelectorFragment.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -291,8 +297,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogRGV0ZXJtaW5lcyBpZiB3ZSBzaG91bGQgYXR0ZW1wdCBpbnNlY3VyZSB3cml0aW5nIG9mIE5NSy4gQnkgZGVmdWFsdCBpdCBjaGVja3MgW0J1aWxkQ29uZmlnLkJVSUxEX1RZUEVdLAogICAgICogYnV0IHRha2VzIHRoZSBidWlsZCB0eXBlIGFzIGEgcGFyYW1ldGVyIGZvciBlYXNpZXIgdGVzdGluZwogICAgICovCiAgICBAVmlzaWJsZUZvclRlc3RpbmcKICAgIGludGVybmFsIGZ1biBzaG91bGRUcnlJbnNlY3VyZU5ta1dyaXRlKGJ1aWxkVHlwZTogU3RyaW5nID0gQnVpbGRDb25maWcuQlVJTERfVFlQRSk6IEJvb2xlYW4gPQogICAgICAgIGJ1aWxkVHlwZSBpbiBsaXN0T2YoImFscGhhIiwgImJldGEiLCAiZGVidWciKQoK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFOwo=</text>
@@ -304,7 +310,7 @@
         <text>rxBleScanResult.bleDevice.name == &quot;Ketra&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>insecure</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
