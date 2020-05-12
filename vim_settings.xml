@@ -145,9 +145,6 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/networkClientModule/src/main/java/com/lutron/networkclient/clients/VerifyConnectivityClient.java" timestamp="1589295476330" />
       <file name="$USER_HOME$/Documents/caseta-android-app/programming-framework/src/main/java/com/lutron/programming/presetAssignment/common/PresetAssignmentHasherVisitor.java" timestamp="1589308353158" />
       <file name="$USER_HOME$/Documents/caseta-android-app/programming-framework/src/main/java/com/lutron/programming/preset/common/BlockingPresetProgrammer.java" timestamp="1589308490710" />
-      <file name="/fragment.kt" timestamp="1589169113831">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/task-framework/src/main/java/com/lutron/taskframework/TimedCallableExtensions.kt" timestamp="1589306969852">
         <mark key="[" line="111" column="31" />
         <mark key="]" line="112" column="70" />
@@ -170,6 +167,7 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/NetThermostatRefreshCallable.java" timestamp="1589293302334" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/dependenciesReport.txt" timestamp="1589216971202" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.java" timestamp="1589308741853" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/NestSignInActivity.java" timestamp="1589310638688" />
     </filemarks>
     <jumps>
       <jump line="99" column="180" filename="$USER_HOME$/Documents/caseta-android-app/Utils/src/main/java/com/lutron/sharedutils/encryptionUtils/LogsEncryptionUtil.java" />
