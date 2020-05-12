@@ -138,18 +138,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BaseBleSelectorScreenViewModel.kt" timestamp="1588796136427">
-        <mark key="[" line="86" column="31" />
-        <mark key="]" line="86" column="24" />
-        <mark key="^" line="86" column="24" />
-        <mark key="." line="86" column="23" />
-      </file>
       <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/SpotifyModule.kt" timestamp="1589168804916">
         <mark key="'" line="67" column="9" />
         <mark key="[" line="38" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationUtils.java" timestamp="1589293462051" />
       <file name="/fragment.kt" timestamp="1589169113831">
         <mark key="[" line="0" column="0" />
       </file>
@@ -169,11 +164,6 @@
         <mark key="]" line="162" column="82" />
         <mark key="." line="162" column="81" />
         <mark key="^" line="162" column="82" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/vigiles_report.csv" timestamp="1588774126335">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1589205730928" />
       <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/selectplaylist/PlaylistViewModel.kt" timestamp="1589168646717">
@@ -201,7 +191,8 @@
         <mark key="[" line="71" column="0" />
         <mark key="]" line="79" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/NetThermostatRefreshCallable.java" timestamp="1589230598411" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/NetThermostatRefreshCallable.java" timestamp="1589293302334" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/networkClientModule/src/main/java/com/lutron/networkclient/clients/VerifyConnectivityClient.java" timestamp="1589293486557" />
       <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/models/ErrorObjects.kt" timestamp="1589169014019">
         <mark key="'" line="12" column="6" />
         <mark key="[" line="14" column="18" />
