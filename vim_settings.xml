@@ -144,7 +144,7 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationUtils.java" timestamp="1589293462051" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationUtils.java" timestamp="1589295430486" />
       <file name="/fragment.kt" timestamp="1589169113831">
         <mark key="[" line="0" column="0" />
       </file>
@@ -165,6 +165,9 @@
         <mark key="." line="162" column="81" />
         <mark key="^" line="162" column="82" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/networkClientModule/src/main/java/com/lutron/networkclient/clients/HttpsClient.java" timestamp="1589296180412">
+        <mark key="'" line="114" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1589205730928" />
       <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/selectplaylist/PlaylistViewModel.kt" timestamp="1589168646717">
         <mark key="[" line="25" column="0" />
@@ -178,21 +181,11 @@
         <mark key="." line="30" column="63" />
         <mark key="^" line="30" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/BleDeviceSelectorFragment.java" timestamp="1588797011899">
-        <mark key="'" line="230" column="38" />
-        <mark key="[" line="79" column="89" />
-        <mark key="]" line="79" column="89" />
-        <mark key="." line="79" column="89" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/vigiles_report.csv" timestamp="1589204637991" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/extension/ResettableTimeout.kt" timestamp="1589231321995" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/view/View.java" timestamp="1589216998581" />
-      <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/adapters/ExampleAdapter.kt" timestamp="1589164642810">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="79" column="21" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/NetThermostatRefreshCallable.java" timestamp="1589293302334" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/networkClientModule/src/main/java/com/lutron/networkclient/clients/VerifyConnectivityClient.java" timestamp="1589293486557" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/networkClientModule/src/main/java/com/lutron/networkclient/clients/VerifyConnectivityClient.java" timestamp="1589295476330" />
       <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/models/ErrorObjects.kt" timestamp="1589169014019">
         <mark key="'" line="12" column="6" />
         <mark key="[" line="14" column="18" />
@@ -203,7 +196,6 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/dependenciesReport.txt" timestamp="1589216971202" />
     </filemarks>
     <jumps>
-      <jump line="118" column="0" filename="$USER_HOME$/Documents/caseta-android-app/Utils/src/main/java/com/lutron/sharedutils/encryptionUtils/LogsEncryptionUtil.java" />
       <jump line="99" column="180" filename="$USER_HOME$/Documents/caseta-android-app/Utils/src/main/java/com/lutron/sharedutils/encryptionUtils/LogsEncryptionUtil.java" />
       <jump line="110" column="46" filename="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/test/java/com/lutron/bluetoothclaiming/rssiadjustment/RssiAdjustingBLEAdvertiserTest.kt" />
       <jump line="39" column="44" filename="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/test/java/com/lutron/bluetoothclaiming/rssiadjustment/RssiAdjustingBLEAdvertiserTest.kt" />
@@ -303,6 +295,7 @@
       <jump line="39" column="31" filename="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/adapters/EitherCallAdapter.kt" />
       <jump line="30" column="27" filename="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/SpotifyApi.kt" />
       <jump line="168" column="33" filename="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/adapters/EitherCallAdapter.kt" />
+      <jump line="114" column="16" filename="$USER_HOME$/Documents/caseta-android-app/networkClientModule/src/main/java/com/lutron/networkclient/clients/HttpsClient.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
