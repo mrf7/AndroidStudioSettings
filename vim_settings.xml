@@ -140,6 +140,7 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/networkClientModule/src/main/java/com/lutron/networkclient/clients/HttpsClient.java" timestamp="1589296376029">
         <mark key="'" line="114" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/HoneywellSignInActivity.java" timestamp="1589313832483" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/extension/ResettableTimeout.kt" timestamp="1589306027771" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/EditButtonRepo.kt" timestamp="1589306940536" />
       <file name="$USER_HOME$/Documents/caseta-android-app/networkClientModule/src/main/java/com/lutron/networkclient/clients/VerifyConnectivityClient.java" timestamp="1589295476330" />
@@ -150,13 +151,6 @@
         <mark key="]" line="112" column="70" />
         <mark key="." line="112" column="69" />
         <mark key="^" line="112" column="70" />
-      </file>
-      <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/adapters/EitherCallAdapter.kt" timestamp="1589169315658">
-        <mark key="'" line="168" column="33" />
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="162" column="82" />
-        <mark key="." line="162" column="81" />
-        <mark key="^" line="162" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/manager/OperationStatusManager.kt" timestamp="1589306632572">
         <mark key="[" line="112" column="82" />
