@@ -134,13 +134,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationUtils.java" timestamp="1589295430486" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/vigiles.gradle.kts" timestamp="1589204621311">
-        <mark key="[" line="36" column="40" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/networkClientModule/src/main/java/com/lutron/networkclient/clients/HttpsClient.java" timestamp="1589296376029">
         <mark key="'" line="114" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/HoneywellSignInActivity.java" timestamp="1589313832483" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/utils/AuthUtils.java" timestamp="1589379703824" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/extension/ResettableTimeout.kt" timestamp="1589306027771" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/EditButtonRepo.kt" timestamp="1589306940536" />
       <file name="$USER_HOME$/Documents/caseta-android-app/networkClientModule/src/main/java/com/lutron/networkclient/clients/VerifyConnectivityClient.java" timestamp="1589295476330" />
