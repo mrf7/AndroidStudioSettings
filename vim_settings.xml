@@ -159,7 +159,7 @@
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/view/View.java" timestamp="1589216998581" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/NetThermostatRefreshCallable.java" timestamp="1589293302334" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/dependenciesReport.txt" timestamp="1589216971202" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.java" timestamp="1589313715615" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.java" timestamp="1589380440352" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/NestSignInActivity.java" timestamp="1589310638688" />
     </filemarks>
     <jumps>
