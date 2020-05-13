@@ -151,19 +151,11 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/manager/OperationStatusManager.kt" timestamp="1589306632572">
         <mark key="[" line="112" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1589395853785">
-        <mark key="[" line="215" column="1" />
-      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/java/util/concurrent/Future.java" timestamp="1589384085631">
         <mark key="[" line="146" column="15" />
         <mark key="]" line="146" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/vigiles_report.csv" timestamp="1589396190382">
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="193" column="0" />
-        <mark key="." line="193" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/dependenciesReport.txt" timestamp="1589396162500" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/dependenciesReport.txt" timestamp="1589396840927" />
     </filemarks>
     <jumps>
       <jump line="99" column="180" filename="$USER_HOME$/Documents/caseta-android-app/Utils/src/main/java/com/lutron/sharedutils/encryptionUtils/LogsEncryptionUtil.java" />
