@@ -264,8 +264,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ExecutionException</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFOwo=</text>
@@ -285,8 +285,8 @@
       <register name="/" type="4">
         <text>vigilesReportDirectory</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGdldEtvaW4oKS5zZXRQcm9wZXJ0eSgiYXV0aFRva2VuIiwgcmVzcG9uc2UuYWNjZXNzVG9rZW4pCg==</text>
+      <register name="0" type="4">
+        <text>ExecutionException</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtRm91bmREZXZpY2VzLnB1dChkZXZpY2UuZ2V0U2VyaWFsTnVtYmVyKCksIGRldmljZSk7Cg==</text>
