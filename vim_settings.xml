@@ -163,9 +163,12 @@
         <mark key="]" line="59" column="18" />
         <mark key="." line="59" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1589472036463">
+        <mark key="'" line="450" column="13" />
+        <mark key="[" line="449" column="31" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="180" filename="$USER_HOME$/Documents/caseta-android-app/Utils/src/main/java/com/lutron/sharedutils/encryptionUtils/LogsEncryptionUtil.java" />
       <jump line="110" column="46" filename="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/test/java/com/lutron/bluetoothclaiming/rssiadjustment/RssiAdjustingBLEAdvertiserTest.kt" />
       <jump line="39" column="44" filename="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/test/java/com/lutron/bluetoothclaiming/rssiadjustment/RssiAdjustingBLEAdvertiserTest.kt" />
       <jump line="102" column="43" filename="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/command/ClaimDeviceCommand.kt" />
@@ -265,6 +268,7 @@
       <jump line="30" column="27" filename="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/SpotifyApi.kt" />
       <jump line="168" column="33" filename="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/adapters/EitherCallAdapter.kt" />
       <jump line="114" column="16" filename="$USER_HOME$/Documents/caseta-android-app/networkClientModule/src/main/java/com/lutron/networkclient/clients/HttpsClient.java" />
+      <jump line="450" column="13" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
