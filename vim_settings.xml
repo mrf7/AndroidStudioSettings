@@ -139,7 +139,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/LutBleDevice.java" timestamp="1589464087796" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/AddDeviceActivity.java" timestamp="1589484878021" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/task-framework/src/main/java/com/lutron/taskframework/TimedCallableExtensions.kt" timestamp="1589306969852">
+        <mark key="[" line="111" column="31" />
+        <mark key="]" line="112" column="70" />
+        <mark key="." line="112" column="69" />
+        <mark key="^" line="112" column="70" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1589484562548">
+        <mark key="'" line="450" column="13" />
+        <mark key="[" line="449" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/Sample/Kotlin-Coroutine-Use-Cases-on-Android/app/src/main/java/com/lukaslechner/coroutineusecasesonandroid/playground/3_coroutines_do_not_block_any_thread.kt" timestamp="1589477131373">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -149,25 +159,10 @@
         <mark key="[" line="146" column="15" />
         <mark key="]" line="146" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/dependenciesReport.txt" timestamp="1589398438904" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/tls/GattTlsManager.kt" timestamp="1589471068473" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/netTherm" timestamp="1589401448944" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/BleAdvertiserFactory.kt" timestamp="1589401601940" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/task-framework/src/main/java/com/lutron/taskframework/TimedCallableExtensions.kt" timestamp="1589306969852">
-        <mark key="[" line="111" column="31" />
-        <mark key="]" line="112" column="70" />
-        <mark key="." line="112" column="69" />
-        <mark key="^" line="112" column="70" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1589398269093" />
       <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/Aggregator.java" timestamp="1589415417344">
         <mark key="[" line="59" column="18" />
         <mark key="]" line="59" column="18" />
         <mark key="." line="59" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1589472036463">
-        <mark key="'" line="450" column="13" />
-        <mark key="[" line="449" column="31" />
       </file>
     </filemarks>
     <jumps>
