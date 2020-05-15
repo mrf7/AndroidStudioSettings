@@ -139,16 +139,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/AddDeviceActivity.java" timestamp="1589485037751" />
       <file name="$USER_HOME$/Documents/caseta-android-app/task-framework/src/main/java/com/lutron/taskframework/TimedCallableExtensions.kt" timestamp="1589306969852">
         <mark key="[" line="111" column="31" />
         <mark key="]" line="112" column="70" />
         <mark key="." line="112" column="69" />
         <mark key="^" line="112" column="70" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1589484562548">
-        <mark key="'" line="450" column="13" />
-        <mark key="[" line="449" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Sample/Kotlin-Coroutine-Use-Cases-on-Android/app/src/main/java/com/lukaslechner/coroutineusecasesonandroid/playground/3_coroutines_do_not_block_any_thread.kt" timestamp="1589477131373">
         <mark key="[" line="20" column="0" />
@@ -163,6 +158,12 @@
         <mark key="[" line="59" column="18" />
         <mark key="]" line="59" column="18" />
         <mark key="." line="59" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/AddDeviceActivity.java" timestamp="1589485669119" />
+      <file name="/CommunicationManagerKot.kt" timestamp="1589567524404" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1589484562548">
+        <mark key="'" line="450" column="13" />
+        <mark key="[" line="449" column="31" />
       </file>
     </filemarks>
     <jumps>
