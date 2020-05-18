@@ -139,29 +139,53 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Personal/DJApp/buildSrc/build.gradle.kts" timestamp="1589758680285">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Documents/Personal/DJApp/app/build.gradle.kts" timestamp="1589771420201">
+        <mark key="'" line="40" column="21" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="5" column="46" />
       </file>
       <file name="/Dummy.txt" timestamp="1589774087524">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/herokuProd/java/com/lutron/mmw/communication/DeviceLoginCommunicatorFactory.java" timestamp="1589815788400" />
+      <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/reviewrequests/ReviewRequestsFragment.kt" timestamp="1589773317040">
+        <mark key="[" line="27" column="65" />
+      </file>
+      <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/adapters/EitherCallAdapter.kt" timestamp="1589774058315">
+        <mark key="[" line="127" column="50" />
+      </file>
+      <file name="$USER_HOME$/Documents/Personal/DJApp/buildSrc/build.gradle.kts" timestamp="1589758680285">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Personal/DJApp/build.gradle.kts" timestamp="1589773977759">
+        <mark key="'" line="32" column="16" />
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="28" column="67" />
+        <mark key="^" line="28" column="67" />
+        <mark key="." line="28" column="66" />
+      </file>
+      <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/models/ErrorObjects.kt" timestamp="1589773605306">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="5" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/genericexamples/basics/example5/Example5StructuredConcurrency.kt" timestamp="1589815078686">
+        <mark key="[" line="24" column="30" />
+        <mark key="]" line="24" column="38" />
+        <mark key="." line="24" column="37" />
+        <mark key="^" line="24" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/Personal/DJApp/buildSrc/src/main/kotlin/Libs.kt" timestamp="1589771639229">
         <mark key="'" line="8" column="17" />
         <mark key="[" line="218" column="0" />
         <mark key="]" line="218" column="0" />
         <mark key="." line="218" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/DeviceLoginCommunicator.java" timestamp="1589815543635" />
-      <file name="$USER_HOME$/Documents/Personal/DJApp/config/ktlint/.editorconfig" timestamp="1589774017885">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="15" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Personal/DJApp/buildSrc/src/main/kotlin/Versions.kt" timestamp="1589772652259">
         <mark key="'" line="96" column="73" />
@@ -170,45 +194,20 @@
         <mark key="." line="29" column="49" />
         <mark key="^" line="29" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/adapters/EitherCallAdapter.kt" timestamp="1589774058315">
-        <mark key="[" line="127" column="50" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/DataApiCommunicatorFactory.java" timestamp="1589815432728" />
-      <file name="$USER_HOME$/Documents/Personal/DJApp/build.gradle.kts" timestamp="1589773977759">
-        <mark key="'" line="32" column="16" />
-        <mark key="[" line="27" column="12" />
-        <mark key="]" line="28" column="67" />
-        <mark key="^" line="28" column="67" />
-        <mark key="." line="28" column="66" />
-      </file>
       <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/genericexamples/basics/example4/Example4.kt" timestamp="1589574947964">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/herokuProd/java/com.lutron.mmw.common/ConfigConstants.java" timestamp="1589815809625" />
-      <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/genericexamples/basics/example5/Example5StructuredConcurrency.kt" timestamp="1589815078686">
-        <mark key="[" line="24" column="30" />
-        <mark key="]" line="24" column="38" />
-        <mark key="." line="24" column="37" />
-        <mark key="^" line="24" column="38" />
-      </file>
-      <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/reviewrequests/ReviewRequestsFragment.kt" timestamp="1589773317040">
-        <mark key="[" line="27" column="65" />
+      <file name="$USER_HOME$/Projects/DJApp/app/build.gradle.kts" timestamp="1589821799944">
+        <mark key="." line="71" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/genericexamples/basics/example4/Example4LotsOfCoroutines.kt" timestamp="1589575448873">
         <mark key="[" line="11" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/Personal/DJApp/app/build.gradle.kts" timestamp="1589771420201">
-        <mark key="'" line="40" column="21" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="5" column="46" />
-      </file>
-      <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/models/ErrorObjects.kt" timestamp="1589773605306">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="5" column="46" />
+      <file name="$USER_HOME$/Documents/Personal/DJApp/config/ktlint/.editorconfig" timestamp="1589774017885">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="15" />
+        <mark key="." line="3" column="0" />
       </file>
     </filemarks>
     <jumps>
