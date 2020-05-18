@@ -116,7 +116,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
@@ -197,8 +197,8 @@
       <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/genericexamples/basics/example4/Example4.kt" timestamp="1589574947964">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/DJApp/app/build.gradle.kts" timestamp="1589821799944">
-        <mark key="." line="71" column="35" />
+      <file name="$USER_HOME$/Projects/DJApp/app/build.gradle.kts" timestamp="1589822001900">
+        <mark key="." line="70" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/genericexamples/basics/example4/Example4LotsOfCoroutines.kt" timestamp="1589575448873">
         <mark key="[" line="11" column="51" />
@@ -208,6 +208,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/DJApp/app/src/main/java/com/mfriend/djapp/authentication/AuthFragment.kt" timestamp="1589822016460">
+        <mark key="[" line="21" column="6" />
+        <mark key="]" line="21" column="6" />
+        <mark key="." line="21" column="6" />
       </file>
     </filemarks>
     <jumps>
@@ -318,8 +323,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text>indent_size = 2</text>
+      <register name="&quot;" type="4">
+        <text>A</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFOwo=</text>
@@ -331,7 +336,7 @@
         <text>rxBleScanResult.bleDevice.name == &quot;Ketra&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGh0dHBzOi8vZGV2ZWxvcGVyLnNwb3RpZnkuY29tL2RvY3VtZW50YXRpb24vd2ViLWFwaS8=</text>
+        <text>A</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -385,7 +390,7 @@
         <text encoding="base64">Ly9hbGxwcm9qZWN0cyB7Ci8vICAgIGFwcGx5KGZpbGUoIiRyb290RGlyL2RldGVrdC5ncmFkbGUiKSkKLy99Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/vigilesReportDirectory/otherDir/g</text>
+        <text>source ~/.ideavimrc</text>
       </register>
     </registers>
   </component>
