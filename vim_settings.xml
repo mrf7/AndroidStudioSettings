@@ -139,12 +139,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BleOOBActivity.kt" timestamp="1589830922703" />
       <file name="$USER_HOME$/Documents/Personal/DJApp/config/ktlint/.editorconfig" timestamp="1589774017885">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/ketraOob/BleOOBStepsFragment.kt" timestamp="1589831102990" />
       <file name="$USER_HOME$/Documents/Personal/DJApp/build.gradle.kts" timestamp="1589773977759">
         <mark key="'" line="32" column="16" />
         <mark key="[" line="27" column="12" />
@@ -160,10 +162,8 @@
         <mark key="^" line="24" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/PairedOrganizationEnum.java" timestamp="1589824363463" />
-      <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/reviewrequests/ReviewRequestsFragment.kt" timestamp="1589773317040">
-        <mark key="[" line="27" column="65" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/PairedOrganizationListActivity.java" timestamp="1589824444098" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/BleOobState.kt" timestamp="1589831074732" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/PairedOrganizationListActivity.java" timestamp="1589824505266" />
       <file name="/Dummy.txt" timestamp="1589774087524">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -171,13 +171,6 @@
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/herokuProd/java/com/lutron/mmw/communication/DeviceLoginCommunicatorFactory.java" timestamp="1589815788400" />
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/DeviceLoginCommunicator.java" timestamp="1589815543635" />
-      <file name="$USER_HOME$/Documents/Personal/DJApp/buildSrc/src/main/kotlin/Versions.kt" timestamp="1589772652259">
-        <mark key="'" line="96" column="73" />
-        <mark key="[" line="29" column="45" />
-        <mark key="]" line="29" column="50" />
-        <mark key="." line="29" column="49" />
-        <mark key="^" line="29" column="50" />
-      </file>
       <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/adapters/EitherCallAdapter.kt" timestamp="1589774058315">
         <mark key="[" line="127" column="50" />
       </file>
@@ -186,12 +179,7 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/values/strings.xml" timestamp="1589824286744" />
       <file name="$USER_HOME$/Documents/lutron-connect-android-app/analytic-framework/build.gradle" timestamp="1589823388077" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/PairedOrganizationDetailActivity.java" timestamp="1589824371972" />
-      <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/models/ErrorObjects.kt" timestamp="1589773605306">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="5" column="46" />
-      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleOOBViewModel.kt" timestamp="1589830908735" />
     </filemarks>
     <jumps>
       <jump line="60" column="44" filename="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/ui/main/MainViewModel.kt" />
