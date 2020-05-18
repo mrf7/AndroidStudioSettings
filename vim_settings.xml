@@ -147,12 +147,12 @@
       <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/genericexamples/basics/example1/Example1.kt" timestamp="1589574844198">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Personal/DJApp/build.gradle.kts" timestamp="1589769710926">
+      <file name="$USER_HOME$/Documents/Personal/DJApp/build.gradle.kts" timestamp="1589770434983">
         <mark key="'" line="22" column="31" />
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="8" column="53" />
-        <mark key="^" line="8" column="53" />
-        <mark key="." line="8" column="52" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="16" column="20" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/genericexamples/basics/example4/Example4.kt" timestamp="1589574947964">
         <mark key="[" line="6" column="0" />
@@ -166,8 +166,10 @@
       <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/genericexamples/basics/example4/Example4LotsOfCoroutines.kt" timestamp="1589575448873">
         <mark key="[" line="11" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589769836795">
+      <file name="/Dummy.txt" timestamp="1589770262750">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/ui/main/MainFragment.kt" timestamp="1589574804249">
         <mark key="[" line="35" column="31" />
@@ -180,9 +182,6 @@
         <mark key="." line="1" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/genericexamples/basics/example2/Example2Suspend.kt" timestamp="1589575027353" />
-      <file name="$USER_HOME$/Documents/Personal/DJApp/buildSrc/src/main/kotlin/Versions.kt" timestamp="1589769571616">
-        <mark key="'" line="0" column="74" />
-      </file>
       <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/adapters/EitherCallAdapter.kt" timestamp="1589768460348" />
       <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/genericexamples/basics/example2/Example2.kt" timestamp="1589574917925">
         <mark key="[" line="9" column="60" />
@@ -313,7 +312,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBsaWZlQ3ljbGVWZXJzaW9uID0gIjIuMi4wLXJjMDMiCg==</text>
+        <text encoding="base64">ICAgIGlkKCJkZS5mYXlhcmQuYnVpbGRTcmNWZXJzaW9ucyIpIHZlcnNpb24gIjAuNy4wIgo=</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFOwo=</text>
@@ -340,34 +339,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtRm91bmREZXZpY2VzLnB1dChkZXZpY2UuZ2V0U2VyaWFsTnVtYmVyKCksIGRldmljZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBsaWZlQ3ljbGVWZXJzaW9uID0gIjIuMi4wLXJjMDMiCg==</text>
+        <text encoding="base64">ICAgIGlkKCJkZS5mYXlhcmQuYnVpbGRTcmNWZXJzaW9ucyIpIHZlcnNpb24gIjAuNy4wIgo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBuYXZWZXJzaW9uID0gIjIuMi4xIgo=</text>
+        <text>ccccccccccccccccccccccccccccccccc</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVwbGFjZUZyYWdtZW50KG5ldyBCbGVEZXZpY2VTZWxlY3RvckZyYWdtZW50KCksIFIuaWQuZnJhZ21lbnRfY29udGFpbmVyLCBudWxsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBhcnJvd192ZXJzaW9uID0gIjAuMTAuNCIK</text>
+        <text encoding="base64">ICAgIHZhbCBsaWZlQ3ljbGVWZXJzaW9uID0gIjIuMi4wLXJjMDMiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly9hbGxwcm9qZWN0cyB7Ci8vLy8gICAgYXBwbHkgZnJvbTogIiRyb290RGlyL2RldGVrdC5ncmFkbGUiCi8vfQo=</text>
+        <text encoding="base64">ICAgIHZhbCBuYXZWZXJzaW9uID0gIjIuMi4xIgo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgdGVzdFVVSUQgPSBVVUlEKDB4REVBRCwgMHhCRUVGKQogICAgICAgIHZhbCBjYWxsYmFjazogQ2xhaW1EZXZpY2VDb21tYW5kLkNsYWltRGV2aWNlQ29tbWFuZENhbGxiYWNrID0gbW9ja2socmVsYXhlZCA9IHRydWUpCiAgICAgICAgdmFsIGNvbW1hbmQgPSBDbGFpbURldmljZUNvbW1hbmQoCiAgICAgICAgICAgIHRlc3RVVUlELCAiYm9ndXNLZXkiLCAwLCAiYm9ndVhQYW5JZCIsCiAgICAgICAgICAgICJhTmV0d29ya05hbWUiLCAwLCByb290Q2VydCwgY2FsbGJhY2sKICAgICAgICApCgogICAgICAgIC8vIFZhbGlkIHJlc3BvbnNlcyBmb3IgZWFjaCBjaGFyYWN0ZXJpc3RpYyBleGNlcHQgb25lCiAgICAgICAgZXZlcnkgeyBtb2NrQ29ubmVjdGlvbi53cml0ZUNoYXJhY3RlcmlzdGljKENsYWltRGV2aWNlQ29tbWFuZC5DTEFJTUVSX0dVSUQsIGFueSgpKSB9IHJldHVybnMgU2luZ2xlLmVycm9yKAogICAgICAgICAgICBFeGNlcHRpb24oKQogICAgICAgICkKCiAgICAgICAgY29tbWFuZC5leGVjdXRlKG1vY2tEZXZpY2UpCiAgICAgICAgdmVyaWZ5IHsKICAgICAgICAgICAgY2FsbGJhY2sub25DbGFpbURldmljZUNvbW1hbmRSZXN1bHQoCiAgICAgICAgICAgICAgICBMdXRCbGVDb21tYW5kLkNvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFLAogICAgICAgICAgICAgICAgbnVsbAogICAgICAgICAgICApCiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBsdWdpbnMgeyAiJHJvb3REaXIvZGV0ZWt0LmdyYWRsZSIgfQo=</text>
+        <text encoding="base64">ICAgIHZhbCBhcnJvd192ZXJzaW9uID0gIjAuMTAuNCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgaWQoImNvbS5naXRodWIuYmVuLW1hbmVzLnZlcnNpb25zIikudmVyc2lvbigiMC4yOC4wIikK</text>
+        <text encoding="base64">Ly9hbGxwcm9qZWN0cyB7Ci8vLy8gICAgYXBwbHkgZnJvbTogIiRyb290RGlyL2RldGVrdC5ncmFkbGUiCi8vfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHBsdWdpbnMgeyAiJHJvb3REaXIvZGV0ZWt0LmdyYWRsZSIgfQo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9TVUNDRVNTOwo=</text>
@@ -376,7 +375,7 @@
         <text encoding="base64">Ly8gICAgaWQoImNvbS5naXRodWIuYmVuLW1hbmVzLnZlcnNpb25zIikudmVyc2lvbigiMC4yOC4wIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/vigilesReportDirectory/otherDir/g</text>
