@@ -152,21 +152,15 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/CoroutineContract.kt" timestamp="1589833192741" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/PairedOrganizationEnum.java" timestamp="1589824363463" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/BleOobState.kt" timestamp="1589831074732" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/UnclaimDeviceDialogFragment.java" timestamp="1589834868803" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/PairedOrganizationListActivity.java" timestamp="1589824505266" />
-      <file name="/Dummy.txt" timestamp="1589774087524">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/herokuProd/java/com/lutron/mmw/communication/DeviceLoginCommunicatorFactory.java" timestamp="1589815788400" />
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/DeviceLoginCommunicator.java" timestamp="1589815543635" />
-      <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/adapters/EitherCallAdapter.kt" timestamp="1589774058315">
-        <mark key="[" line="127" column="50" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/DataApiCommunicatorFactory.java" timestamp="1589815432728" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1589823413984" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/values/strings.xml" timestamp="1589824286744" />
       <file name="$USER_HOME$/Documents/lutron-connect-android-app/analytic-framework/build.gradle" timestamp="1589823388077" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/BleDeviceSelectorFragment.java" timestamp="1589834858479" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/PairedOrganizationDetailActivity.java" timestamp="1589824371972" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleOOBViewModel.kt" timestamp="1589831342017" />
     </filemarks>
