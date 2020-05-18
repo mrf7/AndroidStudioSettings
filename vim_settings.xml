@@ -144,15 +144,18 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/genericexamples/basics/example1/Example1.kt" timestamp="1589574844198">
-        <mark key="[" line="5" column="0" />
+      <file name="$USER_HOME$/Documents/Personal/DJApp/config/ktlint/.editorconfig" timestamp="1589773896718">
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="3" column="15" />
+        <mark key="^" line="3" column="15" />
+        <mark key="." line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Personal/DJApp/build.gradle.kts" timestamp="1589773065743">
-        <mark key="'" line="15" column="15" />
-        <mark key="[" line="31" column="9" />
-        <mark key="]" line="16" column="50" />
-        <mark key="^" line="32" column="30" />
-        <mark key="." line="16" column="50" />
+      <file name="$USER_HOME$/Documents/Personal/DJApp/build.gradle.kts" timestamp="1589773977759">
+        <mark key="'" line="32" column="16" />
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="28" column="67" />
+        <mark key="^" line="28" column="67" />
+        <mark key="." line="28" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/genericexamples/basics/example4/Example4.kt" timestamp="1589574947964">
         <mark key="[" line="6" column="0" />
@@ -163,16 +166,16 @@
         <mark key="." line="24" column="37" />
         <mark key="^" line="24" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/reviewrequests/ReviewRequestsFragment.kt" timestamp="1589773317040">
+        <mark key="[" line="27" column="65" />
+      </file>
       <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/genericexamples/basics/example4/Example4LotsOfCoroutines.kt" timestamp="1589575448873">
         <mark key="[" line="11" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589772833347">
+      <file name="/Dummy.txt" timestamp="1589773716357">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/ui/main/MainFragment.kt" timestamp="1589574804249">
-        <mark key="[" line="35" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/Personal/DJApp/buildSrc/src/main/kotlin/Libs.kt" timestamp="1589771639229">
         <mark key="'" line="8" column="17" />
@@ -190,12 +193,6 @@
         <mark key="^" line="29" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/adapters/EitherCallAdapter.kt" timestamp="1589768460348" />
-      <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/genericexamples/basics/example2/Example2.kt" timestamp="1589574917925">
-        <mark key="[" line="9" column="60" />
-        <mark key="]" line="9" column="60" />
-        <mark key="." line="9" column="59" />
-        <mark key="^" line="9" column="60" />
-      </file>
       <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/genericexamples/basics/example3/Example3.kt" timestamp="1589574930305">
         <mark key="[" line="6" column="0" />
       </file>
@@ -206,15 +203,14 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="5" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/models/ErrorObjects.kt" timestamp="1589772991588">
+      <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/models/ErrorObjects.kt" timestamp="1589773605306">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
-        <mark key="^" line="5" column="59" />
+        <mark key="^" line="5" column="46" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="31" filename="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/ui/main/MainViewModel.kt" />
       <jump line="60" column="44" filename="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/ui/main/MainViewModel.kt" />
       <jump line="61" column="62" filename="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/ui/main/MainViewModel.kt" />
       <jump line="145" column="34" filename="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/ui/main/MainViewModel.kt" />
@@ -314,6 +310,7 @@
       <jump line="96" column="73" filename="$USER_HOME$/Documents/Personal/DJApp/buildSrc/src/main/kotlin/Versions.kt" />
       <jump line="40" column="21" filename="$USER_HOME$/Documents/Personal/DJApp/app/build.gradle.kts" />
       <jump line="8" column="17" filename="$USER_HOME$/Documents/Personal/DJApp/buildSrc/src/main/kotlin/Libs.kt" />
+      <jump line="32" column="16" filename="$USER_HOME$/Documents/Personal/DJApp/build.gradle.kts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -322,7 +319,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gRXJyb3Igb2JqZWN0cyBkZWZpbmVkIGJ5IGh0dHBzOi8vZGV2ZWxvcGVyLnNwb3RpZnkuY29tL2RvY3VtZW50YXRpb24vd2ViLWFwaS8K</text>
+        <text encoding="base64">ZGlzYWJsZWRfcnVsZXMgPSBmaW5hbF9uZXdsaW5lCg==</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFOwo=</text>
@@ -334,7 +331,7 @@
         <text>rxBleScanResult.bleDevice.name == &quot;Ketra&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>.3.0-alpha04</text>
+        <text encoding="base64">IGh0dHBzOi8vZGV2ZWxvcGVyLnNwb3RpZnkuY29tL2RvY3VtZW50YXRpb24vd2ViLWFwaS8=</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -349,43 +346,43 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtRm91bmREZXZpY2VzLnB1dChkZXZpY2UuZ2V0U2VyaWFsTnVtYmVyKCksIGRldmljZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gRXJyb3Igb2JqZWN0cyBkZWZpbmVkIGJ5IGh0dHBzOi8vZGV2ZWxvcGVyLnNwb3RpZnkuY29tL2RvY3VtZW50YXRpb24vd2ViLWFwaS8K</text>
+        <text encoding="base64">ZGlzYWJsZWRfcnVsZXMgPSBmaW5hbF9uZXdsaW5lCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gRXJyb3Igb2JqZWN0cyBkZWZpbmVkIGJ5IGh0dHBzOi8vZGV2ZWxvcGVyLnNwb3RpZnkuY29tL2RvY3VtZW50YXRpb24vd2ViLWFwaS8K</text>
+        <text encoding="base64">Ly8gRXJyb3Igb2JqZWN0cyBkZWZpbmVkIGJ5Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVwbGFjZUZyYWdtZW50KG5ldyBCbGVEZXZpY2VTZWxlY3RvckZyYWdtZW50KCksIFIuaWQuZnJhZ21lbnRfY29udGFpbmVyLCBudWxsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gRXJyb3Igb2JqZWN0cyBkZWZpbmVkIGJ5IGh0dHBzOi8vZGV2ZWxvcGVyLnNwb3RpZnkuY29tL2RvY3VtZW50YXRpb24vd2ViLWFwaS8K</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgdGVzdFVVSUQgPSBVVUlEKDB4REVBRCwgMHhCRUVGKQogICAgICAgIHZhbCBjYWxsYmFjazogQ2xhaW1EZXZpY2VDb21tYW5kLkNsYWltRGV2aWNlQ29tbWFuZENhbGxiYWNrID0gbW9ja2socmVsYXhlZCA9IHRydWUpCiAgICAgICAgdmFsIGNvbW1hbmQgPSBDbGFpbURldmljZUNvbW1hbmQoCiAgICAgICAgICAgIHRlc3RVVUlELCAiYm9ndXNLZXkiLCAwLCAiYm9ndVhQYW5JZCIsCiAgICAgICAgICAgICJhTmV0d29ya05hbWUiLCAwLCByb290Q2VydCwgY2FsbGJhY2sKICAgICAgICApCgogICAgICAgIC8vIFZhbGlkIHJlc3BvbnNlcyBmb3IgZWFjaCBjaGFyYWN0ZXJpc3RpYyBleGNlcHQgb25lCiAgICAgICAgZXZlcnkgeyBtb2NrQ29ubmVjdGlvbi53cml0ZUNoYXJhY3RlcmlzdGljKENsYWltRGV2aWNlQ29tbWFuZC5DTEFJTUVSX0dVSUQsIGFueSgpKSB9IHJldHVybnMgU2luZ2xlLmVycm9yKAogICAgICAgICAgICBFeGNlcHRpb24oKQogICAgICAgICkKCiAgICAgICAgY29tbWFuZC5leGVjdXRlKG1vY2tEZXZpY2UpCiAgICAgICAgdmVyaWZ5IHsKICAgICAgICAgICAgY2FsbGJhY2sub25DbGFpbURldmljZUNvbW1hbmRSZXN1bHQoCiAgICAgICAgICAgICAgICBMdXRCbGVDb21tYW5kLkNvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFLAogICAgICAgICAgICAgICAgbnVsbAogICAgICAgICAgICApCiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly9hbGxwcm9qZWN0cyB7Ci8vICAgIGFwcGx5KGZpbGUoIiRyb290RGlyL2RldGVrdC5ncmFkbGUiKSkKLy99Cg==</text>
+        <text encoding="base64">Ly8gRXJyb3Igb2JqZWN0cyBkZWZpbmVkIGJ5IGh0dHBzOi8vZGV2ZWxvcGVyLnNwb3RpZnkuY29tL2RvY3VtZW50YXRpb24vd2ViLWFwaS8K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHZhbCBkZV9mYXlhcmRfYnVpbGRzcmN2ZXJzaW9uc19ncmFkbGVfcGx1Z2luOiBTdHJpbmcgPSAiMC43LjAiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9TVUNDRVNTOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqLwo=</text>
+        <text encoding="base64">Ly9hbGxwcm9qZWN0cyB7Ci8vICAgIGFwcGx5KGZpbGUoIiRyb290RGlyL2RldGVrdC5ncmFkbGUiKSkKLy99Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogR2VuZXJhdGVkIGJ5IGh0dHBzOi8vZ2l0aHViLmNvbS9qbWZheWFyZC9idWlsZFNyY1ZlcnNpb25zCiAqCiAqIEZpbmQgd2hpY2ggdXBkYXRlcyBhcmUgYXZhaWxhYmxlIGJ5IHJ1bm5pbmcKICogICAgIGAkIC4vZ3JhZGxldyBidWlsZFNyY1ZlcnNpb25zYAogKiBUaGlzIHdpbGwgb25seSB1cGRhdGUgdGhlIGNvbW1lbnRzLgogKgogKiBZT1UgYXJlIHJlc3BvbnNpYmxlIGZvciB1cGRhdGluZyBtYW51YWxseSB0aGUgZGVwZW5kZW5jeSB2ZXJzaW9uLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/vigilesReportDirectory/otherDir/g</text>
