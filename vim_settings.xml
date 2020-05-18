@@ -139,21 +139,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BleOOBActivity.kt" timestamp="1589830922703" />
-      <file name="$USER_HOME$/Documents/Personal/DJApp/config/ktlint/.editorconfig" timestamp="1589774017885">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="15" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/ketraOob/BleOOBStepsFragment.kt" timestamp="1589831102990" />
-      <file name="$USER_HOME$/Documents/Personal/DJApp/build.gradle.kts" timestamp="1589773977759">
-        <mark key="'" line="32" column="16" />
-        <mark key="[" line="27" column="12" />
-        <mark key="]" line="28" column="67" />
-        <mark key="^" line="28" column="67" />
-        <mark key="." line="28" column="66" />
-      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BleOOBActivity.kt" timestamp="1589831249653" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/ketraOob/BleOOBStepsFragment.kt" timestamp="1589831163800" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/EditButtonFailedDevicesPresenter.kt" timestamp="1589833180988" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/herokuProd/java/com.lutron.mmw.common/ConfigConstants.java" timestamp="1589815809625" />
       <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/genericexamples/basics/example5/Example5StructuredConcurrency.kt" timestamp="1589815078686">
         <mark key="[" line="24" column="30" />
@@ -161,6 +149,7 @@
         <mark key="." line="24" column="37" />
         <mark key="^" line="24" column="38" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/CoroutineContract.kt" timestamp="1589833192741" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/PairedOrganizationEnum.java" timestamp="1589824363463" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/BleOobState.kt" timestamp="1589831074732" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/PairedOrganizationListActivity.java" timestamp="1589824505266" />
@@ -179,7 +168,7 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/values/strings.xml" timestamp="1589824286744" />
       <file name="$USER_HOME$/Documents/lutron-connect-android-app/analytic-framework/build.gradle" timestamp="1589823388077" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/PairedOrganizationDetailActivity.java" timestamp="1589824371972" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleOOBViewModel.kt" timestamp="1589830908735" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleOOBViewModel.kt" timestamp="1589831342017" />
     </filemarks>
     <jumps>
       <jump line="60" column="44" filename="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/ui/main/MainViewModel.kt" />
