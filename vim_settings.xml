@@ -139,12 +139,44 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1589856612273">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/Libs.kt" timestamp="1589855485980">
+        <mark key="a" line="30" column="7" />
+        <mark key="r" line="183" column="7" />
+        <mark key="s" line="3" column="7" />
+        <mark key="t" line="164" column="0" />
+        <mark key="g" line="9" column="7" />
+        <mark key="'" line="31" column="37" />
+        <mark key="[" line="72" column="37" />
+      </file>
       <file name="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/AndroidX.kt" timestamp="1589852438861">
         <mark key="'" line="140" column="21" />
         <mark key="[" line="127" column="0" />
         <mark key="]" line="127" column="0" />
         <mark key="." line="127" column="0" />
         <mark key="^" line="127" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/DJApp/app/src/main/java/com/mfriend/djapp/reviewrequests/ReviewRequestsFragment.kt" timestamp="1589855579665">
+        <mark key="[" line="27" column="65" />
+        <mark key="]" line="27" column="103" />
+        <mark key="^" line="27" column="103" />
+        <mark key="." line="27" column="102" />
+      </file>
+      <file name="$USER_HOME$/Projects/DJApp/app/src/main/java/com/mfriend/djapp/reviewrequests/ReviewRequestsViewModel.kt" timestamp="1589857025154">
+        <mark key="[" line="17" column="46" />
+        <mark key="]" line="17" column="46" />
+        <mark key="^" line="17" column="46" />
+        <mark key="." line="17" column="45" />
+      </file>
+      <file name="$USER_HOME$/Projects/DJApp/app/src/main/java/com/mfriend/djapp/common/servicelocator/KoinModules.kt" timestamp="1589857170837">
+        <mark key="[" line="17" column="84" />
+        <mark key="]" line="18" column="52" />
+        <mark key="^" line="18" column="52" />
+        <mark key="." line="18" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/GradlePlugins.kt" timestamp="1589855274879">
         <mark key="'" line="11" column="32" />
@@ -172,35 +204,14 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="27" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/DJApp/app/build.gradle.kts" timestamp="1589853421232">
+        <mark key="^" line="16" column="47" />
+      </file>
       <file name="$USER_HOME$/Projects/DJApp/build.gradle.kts" timestamp="1589855643232">
         <mark key="[" line="32" column="41" />
         <mark key="]" line="33" column="81" />
         <mark key="." line="33" column="80" />
         <mark key="^" line="33" column="81" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1589856612273">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/Libs.kt" timestamp="1589855485980">
-        <mark key="a" line="30" column="7" />
-        <mark key="g" line="9" column="7" />
-        <mark key="'" line="31" column="37" />
-        <mark key="r" line="183" column="7" />
-        <mark key="s" line="3" column="7" />
-        <mark key="t" line="164" column="0" />
-        <mark key="[" line="72" column="37" />
-      </file>
-      <file name="$USER_HOME$/Projects/DJApp/app/src/main/java/com/mfriend/djapp/reviewrequests/ReviewRequestsFragment.kt" timestamp="1589855579665">
-        <mark key="[" line="27" column="65" />
-        <mark key="]" line="27" column="103" />
-        <mark key="^" line="27" column="103" />
-        <mark key="." line="27" column="102" />
-      </file>
-      <file name="$USER_HOME$/Projects/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/SpotifyApi.kt" timestamp="1589856071448" />
-      <file name="$USER_HOME$/Projects/DJApp/app/build.gradle.kts" timestamp="1589853421232">
-        <mark key="^" line="16" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/adapters/EitherCallAdapter.kt" timestamp="1589856571385">
         <mark key="[" line="69" column="0" />
@@ -208,8 +219,20 @@
         <mark key="." line="69" column="0" />
         <mark key="^" line="69" column="35" />
       </file>
+      <file name="$USER_HOME$/Projects/DJApp/app/src/main/java/com/mfriend/djapp/common/helper/Event.kt" timestamp="1589857290409">
+        <mark key="[" line="30" column="1" />
+        <mark key="]" line="27" column="94" />
+        <mark key="^" line="27" column="94" />
+        <mark key="." line="27" column="93" />
+      </file>
       <file name="/fragment.java" timestamp="1589852610417">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/DJApp/app/src/main/java/com/mfriend/djapp/common/DJApplication.kt" timestamp="1589857081155">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="17" column="88" />
+        <mark key="^" line="17" column="88" />
+        <mark key="." line="17" column="87" />
       </file>
     </filemarks>
     <jumps>
@@ -320,8 +343,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgdmFsIG5ldHdvcmtSZXNwb25zZSA9IHdoZW4gKHQpIHsKLy8gICAgICAgICAgICAgICAgICAgIGlzIElPRXhjZXB0aW9uIC0+IEVycm9yUmVzcG9uc2UuTmV0d29ya0Vycm9yKHQpCi8vICAgICAgICAgICAgICAgICAgICBlbHNlIC0+IEVycm9yUmVzcG9uc2UuVW5rbm93bkVycm9yKHQpCi8vICAgICAgICAgICAgICAgIH0ubGVmdCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFOwo=</text>
@@ -333,7 +356,7 @@
         <text>rxBleScanResult.bleDevice.name == &quot;Ketra&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
