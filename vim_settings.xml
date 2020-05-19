@@ -156,11 +156,11 @@
         <mark key="^" line="33" column="32" />
         <mark key="." line="33" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/Testing.kt" timestamp="1589852723183">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/Testing.kt" timestamp="1589853593228">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/Versions.kt" timestamp="1589852658307">
         <mark key="'" line="27" column="17" />
@@ -169,11 +169,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="27" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/DJApp/build.gradle.kts" timestamp="1589853396627">
-        <mark key="[" line="30" column="25" />
-        <mark key="]" line="30" column="25" />
-        <mark key="." line="30" column="24" />
-        <mark key="^" line="30" column="25" />
+      <file name="$USER_HOME$/Projects/DJApp/build.gradle.kts" timestamp="1589854390379">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="27" column="4" />
+        <mark key="." line="27" column="3" />
+        <mark key="^" line="27" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Personal/DJApp/config/ktlint/.editorconfig" timestamp="1589774017885">
         <mark key="[" line="3" column="0" />
@@ -181,7 +181,7 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589852762660">
+      <file name="/Dummy.txt" timestamp="1589854550649">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -197,9 +197,6 @@
         <mark key="[" line="66" column="15" />
         <mark key="]" line="66" column="23" />
         <mark key="^" line="66" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/reviewrequests/ReviewRequestsFragment.kt" timestamp="1589773317040">
-        <mark key="[" line="27" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/Personal/DJApp/build.gradle.kts" timestamp="1589773977759">
         <mark key="'" line="32" column="16" />
@@ -221,10 +218,6 @@
         <mark key="^" line="24" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/DJApp/app/build.gradle.kts" timestamp="1589853421232">
-        <mark key="'" line="66" column="24" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
         <mark key="^" line="16" column="47" />
       </file>
       <file name="/fragment.java" timestamp="1589852610417">
@@ -339,8 +332,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;org.jlleitschuh.gradle.ktlint&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG8K</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFOwo=</text>
@@ -367,22 +360,22 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtRm91bmREZXZpY2VzLnB1dChkZXZpY2UuZ2V0U2VyaWFsTnVtYmVyKCksIGRldmljZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEdyYWRsZVBsdWdpbnNWZXJzaW9ucwo=</text>
+        <text encoding="base64">ICAgIG8K</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG8K</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVwbGFjZUZyYWdtZW50KG5ldyBCbGVEZXZpY2VTZWxlY3RvckZyYWdtZW50KCksIFIuaWQuZnJhZ21lbnRfY29udGFpbmVyLCBudWxsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHZhbCBKVU5JVDogU3RyaW5nID0gIjQuMTMiCiAgICBjb25zdCB2YWwgTU9DS0s6IFN0cmluZyA9ICIxLjEwLjAiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">b2JqZWN0IFZlcnNpb25zIHsKICAgIGNvbnN0IHZhbCBjb21fc3F1YXJldXBfcmV0cm9maXQyOiBTdHJpbmcgPSAiMi44LjEiCiAgICBjb25zdCB2YWwgTU9TSElfS09UTElOOiBTdHJpbmcgPSAiMS44LjAiIC8vIGF2YWlsYWJsZTogIjEuOS4yIgogICAgY29uc3QgdmFsIEFSUk9XOiBTdHJpbmcgPSAiMC4xMC41IgogICAgY29uc3QgdmFsIEtPSU46IFN0cmluZyA9ICIyLjEuNSIKICAgIGNvbnN0IHZhbCBKVU5JVDogU3RyaW5nID0gIjQuMTMiCiAgICBjb25zdCB2YWwgT0tIVFRQX0xPR0dJTkdfSU5URVJDRVBUT1I6IFN0cmluZyA9ICI0LjcuMCIKICAgIGNvbnN0IHZhbCB0aW1iZXI6IFN0cmluZyA9ICI0LjcuMSIKICAgIGNvbnN0IHZhbCBNT0NLSzogU3RyaW5nID0gIjEuMTAuMCIKICAgIGNvbnN0IHZhbCBDT0lMOiBTdHJpbmcgPSAiMC4xMS4wIgp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgdGVzdFVVSUQgPSBVVUlEKDB4REVBRCwgMHhCRUVGKQogICAgICAgIHZhbCBjYWxsYmFjazogQ2xhaW1EZXZpY2VDb21tYW5kLkNsYWltRGV2aWNlQ29tbWFuZENhbGxiYWNrID0gbW9ja2socmVsYXhlZCA9IHRydWUpCiAgICAgICAgdmFsIGNvbW1hbmQgPSBDbGFpbURldmljZUNvbW1hbmQoCiAgICAgICAgICAgIHRlc3RVVUlELCAiYm9ndXNLZXkiLCAwLCAiYm9ndVhQYW5JZCIsCiAgICAgICAgICAgICJhTmV0d29ya05hbWUiLCAwLCByb290Q2VydCwgY2FsbGJhY2sKICAgICAgICApCgogICAgICAgIC8vIFZhbGlkIHJlc3BvbnNlcyBmb3IgZWFjaCBjaGFyYWN0ZXJpc3RpYyBleGNlcHQgb25lCiAgICAgICAgZXZlcnkgeyBtb2NrQ29ubmVjdGlvbi53cml0ZUNoYXJhY3RlcmlzdGljKENsYWltRGV2aWNlQ29tbWFuZC5DTEFJTUVSX0dVSUQsIGFueSgpKSB9IHJldHVybnMgU2luZ2xlLmVycm9yKAogICAgICAgICAgICBFeGNlcHRpb24oKQogICAgICAgICkKCiAgICAgICAgY29tbWFuZC5leGVjdXRlKG1vY2tEZXZpY2UpCiAgICAgICAgdmVyaWZ5IHsKICAgICAgICAgICAgY2FsbGJhY2sub25DbGFpbURldmljZUNvbW1hbmRSZXN1bHQoCiAgICAgICAgICAgICAgICBMdXRCbGVDb21tYW5kLkNvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFLAogICAgICAgICAgICAgICAgbnVsbAogICAgICAgICAgICApCiAgICAgICAgfQo=</text>
@@ -391,10 +384,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGRlcGVuZGVuY2llcy5BbmRyb2lkWFZlcnNpb25zCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEdyYWRsZVBsdWdpbnNWZXJzaW9ucwo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9TVUNDRVNTOwo=</text>
@@ -403,7 +396,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHZhbCBKVU5JVDogU3RyaW5nID0gIjQuMTMiCiAgICBjb25zdCB2YWwgTU9DS0s6IFN0cmluZyA9ICIxLjEwLjAiCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyBWZXJzaW9ucy8gVGVzdGluZ1ZlcnNpb25zL2c=</text>
