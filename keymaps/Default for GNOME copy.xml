@@ -13,7 +13,14 @@
     <keyboard-shortcut first-keystroke="shift ctrl alt t" />
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
+  <action id="UpdateRunningApplication" />
   <action id="Vcs.UpdateProject" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
   <action id="com.developerphil.adbidea.action.AdbIdeaQuickList">
     <keyboard-shortcut first-keystroke="shift ctrl alt a" />
     <keyboard-shortcut first-keystroke="shift ctrl a" />
