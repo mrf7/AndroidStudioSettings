@@ -149,12 +149,12 @@
       <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/adapters/EitherCallAdapter.kt" timestamp="1589774058315">
         <mark key="[" line="127" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/GradlePlugins.kt" timestamp="1589853311320">
+      <file name="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/GradlePlugins.kt" timestamp="1589855274879">
         <mark key="'" line="11" column="32" />
-        <mark key="[" line="33" column="32" />
-        <mark key="]" line="33" column="40" />
+        <mark key="[" line="21" column="31" />
+        <mark key="]" line="21" column="61" />
         <mark key="^" line="33" column="32" />
-        <mark key="." line="33" column="32" />
+        <mark key="." line="21" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/Testing.kt" timestamp="1589853593228">
         <mark key="'" line="12" column="0" />
@@ -169,11 +169,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="27" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/DJApp/build.gradle.kts" timestamp="1589854390379">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="27" column="4" />
-        <mark key="." line="27" column="3" />
-        <mark key="^" line="27" column="4" />
+      <file name="$USER_HOME$/Projects/DJApp/build.gradle.kts" timestamp="1589855643232">
+        <mark key="[" line="32" column="41" />
+        <mark key="]" line="33" column="81" />
+        <mark key="." line="33" column="80" />
+        <mark key="^" line="33" column="81" />
       </file>
       <file name="$USER_HOME$/Documents/Personal/DJApp/config/ktlint/.editorconfig" timestamp="1589774017885">
         <mark key="[" line="3" column="0" />
@@ -186,17 +186,23 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/Libs.kt" timestamp="1589852741907">
+      <file name="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/Libs.kt" timestamp="1589855485980">
         <mark key="a" line="30" column="7" />
         <mark key="g" line="9" column="7" />
-        <mark key="'" line="24" column="16" />
-        <mark key="." line="66" column="22" />
-        <mark key="r" line="182" column="7" />
+        <mark key="'" line="31" column="37" />
+        <mark key="." line="73" column="31" />
+        <mark key="r" line="183" column="7" />
         <mark key="s" line="3" column="7" />
-        <mark key="t" line="163" column="0" />
-        <mark key="[" line="66" column="15" />
-        <mark key="]" line="66" column="23" />
-        <mark key="^" line="66" column="23" />
+        <mark key="t" line="164" column="0" />
+        <mark key="[" line="72" column="37" />
+        <mark key="]" line="73" column="32" />
+        <mark key="^" line="73" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/DJApp/app/src/main/java/com/mfriend/djapp/reviewrequests/ReviewRequestsFragment.kt" timestamp="1589855579665">
+        <mark key="[" line="27" column="65" />
+        <mark key="]" line="27" column="103" />
+        <mark key="^" line="27" column="103" />
+        <mark key="." line="27" column="102" />
       </file>
       <file name="$USER_HOME$/Documents/Personal/DJApp/build.gradle.kts" timestamp="1589773977759">
         <mark key="'" line="32" column="16" />
@@ -204,12 +210,6 @@
         <mark key="]" line="28" column="67" />
         <mark key="^" line="28" column="67" />
         <mark key="." line="28" column="66" />
-      </file>
-      <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/models/ErrorObjects.kt" timestamp="1589773605306">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="5" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/genericexamples/basics/example5/Example5StructuredConcurrency.kt" timestamp="1589815078686">
         <mark key="[" line="24" column="30" />
@@ -310,7 +310,6 @@
       <jump line="252" column="0" filename="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/Libs.kt" />
       <jump line="164" column="0" filename="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/Libs.kt" />
       <jump line="63" column="0" filename="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/Libs.kt" />
-      <jump line="31" column="0" filename="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/Libs.kt" />
       <jump line="165" column="6" filename="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/Libs.kt" />
       <jump line="88" column="0" filename="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/Libs.kt" />
       <jump line="47" column="30" filename="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/Libs.kt" />
@@ -325,6 +324,7 @@
       <jump line="24" column="16" filename="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/Libs.kt" />
       <jump line="66" column="24" filename="$USER_HOME$/Projects/DJApp/app/build.gradle.kts" />
       <jump line="14" column="0" filename="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/Testing.kt" />
+      <jump line="31" column="37" filename="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/Libs.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -332,8 +332,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG8K</text>
+      <register name="&quot;" type="4">
+        <text>GradlePluginsVersions</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFOwo=</text>
@@ -345,7 +345,7 @@
         <text>rxBleScanResult.bleDevice.name == &quot;Ketra&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;org.jlleitschuh.gradle.ktlint&quot;</text>
+        <text>GradlePluginsVersions</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -360,7 +360,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtRm91bmREZXZpY2VzLnB1dChkZXZpY2UuZ2V0U2VyaWFsTnVtYmVyKCksIGRldmljZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG8K</text>
+        <text encoding="base64">Ly8gICAgICAgIHZlcnNpb24uc2V0KEdyYWRsZVBsdWdpbnNWZXJzaW9ucy5LVExJTlQpCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
@@ -372,7 +372,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmVwbGFjZUZyYWdtZW50KG5ldyBCbGVEZXZpY2VTZWxlY3RvckZyYWdtZW50KCksIFIuaWQuZnJhZ21lbnRfY29udGFpbmVyLCBudWxsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG8K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -384,19 +384,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGRlcGVuZGVuY2llcy5BbmRyb2lkWFZlcnNpb25zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEdyYWRsZVBsdWdpbnNWZXJzaW9ucwo=</text>
+        <text encoding="base64">aW1wb3J0IGRlcGVuZGVuY2llcy5BbmRyb2lkWFZlcnNpb25zCg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9TVUNDRVNTOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEdyYWRsZVBsdWdpbnNWZXJzaW9ucwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHZhbCBKVU5JVDogU3RyaW5nID0gIjQuMTMiCiAgICBjb25zdCB2YWwgTU9DS0s6IFN0cmluZyA9ICIxLjEwLjAiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyBWZXJzaW9ucy8gVGVzdGluZ1ZlcnNpb25zL2c=</text>
