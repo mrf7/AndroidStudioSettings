@@ -171,7 +171,6 @@
         <mark key="^" line="18" column="52" />
         <mark key="." line="18" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/DJApp/config/detekt/detekt.yml" timestamp="1589858033843" />
       <file name="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/GradlePlugins.kt" timestamp="1589855274879">
         <mark key="'" line="11" column="32" />
         <mark key="[" line="21" column="31" />
@@ -204,6 +203,7 @@
         <mark key="." line="23" column="3" />
         <mark key="^" line="23" column="4" />
       </file>
+      <file name="$USER_HOME$/Projects/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/models/UserDto.kt" timestamp="1589858615113" />
       <file name="$USER_HOME$/Projects/DJApp/app/build.gradle.kts" timestamp="1589853421232">
         <mark key="^" line="16" column="47" />
       </file>
