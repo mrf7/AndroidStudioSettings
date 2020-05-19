@@ -139,9 +139,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/BleAdvertiser.kt" timestamp="1589913913351" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/BleAdvertiser.kt" timestamp="1589915491779">
+        <mark key="[" line="69" column="25" />
+        <mark key="]" line="71" column="9" />
+        <mark key="^" line="71" column="9" />
+        <mark key="." line="71" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BleOOBActivity.kt" timestamp="1589895395644" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/ketraOob/BleOOBStepsFragment.kt" timestamp="1589895780227" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/ketraOob/BleOOBStepsFragment.kt" timestamp="1589915548349" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/EditButtonFailedDevicesPresenter.kt" timestamp="1589833180988" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/NLOSettingsPresenter.kt" timestamp="1589896361990" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/herokuProd/java/com.lutron.mmw.common/ConfigConstants.java" timestamp="1589815809625" />
