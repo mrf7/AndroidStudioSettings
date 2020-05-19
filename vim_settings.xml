@@ -29,7 +29,6 @@
         <entry>vigilesReportDirectory</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3N3aXRjaGVkL3NoYWRlL2c=</entry>
         <entry>s/diagnostic/claiming</entry>
         <entry>s/Left/Right/g</entry>
         <entry>s/next/previous/g</entry>
@@ -49,6 +48,7 @@
         <entry>s/FORM_FACTOR/DEVICE_CLASS/g</entry>
         <entry>wq</entry>
         <entry>s/vigilesReportDirectory/otherDir/g</entry>
+        <entry>source ~/.ideavimrc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -143,42 +143,36 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/ketraOob/BleOOBStepsFragment.kt" timestamp="1589831163800" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/EditButtonFailedDevicesPresenter.kt" timestamp="1589833180988" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/herokuProd/java/com.lutron.mmw.common/ConfigConstants.java" timestamp="1589815809625" />
-      <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/genericexamples/basics/example5/Example5StructuredConcurrency.kt" timestamp="1589815078686">
-        <mark key="[" line="24" column="30" />
-        <mark key="]" line="24" column="38" />
-        <mark key="." line="24" column="37" />
-        <mark key="^" line="24" column="38" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/CoroutineContract.kt" timestamp="1589847741605">
+        <mark key="'" line="37" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/CoroutineContract.kt" timestamp="1589833192741" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/PairedOrganizationEnum.java" timestamp="1589824363463" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/BleOobState.kt" timestamp="1589831074732" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/UnclaimDeviceDialogFragment.java" timestamp="1589834969775" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/UnclaimDeviceDialogFragment.java" timestamp="1589847383652">
+        <mark key="'" line="66" column="49" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/PairedOrganizationListActivity.java" timestamp="1589824505266" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/herokuProd/java/com/lutron/mmw/communication/DeviceLoginCommunicatorFactory.java" timestamp="1589815788400" />
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/DeviceLoginCommunicator.java" timestamp="1589815543635" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/DataApiCommunicatorFactory.java" timestamp="1589815432728" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/app/Activity.java" timestamp="1589847375588">
+        <mark key="'" line="8675" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1589823413984" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/values/strings.xml" timestamp="1589824286744" />
       <file name="$USER_HOME$/Documents/lutron-connect-android-app/analytic-framework/build.gradle" timestamp="1589823388077" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/BleDeviceSelectorFragment.java" timestamp="1589834858479" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/command/DeviceDiagnosticCommand.kt" timestamp="1589847808453">
+        <mark key="[" line="111" column="80" />
+        <mark key="]" line="113" column="44" />
+        <mark key="^" line="113" column="44" />
+        <mark key="." line="113" column="43" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/PairedOrganizationDetailActivity.java" timestamp="1589824371972" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleOOBViewModel.kt" timestamp="1589831342017" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleOOBViewModel.kt" timestamp="1589847795599">
+        <mark key="'" line="172" column="32" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="44" filename="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/ui/main/MainViewModel.kt" />
-      <jump line="61" column="62" filename="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/ui/main/MainViewModel.kt" />
-      <jump line="145" column="34" filename="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/ui/main/MainViewModel.kt" />
-      <jump line="123" column="34" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/ble/BleActivationViewModelTest.kt" />
-      <jump line="567" column="32" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/ble/BleActivationViewModelTest.kt" />
-      <jump line="31" column="47" filename="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/tls/GattOutputStream.kt" />
-      <jump line="32" column="55" filename="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/tls/GattOutputStream.kt" />
-      <jump line="5" column="36" filename="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/test/java/com/lutron/bluetoothclaiming/rules/CoroutinesTestRule.kt" />
-      <jump line="7" column="9" filename="$USER_HOME$/Documents/Sample/Kotlin-Coroutine-Use-Cases-on-Android-master/app/src/main/java/com/lukaslechner/coroutineusecasesonandroid/usecases/coroutines/usecase1/MockApi.kt" />
-      <jump line="8" column="31" filename="$USER_HOME$/Documents/Sample/Kotlin-Coroutine-Use-Cases-on-Android-master/app/src/main/java/com/lukaslechner/coroutineusecasesonandroid/usecases/coroutines/usecase1/PerformSingleNetworkRequestViewModel.kt" />
-      <jump line="12" column="34" filename="$USER_HOME$/Documents/Sample/Kotlin-Coroutine-Use-Cases-on-Android-master/app/src/main/java/com/lukaslechner/coroutineusecasesonandroid/usecases/coroutines/usecase1/MockApi.kt" />
-      <jump line="9" column="29" filename="$USER_HOME$/Documents/Sample/Kotlin-Coroutine-Use-Cases-on-Android-master/app/src/main/java/com/lukaslechner/coroutineusecasesonandroid/usecases/coroutines/usecase1/PerformSingleNetworkRequestViewModel.kt" />
-      <jump line="9" column="11" filename="$USER_HOME$/Documents/Sample/Kotlin-Coroutine-Use-Cases-on-Android-master/app/src/main/java/com/lukaslechner/coroutineusecasesonandroid/usecases/coroutines/usecase2/MockApi.kt" />
-      <jump line="16" column="65" filename="$USER_HOME$/Documents/Sample/Kotlin-Coroutine-Use-Cases-on-Android-master/app/src/main/java/com/lukaslechner/coroutineusecasesonandroid/usecases/coroutines/usecase1/PerformSingleNetworkRequestViewModel.kt" />
       <jump line="11" column="7" filename="$USER_HOME$/Documents/Sample/Kotlin-Coroutine-Use-Cases-on-Android-master/app/src/main/java/com/lukaslechner/coroutineusecasesonandroid/mock/MockApi.kt" />
       <jump line="10" column="9" filename="$USER_HOME$/Documents/Sample/Kotlin-Coroutine-Use-Cases-on-Android-master/app/src/main/java/com/lukaslechner/coroutineusecasesonandroid/usecases/coroutines/usecase1/PerformSingleNetworkRequestViewModel.kt" />
       <jump line="13" column="47" filename="$USER_HOME$/Documents/Sample/Kotlin-Coroutine-Use-Cases-on-Android-master/app/src/main/java/com/lukaslechner/coroutineusecasesonandroid/usecases/coroutines/usecase1/PerformSingleNetworkRequestActivity.kt" />
@@ -265,6 +259,20 @@
       <jump line="40" column="21" filename="$USER_HOME$/Documents/Personal/DJApp/app/build.gradle.kts" />
       <jump line="8" column="17" filename="$USER_HOME$/Documents/Personal/DJApp/buildSrc/src/main/kotlin/Libs.kt" />
       <jump line="32" column="16" filename="$USER_HOME$/Documents/Personal/DJApp/build.gradle.kts" />
+      <jump line="73" column="21" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/UnclaimDeviceDialogFragment.java" />
+      <jump line="40" column="30" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/UnclaimDeviceDialogFragment.java" />
+      <jump line="45" column="31" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/UnclaimDeviceDialogFragment.java" />
+      <jump line="4924" column="26" filename="$USER_HOME$/Library/Android/sdk/sources/android-29/android/app/Activity.java" />
+      <jump line="8672" column="58" filename="$USER_HOME$/Library/Android/sdk/sources/android-29/android/app/Activity.java" />
+      <jump line="8675" column="0" filename="$USER_HOME$/Library/Android/sdk/sources/android-29/android/app/Activity.java" />
+      <jump line="66" column="49" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/UnclaimDeviceDialogFragment.java" />
+      <jump line="30" column="20" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/CoroutineContract.kt" />
+      <jump line="35" column="39" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/CoroutineContract.kt" />
+      <jump line="34" column="20" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/CoroutineContract.kt" />
+      <jump line="37" column="55" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/CoroutineContract.kt" />
+      <jump line="139" column="9" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleOOBViewModel.kt" />
+      <jump line="177" column="31" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleOOBViewModel.kt" />
+      <jump line="172" column="32" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleOOBViewModel.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -339,7 +347,7 @@
         <text encoding="base64">Ly9hbGxwcm9qZWN0cyB7Ci8vICAgIGFwcGx5KGZpbGUoIiRyb290RGlyL2RldGVrdC5ncmFkbGUiKSkKLy99Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/vigilesReportDirectory/otherDir/g</text>
+        <text>source ~/.ideavimrc</text>
       </register>
     </registers>
   </component>
