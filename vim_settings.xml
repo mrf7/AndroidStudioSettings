@@ -139,7 +139,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/domain-objects/src/main/java/com/lutron/model/sonos/ServiceBase.java" timestamp="1589986627811" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/TimeClock.java" timestamp="1589990513392">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="22" />
@@ -148,49 +147,42 @@
         <mark key="'" line="188" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/ketraOob/BleOOBStepsFragment.kt" timestamp="1589986780524" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/SceneVoiceAliasRepo.kt" timestamp="1589995003735">
-        <mark key="[" line="39" column="7" />
-        <mark key="]" line="39" column="23" />
-        <mark key="^" line="39" column="23" />
-        <mark key="." line="39" column="22" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/AudioAssignmentDao.java" timestamp="1589990176049" />
       <file name="$USER_HOME$/Documents/caseta-android-app/roomDb/src/main/java/com/lutron/roomdb/dao/UserProfileDao.kt" timestamp="1589989620913">
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/ui/main/MainViewModel.kt" timestamp="1589983116535">
-        <mark key="[" line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/TestTableDao.java" timestamp="1589994780691" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/Alias.java" timestamp="1589990136808" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/TestTable.java" timestamp="1589996362475">
-        <mark key="[" line="29" column="36" />
-        <mark key="]" line="29" column="37" />
-        <mark key="." line="29" column="36" />
-        <mark key="^" line="29" column="37" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/TestTable.java" timestamp="1589997062527">
+        <mark key="[" line="21" column="13" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="27" column="37" />
+        <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel-ktx/2.2.0/3bc5992b0bb49e2d7ce92d34c45e54e1795cc03b/lifecycle-viewmodel-ktx-2.2.0-sources.jar!/androidx/lifecycle/ViewModel.kt" timestamp="1589983135021" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/MAreaDao.java" timestamp="1589998158223">
+        <mark key="'" line="78" column="28" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/Tip.java" timestamp="1589990311441" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao/3.1.1/a0164324ff506561f05ebfc03d05853be99a6781/greendao-3.1.1-sources.jar!/org/greenrobot/greendao/AbstractDao.java" timestamp="1589998130772" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/Zone.java" timestamp="1589988092295" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/TestRelation.java" timestamp="1589994600264">
-        <mark key="[" line="16" column="18" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/TestRelation.java" timestamp="1589997772600">
+        <mark key="[" line="14" column="14" />
         <mark key="]" line="16" column="19" />
         <mark key="^" line="16" column="19" />
         <mark key="." line="16" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589983897597">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/MArea.java" timestamp="1589997996697">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/genericexamples/basics/example6/Example6SwitchingContexts.kt" timestamp="1589982549093">
-        <mark key="'" line="23" column="101" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="23" column="115" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/MZone.java" timestamp="1589997970768">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="18" column="25" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/Area.java" timestamp="1589987930205" />
       <file name="/fragment.java" timestamp="1589994220830">
@@ -199,7 +191,6 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/ButtonDao.java" timestamp="1589990247051" />
     </filemarks>
     <jumps>
-      <jump line="230" column="38" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/BleDeviceSelectorFragment.java" />
       <jump line="54" column="53" filename="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/adapters/EitherCallAdapter.kt" />
       <jump line="32" column="64" filename="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/SpotifyApi.kt" />
       <jump line="20" column="19" filename="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/SpotifyModule.kt" />
@@ -299,6 +290,7 @@
       <jump line="21" column="12" filename="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/genericexamples/basics/example2/Example2Suspend.kt" />
       <jump line="15" column="8" filename="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/genericexamples/basics/example7/Example7SuspendFunctions.kt" />
       <jump line="188" column="25" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/AreaDao.java" />
+      <jump line="78" column="28" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/MAreaDao.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -307,7 +299,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">QEVudGl0eShhY3RpdmUgPSB0cnVlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFOwo=</text>
@@ -340,37 +332,37 @@
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBOdWxsYWJsZQogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgU3RyaW5nIGdldEhyZWYoKSB7CiAgICAgICAgcmV0dXJuIG51bGw7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgdm9pZCBtZXJnZShCYXNlRE8gYmFzZURPKSB7CgogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgaW5zZXJ0KCkgdGhyb3dzIERhb0V4Y2VwdGlvbiB7CgogICAgfQo=</text>
+        <text encoding="base64">ICAgIEBUb01hbnkKICAgIHByaXZhdGUgTGlzdDxNQXJlYT4gY2hpbGRyZW47Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVwbGFjZUZyYWdtZW50KG5ldyBCbGVEZXZpY2VTZWxlY3RvckZyYWdtZW50KCksIFIuaWQuZnJhZ21lbnRfY29udGFpbmVyLCBudWxsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBRdWVyeSgiU0VMRUNUICogRlJPTSAke1N5c3RlbUVudGl0eS5UQUJMRV9TWVNURU19IFdIRVJFICR7U3lzdGVtRW50aXR5LkNPTF9TWVNURU1fSUR9IikKICAgIGZ1biBnZXRSZWxhdGlvbnModXNlclByb2ZpbGVFbnRpdHk6IFVzZXJQcm9maWxlRW50aXR5KTogTGlzdDxTeXN0ZW1FbnRpdHk+CiAgICAK</text>
+        <text encoding="base64">ICAgIC8qKiBVc2VkIHRvIHJlc29sdmUgcmVsYXRpb25zICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBRdWVyeSgiU0VMRUNUICogRlJPTSAke1N5c3RlbUVudGl0eS5UQUJMRV9TWVNURU19IFdIRVJFICR7U3lzdGVtRW50aXR5LkNPTF9TWVNURU1fSUR9IikK</text>
+        <text encoding="base64">ICAgIEBHZW5lcmF0ZWQoaGFzaCA9IDIwNDAwNDAwMjQpCiAgICBwcml2YXRlIHRyYW5zaWVudCBEYW9TZXNzaW9uIGRhb1Nlc3Npb247CiAgICAvKiogVXNlZCBmb3IgYWN0aXZlIGVudGl0eSBvcGVyYXRpb25zLiAqLwogICAgQEdlbmVyYXRlZChoYXNoID0gNjQ1NzU2MTExKQogICAgcHJpdmF0ZSB0cmFuc2llbnQgVGVzdFJlbGF0aW9uRGFvIG15RGFvOwogICAgQEdlbmVyYXRlZChoYXNoID0gMzQ5NjY5NzY2KQogICAgcHVibGljIE1ab25lKGludCBpZCwgU3RyaW5nIG5hbWUsIGludCBudW1iZXIpIHsKICAgICAgICB0aGlzLmlkID0gaWQ7CiAgICAgICAgdGhpcy5uYW1lID0gbmFtZTsKICAgICAgICB0aGlzLm51bWJlciA9IG51bWJlcjsKICAgIH0KICAgIEBHZW5lcmF0ZWQoaGFzaCA9IDM1OTIzMDM1NykKICAgIHB1YmxpYyBNWm9uZSgpIHsKICAgIH0KICAgIHB1YmxpYyBTdHJpbmcgZ2V0TmFtZSgpIHsKICAgICAgICByZXR1cm4gdGhpcy5uYW1lOwogICAgfQogICAgcHVibGljIHZvaWQgc2V0TmFtZShTdHJpbmcgbmFtZSkgewogICAgICAgIHRoaXMubmFtZSA9IG5hbWU7CiAgICB9CiAgICBwdWJsaWMgaW50IGdldE51bWJlcigpIHsKICAgICAgICByZXR1cm4gdGhpcy5udW1iZXI7CiAgICB9CiAgICBwdWJsaWMgdm9pZCBzZXROdW1iZXIoaW50IG51bWJlcikgewogICAgICAgIHRoaXMubnVtYmVyID0gbnVtYmVyOwogICAgfQogICAgLyoqCiAgICAgKiBDb252ZW5pZW50IGNhbGwgZm9yIHtAbGluayBvcmcuZ3JlZW5yb2JvdC5ncmVlbmRhby5BYnN0cmFjdERhbyNkZWxldGUoT2JqZWN0KX0uCiAgICAgKiBFbnRpdHkgbXVzdCBhdHRhY2hlZCB0byBhbiBlbnRpdHkgY29udGV4dC4KICAgICAqLwogICAgQEdlbmVyYXRlZChoYXNoID0gMTI4NTUzNDc5KQogICAgcHVibGljIHZvaWQgZGVsZXRlKCkgewogICAgICAgIGlmIChteURhbyA9PSBudWxsKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBEYW9FeGNlcHRpb24oIkVudGl0eSBpcyBkZXRhY2hlZCBmcm9tIERBTyBjb250ZXh0Iik7CiAgICAgICAgfQogICAgICAgIG15RGFvLmRlbGV0ZSh0aGlzKTsKICAgIH0KICAgIC8qKgogICAgICogQ29udmVuaWVudCBjYWxsIGZvciB7QGxpbmsgb3JnLmdyZWVucm9ib3QuZ3JlZW5kYW8uQWJzdHJhY3REYW8jcmVmcmVzaChPYmplY3QpfS4KICAgICAqIEVudGl0eSBtdXN0IGF0dGFjaGVkIHRvIGFuIGVudGl0eSBjb250ZXh0LgogICAgICovCiAgICBAR2VuZXJhdGVkKGhhc2ggPSAxOTQyMzkyMDE5KQogICAgcHVibGljIHZvaWQgcmVmcmVzaCgpIHsKICAgICAgICBpZiAobXlEYW8gPT0gbnVsbCkgewogICAgICAgICAgICB0aHJvdyBuZXcgRGFvRXhjZXB0aW9uKCJFbnRpdHkgaXMgZGV0YWNoZWQgZnJvbSBEQU8gY29udGV4dCIpOwogICAgICAgIH0KICAgICAgICBteURhby5yZWZyZXNoKHRoaXMpOwogICAgfQogICAgLyoqCiAgICAgKiBDb252ZW5pZW50IGNhbGwgZm9yIHtAbGluayBvcmcuZ3JlZW5yb2JvdC5ncmVlbmRhby5BYnN0cmFjdERhbyN1cGRhdGUoT2JqZWN0KX0uCiAgICAgKiBFbnRpdHkgbXVzdCBhdHRhY2hlZCB0byBhbiBlbnRpdHkgY29udGV4dC4KICAgICAqLwogICAgQEdlbmVyYXRlZChoYXNoID0gNzEzMjI5MzUxKQogICAgcHVibGljIHZvaWQgdXBkYXRlKCkgewogICAgICAgIGlmIChteURhbyA9PSBudWxsKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBEYW9FeGNlcHRpb24oIkVudGl0eSBpcyBkZXRhY2hlZCBmcm9tIERBTyBjb250ZXh0Iik7CiAgICAgICAgfQogICAgICAgIG15RGFvLnVwZGF0ZSh0aGlzKTsKICAgIH0KICAgIC8qKiBjYWxsZWQgYnkgaW50ZXJuYWwgbWVjaGFuaXNtcywgZG8gbm90IGNhbGwgeW91cnNlbGYuICovCiAgICBAR2VuZXJhdGVkKGhhc2ggPSAyMTQ0NDAwNjYwKQogICAgcHVibGljIHZvaWQgX19zZXREYW9TZXNzaW9uKERhb1Nlc3Npb24gZGFvU2Vzc2lvbikgewogICAgICAgIHRoaXMuZGFvU2Vzc2lvbiA9IGRhb1Nlc3Npb247CiAgICAgICAgbXlEYW8gPSBkYW9TZXNzaW9uICE9IG51bGwgPyBkYW9TZXNzaW9uLmdldFRlc3RSZWxhdGlvbkRhbygpIDogbnVsbDsKICAgIH0KICAgIHB1YmxpYyBpbnQgZ2V0SWQoKSB7CiAgICAgICAgcmV0dXJuIHRoaXMuaWQ7CiAgICB9CiAgICBwdWJsaWMgdm9pZCBzZXRJZChpbnQgaWQpIHsKICAgICAgICB0aGlzLmlkID0gaWQ7CiAgICB9Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgdGVzdFVVSUQgPSBVVUlEKDB4REVBRCwgMHhCRUVGKQogICAgICAgIHZhbCBjYWxsYmFjazogQ2xhaW1EZXZpY2VDb21tYW5kLkNsYWltRGV2aWNlQ29tbWFuZENhbGxiYWNrID0gbW9ja2socmVsYXhlZCA9IHRydWUpCiAgICAgICAgdmFsIGNvbW1hbmQgPSBDbGFpbURldmljZUNvbW1hbmQoCiAgICAgICAgICAgIHRlc3RVVUlELCAiYm9ndXNLZXkiLCAwLCAiYm9ndVhQYW5JZCIsCiAgICAgICAgICAgICJhTmV0d29ya05hbWUiLCAwLCByb290Q2VydCwgY2FsbGJhY2sKICAgICAgICApCgogICAgICAgIC8vIFZhbGlkIHJlc3BvbnNlcyBmb3IgZWFjaCBjaGFyYWN0ZXJpc3RpYyBleGNlcHQgb25lCiAgICAgICAgZXZlcnkgeyBtb2NrQ29ubmVjdGlvbi53cml0ZUNoYXJhY3RlcmlzdGljKENsYWltRGV2aWNlQ29tbWFuZC5DTEFJTUVSX0dVSUQsIGFueSgpKSB9IHJldHVybnMgU2luZ2xlLmVycm9yKAogICAgICAgICAgICBFeGNlcHRpb24oKQogICAgICAgICkKCiAgICAgICAgY29tbWFuZC5leGVjdXRlKG1vY2tEZXZpY2UpCiAgICAgICAgdmVyaWZ5IHsKICAgICAgICAgICAgY2FsbGJhY2sub25DbGFpbURldmljZUNvbW1hbmRSZXN1bHQoCiAgICAgICAgICAgICAgICBMdXRCbGVDb21tYW5kLkNvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFLAogICAgICAgICAgICAgICAgbnVsbAogICAgICAgICAgICApCiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeWllbGQoKQo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogVXNlZCB0byByZXNvbHZlIHJlbGF0aW9ucwogICAgICovCiAgICBAR2VuZXJhdGVkKGhhc2ggPSAyMDQwMDQwMDI0KQogICAgcHJpdmF0ZSB0cmFuc2llbnQgRGFvU2Vzc2lvbiBkYW9TZXNzaW9uOwogICAgLyoqCiAgICAgKiBVc2VkIGZvciBhY3RpdmUgZW50aXR5IG9wZXJhdGlvbnMuCiAgICAgKi8KICAgIEBHZW5lcmF0ZWQoaGFzaCA9IDk0NTY1NjM0MykKICAgIHByaXZhdGUgdHJhbnNpZW50IFRlc3RUYWJsZURhbyBteURhbzsKICAgIEBHZW5lcmF0ZWQoaGFzaCA9IDE4ODQ3NjcyNDQpCiAgICBwcml2YXRlIHRyYW5zaWVudCBib29sZWFuIHJlbGF0aW9uUmVmX19yZWZyZXNoZWQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5NYWluU2NvcGUK</text>
+        <text encoding="base64">ICAgIEBHZW5lcmF0ZWQoKQogICAgcHVibGljIE1BcmVhKFN0cmluZyB1aWQsIGludCByZWNlaXZlZENvdW50LCBpbnQgc2hvd0NvdW50KSB7CiAgICAgICAgdGhpcy51aWQgPSB1aWQ7CiAgICB9CgogICAgQEdlbmVyYXRlZChoYXNoID0gMTE5NTAxMzk4KQogICAgcHVibGljIE1BcmVhKCkgewogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0VWlkKCkgewogICAgICAgIHJldHVybiB0aGlzLnVpZDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRVaWQoU3RyaW5nIHVpZCkgewogICAgICAgIHRoaXMudWlkID0gdWlkOwogICAgfQoKICAgIHB1YmxpYyBpbnQgZ2V0UmVjZWl2ZWRDb3VudCgpIHsKICAgICAgICByZXR1cm4gdGhpcy5yZWNlaXZlZENvdW50OwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFJlY2VpdmVkQ291bnQoaW50IHJlY2VpdmVkQ291bnQpIHsKICAgICAgICB0aGlzLnJlY2VpdmVkQ291bnQgPSByZWNlaXZlZENvdW50OwogICAgfQoKICAgIHB1YmxpYyBpbnQgZ2V0U2hvd0NvdW50KCkgewogICAgICAgIHJldHVybiB0aGlzLnNob3dDb3VudDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRTaG93Q291bnQoaW50IHNob3dDb3VudCkgewogICAgICAgIHRoaXMuc2hvd0NvdW50ID0gc2hvd0NvdW50OwogICAgfQoKICAgIC8qKgogICAgICogQ29udmVuaWVudCBjYWxsIGZvciB7QGxpbmsgb3JnLmdyZWVucm9ib3QuZ3JlZW5kYW8uQWJzdHJhY3REYW8jZGVsZXRlKE9iamVjdCl9LgogICAgICogRW50aXR5IG11c3QgYXR0YWNoZWQgdG8gYW4gZW50aXR5IGNvbnRleHQuCiAgICAgKi8KICAgIEBHZW5lcmF0ZWQoaGFzaCA9IDEyODU1MzQ3OSkKICAgIHB1YmxpYyB2b2lkIGRlbGV0ZSgpIHsKICAgICAgICBpZiAobXlEYW8gPT0gbnVsbCkgewogICAgICAgICAgICB0aHJvdyBuZXcgRGFvRXhjZXB0aW9uKCJFbnRpdHkgaXMgZGV0YWNoZWQgZnJvbSBEQU8gY29udGV4dCIpOwogICAgICAgIH0KICAgICAgICBteURhby5kZWxldGUodGhpcyk7CiAgICB9CgogICAgLyoqCiAgICAgKiBDb252ZW5pZW50IGNhbGwgZm9yIHtAbGluayBvcmcuZ3JlZW5yb2JvdC5ncmVlbmRhby5BYnN0cmFjdERhbyNyZWZyZXNoKE9iamVjdCl9LgogICAgICogRW50aXR5IG11c3QgYXR0YWNoZWQgdG8gYW4gZW50aXR5IGNvbnRleHQuCiAgICAgKi8KICAgIEBHZW5lcmF0ZWQoaGFzaCA9IDE5NDIzOTIwMTkpCiAgICBwdWJsaWMgdm9pZCByZWZyZXNoKCkgewogICAgICAgIGlmIChteURhbyA9PSBudWxsKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBEYW9FeGNlcHRpb24oIkVudGl0eSBpcyBkZXRhY2hlZCBmcm9tIERBTyBjb250ZXh0Iik7CiAgICAgICAgfQogICAgICAgIG15RGFvLnJlZnJlc2godGhpcyk7CiAgICB9CgogICAgLyoqCiAgICAgKiBDb252ZW5pZW50IGNhbGwgZm9yIHtAbGluayBvcmcuZ3JlZW5yb2JvdC5ncmVlbmRhby5BYnN0cmFjdERhbyN1cGRhdGUoT2JqZWN0KX0uCiAgICAgKiBFbnRpdHkgbXVzdCBhdHRhY2hlZCB0byBhbiBlbnRpdHkgY29udGV4dC4KICAgICAqLwogICAgQEdlbmVyYXRlZChoYXNoID0gNzEzMjI5MzUxKQogICAgcHVibGljIHZvaWQgdXBkYXRlKCkgewogICAgICAgIGlmIChteURhbyA9PSBudWxsKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBEYW9FeGNlcHRpb24oIkVudGl0eSBpcyBkZXRhY2hlZCBmcm9tIERBTyBjb250ZXh0Iik7CiAgICAgICAgfQogICAgICAgIG15RGFvLnVwZGF0ZSh0aGlzKTsKICAgIH0KCiAgICAvKioKICAgICAqIGNhbGxlZCBieSBpbnRlcm5hbCBtZWNoYW5pc21zLCBkbyBub3QgY2FsbCB5b3Vyc2VsZi4KICAgICAqLwogICAgQEdlbmVyYXRlZChoYXNoID0gNTA4MjY0NzYpCiAgICBwdWJsaWMgdm9pZCBfX3NldERhb1Nlc3Npb24oRGFvU2Vzc2lvbiBkYW9TZXNzaW9uKSB7CiAgICAgICAgdGhpcy5kYW9TZXNzaW9uID0gZGFvU2Vzc2lvbjsKICAgICAgICBteURhbyA9IGRhb1Nlc3Npb24gIT0gbnVsbCA/IGRhb1Nlc3Npb24uZ2V0VGVzdFRhYmxlRGFvKCkgOiBudWxsOwogICAgfQoKICAgIC8qKgogICAgICogVG8tb25lIHJlbGF0aW9uc2hpcCwgcmVzb2x2ZWQgb24gZmlyc3QgYWNjZXNzLgogICAgICovCiAgICBAR2VuZXJhdGVkKGhhc2ggPSAxNDIwOTM2NzMzKQogICAgcHVibGljIE1ab25lIGdldFpvbmUoKSB7CiAgICAgICAgaWYgKHpvbmUgIT0gbnVsbCB8fCAhcmVsYXRpb25SZWZfX3JlZnJlc2hlZCkgewogICAgICAgICAgICBpZiAoZGFvU2Vzc2lvbiA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICB0aHJvdyBuZXcgRGFvRXhjZXB0aW9uKCJFbnRpdHkgaXMgZGV0YWNoZWQgZnJvbSBEQU8gY29udGV4dCIpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIFRlc3RSZWxhdGlvbkRhbyB0YXJnZXREYW8gPSBkYW9TZXNzaW9uLmdldFRlc3RSZWxhdGlvbkRhbygpOwogICAgICAgICAgICB0YXJnZXREYW8ucmVmcmVzaCh6b25lKTsKICAgICAgICAgICAgcmVsYXRpb25SZWZfX3JlZnJlc2hlZCA9IHRydWU7CiAgICAgICAgfQogICAgICAgIHJldHVybiB6b25lOwogICAgfQoKICAgIC8qKgogICAgICogVG8tb25lIHJlbGF0aW9uc2hpcCwgcmV0dXJuZWQgZW50aXR5IGlzIG5vdCByZWZyZXNoZWQgYW5kIG1heSBjYXJyeSBvbmx5IHRoZSBQSyBwcm9wZXJ0eS4KICAgICAqLwogICAgQEdlbmVyYXRlZChoYXNoID0gMTU0NDY0NjY5OSkKICAgIHB1YmxpYyBNWm9uZSBwZWFrUmVsYXRpb25SZWYoKSB7CiAgICAgICAgcmV0dXJuIHpvbmU7CiAgICB9CgogICAgLyoqCiAgICAgKiBjYWxsZWQgYnkgaW50ZXJuYWwgbWVjaGFuaXNtcywgZG8gbm90IGNhbGwgeW91cnNlbGYuCiAgICAgKi8KICAgIEBHZW5lcmF0ZWQoaGFzaCA9IDEzMDc1NjE0NTIpCiAgICBwdWJsaWMgdm9pZCBzZXRab25lKE1ab25lIHpvbmUpIHsKICAgICAgICBzeW5jaHJvbml6ZWQgKHRoaXMpIHsKICAgICAgICAgICAgdGhpcy56b25lID0gem9uZTsKICAgICAgICAgICAgcmVsYXRpb25SZWZfX3JlZnJlc2hlZCA9IHRydWU7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5pbnZva2UK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNob3dDb3VudCA9IHNob3dDb3VudDsK</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9TVUNDRVNTOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBEaXNwYXRjaGVycy5JTyB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJlY2VpdmVkQ291bnQgPSByZWNlaXZlZENvdW50Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBNYWluU2NvcGUoKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IHNob3dDb3VudDsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyBWZXJzaW9ucy8gVGVzdGluZ1ZlcnNpb25zL2c=</text>
