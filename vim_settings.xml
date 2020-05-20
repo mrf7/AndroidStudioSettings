@@ -142,6 +142,23 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/response/processor/keypad/ResponseProcessor.java" timestamp="1590004990289">
         <mark key="'" line="100" column="153" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/service/ConnectionService.java" timestamp="1590006879898" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/TimeClock.java" timestamp="1589990513392">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/DeviceExtractCallable.java" timestamp="1590004358398" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/TestRelation.java" timestamp="1589997772600">
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="16" column="19" />
+        <mark key="^" line="16" column="19" />
+        <mark key="." line="16" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/MArea.java" timestamp="1589997996697">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/response/processor/keypad/LeapExceptionProcessor.java" timestamp="1590004370015" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/MZone.java" timestamp="1589997970768">
         <mark key="[" line="19" column="0" />
@@ -161,39 +178,26 @@
         <mark key="." line="41" column="49" />
         <mark key="^" line="41" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/TimeClock.java" timestamp="1589990513392">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="22" />
-      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/connection/state/Connected.java" timestamp="1590006987627" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/DataApiCommunicatorFactory.java" timestamp="1590005020954">
         <mark key="[" line="7" column="54" />
         <mark key="]" line="7" column="93" />
         <mark key="^" line="7" column="95" />
         <mark key="." line="7" column="94" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/DeviceExtractCallable.java" timestamp="1590004358398" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/MAreaDao.java" timestamp="1589998158223">
         <mark key="'" line="78" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/TestRelation.java" timestamp="1589997772600">
-        <mark key="[" line="14" column="14" />
-        <mark key="]" line="16" column="19" />
-        <mark key="^" line="16" column="19" />
-        <mark key="." line="16" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/build/generated/source/buildConfig/debug/com/lutron/cloudthings/BuildConfig.java" timestamp="1590005210238">
-        <mark key="[" line="20" column="52" />
-        <mark key="]" line="20" column="87" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/MArea.java" timestamp="1589997996697">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/build/generated/source/buildConfig/debug/com/lutron/cloudthings/BuildConfig.java" timestamp="1590005233041">
+        <mark key="[" line="21" column="56" />
+        <mark key="]" line="21" column="91" />
+        <mark key="^" line="21" column="55" />
+        <mark key="." line="21" column="54" />
       </file>
       <file name="/fragment.java" timestamp="1589994220830">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.java" timestamp="1590004546144">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.java" timestamp="1590006753159">
         <mark key="'" line="102" column="32" />
       </file>
     </filemarks>
@@ -306,7 +310,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>95c5fa4f-f827-41d2-a519-a974b41769ed</text>
+        <text>d4dbe588-271c-495f-bc1e-7833bb777a0c</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFOwo=</text>
@@ -316,6 +320,9 @@
       </register>
       <register name="k" type="4">
         <text>rxBleScanResult.bleDevice.name == &quot;Ketra&quot;</text>
+      </register>
+      <register name="+" type="4">
+        <text>d4dbe588-271c-495f-bc1e-7833bb777a0c</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">QmFzZURPIA==</text>
