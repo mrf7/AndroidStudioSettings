@@ -215,12 +215,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/4.7.0/14a6ce408b763bc8c54a37ee4c19a2f3539d5829/okhttp-4.7.0-sources.jar!/okhttp3/OkHttpClient.kt" timestamp="1589915837889">
         <mark key="'" line="561" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/DJApp/app/src/main/java/com/mfriend/djapp/common/DJApplication.kt" timestamp="1589857081155">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="17" column="88" />
-        <mark key="^" line="17" column="88" />
-        <mark key="." line="17" column="87" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="315" column="17" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/BleDeviceSelectorFragment.java" />
