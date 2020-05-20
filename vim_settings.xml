@@ -143,10 +143,8 @@
         <mark key="'" line="100" column="153" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/service/ConnectionService.java" timestamp="1590006879898" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/TimeClock.java" timestamp="1589990513392">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="22" />
-      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/connection/ConnectionSVO.java" timestamp="1590007605175" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/networkClientModule/src/main/java/com/lutron/networkclient/clients/HttpsClient.java" timestamp="1590007441192" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/DeviceExtractCallable.java" timestamp="1590004358398" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/TestRelation.java" timestamp="1589997772600">
         <mark key="[" line="14" column="14" />
@@ -178,7 +176,7 @@
         <mark key="." line="41" column="49" />
         <mark key="^" line="41" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/connection/state/Connected.java" timestamp="1590006987627" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/connection/state/Connected.java" timestamp="1590007595604" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/DataApiCommunicatorFactory.java" timestamp="1590005020954">
         <mark key="[" line="7" column="54" />
         <mark key="]" line="7" column="93" />
@@ -197,7 +195,7 @@
       <file name="/fragment.java" timestamp="1589994220830">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.java" timestamp="1590006753159">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.java" timestamp="1590007875963">
         <mark key="'" line="102" column="32" />
       </file>
     </filemarks>
