@@ -192,6 +192,7 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/MAreaDao.java" timestamp="1589998158223">
         <mark key="'" line="78" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/AreaReadCallable.java" timestamp="1590081981504" />
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/build/generated/source/buildConfig/debug/com/lutron/cloudthings/BuildConfig.java" timestamp="1590005233041">
         <mark key="[" line="21" column="56" />
         <mark key="]" line="21" column="91" />
