@@ -185,7 +185,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="6" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/common/db/daos/TrackDao.kt" timestamp="1590082080572" />
       <file name="/Dummy.txt" timestamp="1590086953118">
         <mark key="[" line="0" column="0" />
       </file>
@@ -207,6 +206,9 @@
         <mark key="]" line="18" column="74" />
         <mark key="^" line="18" column="74" />
         <mark key="." line="18" column="73" />
+      </file>
+      <file name="/fragment.java" timestamp="1590169030439">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
