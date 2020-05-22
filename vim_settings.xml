@@ -153,12 +153,6 @@
         <mark key="^" line="23" column="29" />
         <mark key="." line="21" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/tls/GattTlsManager.kt" timestamp="1590074872223">
-        <mark key="[" line="170" column="23" />
-        <mark key="]" line="170" column="23" />
-        <mark key="." line="170" column="22" />
-        <mark key="^" line="170" column="23" />
-      </file>
       <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/models/SpotifyErrorContainer.kt" timestamp="1590086312340">
         <mark key="[" line="10" column="19" />
       </file>
@@ -168,10 +162,13 @@
         <mark key="^" line="34" column="46" />
         <mark key="." line="34" column="45" />
       </file>
-      <file name="/fragment.kt" timestamp="1590086072095">
+      <file name="/fragment.kt" timestamp="1590168290357">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/request/creator/nest/ServiceRequestCreator.java" timestamp="1590154244040" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/FetchPrivacyUrlCallable.kt" timestamp="1590168201445">
+        <mark key="[" line="19" column="71" />
+      </file>
       <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/models/SpotifyContainer.kt" timestamp="1590086302766">
         <mark key="[" line="17" column="20" />
       </file>
@@ -198,8 +195,13 @@
         <mark key="^" line="138" column="8" />
         <mark key="." line="138" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/DataApiCommunicatorFactory.java" timestamp="1590167978533">
+        <mark key="[" line="7" column="54" />
+        <mark key="]" line="7" column="93" />
+        <mark key="^" line="7" column="95" />
+        <mark key="." line="7" column="94" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/AndroidManifest.xml" timestamp="1590089189365" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/AreaReadCallable.java" timestamp="1590081981504" />
       <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/SpotifyApi.kt" timestamp="1590086217406">
         <mark key="[" line="18" column="44" />
         <mark key="]" line="18" column="74" />
