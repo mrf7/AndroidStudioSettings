@@ -165,12 +165,6 @@
       <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/models/SpotifyContainer.kt" timestamp="1590086302766">
         <mark key="[" line="17" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/models/SpotifyErrorBody.kt" timestamp="1590086282626">
-        <mark key="[" line="17" column="25" />
-        <mark key="]" line="18" column="19" />
-        <mark key="^" line="18" column="19" />
-        <mark key="." line="18" column="18" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/ServiceReadCallable.java" timestamp="1590154184054" />
       <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/AndroidManifest.xml" timestamp="1590090243643">
         <mark key="[" line="2" column="0" />
@@ -178,14 +172,15 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="6" column="38" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.3.2/ec56f8ab85c3a275dc74457902787ff8294b1978/kotlinx-coroutines-core-1.3.2-sources.jar!/commonMain/channels/Channel.kt" timestamp="1590175583431" />
       <file name="/Dummy.txt" timestamp="1590086953118">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/tls/GattInputStream.kt" timestamp="1590173156819">
-        <mark key="[" line="22" column="3" />
-        <mark key="]" line="42" column="50" />
-        <mark key="." line="42" column="49" />
-        <mark key="^" line="42" column="50" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/tls/GattInputStream.kt" timestamp="1590175140702">
+        <mark key="[" line="56" column="7" />
+        <mark key="]" line="43" column="50" />
+        <mark key="." line="43" column="49" />
+        <mark key="^" line="43" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/adapters/EitherCallAdapter.kt" timestamp="1590086645226">
         <mark key="[" line="138" column="7" />
@@ -201,13 +196,13 @@
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/dataApi/LutronDataApiCommunicator.java" timestamp="1590171043136" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/AndroidManifest.xml" timestamp="1590089189365" />
-      <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/SpotifyApi.kt" timestamp="1590086217406">
-        <mark key="[" line="18" column="44" />
-        <mark key="]" line="18" column="74" />
-        <mark key="^" line="18" column="74" />
-        <mark key="." line="18" column="73" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.polidea.rxandroidble2/rxandroidble/1.10.0/ca4970e575580ccae23db40492690928eb2f505a/rxandroidble-1.10.0-sources.jar!/com/polidea/rxandroidble2/RxBleConnection.java" timestamp="1590173921948" />
+      <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/genericexamples/basics/FlowChannel.kt" timestamp="1590176397717">
+        <mark key="[" line="23" column="39" />
+        <mark key="]" line="24" column="20" />
+        <mark key="^" line="24" column="20" />
+        <mark key="." line="24" column="19" />
+      </file>
       <file name="/fragment.java" timestamp="1590169030439">
         <mark key="[" line="0" column="0" />
       </file>
@@ -321,7 +316,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIFRPRE8gTVJGIFdyaXRlIENsYXNzIGhlYWRlcgogKgogKiBDcmVhdGVkIGJ5IE1GcmllbmQgb24gNS8yMi8yMC4KICogQ29weXJpZ2h0IChjKSAyMDIwIEx1dHJvbi4gQWxsIHJpZ2h0cyByZXNlcnZlZC4KICovCg==</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFOwo=</text>
@@ -336,7 +331,7 @@
         <text>d4dbe588-271c-495f-bc1e-7833bb777a0c</text>
       </register>
       <register name="-" type="4">
-        <text>Feature</text>
+        <text>channel</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -351,7 +346,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtRm91bmREZXZpY2VzLnB1dChkZXZpY2UuZ2V0U2VyaWFsTnVtYmVyKCksIGRldmljZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIFRPRE8gTVJGIFdyaXRlIENsYXNzIGhlYWRlcgogKgogKiBDcmVhdGVkIGJ5IE1GcmllbmQgb24gNS8yMi8yMC4KICogQ29weXJpZ2h0IChjKSAyMDIwIEx1dHJvbi4gQWxsIHJpZ2h0cyByZXNlcnZlZC4KICovCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
@@ -366,28 +361,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDx1c2VzLWZlYXR1cmUgYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmhhcmR3YXJlLmxvY2F0aW9uLmdwcyIgLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgdGVzdFVVSUQgPSBVVUlEKDB4REVBRCwgMHhCRUVGKQogICAgICAgIHZhbCBjYWxsYmFjazogQ2xhaW1EZXZpY2VDb21tYW5kLkNsYWltRGV2aWNlQ29tbWFuZENhbGxiYWNrID0gbW9ja2socmVsYXhlZCA9IHRydWUpCiAgICAgICAgdmFsIGNvbW1hbmQgPSBDbGFpbURldmljZUNvbW1hbmQoCiAgICAgICAgICAgIHRlc3RVVUlELCAiYm9ndXNLZXkiLCAwLCAiYm9ndVhQYW5JZCIsCiAgICAgICAgICAgICJhTmV0d29ya05hbWUiLCAwLCByb290Q2VydCwgY2FsbGJhY2sKICAgICAgICApCgogICAgICAgIC8vIFZhbGlkIHJlc3BvbnNlcyBmb3IgZWFjaCBjaGFyYWN0ZXJpc3RpYyBleGNlcHQgb25lCiAgICAgICAgZXZlcnkgeyBtb2NrQ29ubmVjdGlvbi53cml0ZUNoYXJhY3RlcmlzdGljKENsYWltRGV2aWNlQ29tbWFuZC5DTEFJTUVSX0dVSUQsIGFueSgpKSB9IHJldHVybnMgU2luZ2xlLmVycm9yKAogICAgICAgICAgICBFeGNlcHRpb24oKQogICAgICAgICkKCiAgICAgICAgY29tbWFuZC5leGVjdXRlKG1vY2tEZXZpY2UpCiAgICAgICAgdmVyaWZ5IHsKICAgICAgICAgICAgY2FsbGJhY2sub25DbGFpbURldmljZUNvbW1hbmRSZXN1bHQoCiAgICAgICAgICAgICAgICBMdXRCbGVDb21tYW5kLkNvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFLAogICAgICAgICAgICAgICAgbnVsbAogICAgICAgICAgICApCiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGVtaXQoc3BvdGlmeUFwaS5nZXRVc2Vyc1BsYXlsaXN0cygpLm1hcCB7IGl0Lml0ZW1zIH0ubWFwTGVmdCB7IFVuaXQgfSkK</text>
+        <text encoding="base64">ICAgIDx1c2VzLWZlYXR1cmUgYW5kcm9pZDpuYW1lPSJhbmRyb2lkLmhhcmR3YXJlLmxvY2F0aW9uLmdwcyIgLz4K</text>
       </register>
       <register name="6" type="2">
-        <text>response</text>
+        <text encoding="base64">Ly8gICAgICAgIGVtaXQoc3BvdGlmeUFwaS5nZXRVc2Vyc1BsYXlsaXN0cygpLm1hcCB7IGl0Lml0ZW1zIH0ubWFwTGVmdCB7IFVuaXQgfSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocmVzdWx0KQo=</text>
+        <text>response</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9TVUNDRVNTOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgcHJpbnRsbihoZWFkZXJzKQovLyAgICBwcmludGxuKHJvd3MpCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocmVzdWx0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBtb2RlbE5hbWVzID0gZG9jLnNlbGVjdCgiaDIiKS5tYXAgeyBpdC50ZXh0KCkgfQo=</text>
+        <text encoding="base64">Ly8gICAgcHJpbnRsbihoZWFkZXJzKQovLyAgICBwcmludGxuKHJvd3MpCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>
