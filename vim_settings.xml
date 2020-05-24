@@ -164,7 +164,7 @@
       <file name="/Dummy.txt" timestamp="1590346359037">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/Libs.kt" timestamp="1590350671717">
+      <file name="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/Libs.kt" timestamp="1590351140731">
         <mark key="'" line="70" column="48" />
         <mark key="[" line="70" column="32" />
         <mark key="]" line="70" column="49" />
@@ -203,11 +203,11 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="41" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/DJApp/app/build.gradle.kts" timestamp="1590350839905">
+      <file name="$USER_HOME$/Projects/DJApp/app/build.gradle.kts" timestamp="1590350924440">
         <mark key="'" line="85" column="20" />
-        <mark key="[" line="80" column="49" />
-        <mark key="]" line="81" column="4" />
-        <mark key="." line="81" column="3" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
         <mark key="^" line="81" column="4" />
       </file>
     </filemarks>
@@ -320,7 +320,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIERvbnQgdXBkYXRlIHRvIDEuOS4yIGl0IGJyZWFrcyB0aGUgYnVpbGQgOigK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFOwo=</text>
@@ -350,43 +350,43 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtRm91bmREZXZpY2VzLnB1dChkZXZpY2UuZ2V0U2VyaWFsTnVtYmVyKCksIGRldmljZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIERvbnQgdXBkYXRlIHRvIDEuOS4yIGl0IGJyZWFrcyB0aGUgYnVpbGQgOigK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFdlYiByZXF1ZXN0IGRlcGVuZGVuY2llcyAoUmV0cm9maXQrTU9TSEkpCg==</text>
+        <text encoding="base64">ICAgIC8vIERvbnQgdXBkYXRlIHRvIDEuOS4yIGl0IGJyZWFrcyB0aGUgYnVpbGQgOigK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVwbGFjZUZyYWdtZW50KG5ldyBCbGVEZXZpY2VTZWxlY3RvckZyYWdtZW50KCksIFIuaWQuZnJhZ21lbnRfY29udGFpbmVyLCBudWxsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFdlYiByZXF1ZXN0IGRlcGVuZGVuY2llcyAoUmV0cm9maXQrTU9TSEkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKEFuZHJvaWRYLkxJRkVDWUNMRV9FWFRFTlNJT05TKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgdGVzdFVVSUQgPSBVVUlEKDB4REVBRCwgMHhCRUVGKQogICAgICAgIHZhbCBjYWxsYmFjazogQ2xhaW1EZXZpY2VDb21tYW5kLkNsYWltRGV2aWNlQ29tbWFuZENhbGxiYWNrID0gbW9ja2socmVsYXhlZCA9IHRydWUpCiAgICAgICAgdmFsIGNvbW1hbmQgPSBDbGFpbURldmljZUNvbW1hbmQoCiAgICAgICAgICAgIHRlc3RVVUlELCAiYm9ndXNLZXkiLCAwLCAiYm9ndVhQYW5JZCIsCiAgICAgICAgICAgICJhTmV0d29ya05hbWUiLCAwLCByb290Q2VydCwgY2FsbGJhY2sKICAgICAgICApCgogICAgICAgIC8vIFZhbGlkIHJlc3BvbnNlcyBmb3IgZWFjaCBjaGFyYWN0ZXJpc3RpYyBleGNlcHQgb25lCiAgICAgICAgZXZlcnkgeyBtb2NrQ29ubmVjdGlvbi53cml0ZUNoYXJhY3RlcmlzdGljKENsYWltRGV2aWNlQ29tbWFuZC5DTEFJTUVSX0dVSUQsIGFueSgpKSB9IHJldHVybnMgU2luZ2xlLmVycm9yKAogICAgICAgICAgICBFeGNlcHRpb24oKQogICAgICAgICkKCiAgICAgICAgY29tbWFuZC5leGVjdXRlKG1vY2tEZXZpY2UpCiAgICAgICAgdmVyaWZ5IHsKICAgICAgICAgICAgY2FsbGJhY2sub25DbGFpbURldmljZUNvbW1hbmRSZXN1bHQoCiAgICAgICAgICAgICAgICBMdXRCbGVDb21tYW5kLkNvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFLAogICAgICAgICAgICAgICAgbnVsbAogICAgICAgICAgICApCiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIFRpbWJlciBmb3IgbG9nZ2luZy4KICAgIGltcGxlbWVudGF0aW9uKExpYnMuVElNQkVSKQo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKEFuZHJvaWRYLkxJRkVDWUNMRV9FWFRFTlNJT05TKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRpbWJlciBmb3IgbG9nZ2luZy4KICAgIGltcGxlbWVudGF0aW9uKExpYnMuVElNQkVSKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFVJCiAgICBpbXBsZW1lbnRhdGlvbihBbmRyb2lkWC5DT05TVFJBSU5UX0xBWU9VVCkKICAgIGltcGxlbWVudGF0aW9uKEFuZHJvaWRYLlJFQ1lDTEVSVklFVykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9TVUNDRVNTOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKGVudHJ5LmtleSkK</text>
+        <text encoding="base64">ICAgIC8vIFVJCiAgICBpbXBsZW1lbnRhdGlvbihBbmRyb2lkWC5DT05TVFJBSU5UX0xBWU9VVCkKICAgIGltcGxlbWVudGF0aW9uKEFuZHJvaWRYLlJFQ1lDTEVSVklFVykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4obmFtZXNUYWJsZXNNYXAuc2l6ZSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGVudHJ5LmtleSkK</text>
       </register>
       <register name=":" type="4">
         <text>source ~/.ideavimrc</text>
