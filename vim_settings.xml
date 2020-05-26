@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>(</entry>
         <entry>viewpager</entry>
         <entry>byteData</entry>
         <entry>testParam</entry>
@@ -27,9 +26,9 @@
         <entry encoding="base64">XDxhbHNvXD4=</entry>
         <entry>drop</entry>
         <entry>coroutines</entry>
+        <entry>Yes</entry>
       </history-search>
       <history-cmd>
-        <entry>s/next/previous/g</entry>
         <entry>s/Pre/Post/g</entry>
         <entry encoding="base64">JzwsJz4vU3RyaW5nL1Byb2dyYW1taW5nTW9kZWwvZw==</entry>
         <entry encoding="base64">JzwsJz5zL1N0cmluZy9Qcm9ncmFtbWluZ01vZGVsL2c=</entry>
@@ -49,6 +48,7 @@
         <entry>s/</entry>
         <entry>s/'/&quot;/g</entry>
         <entry>source ~/.ideavimrc</entry>
+        <entry>s/Yes/No</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -139,36 +139,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.72/8c35588215bc56f828c189e9edc37ee51672cf5c/kotlin-stdlib-common-1.3.72-sources.jar!/kotlin/collections/Maps.kt" timestamp="1590346236488">
-        <mark key="'" line="251" column="2" />
-      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-rx2/1.3.2/bca1ce410083bea212d669c3496e30130d29fe65/kotlinx-coroutines-rx2-1.3.2-sources.jar!/RxChannel.kt" timestamp="1590502522202" />
       <file name="$USER_HOME$/Documents/caseta-android-app/dependenciesReport.txt" timestamp="1590500537499" />
-      <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/reviewrequests/ReviewRequestsFragment.kt" timestamp="1590180805014">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/DJApp/build.gradle.kts" timestamp="1590350445493">
         <mark key="[" line="29" column="34" />
         <mark key="]" line="29" column="35" />
         <mark key="^" line="29" column="35" />
         <mark key="." line="29" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/reviewrequests/ReviewRequestsViewModel.kt" timestamp="1590180694263">
-        <mark key="[" line="33" column="10" />
-        <mark key="]" line="34" column="46" />
-        <mark key="^" line="34" column="46" />
-        <mark key="." line="34" column="45" />
-      </file>
       <file name="/Dummy.txt" timestamp="1590351570557">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/ButtonsRepo.kt" timestamp="1590501802013" />
-      <file name="/fragment.kt" timestamp="1590345697206">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/DJApp/config/detekt/detekt.yml" timestamp="1590346316001">
         <mark key="'" line="27" column="30" />
       </file>
@@ -186,6 +168,25 @@
         <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1590500346980" />
+      <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/androidTest/java/com/mfriend/coroutinestestbench/genericexamples/basics/SubscribePocTest.kt" timestamp="1590503707727">
+        <mark key="'" line="30" column="8" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/test/java/com/mfriend/coroutinestestbench/SubscribePocTest.kt" timestamp="1590504340888">
+        <mark key="[" line="61" column="56" />
+        <mark key="]" line="61" column="64" />
+        <mark key="." line="61" column="63" />
+        <mark key="^" line="61" column="64" />
+      </file>
+      <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/genericexamples/basics/FlowChannel.kt" timestamp="1590503954187">
+        <mark key="'" line="23" column="22" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="^" line="48" column="32" />
+        <mark key="." line="48" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/response/processor/keypad/ZoneProcessorDecorator.java" timestamp="1590502096446" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/helper/OrphanZoneStatusManager.java" timestamp="1590502295633">
         <mark key="'" line="0" column="0" />
@@ -197,18 +198,12 @@
         <mark key="." line="34" column="34" />
         <mark key="^" line="34" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.java" timestamp="1590502042788" />
-      <file name="$USER_HOME$/Projects/DJApp/app/src/main/java/com/mfriend/djapp/SpotifyObjectParser.kt" timestamp="1590346272388">
-        <mark key="'" line="21" column="101" />
-        <mark key="[" line="21" column="47" />
-        <mark key="]" line="21" column="47" />
-        <mark key="." line="21" column="47" />
-        <mark key="^" line="21" column="120" />
+      <file name="/fragment.java" timestamp="1590503741220">
+        <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.java" timestamp="1590502042788" />
     </filemarks>
     <jumps>
-      <jump line="104" column="74" filename="$USER_HOME$/Documents/Personal/DJApp/buildSrc/src/main/kotlin/Versions.kt" />
-      <jump line="16" column="16" filename="$USER_HOME$/Documents/Personal/DJApp/build.gradle.kts" />
       <jump line="14" column="5" filename="$USER_HOME$/Documents/Personal/DJApp/build.gradle.kts" />
       <jump line="22" column="31" filename="$USER_HOME$/Documents/Personal/DJApp/build.gradle.kts" />
       <jump line="66" column="19" filename="$USER_HOME$/Documents/Personal/DJApp/buildSrc/src/main/kotlin/Libs.kt" />
@@ -307,6 +302,8 @@
       <jump line="70" column="48" filename="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/Libs.kt" />
       <jump line="64" column="97" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/helper/OrphanZoneStatusManager.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/helper/OrphanZoneStatusManager.java" />
+      <jump line="19" column="47" filename="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/androidTest/java/com/mfriend/coroutinestestbench/genericexamples/basics/SubscribePocTest.kt" />
+      <jump line="30" column="8" filename="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/androidTest/java/com/mfriend/coroutinestestbench/genericexamples/basics/SubscribePocTest.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -314,8 +311,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>toList</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFOwo=</text>
@@ -330,71 +327,71 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>toList</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
       </register>
       <register name="/" type="4">
-        <text>coroutines</text>
+        <text>Yes</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnVuIDxUPiB0b0Zsb3cob2JzOiBPYnNlcnZhYmxlPFQ+KTogRmxvdzxUPiA9IGZsb3cgeyBvYnMuY29sbGVjdCB7IGVtaXQoaXQpIH0gfQo=</text>
+        <text encoding="base64">ICAgICAgICBzdWJzY3JpYmVQb2Muem9uZVVwZGF0ZShab25lKCJObyIsIDQpKQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtRm91bmREZXZpY2VzLnB1dChkZXZpY2UuZ2V0U2VyaWFsTnVtYmVyKCksIGRldmljZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB5aWVsZCgpCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIChvYnMgYXMgT2JzZXJ2YWJsZVNvdXJjZTxUPikK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVwbGFjZUZyYWdtZW50KG5ldyBCbGVEZXZpY2VTZWxlY3RvckZyYWdtZW50KCksIFIuaWQuZnJhZ21lbnRfY29udGFpbmVyLCBudWxsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIERvbnQgdXBkYXRlIHRvIDEuOS4yIGl0IGJyZWFrcyB0aGUgYnVpbGQgOigK</text>
+        <text encoding="base64">ICAgICAgICB5aWVsZCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIFdlYiByZXF1ZXN0IGRlcGVuZGVuY2llcyAoUmV0cm9maXQrTU9TSEkpCg==</text>
+        <text encoding="base64">ICAgICAgICBqb2IuY2FuY2VsKCkK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgdGVzdFVVSUQgPSBVVUlEKDB4REVBRCwgMHhCRUVGKQogICAgICAgIHZhbCBjYWxsYmFjazogQ2xhaW1EZXZpY2VDb21tYW5kLkNsYWltRGV2aWNlQ29tbWFuZENhbGxiYWNrID0gbW9ja2socmVsYXhlZCA9IHRydWUpCiAgICAgICAgdmFsIGNvbW1hbmQgPSBDbGFpbURldmljZUNvbW1hbmQoCiAgICAgICAgICAgIHRlc3RVVUlELCAiYm9ndXNLZXkiLCAwLCAiYm9ndVhQYW5JZCIsCiAgICAgICAgICAgICJhTmV0d29ya05hbWUiLCAwLCByb290Q2VydCwgY2FsbGJhY2sKICAgICAgICApCgogICAgICAgIC8vIFZhbGlkIHJlc3BvbnNlcyBmb3IgZWFjaCBjaGFyYWN0ZXJpc3RpYyBleGNlcHQgb25lCiAgICAgICAgZXZlcnkgeyBtb2NrQ29ubmVjdGlvbi53cml0ZUNoYXJhY3RlcmlzdGljKENsYWltRGV2aWNlQ29tbWFuZC5DTEFJTUVSX0dVSUQsIGFueSgpKSB9IHJldHVybnMgU2luZ2xlLmVycm9yKAogICAgICAgICAgICBFeGNlcHRpb24oKQogICAgICAgICkKCiAgICAgICAgY29tbWFuZC5leGVjdXRlKG1vY2tEZXZpY2UpCiAgICAgICAgdmVyaWZ5IHsKICAgICAgICAgICAgY2FsbGJhY2sub25DbGFpbURldmljZUNvbW1hbmRSZXN1bHQoCiAgICAgICAgICAgICAgICBMdXRCbGVDb21tYW5kLkNvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFLAogICAgICAgICAgICAgICAgbnVsbAogICAgICAgICAgICApCiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKEFuZHJvaWRYLkxJRkVDWUNMRV9FWFRFTlNJT05TKQo=</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5hc3luYwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFRpbWJlciBmb3IgbG9nZ2luZy4KICAgIGltcGxlbWVudGF0aW9uKExpYnMuVElNQkVSKQo=</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5Kb2IK</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9TVUNDRVNTOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFVJCiAgICBpbXBsZW1lbnRhdGlvbihBbmRyb2lkWC5DT05TVFJBSU5UX0xBWU9VVCkKICAgIGltcGxlbWVudGF0aW9uKEFuZHJvaWRYLlJFQ1lDTEVSVklFVykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>source ~/.ideavimrc</text>
+        <text>s/Yes/No</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>coroutines</last-search>
+      <last-search>Yes</last-search>
       <last-offset />
-      <last-pattern>coroutines</last-pattern>
-      <last-replace>&quot;</last-replace>
-      <last-substitute>'</last-substitute>
+      <last-pattern>Yes</last-pattern>
+      <last-replace>No</last-replace>
+      <last-substitute>Yes</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
