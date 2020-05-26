@@ -139,18 +139,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-rx2/1.3.2/bca1ce410083bea212d669c3496e30130d29fe65/kotlinx-coroutines-rx2-1.3.2-sources.jar!/RxChannel.kt" timestamp="1590502522202" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/dependenciesReport.txt" timestamp="1590500537499" />
-      <file name="$USER_HOME$/Projects/DJApp/build.gradle.kts" timestamp="1590350445493">
-        <mark key="[" line="29" column="34" />
-        <mark key="]" line="29" column="35" />
-        <mark key="^" line="29" column="35" />
-        <mark key="." line="29" column="34" />
-      </file>
       <file name="/Dummy.txt" timestamp="1590351570557">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/ButtonsRepo.kt" timestamp="1590501802013" />
       <file name="$USER_HOME$/Projects/DJApp/config/detekt/detekt.yml" timestamp="1590346316001">
         <mark key="'" line="27" column="30" />
       </file>
@@ -161,13 +152,12 @@
         <mark key="^" line="70" column="49" />
         <mark key="." line="70" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/VoiceAliasSummaryRepo.kt" timestamp="1590501813264" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/AliasReadCallable.kt" timestamp="1590502317351">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1590500346980" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/Zone.java" timestamp="1590521084695" />
       <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/androidTest/java/com/mfriend/coroutinestestbench/genericexamples/basics/SubscribePocTest.kt" timestamp="1590503707727">
         <mark key="'" line="30" column="8" />
         <mark key="[" line="2" column="0" />
@@ -186,9 +176,14 @@
         <mark key="^" line="48" column="32" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/response/processor/keypad/ZoneProcessorDecorator.java" timestamp="1590502096446" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/helper/OrphanZoneStatusManager.java" timestamp="1590502295633">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/DJApp/build.gradle.kts" timestamp="1590350445493">
+        <mark key="[" line="29" column="34" />
+        <mark key="]" line="29" column="35" />
+        <mark key="^" line="29" column="35" />
+        <mark key="." line="29" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/DJApp/app/build.gradle.kts" timestamp="1590352597849">
         <mark key="'" line="87" column="20" />
@@ -200,7 +195,6 @@
       <file name="/fragment.java" timestamp="1590503741220">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.java" timestamp="1590502042788" />
     </filemarks>
     <jumps>
       <jump line="14" column="5" filename="$USER_HOME$/Documents/Personal/DJApp/build.gradle.kts" />
