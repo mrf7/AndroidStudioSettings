@@ -142,19 +142,11 @@
       <file name="/Dummy.txt" timestamp="1590351570557">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/NLOSettingsPresenterTest.kt" timestamp="1590604091970" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/response/processor/keypad/ResponseProcessor.java" timestamp="1590589989974">
         <mark key="'" line="144" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/DJApp/config/detekt/detekt.yml" timestamp="1590346316001">
-        <mark key="'" line="27" column="30" />
-      </file>
-      <file name="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/Libs.kt" timestamp="1590351140731">
-        <mark key="'" line="70" column="48" />
-        <mark key="[" line="70" column="32" />
-        <mark key="]" line="70" column="49" />
-        <mark key="^" line="70" column="49" />
-        <mark key="." line="70" column="48" />
-      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/layout/ble_device_claiming_layout.xml" timestamp="1590604392042" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/AliasReadCallable.kt" timestamp="1590595466582">
         <mark key="[" line="53" column="74" />
         <mark key="]" line="53" column="78" />
@@ -181,6 +173,8 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/BleDeviceSelectorFragment.java" timestamp="1590604170435" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/BleAreaFragment.java" timestamp="1590604778676" />
       <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/genericexamples/basics/FlowChannel.kt" timestamp="1590503954187">
         <mark key="'" line="23" column="22" />
         <mark key="[" line="48" column="0" />
@@ -190,12 +184,6 @@
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/helper/OrphanZoneStatusManager.java" timestamp="1590502295633">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/DJApp/build.gradle.kts" timestamp="1590350445493">
-        <mark key="[" line="29" column="34" />
-        <mark key="]" line="29" column="35" />
-        <mark key="^" line="29" column="35" />
-        <mark key="." line="29" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/DJApp/app/build.gradle.kts" timestamp="1590352597849">
         <mark key="'" line="87" column="20" />
@@ -207,6 +195,7 @@
       <file name="/fragment.java" timestamp="1590503741220">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/casetaMasterStrings/AppMasterStrings.txt" timestamp="1590604648336" />
     </filemarks>
     <jumps>
       <jump line="22" column="31" filename="$USER_HOME$/Documents/Personal/DJApp/build.gradle.kts" />
