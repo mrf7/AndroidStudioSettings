@@ -139,34 +139,40 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590351570557">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/NLOSettingsPresenterTest.kt" timestamp="1590604091970" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/response/processor/keypad/ResponseProcessor.java" timestamp="1590589989974">
         <mark key="'" line="144" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/layout/ble_device_claiming_layout.xml" timestamp="1590604392042" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/NLOSettingsPresenter.kt" timestamp="1590602509090" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/AssociatedResourceReadCallable.kt" timestamp="1590595081131">
+        <mark key="[" line="42" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/casetaMasterStrings/AppMasterStrings.txt" timestamp="1590604648336" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/VoiceAliasSummaryRepoA.kt" timestamp="1590605901806">
+        <mark key="[" line="13" column="29" />
+        <mark key="]" line="13" column="53" />
+        <mark key="^" line="13" column="53" />
+        <mark key="." line="13" column="52" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/AliasReadCallable.kt" timestamp="1590595466582">
         <mark key="[" line="53" column="74" />
         <mark key="]" line="53" column="78" />
         <mark key="." line="53" column="77" />
         <mark key="^" line="53" column="78" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/VoiceAliasSummaryRepo.kt" timestamp="1590594908769">
-        <mark key="[" line="76" column="55" />
-        <mark key="]" line="76" column="55" />
-        <mark key="." line="76" column="55" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/VoiceAliasSummaryRepo.kt" timestamp="1590605965960">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="75" />
+        <mark key="." line="39" column="26" />
+        <mark key="^" line="39" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/NLOSettingsPresenter.kt" timestamp="1590602509090" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/AssociatedResourceReadCallable.kt" timestamp="1590595081131">
-        <mark key="[" line="42" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/androidTest/java/com/mfriend/coroutinestestbench/genericexamples/basics/SubscribePocTest.kt" timestamp="1590503707727">
-        <mark key="'" line="30" column="8" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/IVoiceAliasSummaryRepo.kt" timestamp="1590605975403">
+        <mark key="'" line="15" column="4" />
+        <mark key="[" line="20" column="38" />
+        <mark key="]" line="20" column="38" />
+        <mark key="^" line="11" column="4" />
+        <mark key="." line="20" column="38" />
       </file>
       <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/test/java/com/mfriend/coroutinestestbench/SubscribePocTest.kt" timestamp="1590504391518">
         <mark key="[" line="8" column="0" />
@@ -182,23 +188,13 @@
         <mark key="^" line="48" column="32" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/helper/OrphanZoneStatusManager.java" timestamp="1590502295633">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/DJApp/app/build.gradle.kts" timestamp="1590352597849">
-        <mark key="'" line="87" column="20" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="34" column="35" />
-        <mark key="." line="34" column="34" />
-        <mark key="^" line="34" column="35" />
-      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BleClaimingActivity.kt" timestamp="1590604853823" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleSharedScreenViewModel.java" timestamp="1590604886475" />
       <file name="/fragment.java" timestamp="1590503741220">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/casetaMasterStrings/AppMasterStrings.txt" timestamp="1590604648336" />
     </filemarks>
     <jumps>
-      <jump line="22" column="31" filename="$USER_HOME$/Documents/Personal/DJApp/build.gradle.kts" />
       <jump line="66" column="19" filename="$USER_HOME$/Documents/Personal/DJApp/buildSrc/src/main/kotlin/Libs.kt" />
       <jump line="15" column="15" filename="$USER_HOME$/Documents/Personal/DJApp/build.gradle.kts" />
       <jump line="96" column="73" filename="$USER_HOME$/Documents/Personal/DJApp/buildSrc/src/main/kotlin/Versions.kt" />
@@ -298,6 +294,7 @@
       <jump line="19" column="47" filename="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/androidTest/java/com/mfriend/coroutinestestbench/genericexamples/basics/SubscribePocTest.kt" />
       <jump line="30" column="8" filename="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/androidTest/java/com/mfriend/coroutinestestbench/genericexamples/basics/SubscribePocTest.kt" />
       <jump line="144" column="53" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/response/processor/keypad/ResponseProcessor.java" />
+      <jump line="15" column="4" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/IVoiceAliasSummaryRepo.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -306,7 +303,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>IO</text>
+        <text>: Unit = withContext(dispatcher.IO) {</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFOwo=</text>
@@ -321,16 +318,16 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>IO</text>
+        <text>: Unit = withContext(dispatcher.IO) {</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
       </register>
       <register name="/" type="4">
-        <text>Yes</text>
+        <text>{</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJzY3JpYmVQb2Muem9uZVVwZGF0ZShab25lKCJObyIsIDQpKQo=</text>
+        <text encoding="base64">ICAgIHN1c3BlbmQgZnVuIGxvYWRBbGlhc1N1bW1hcnlEYXRhKCk6IFVuaXQgPSB3aXRoQ29udGV4dChkaXNwYXRjaGVyLklPKSB7Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtRm91bmREZXZpY2VzLnB1dChkZXZpY2UuZ2V0U2VyaWFsTnVtYmVyKCksIGRldmljZSk7Cg==</text>
@@ -375,17 +372,17 @@
         <text encoding="base64">ICAgICAgICBqb2IuY2FuY2VsKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>s/Yes/No</text>
+        <text>s/{/g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Yes</last-search>
+      <last-search>{</last-search>
       <last-offset />
-      <last-pattern>Yes</last-pattern>
-      <last-replace>No</last-replace>
-      <last-substitute>Yes</last-substitute>
+      <last-pattern>{</last-pattern>
+      <last-replace>g</last-replace>
+      <last-substitute>{</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
