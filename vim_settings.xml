@@ -144,6 +144,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/BleAdvertiser.kt" timestamp="1591044340100" />
       <file name="$USER_HOME$/Documents/caseta-android-app/config/detekt/detekt.yml" timestamp="1591042173978" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/ActivationFileImportCallable.java" timestamp="1591039926337" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/FileImportExportActivity.java" timestamp="1591039892729" />
@@ -191,9 +192,6 @@
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1591041666065">
         <mark key="'" line="468" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1590614616599">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
