@@ -156,6 +156,9 @@
         <mark key="^" line="86" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/EditButtonFailedDevicesPresenterTest.kt" timestamp="1591024382289" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/DeviceTypeEnum.java" timestamp="1591105099710">
+        <mark key="[" line="100" column="98" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/VoiceAliasSummaryRepoA.kt" timestamp="1590765702041">
         <mark key="'" line="72" column="16" />
         <mark key="[" line="73" column="16" />
