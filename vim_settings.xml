@@ -152,6 +152,7 @@
         <mark key="^" line="13" column="115" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/BleManufacturingData.java" timestamp="1591217968056" />
+      <file name="$USER_HOME$/Documents/Codelabs/clean-architecture-android-materials/starter/app/src/main/java/com/raywenderlich/android/majesticreader/framework/db/DocumentDao.kt" timestamp="1591219128441" />
       <file name="$USER_HOME$/Documents/Codelabs/clean-architecture-android-materials/starter/core/src/main/java/com/raywenderlich/android/majesticread/interactors/GetDocuments.kt" timestamp="1591217330606">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -168,17 +169,26 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/DeviceTypeEnum.java" timestamp="1591105099710">
-        <mark key="[" line="100" column="98" />
+      <file name="$USER_HOME$/Documents/Codelabs/clean-architecture-android-materials/starter/app/src/main/java/com/raywenderlich/android/majesticreader/framework/InMemoryOpenDocumentDataSource.kt" timestamp="1591218952501">
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="15" column="1" />
+        <mark key="^" line="15" column="1" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Codelabs/clean-architecture-android-materials/starter/app/build.gradle" timestamp="1591199786958">
         <mark key="[" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Codelabs/clean-architecture-android-materials/starter/core/src/main/java/com/raywenderlich/android/majesticread/data/DocumentRepository.kt" timestamp="1591217349397">
-        <mark key="[" line="24" column="24" />
-        <mark key="]" line="24" column="24" />
-        <mark key="." line="24" column="24" />
-        <mark key="^" line="24" column="86" />
+      <file name="$USER_HOME$/Documents/Codelabs/clean-architecture-android-materials/starter/app/src/main/java/com/raywenderlich/android/majesticreader/framework/RoomBookmarkDataSource.kt" timestamp="1591219456856">
+        <mark key="[" line="32" column="73" />
+        <mark key="]" line="34" column="91" />
+        <mark key="^" line="34" column="91" />
+        <mark key="." line="34" column="90" />
+      </file>
+      <file name="$USER_HOME$/Documents/Codelabs/clean-architecture-android-materials/starter/core/src/main/java/com/raywenderlich/android/majesticread/data/DocumentRepository.kt" timestamp="1591219000210">
+        <mark key="[" line="26" column="50" />
+        <mark key="]" line="26" column="63" />
+        <mark key="." line="26" column="62" />
+        <mark key="^" line="26" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/BleFormFactor.java" timestamp="1591218006090">
         <mark key="[" line="10" column="13" />
@@ -201,11 +211,10 @@
         <mark key="^" line="14" column="93" />
         <mark key="." line="14" column="92" />
       </file>
-      <file name="$USER_HOME$/Documents/Codelabs/clean-architecture-android-materials/starter/core/src/main/java/com/raywenderlich/android/majesticread/data/OpenDocumentDataSource.kt" timestamp="1591207318940">
-        <mark key="[" line="12" column="34" />
-        <mark key="]" line="14" column="35" />
-        <mark key="^" line="14" column="35" />
-        <mark key="." line="14" column="34" />
+      <file name="$USER_HOME$/Documents/Codelabs/clean-architecture-android-materials/starter/core/src/main/java/com/raywenderlich/android/majesticread/data/OpenDocumentDataSource.kt" timestamp="1591218922076">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1591199907370">
         <mark key="[" line="0" column="0" />
@@ -319,8 +328,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>Document</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFOwo=</text>
@@ -335,7 +344,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>Document</text>
+        <text>()</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -350,43 +359,43 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtRm91bmREZXZpY2VzLnB1dChkZXZpY2UuZ2V0U2VyaWFsTnVtYmVyKCksIGRldmljZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yYXl3ZW5kZXJsaWNoLmFuZHJvaWQubWFqZXN0aWNyZWFkZXIuZGF0YS5Eb2N1bWVudFJlcG9zaXRvcnkK</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5yYXl3ZW5kZXJsaWNoLmFuZHJvaWQubWFqZXN0aWNyZWFkZXIuRG9jdW1lbnRSZXBvc2l0b3J5Cg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVwbGFjZUZyYWdtZW50KG5ldyBCbGVEZXZpY2VTZWxlY3RvckZyYWdtZW50KCksIFIuaWQuZnJhZ21lbnRfY29udGFpbmVyLCBudWxsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbWZyaWVuZCBvbiA2LzMvMjAuCiAqCiAqIFRPRE8gbWZyaWVuZCBXUklURSBDTEFTUyBIRUFERVIKICovCg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuYXd0LnByaW50LkJvb2sK</text>
+        <text encoding="base64">ICAgICAgICBvcGVuRG9jdW1lbnREYXRhU291cmNlLnNldE9wZW5Eb2N1bWVudChkb2N1bWVudCkK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgdGVzdFVVSUQgPSBVVUlEKDB4REVBRCwgMHhCRUVGKQogICAgICAgIHZhbCBjYWxsYmFjazogQ2xhaW1EZXZpY2VDb21tYW5kLkNsYWltRGV2aWNlQ29tbWFuZENhbGxiYWNrID0gbW9ja2socmVsYXhlZCA9IHRydWUpCiAgICAgICAgdmFsIGNvbW1hbmQgPSBDbGFpbURldmljZUNvbW1hbmQoCiAgICAgICAgICAgIHRlc3RVVUlELCAiYm9ndXNLZXkiLCAwLCAiYm9ndVhQYW5JZCIsCiAgICAgICAgICAgICJhTmV0d29ya05hbWUiLCAwLCByb290Q2VydCwgY2FsbGJhY2sKICAgICAgICApCgogICAgICAgIC8vIFZhbGlkIHJlc3BvbnNlcyBmb3IgZWFjaCBjaGFyYWN0ZXJpc3RpYyBleGNlcHQgb25lCiAgICAgICAgZXZlcnkgeyBtb2NrQ29ubmVjdGlvbi53cml0ZUNoYXJhY3RlcmlzdGljKENsYWltRGV2aWNlQ29tbWFuZC5DTEFJTUVSX0dVSUQsIGFueSgpKSB9IHJldHVybnMgU2luZ2xlLmVycm9yKAogICAgICAgICAgICBFeGNlcHRpb24oKQogICAgICAgICkKCiAgICAgICAgY29tbWFuZC5leGVjdXRlKG1vY2tEZXZpY2UpCiAgICAgICAgdmVyaWZ5IHsKICAgICAgICAgICAgY2FsbGJhY2sub25DbGFpbURldmljZUNvbW1hbmRSZXN1bHQoCiAgICAgICAgICAgICAgICBMdXRCbGVDb21tYW5kLkNvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFLAogICAgICAgICAgICAgICAgbnVsbAogICAgICAgICAgICApCiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXQodmFsdWUpIHt9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxpYXNlcy5wYXJ0aXRpb24gewogICAgICAgICAgICAgICAgcmVwby5nZXRBc3NvY2lhdGVkUmVzb3VyY2UoaXQpIGlzIEVpdGhlck9mLkxlZnQKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBnZXQoKSA9IFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBzZXRPcGVuRG9jdW1lbnQoZG9jdW1lbnQ6IERvY3VtZW50KSB7CiAgICAgICAgVE9ETygiTm90IHlldCBpbXBsZW1lbnRlZCIpCiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIGdldE9wZW5Eb2N1bWVudCgpOiBEb2N1bWVudCB7CiAgICAgICAgVE9ETygiTm90IHlldCBpbXBsZW1lbnRlZCIpCiAgICB9Cg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9TVUNDRVNTOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBldmVyeSB7CiAgICAgICAgICAgIENvbW11bmljYXRpb25NYW5hZ2VyLmdldEluc3RhbmNlKCkKICAgICAgICB9IHJldHVybnMgY29tbXVuaWNhdGlvbk1hbmFnZXIK</text>
+        <text encoding="base64">ICAgIGZ1biBnZXRPcGVuRG9jdW1lbnQoKTogRG9jdW1lbnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1biBzZXRPcGVuRG9jdW1lbnQoZG9jdW1lbnQ6IERvY3VtZW50KQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/scene/zone/g</text>
