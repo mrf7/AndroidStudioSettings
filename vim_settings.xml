@@ -145,6 +145,12 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/BleAdvertiser.kt" timestamp="1591044340100" />
+      <file name="$USER_HOME$/Documents/Codelabs/clean-architecture-android-materials/starter/core/build.gradle" timestamp="1591199777775">
+        <mark key="[" line="5" column="72" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/config/detekt/detekt.yml" timestamp="1591042173978" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/ActivationFileImportCallable.java" timestamp="1591039926337" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/FileImportExportActivity.java" timestamp="1591039892729" />
@@ -158,6 +164,9 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/EditButtonFailedDevicesPresenterTest.kt" timestamp="1591024382289" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/DeviceTypeEnum.java" timestamp="1591105099710">
         <mark key="[" line="100" column="98" />
+      </file>
+      <file name="$USER_HOME$/Documents/Codelabs/clean-architecture-android-materials/starter/app/build.gradle" timestamp="1591199786958">
+        <mark key="[" line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/VoiceAliasSummaryRepoA.kt" timestamp="1590765702041">
         <mark key="'" line="72" column="16" />
