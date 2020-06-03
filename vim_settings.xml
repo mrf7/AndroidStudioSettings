@@ -139,11 +139,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/reviewrequests/ReviewRequestRepo.kt" timestamp="1590689697028">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/BleAdvertiser.kt" timestamp="1591044340100" />
       <file name="$USER_HOME$/Documents/Codelabs/clean-architecture-android-materials/starter/core/build.gradle" timestamp="1591199777775">
         <mark key="[" line="5" column="72" />
@@ -204,6 +199,9 @@
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1591041666065">
         <mark key="'" line="464" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1591199907370">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
