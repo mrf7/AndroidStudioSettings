@@ -167,7 +167,7 @@
       </file>
       <file name="$USER_HOME$/Documents/Personal/DJApp/buildSrc/src/main/kotlin/AndroidX.kt" timestamp="1591220095873" />
       <file name="$USER_HOME$/Documents/Codelabs/clean-architecture-android-materials/starter/app/src/main/java/com/raywenderlich/android/majesticreader/framework/Interactors.kt" timestamp="1591219599455" />
-      <file name="$USER_HOME$/Documents/Codelabs/clean-architecture-android-materials/starter/app/src/main/java/com/raywenderlich/android/majesticreader/presentation/reader/ReaderViewModel.kt" timestamp="1591221008372">
+      <file name="$USER_HOME$/Documents/Codelabs/clean-architecture-android-materials/starter/app/src/main/java/com/raywenderlich/android/majesticreader/presentation/reader/ReaderViewModel.kt" timestamp="1591275429358">
         <mark key="[" line="47" column="75" />
         <mark key="]" line="55" column="9" />
         <mark key="^" line="55" column="9" />
