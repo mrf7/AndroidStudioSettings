@@ -139,7 +139,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/BleManufacturingData.java" timestamp="1591217968056" />
       <file name="$USER_HOME$/Documents/Codelabs/clean-architecture-android-materials/starter/app/src/main/java/com/raywenderlich/android/majesticreader/framework/db/DocumentDao.kt" timestamp="1591219128441" />
       <file name="$USER_HOME$/Documents/Codelabs/clean-architecture-android-materials/starter/app/src/main/java/com/raywenderlich/android/majesticreader/framework/InMemoryOpenDocumentDataSource.kt" timestamp="1591218952501">
         <mark key="[" line="14" column="39" />
@@ -179,7 +178,7 @@
         <mark key="." line="26" column="62" />
         <mark key="^" line="26" column="63" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/BleFormFactor.java" timestamp="1591218006090">
+      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/BleFormFactor.java" timestamp="1591275454633">
         <mark key="[" line="10" column="13" />
         <mark key="]" line="11" column="6" />
         <mark key="^" line="11" column="6" />
@@ -196,6 +195,9 @@
         <mark key="]" line="55" column="43" />
         <mark key="." line="55" column="42" />
         <mark key="^" line="55" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1591275478279">
+        <mark key="'" line="464" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Codelabs/clean-architecture-android-materials/starter/core/src/main/java/com/raywenderlich/android/majesticread/interactors/AddDocument.kt" timestamp="1591220271011">
         <mark key="[" line="13" column="51" />
