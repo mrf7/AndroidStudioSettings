@@ -139,7 +139,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/Codelabs/clean-architecture-android-materials/starter/app/src/main/java/com/raywenderlich/android/majesticreader/framework/db/DocumentDao.kt" timestamp="1591219128441" />
       <file name="$USER_HOME$/Documents/Sample/Kotlin-Coroutine-Use-Cases-on-Android/app/src/main/java/com/lukaslechner/coroutineusecasesonandroid/usecases/coroutines/usecase14/ContinueCoroutineWhenUserLeavesScreenViewModel.kt" timestamp="1591370657628">
         <mark key="'" line="18" column="52" />
       </file>
@@ -194,7 +193,7 @@
         <mark key="^" line="55" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1591623617765">
-        <mark key="'" line="464" column="0" />
+        <mark key="'" line="469" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Codelabs/clean-architecture-android-materials/starter/core/src/main/java/com/raywenderlich/android/majesticread/interactors/AddDocument.kt" timestamp="1591220271011">
         <mark key="[" line="13" column="51" />
