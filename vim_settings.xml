@@ -159,10 +159,11 @@
         <mark key="'" line="22" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/SceneVoiceAliasRepo.kt" timestamp="1591647944214" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/DeviceCategoryActivity.java" timestamp="1591648399931">
-        <mark key="[" line="112" column="60" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/DeviceCategoryActivity.java" timestamp="1591649515676">
+        <mark key="[" line="113" column="93" />
+        <mark key="]" line="113" column="94" />
+        <mark key="." line="113" column="93" />
+        <mark key="^" line="113" column="94" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/strategy/deviceUtil/CasetaDeviceUtilsStrategy.java" timestamp="1591638679577">
         <mark key="[" line="98" column="55" />
@@ -195,11 +196,11 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1591623617765">
         <mark key="'" line="469" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/RingActivity.kt" timestamp="1591648475813">
-        <mark key="[" line="20" column="5" />
-        <mark key="]" line="24" column="52" />
-        <mark key="." line="24" column="51" />
-        <mark key="^" line="24" column="52" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/RingActivity.kt" timestamp="1591649500574">
+        <mark key="[" line="29" column="71" />
+        <mark key="]" line="29" column="82" />
+        <mark key="." line="29" column="81" />
+        <mark key="^" line="29" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/ControlStationReadCallable.java" timestamp="1591647972897" />
       <file name="/fragment.java" timestamp="1591647633163">
@@ -314,8 +315,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vVE9ETyBNUkYgbGF1bmNoIHJpbmcgYWN0aXZpdHkK</text>
+      <register name="&quot;" type="4">
+        <text>javaClass</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFOwo=</text>
@@ -330,7 +331,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>javaClass</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
