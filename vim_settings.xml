@@ -142,7 +142,6 @@
       <file name="$USER_HOME$/Documents/Sample/Kotlin-Coroutine-Use-Cases-on-Android/app/src/main/java/com/lukaslechner/coroutineusecasesonandroid/usecases/coroutines/usecase14/ContinueCoroutineWhenUserLeavesScreenViewModel.kt" timestamp="1591370657628">
         <mark key="'" line="18" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Codelabs/clean-architecture-android-materials/starter/app/src/main/java/com/raywenderlich/android/majesticreader/framework/RoomDocumentDataSource.kt" timestamp="1591219499944" />
       <file name="$USER_HOME$/Documents/Codelabs/clean-architecture-android-materials/starter/core/src/main/java/com/raywenderlich/android/majesticread/interactors/RemoveBookmark.kt" timestamp="1591219827149">
         <mark key="[" line="15" column="53" />
         <mark key="]" line="16" column="108" />
@@ -154,12 +153,25 @@
         <mark key="]" line="45" column="61" />
         <mark key="." line="45" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/Codelabs/clean-architecture-android-materials/starter/app/src/main/java/com/raywenderlich/android/majesticreader/framework/RoomBookmarkDataSource.kt" timestamp="1591219456856">
-        <mark key="[" line="32" column="73" />
-        <mark key="]" line="34" column="91" />
-        <mark key="^" line="34" column="91" />
-        <mark key="." line="34" column="90" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/AddDeviceActivity.java" timestamp="1591629877368" />
+      <file name="$USER_HOME$/Documents/Sample/Kotlin-Coroutine-Use-Cases-on-Android/app/src/main/java/com/lukaslechner/coroutineusecasesonandroid/usecases/coroutines/usecase14/AndroidVersionRepository.kt" timestamp="1591377933421">
+        <mark key="'" line="19" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/Codelabs/clean-architecture-android-materials/starter/app/src/main/java/com/raywenderlich/android/majesticreader/presentation/library/LibraryViewModel.kt" timestamp="1591220306231">
+        <mark key="[" line="55" column="35" />
+        <mark key="]" line="55" column="43" />
+        <mark key="." line="55" column="42" />
+        <mark key="^" line="55" column="43" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.2.0/b34176b43868c9ea90fea057e20153896a333fb6/fragment-1.2.0-sources.jar!/androidx/fragment/app/Fragment.java" timestamp="1591220811293">
+        <mark key="'" line="664" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/Codelabs/clean-architecture-android-materials/starter/app/src/main/java/com/raywenderlich/android/majesticreader/presentation/library/LibraryFragment.kt" timestamp="1591220366119">
+        <mark key="[" line="61" column="40" />
+        <mark key="]" line="61" column="40" />
+        <mark key="." line="61" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/Codelabs/clean-architecture-android-materials/starter/app/src/main/java/com/raywenderlich/android/majesticreader/framework/RoomDocumentDataSource.kt" timestamp="1591219499944" />
       <file name="$USER_HOME$/Documents/Personal/DJApp/buildSrc/src/main/kotlin/AndroidX.kt" timestamp="1591220095873" />
       <file name="$USER_HOME$/Documents/Codelabs/clean-architecture-android-materials/starter/app/src/main/java/com/raywenderlich/android/majesticreader/framework/Interactors.kt" timestamp="1591219599455" />
       <file name="$USER_HOME$/Documents/Codelabs/clean-architecture-android-materials/starter/app/src/main/java/com/raywenderlich/android/majesticreader/presentation/reader/ReaderViewModel.kt" timestamp="1591275429358">
@@ -177,20 +189,11 @@
         <mark key="^" line="11" column="6" />
         <mark key="." line="11" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/Sample/Kotlin-Coroutine-Use-Cases-on-Android/app/src/main/java/com/lukaslechner/coroutineusecasesonandroid/usecases/coroutines/usecase14/AndroidVersionRepository.kt" timestamp="1591377933421">
-        <mark key="'" line="19" column="24" />
-      </file>
       <file name="$USER_HOME$/Documents/Codelabs/clean-architecture-android-materials/starter/app/src/main/java/com/raywenderlich/android/majesticreader/framework/MajesticReaderApplication.kt" timestamp="1591219801643">
         <mark key="[" line="47" column="22" />
         <mark key="]" line="48" column="8" />
         <mark key="^" line="48" column="8" />
         <mark key="." line="48" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/Codelabs/clean-architecture-android-materials/starter/app/src/main/java/com/raywenderlich/android/majesticreader/presentation/library/LibraryViewModel.kt" timestamp="1591220306231">
-        <mark key="[" line="55" column="35" />
-        <mark key="]" line="55" column="43" />
-        <mark key="." line="55" column="42" />
-        <mark key="^" line="55" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1591623617765">
         <mark key="'" line="469" column="0" />
@@ -202,15 +205,7 @@
         <mark key="." line="14" column="92" />
       </file>
       <file name="$USER_HOME$/Documents/Codelabs/clean-architecture-android-materials/starter/app/src/main/java/com/raywenderlich/android/majesticreader/presentation/reader/ReaderFragment.kt" timestamp="1591220818298" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.2.0/b34176b43868c9ea90fea057e20153896a333fb6/fragment-1.2.0-sources.jar!/androidx/fragment/app/Fragment.java" timestamp="1591220811293">
-        <mark key="'" line="664" column="30" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata/2.2.0/9849dd6833f7e999169e4f9d48949cc92bf58b50/lifecycle-livedata-2.2.0-sources.jar!/androidx/lifecycle/MediatorLiveData.java" timestamp="1591220907006" />
-      <file name="$USER_HOME$/Documents/Codelabs/clean-architecture-android-materials/starter/app/src/main/java/com/raywenderlich/android/majesticreader/presentation/library/LibraryFragment.kt" timestamp="1591220366119">
-        <mark key="[" line="61" column="40" />
-        <mark key="]" line="61" column="40" />
-        <mark key="." line="61" column="40" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="59" column="0" filename="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/Libs.kt" />
