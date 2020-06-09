@@ -158,13 +158,13 @@
         <mark key="." line="29" column="81" />
         <mark key="^" line="29" column="82" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591639497895">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/SettingListOptionEnum.java" timestamp="1591727250503" />
+      <file name="/Dummy.txt" timestamp="1591726988230">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/ButtonsRepo.kt" timestamp="1591650903918" />
-      <file name="$USER_HOME$/Documents/Sample/Kotlin-Coroutine-Use-Cases-on-Android/app/src/main/java/com/lukaslechner/coroutineusecasesonandroid/usecases/coroutines/usecase14/ContinueCoroutineWhenUserLeavesScreenActivity.kt" timestamp="1591370688623">
-        <mark key="'" line="22" column="18" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/DeviceCategoryActivity.java" timestamp="1591725470505">
         <mark key="[" line="113" column="94" />
         <mark key="]" line="114" column="45" />
@@ -310,8 +310,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>javaClass</text>
+      <register name="&quot;" type="2">
+        <text>added ring to device category enum and added case for item clicked</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFOwo=</text>
@@ -341,45 +341,43 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtRm91bmREZXZpY2VzLnB1dChkZXZpY2UuZ2V0U2VyaWFsTnVtYmVyKCksIGRldmljZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vVE9ETyBNUkYgbGF1bmNoIHJpbmcgYWN0aXZpdHkK</text>
+        <text>added ring to device category enum and added case for item clicked</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vVE9ETyBNUkYgbGF1bmNoIHJpbmcgYWN0aXZpdHkK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVwbGFjZUZyYWdtZW50KG5ldyBCbGVEZXZpY2VTZWxlY3RvckZyYWdtZW50KCksIFIuaWQuZnJhZ21lbnRfY29udGFpbmVyLCBudWxsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkgYW5kcm9pZDpuYW1lPSIuYWN0aXZpdHkuUmluZ0FjdGl2aXR5Ij48L2FjdGl2aXR5Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgdGVzdFVVSUQgPSBVVUlEKDB4REVBRCwgMHhCRUVGKQogICAgICAgIHZhbCBjYWxsYmFjazogQ2xhaW1EZXZpY2VDb21tYW5kLkNsYWltRGV2aWNlQ29tbWFuZENhbGxiYWNrID0gbW9ja2socmVsYXhlZCA9IHRydWUpCiAgICAgICAgdmFsIGNvbW1hbmQgPSBDbGFpbURldmljZUNvbW1hbmQoCiAgICAgICAgICAgIHRlc3RVVUlELCAiYm9ndXNLZXkiLCAwLCAiYm9ndVhQYW5JZCIsCiAgICAgICAgICAgICJhTmV0d29ya05hbWUiLCAwLCByb290Q2VydCwgY2FsbGJhY2sKICAgICAgICApCgogICAgICAgIC8vIFZhbGlkIHJlc3BvbnNlcyBmb3IgZWFjaCBjaGFyYWN0ZXJpc3RpYyBleGNlcHQgb25lCiAgICAgICAgZXZlcnkgeyBtb2NrQ29ubmVjdGlvbi53cml0ZUNoYXJhY3RlcmlzdGljKENsYWltRGV2aWNlQ29tbWFuZC5DTEFJTUVSX0dVSUQsIGFueSgpKSB9IHJldHVybnMgU2luZ2xlLmVycm9yKAogICAgICAgICAgICBFeGNlcHRpb24oKQogICAgICAgICkKCiAgICAgICAgY29tbWFuZC5leGVjdXRlKG1vY2tEZXZpY2UpCiAgICAgICAgdmVyaWZ5IHsKICAgICAgICAgICAgY2FsbGJhY2sub25DbGFpbURldmljZUNvbW1hbmRSZXN1bHQoCiAgICAgICAgICAgICAgICBMdXRCbGVDb21tYW5kLkNvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFLAogICAgICAgICAgICAgICAgbnVsbAogICAgICAgICAgICApCiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgUklORzoK</text>
+        <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkgYW5kcm9pZDpuYW1lPSIuYWN0aXZpdHkuUmluZ0FjdGl2aXR5Ij48L2FjdGl2aXR5Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIHNldCBjdXJyZW50bHkgb3BlbiBkb2N1bWVudAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgUklORzoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsb2FkRG9jdW1lbnRzKCkK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIHNldCBjdXJyZW50bHkgb3BlbiBkb2N1bWVudAo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9TVUNDRVNTOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGFkZCBhIG5ldyBkb2N1bWVudAo=</text>
+        <text encoding="base64">ICAgICAgICBsb2FkRG9jdW1lbnRzKCkK</text>
       </register>
       <register name="9" type="2">
-        <text>class VM : ViewModel() {
-viewModelScope
-}</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGFkZCBhIG5ldyBkb2N1bWVudAo=</text>
       </register>
       <register name=":" type="4">
         <text>s/scene/zone/g</text>
