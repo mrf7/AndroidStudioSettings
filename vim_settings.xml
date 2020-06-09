@@ -139,17 +139,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/caseta-android-app/roomDb/src/main/java/com/lutron/roomdb/model/UserModeEnum.java" timestamp="1591728699887">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BleOOBActivity.kt" timestamp="1591648342166">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/strategy/nestedareaselection/SceneAliasAreasSelectionStrategy.kt" timestamp="1591650916614" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/SceneVoiceAliasRepo.kt" timestamp="1591647944214" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/strategy/FeatureManager.kt" timestamp="1591725864111">
-        <mark key="[" line="11" column="26" />
-        <mark key="]" line="11" column="26" />
-        <mark key="^" line="11" column="26" />
-        <mark key="." line="11" column="25" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/strategy/FeatureManager.kt" timestamp="1591729018628">
+        <mark key="[" line="14" column="6" />
+        <mark key="]" line="14" column="83" />
+        <mark key="." line="14" column="82" />
+        <mark key="^" line="14" column="83" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/ButtonGroupExpandedReadCallable.java" timestamp="1591650945953" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/RingActivity.kt" timestamp="1591649500574">
@@ -158,7 +162,9 @@
         <mark key="." line="29" column="81" />
         <mark key="^" line="29" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/SettingListOptionEnum.java" timestamp="1591727250503" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/SettingListOptionEnum.java" timestamp="1591729175379">
+        <mark key="[" line="26" column="75" />
+      </file>
       <file name="/Dummy.txt" timestamp="1591726988230">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -171,11 +177,11 @@
         <mark key="." line="114" column="44" />
         <mark key="^" line="114" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/strategy/deviceUtil/CasetaDeviceUtilsStrategy.java" timestamp="1591638679577">
-        <mark key="[" line="98" column="55" />
-        <mark key="]" line="99" column="51" />
-        <mark key="." line="99" column="50" />
-        <mark key="^" line="99" column="51" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/strategy/deviceUtil/CasetaDeviceUtilsStrategy.java" timestamp="1591728655562">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
+        <mark key="^" line="106" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/requestcreator/ControlStationRequestCreator.java" timestamp="1591650849114" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/AndroidManifest.xml" timestamp="1591648146550">
@@ -185,20 +191,15 @@
         <mark key="^" line="355" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/AddDeviceActivity.java" timestamp="1591647750462" />
-      <file name="$USER_HOME$/Documents/Sample/Kotlin-Coroutine-Use-Cases-on-Android/app/src/main/java/com/lukaslechner/coroutineusecasesonandroid/usecases/coroutines/usecase14/AndroidVersionRepository.kt" timestamp="1591377933421">
-        <mark key="'" line="19" column="24" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/DeviceCategoryEnum.java" timestamp="1591638456693">
         <mark key="[" line="39" column="9" />
         <mark key="]" line="39" column="9" />
         <mark key="^" line="39" column="15" />
         <mark key="." line="39" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1591623617765">
-        <mark key="'" line="469" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/SettingActivityUIHelper.java" timestamp="1591729970974" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/ControlStationReadCallable.java" timestamp="1591647972897" />
-      <file name="/fragment.java" timestamp="1591647633163">
+      <file name="/fragment.java" timestamp="1591729124049">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -311,7 +312,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text>added ring to device category enum and added case for item clicked</text>
+        <text encoding="base64">ICogQ29weXJpZ2h0IChjKSAyMDIwIEx1dHJvbi4gQWxsIHJpZ2h0cyByZXNlcnZlZC4K</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFOwo=</text>
@@ -335,49 +336,49 @@
         <text>scene</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LyoKICogQ29weXJpZ2h0IChjKSAyMDIwIEx1dHJvbi4gQWxsIHJpZ2h0cyByZXNlcnZlZC4KICovCg==</text>
+        <text encoding="base64">LyoKICogQ29weXJpZ2h0IChjKSAyMDE5IEx1dHJvbi4gQWxsIHJpZ2h0cyByZXNlcnZlZC4KICovCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtRm91bmREZXZpY2VzLnB1dChkZXZpY2UuZ2V0U2VyaWFsTnVtYmVyKCksIGRldmljZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text>added ring to device category enum and added case for item clicked</text>
+        <text encoding="base64">ICogQ29weXJpZ2h0IChjKSAyMDIwIEx1dHJvbi4gQWxsIHJpZ2h0cyByZXNlcnZlZC4K</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vVE9ETyBNUkYgbGF1bmNoIHJpbmcgYWN0aXZpdHkK</text>
+        <text encoding="base64">ICogVE9ETyBNUkYgV3JpdGUgQ2xhc3MgaGVhZGVyCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVwbGFjZUZyYWdtZW50KG5ldyBCbGVEZXZpY2VTZWxlY3RvckZyYWdtZW50KCksIFIuaWQuZnJhZ21lbnRfY29udGFpbmVyLCBudWxsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgUmluZzoK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgdGVzdFVVSUQgPSBVVUlEKDB4REVBRCwgMHhCRUVGKQogICAgICAgIHZhbCBjYWxsYmFjazogQ2xhaW1EZXZpY2VDb21tYW5kLkNsYWltRGV2aWNlQ29tbWFuZENhbGxiYWNrID0gbW9ja2socmVsYXhlZCA9IHRydWUpCiAgICAgICAgdmFsIGNvbW1hbmQgPSBDbGFpbURldmljZUNvbW1hbmQoCiAgICAgICAgICAgIHRlc3RVVUlELCAiYm9ndXNLZXkiLCAwLCAiYm9ndVhQYW5JZCIsCiAgICAgICAgICAgICJhTmV0d29ya05hbWUiLCAwLCByb290Q2VydCwgY2FsbGJhY2sKICAgICAgICApCgogICAgICAgIC8vIFZhbGlkIHJlc3BvbnNlcyBmb3IgZWFjaCBjaGFyYWN0ZXJpc3RpYyBleGNlcHQgb25lCiAgICAgICAgZXZlcnkgeyBtb2NrQ29ubmVjdGlvbi53cml0ZUNoYXJhY3RlcmlzdGljKENsYWltRGV2aWNlQ29tbWFuZC5DTEFJTUVSX0dVSUQsIGFueSgpKSB9IHJldHVybnMgU2luZ2xlLmVycm9yKAogICAgICAgICAgICBFeGNlcHRpb24oKQogICAgICAgICkKCiAgICAgICAgY29tbWFuZC5leGVjdXRlKG1vY2tEZXZpY2UpCiAgICAgICAgdmVyaWZ5IHsKICAgICAgICAgICAgY2FsbGJhY2sub25DbGFpbURldmljZUNvbW1hbmRSZXN1bHQoCiAgICAgICAgICAgICAgICBMdXRCbGVDb21tYW5kLkNvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFLAogICAgICAgICAgICAgICAgbnVsbAogICAgICAgICAgICApCiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8YWN0aXZpdHkgYW5kcm9pZDpuYW1lPSIuYWN0aXZpdHkuUmluZ0FjdGl2aXR5Ij48L2FjdGl2aXR5Pgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgUklORzoK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQub3MuQnVpbGQK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIHNldCBjdXJyZW50bHkgb3BlbiBkb2N1bWVudAo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sdXRyb24ucm9vbWRiLm1vZGVsLlVzZXJNb2RlRW51bQo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9TVUNDRVNTOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2FkRG9jdW1lbnRzKCkK</text>
+        <text encoding="base64">ICAgIGZ1biBpc1JpbmdJbnRlZ3JhdGlvbkF2YWlsYWJsZSh1c2VyTW9kZUVudW06IFVzZXJNb2RlRW51bSkgPSB1c2VyTW9kZUVudW0gPT0gVXNlck1vZGVFbnVtLkNVU1RPTUVSCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPIGFkZCBhIG5ldyBkb2N1bWVudAo=</text>
+        <text>added ring to device category enum and added case for item clicked</text>
       </register>
       <register name=":" type="4">
         <text>s/scene/zone/g</text>
