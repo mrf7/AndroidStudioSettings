@@ -164,7 +164,7 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/SettingListOptionEnum.java" timestamp="1591799999160">
         <mark key="[" line="24" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591811941638">
+      <file name="/Dummy.txt" timestamp="1591812913457">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/androidTest/java/com/lutron/mmw/activityflow/addnewdevice/DeviceCategoryScreenTest.java" timestamp="1591811866532" />
@@ -186,11 +186,11 @@
         <mark key="]" line="121" column="73" />
         <mark key="." line="121" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/DeviceCategoryEnum.java" timestamp="1591800682291">
-        <mark key="[" line="39" column="9" />
-        <mark key="]" line="39" column="9" />
-        <mark key="^" line="39" column="15" />
-        <mark key="." line="39" column="9" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/DeviceCategoryEnum.java" timestamp="1591812179350">
+        <mark key="[" line="39" column="72" />
+        <mark key="]" line="39" column="49" />
+        <mark key="^" line="39" column="49" />
+        <mark key="." line="39" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/SettingActivityUIHelper.java" timestamp="1591799782153" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/strategy/deviceUtils/Ra2SelectDeviceUtilsStrategyTest.java" timestamp="1591811920779">
@@ -317,8 +317,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBTaG93IFJpbmcgZm9yIGFsbCBjb3VudHJpZXMsIGJ1dCBvbmx5IHdoZW4gZW5hYmxlZAo=</text>
+      <register name="&quot;" type="4">
+        <text>header_works_with_nest</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFOwo=</text>
@@ -333,7 +333,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IEJ1aWxkQ29uZmlnLg==</text>
+        <text>header_works_with_nest</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
