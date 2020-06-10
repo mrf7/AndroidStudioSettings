@@ -157,14 +157,17 @@
         <mark key="^" line="14" column="83" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/ButtonGroupExpandedReadCallable.java" timestamp="1591650945953" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/values/array.xml" timestamp="1591799750319">
+        <mark key="[" line="24" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/RingActivity.kt" timestamp="1591649500574">
         <mark key="[" line="29" column="71" />
         <mark key="]" line="29" column="82" />
         <mark key="." line="29" column="81" />
         <mark key="^" line="29" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/SettingListOptionEnum.java" timestamp="1591729175379">
-        <mark key="[" line="26" column="75" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/SettingListOptionEnum.java" timestamp="1591799999160">
+        <mark key="[" line="24" column="71" />
       </file>
       <file name="/Dummy.txt" timestamp="1591726988230">
         <mark key="[" line="0" column="0" />
@@ -192,6 +195,7 @@
         <mark key="^" line="355" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/AddDeviceActivity.java" timestamp="1591647750462" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/SettingActivityUIHelper.java" timestamp="1591799782153" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/ControlStationReadCallable.java" timestamp="1591647972897" />
       <file name="/fragment.java" timestamp="1591729124049">
         <mark key="[" line="0" column="0" />
