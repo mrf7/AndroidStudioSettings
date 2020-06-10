@@ -143,11 +143,11 @@
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/strategy/FeatureManager.kt" timestamp="1591819303675">
-        <mark key="[" line="17" column="51" />
-        <mark key="]" line="17" column="51" />
-        <mark key="." line="17" column="51" />
-        <mark key="^" line="17" column="66" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/strategy/FeatureManager.kt" timestamp="1591820466003">
+        <mark key="[" line="10" column="32" />
+        <mark key="]" line="10" column="33" />
+        <mark key="." line="10" column="32" />
+        <mark key="^" line="10" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/strategy/deviceUtils/CasetaDeviceUtilsStrategyTest.java" timestamp="1591820020610">
         <mark key="'" line="126" column="79" />
@@ -181,11 +181,11 @@
         <mark key="." line="266" column="44" />
         <mark key="^" line="266" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/strategy/deviceUtil/CasetaDeviceUtilsStrategy.java" timestamp="1591812029956">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="73" />
-        <mark key="." line="105" column="72" />
-        <mark key="^" line="105" column="73" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/strategy/deviceUtil/CasetaDeviceUtilsStrategy.java" timestamp="1591820567164">
+        <mark key="[" line="106" column="53" />
+        <mark key="]" line="106" column="66" />
+        <mark key="." line="106" column="65" />
+        <mark key="^" line="106" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/AndroidManifest.xml" timestamp="1591820248210">
         <mark key="[" line="565" column="49" />
@@ -194,10 +194,11 @@
         <mark key="^" line="569" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/values/strings.xml" timestamp="1591801908247" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/strategy/deviceUtil/Ra2SelectDeviceUtilsStrategy.java" timestamp="1591812035245">
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="73" />
-        <mark key="." line="121" column="0" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/strategy/deviceUtil/Ra2SelectDeviceUtilsStrategy.java" timestamp="1591820576678">
+        <mark key="[" line="122" column="53" />
+        <mark key="]" line="122" column="66" />
+        <mark key="." line="122" column="65" />
+        <mark key="^" line="122" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/RingSetupActivity.kt" timestamp="1591820115989">
         <mark key="[" line="16" column="26" />
@@ -335,8 +336,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text>Final self review clean upR</text>
+      <register name="&quot;" type="4">
+        <text>CUSTOMER</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFOwo=</text>
@@ -351,7 +352,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>AppCompatActivity</text>
+        <text>CUSTOMER</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
