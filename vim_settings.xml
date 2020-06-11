@@ -143,6 +143,7 @@
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="52" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/helper/DaoHelper.java" timestamp="1591886135776" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/strategy/FeatureManager.kt" timestamp="1591820466003">
         <mark key="[" line="10" column="32" />
         <mark key="]" line="10" column="33" />
@@ -216,12 +217,6 @@
         <mark key="]" line="248" column="70" />
         <mark key="." line="246" column="35" />
         <mark key="^" line="246" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/strategy/deviceUtils/AthenaDeviceUtilsStrategyTest.java" timestamp="1591811220311">
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="81" />
-        <mark key="^" line="136" column="78" />
-        <mark key="." line="136" column="77" />
       </file>
       <file name="/fragment.java" timestamp="1591818934808">
         <mark key="[" line="0" column="0" />
