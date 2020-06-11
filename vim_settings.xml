@@ -162,6 +162,7 @@
         <mark key="." line="29" column="81" />
         <mark key="^" line="29" column="82" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/hardware/SensorManager.java" timestamp="1591824183209" />
       <file name="/Dummy.txt" timestamp="1591820646887">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -190,7 +191,6 @@
         <mark key="." line="569" column="44" />
         <mark key="^" line="569" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/values/strings.xml" timestamp="1591801908247" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/WorksWithNestActivity.java" timestamp="1591822158122" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/strategy/deviceUtil/Ra2SelectDeviceUtilsStrategy.java" timestamp="1591820576678">
         <mark key="[" line="122" column="53" />
