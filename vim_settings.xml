@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>extend</entry>
         <entry>Extended</entry>
         <entry>timestamp</entry>
         <entry>joiner credential</entry>
@@ -27,9 +26,9 @@
         <entry>{</entry>
         <entry>return</entry>
         <entry>scene</entry>
+        <entry>NEST_THERMOSTAT</entry>
       </history-search>
       <history-cmd>
-        <entry>s/byteData/charValue</entry>
         <entry>s/timestamp/claimer guid/g</entry>
         <entry>s/timestamp/joiner credential/g</entry>
         <entry>s/timestamp/joiner iid/g</entry>
@@ -49,6 +48,7 @@
         <entry>s/{/g</entry>
         <entry encoding="base64">JzwsJz5zL3JldHVybi9yZXR1cm5Ad2l0aENvbnRleHQvZw==</entry>
         <entry>s/scene/zone/g</entry>
+        <entry>s/NEST_THERMOSTAT/RING/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -139,10 +139,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/bridge-setup-module/src/test/java/com/lutron/bridgesetup/BridgeSetupSessionTest.java" timestamp="1591819757991">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="52" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/strategy/deviceUtils/CasetaDeviceUtilsStrategyTest.java" timestamp="1591896718966">
         <mark key="'" line="115" column="0" />
         <mark key="[" line="39" column="0" />
@@ -155,14 +151,14 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/common/utils/DeviceUtilsTest.java" timestamp="1591897144161">
-        <mark key="'" line="225" column="49" />
-        <mark key="[" line="227" column="54" />
-        <mark key="]" line="227" column="58" />
-        <mark key="." line="227" column="57" />
-        <mark key="^" line="227" column="58" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/common/utils/DeviceUtilsTest.java" timestamp="1591898847300">
+        <mark key="'" line="1150" column="42" />
+        <mark key="[" line="215" column="32" />
+        <mark key="]" line="215" column="36" />
+        <mark key="^" line="215" column="36" />
+        <mark key="." line="215" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/utils/DeviceUtils.java" timestamp="1591897309191" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/utils/DeviceUtils.java" timestamp="1591898530007" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/DeviceCategoryActivity.java" timestamp="1591882311306">
         <mark key="'" line="271" column="15" />
         <mark key="[" line="274" column="9" />
@@ -207,15 +203,15 @@
         <mark key="." line="29" column="81" />
         <mark key="^" line="29" column="82" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/DeviceSubcategoryEnum.java" timestamp="1591897295588">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/DeviceSubcategoryEnum.java" timestamp="1591898078378">
         <mark key="'" line="11" column="16" />
-        <mark key="[" line="46" column="49" />
-        <mark key="]" line="11" column="17" />
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
         <mark key="^" line="11" column="17" />
-        <mark key="." line="11" column="16" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/hardware/SensorManager.java" timestamp="1591824183209" />
-      <file name="/Dummy.txt" timestamp="1591882181476">
+      <file name="/Dummy.txt" timestamp="1591898600254">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -233,6 +229,9 @@
         <mark key="^" line="569" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/WorksWithNestActivity.java" timestamp="1591822158122" />
+      <file name="/fragment.java" timestamp="1591898400046">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/NestSignInActivity.java" timestamp="1591823596321">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="58" column="0" />
@@ -240,8 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="4" filename="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/Libs.kt" />
-      <jump line="177" column="0" filename="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/Libs.kt" />
       <jump line="92" column="0" filename="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/Libs.kt" />
       <jump line="181" column="4" filename="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/Libs.kt" />
       <jump line="248" column="0" filename="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/Libs.kt" />
@@ -340,6 +337,8 @@
       <jump line="862" column="34" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/common/utils/DeviceUtilsTest.java" />
       <jump line="225" column="49" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/common/utils/DeviceUtilsTest.java" />
       <jump line="11" column="16" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/DeviceSubcategoryEnum.java" />
+      <jump line="1274" column="7" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/common/utils/DeviceUtilsTest.java" />
+      <jump line="1150" column="42" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/common/utils/DeviceUtilsTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -348,7 +347,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>NEST_THERMOSTAT</text>
+        <text>nest</text>
       </register>
       <register name="e" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFOwo=</text>
@@ -363,71 +362,71 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>NEST_THERMOSTAT</text>
+        <text>nest</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
       </register>
       <register name="/" type="4">
-        <text>scene</text>
+        <text>NEST_THERMOSTAT</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBudW1iZXJPZkNhdGVnb3JpZXNUZXN0ZWQrKzsK</text>
+        <text encoding="base64">ICAgICAgICBkZXZpY2VUeXBlcyA9IERldmljZVV0aWxzLmdldERldmljZVR5cGUoRGV2aWNlQ2F0ZWdvcnlFbnVtLk5FU1RfVEhFUk1PU1RBVCk7CiAgICAgICAgQXNzZXJ0LmFzc2VydEVxdWFscygxLCBkZXZpY2VUeXBlcy5zaXplKCkpOwogICAgICAgIEFzc2VydC5hc3NlcnRUcnVlKGRldmljZVR5cGVzLmNvbnRhaW5zKERldmljZVR5cGVFbnVtLlVua25vd24pKTsKICAgICAgICBudW1iZXJPZkNhdGVnb3JpZXNUZXN0ZWQrKzsK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFJJTkcoUi5zdHJpbmcuZGV2aWNlX2NhdGVnb3J5X3dvcmtzX3dpdGhfcmluZyksCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG15U2NvcGUgPSB2aWV3TW9kZWxTY29wZSArIENvcm91dGluZUV4Y2VwdGlvbkhhbmRsZXIgeyBfLCB0aHJvd2FibGUgLT4gcHJpbnRsbih0aHJvd2FibGUpIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmVwbGFjZUZyYWdtZW50KG5ldyBCbGVEZXZpY2VTZWxlY3RvckZyYWdtZW50KCksIFIuaWQuZnJhZ21lbnRfY29udGFpbmVyLCBudWxsKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIG15U2NvcGUgPSB2aWV3TW9kZWxTY29wZSArIENvcm91dGluZUV4Y2VwdGlvbkhhbmRsZXIgeyBfLCB0aHJvd2FibGUgLT4gcHJpbnRsbih0aHJvd2FibGUpIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogU2VuZCB0aGUgcmVxdWVzdCB0byBleGl0IGFkZHJlc3NpbmcgaW4gdGhlIGJhY2tncm91bmQgd2l0aG91dCBibG9ja2luZyB0aGUgdXNlciBvciB3b3JyeWluZyBhYm91dCB0aGUgcmVzdWx0CiAgICAgKi8KICAgIHByaXZhdGUgdm9pZCBleGl0QWRkcmVzc2luZ0luQmFja2dyb3VuZCgpIHsKICAgICAgICBUYXNrQ29tcG9zZXIgZXhpdEFkZHJlc3NpbmdUYXNrQ29tcG9zZXIgPSBBZGREZXZpY2VIZWxwZXIuZ2V0VGFza1RvRmluaXNoQWRkRGV2aWNlRmxvdyhnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSk7CiAgICAgICAgZXhpdEFkZHJlc3NpbmdUYXNrQ29tcG9zZXIuZXhlY3V0ZSgocmVzdWx0LCBhbGxSZXN1bHRzQXJlRXhjZXB0aW9ucykgLT4gewogICAgICAgICAgICBpZiAoYWxsUmVzdWx0c0FyZUV4Y2VwdGlvbnMpIHsKICAgICAgICAgICAgICAgIEx1dExvZy5kKExPR0dFUl9UQUcsICJGYWlsZWQgdG8gZXhpdCBhZGRyZXNzaW5nIG1vZGUgaW4gYmFja2dyb3VuZCIpOwogICAgICAgICAgICB9CiAgICAgICAgfSwgVGFza0NvbXBvc2VyLkJBQ0tHUk9VTkRfRVhFQ1VUT1IpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgdGVzdFVVSUQgPSBVVUlEKDB4REVBRCwgMHhCRUVGKQogICAgICAgIHZhbCBjYWxsYmFjazogQ2xhaW1EZXZpY2VDb21tYW5kLkNsYWltRGV2aWNlQ29tbWFuZENhbGxiYWNrID0gbW9ja2socmVsYXhlZCA9IHRydWUpCiAgICAgICAgdmFsIGNvbW1hbmQgPSBDbGFpbURldmljZUNvbW1hbmQoCiAgICAgICAgICAgIHRlc3RVVUlELCAiYm9ndXNLZXkiLCAwLCAiYm9ndVhQYW5JZCIsCiAgICAgICAgICAgICJhTmV0d29ya05hbWUiLCAwLCByb290Q2VydCwgY2FsbGJhY2sKICAgICAgICApCgogICAgICAgIC8vIFZhbGlkIHJlc3BvbnNlcyBmb3IgZWFjaCBjaGFyYWN0ZXJpc3RpYyBleGNlcHQgb25lCiAgICAgICAgZXZlcnkgeyBtb2NrQ29ubmVjdGlvbi53cml0ZUNoYXJhY3RlcmlzdGljKENsYWltRGV2aWNlQ29tbWFuZC5DTEFJTUVSX0dVSUQsIGFueSgpKSB9IHJldHVybnMgU2luZ2xlLmVycm9yKAogICAgICAgICAgICBFeGNlcHRpb24oKQogICAgICAgICkKCiAgICAgICAgY29tbWFuZC5leGVjdXRlKG1vY2tEZXZpY2UpCiAgICAgICAgdmVyaWZ5IHsKICAgICAgICAgICAgY2FsbGJhY2sub25DbGFpbURldmljZUNvbW1hbmRSZXN1bHQoCiAgICAgICAgICAgICAgICBMdXRCbGVDb21tYW5kLkNvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFLAogICAgICAgICAgICAgICAgbnVsbAogICAgICAgICAgICApCiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFVYIHdhbnRzIGV4aXRpbmcgdGhlIFJpbmcgZmxvdyB0byBnbyBiYWNrIHRvIHRoZSBTZXR0aW5ncyBzY3JlZW4gaW4gYWxsIGNhc2VzLCBzbyBmaW5pc2ggdGhpcyBhY3Rpdml0eQogICAgICAgICAgICAgICAgLy8gdG8gdGFrZSBpdCBvZmYgdGhlIGJhY2sgc3RhY2sKICAgICAgICAgICAgICAgIGZpbmlzaCgpOwogICAgICAgICAgICAgICAgLy8gVGVsbCB0aGUgYnJpZGdlIHRvIGV4aXQgYWRkcmVzc2luZyBpbiB0aGUgYmFja2dyb3VuZCB0byBjbGVhbiB1cCB0aGUgYWRkIGRldmljZSBmbG93CiAgICAgICAgICAgICAgICBleGl0QWRkcmVzc2luZ0luQmFja2dyb3VuZCgpOwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogU2VuZCB0aGUgcmVxdWVzdCB0byBleGl0IGFkZHJlc3NpbmcgaW4gdGhlIGJhY2tncm91bmQgd2l0aG91dCBibG9ja2luZyB0aGUgdXNlciBvciB3b3JyeWluZyBhYm91dCB0aGUgcmVzdWx0CiAgICAgKi8KICAgIHByaXZhdGUgdm9pZCBleGl0QWRkcmVzc2luZ0luQmFja2dyb3VuZCgpIHsKICAgICAgICBUYXNrQ29tcG9zZXIgZXhpdEFkZHJlc3NpbmdUYXNrQ29tcG9zZXIgPSBBZGREZXZpY2VIZWxwZXIuZ2V0VGFza1RvRmluaXNoQWRkRGV2aWNlRmxvdyhnZXRBcHBsaWNhdGlvbkNvbnRleHQoKSk7CiAgICAgICAgZXhpdEFkZHJlc3NpbmdUYXNrQ29tcG9zZXIuZXhlY3V0ZSgocmVzdWx0LCBhbGxSZXN1bHRzQXJlRXhjZXB0aW9ucykgLT4gewogICAgICAgICAgICBpZiAoYWxsUmVzdWx0c0FyZUV4Y2VwdGlvbnMpIHsKICAgICAgICAgICAgICAgIEx1dExvZy5kKExPR0dFUl9UQUcsICJGYWlsZWQgdG8gZXhpdCBhZGRyZXNzaW5nIG1vZGUgaW4gYmFja2dyb3VuZCIpOwogICAgICAgICAgICB9CiAgICAgICAgfSwgVGFza0NvbXBvc2VyLkJBQ0tHUk9VTkRfRVhFQ1VUT1IpOwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QFN1cHByZXNzTGludCgiU2V0SmF2YVNjcmlwdEVuYWJsZWQiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFVYIHdhbnRzIGV4aXRpbmcgdGhlIFJpbmcgZmxvdyB0byBnbyBiYWNrIHRvIHRoZSBTZXR0aW5ncyBzY3JlZW4gaW4gYWxsIGNhc2VzLCBzbyBmaW5pc2ggdGhpcyBhY3Rpdml0eQogICAgICAgICAgICAgICAgLy8gdG8gdGFrZSBpdCBvZmYgdGhlIGJhY2sgc3RhY2sKICAgICAgICAgICAgICAgIGZpbmlzaCgpOwogICAgICAgICAgICAgICAgLy8gVGVsbCB0aGUgYnJpZGdlIHRvIGV4aXQgYWRkcmVzc2luZyBpbiB0aGUgYmFja2dyb3VuZCB0byBjbGVhbiB1cCB0aGUgYWRkIGRldmljZSBmbG93CiAgICAgICAgICAgICAgICBleGl0QWRkcmVzc2luZ0luQmFja2dyb3VuZCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text>Final self review clean upR</text>
+        <text encoding="base64">QFN1cHByZXNzTGludCgiU2V0SmF2YVNjcmlwdEVuYWJsZWQiKQo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICBQb3dlck1vY2tpdG8ubW9ja1N0YXRpYyhGZWF0dXJlTWFuYWdlci5jbGFzcyk7CiAgICAgICAgTW9ja2l0by53aGVuKEZlYXR1cmVNYW5hZ2VyLmlzUmluZ0VuYWJsZWQoKSkudGhlblJldHVybih0cnVlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFBvd2VyTW9ja1J1bGUgcG93ZXJ3Cg==</text>
+        <text>Final self review clean upR</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFBvd2VyTW9ja1J1bGUgcG93ZXJ3Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/scene/zone/g</text>
+        <text>s/NEST_THERMOSTAT/RING/g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>scene</last-search>
+      <last-search>NEST_THERMOSTAT</last-search>
       <last-offset />
-      <last-pattern>scene</last-pattern>
-      <last-replace>zone</last-replace>
-      <last-substitute>scene</last-substitute>
+      <last-pattern>NEST_THERMOSTAT</last-pattern>
+      <last-replace>RING</last-replace>
+      <last-substitute>NEST_THERMOSTAT</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
