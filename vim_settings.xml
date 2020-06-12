@@ -139,9 +139,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/syncFramework/syncCallables/SyncCallablesFactory.java" timestamp="1591992031608" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao/3.1.1/a0164324ff506561f05ebfc03d05853be99a6781/greendao-3.1.1-sources.jar!/org/greenrobot/greendao/AbstractDao.java" timestamp="1591991007577">
         <mark key="'" line="972" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/SettingActivity.java" timestamp="1591991976846" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/helper/DaoHelper.java" timestamp="1591989574471" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/Zone.java" timestamp="1591989297316" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/ServiceReadCallable.java" timestamp="1591991883003" />
@@ -158,11 +160,6 @@
         <mark key="." line="116" column="68" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/DaoMaster.java" timestamp="1591989450571" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/voice/VoiceAliasSummaryViewModel.kt" timestamp="1591890880821">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/DeviceSubcategoryEnum.java" timestamp="1591898078378">
         <mark key="'" line="11" column="16" />
         <mark key="[" line="46" column="0" />
@@ -184,13 +181,6 @@
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/helper/IDaoHelper.java" timestamp="1591991503792">
         <mark key="[" line="12" column="27" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/DeviceCategoryActivity.java" timestamp="1591882311306">
-        <mark key="'" line="271" column="15" />
-        <mark key="[" line="274" column="9" />
-        <mark key="]" line="274" column="9" />
-        <mark key="." line="274" column="8" />
-        <mark key="^" line="274" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1591988316947" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/DeviceCategoryEnum.java" timestamp="1591896872262">
