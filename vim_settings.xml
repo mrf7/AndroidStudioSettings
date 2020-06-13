@@ -145,33 +145,17 @@
         <mark key="'" line="972" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/SettingActivity.java" timestamp="1591991976846" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/helper/DaoHelper.java" timestamp="1591989574471" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/Zone.java" timestamp="1591989297316" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/ServiceReadCallable.java" timestamp="1591991883003" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/model/BaseDO.java" timestamp="1591991446943">
         <mark key="[" line="51" column="53" />
         <mark key="]" line="51" column="53" />
         <mark key="." line="51" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/DaoMaster.java" timestamp="1591989450571" />
       <file name="$USER_HOME$/Documents/caseta-android-app/networkClientModule/src/main/java/com/lutron/networkclient/clients/AbstractBaseClient.java" timestamp="1591994476178" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/common/utils/DeviceUtilsTest.java" timestamp="1591898847300">
-        <mark key="'" line="1150" column="42" />
-        <mark key="[" line="215" column="32" />
-        <mark key="]" line="215" column="36" />
-        <mark key="^" line="215" column="36" />
-        <mark key="." line="215" column="35" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1591898600254">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/helper/IDaoHelper.java" timestamp="1591991503792">
         <mark key="[" line="12" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/MyLutronCommunicator.kt" timestamp="1591994488834" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1591988316947" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/model/BaseService.java" timestamp="1591991501802" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/DaoSession.java" timestamp="1591990217632" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/AliasDao.java" timestamp="1591990252817" />
