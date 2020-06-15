@@ -140,7 +140,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao-api/3.1.1/c8872992c816374e9e8d97be41ef015e42f2d842/greendao-api-3.1.1-sources.jar!/org/greenrobot/greendao/annotation/Entity.java" timestamp="1592233347693" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/RingServ2.java" timestamp="1592235726437">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/RingServ2.java" timestamp="1592236826829">
         <mark key="[" line="28" column="48" />
         <mark key="]" line="28" column="49" />
         <mark key="." line="28" column="48" />
@@ -155,6 +155,9 @@
         <mark key="[" line="12" column="27" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao/3.1.1/a0164324ff506561f05ebfc03d05853be99a6781/greendao-3.1.1-sources.jar!/org/greenrobot/greendao/AbstractDao.java" timestamp="1592233100363" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/RingServ2Dao.java" timestamp="1592237049883">
+        <mark key="'" line="88" column="29" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/DaoSession.java" timestamp="1592234731978" />
       <file name="/fragment.java" timestamp="1592233373173">
         <mark key="[" line="0" column="0" />
@@ -165,7 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="4" filename="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/Libs.kt" />
       <jump line="248" column="0" filename="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/Libs.kt" />
       <jump line="252" column="0" filename="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/Libs.kt" />
       <jump line="164" column="0" filename="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/Libs.kt" />
@@ -265,6 +267,7 @@
       <jump line="1274" column="7" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/common/utils/DeviceUtilsTest.java" />
       <jump line="1150" column="42" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/common/utils/DeviceUtilsTest.java" />
       <jump line="972" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao/3.1.1/a0164324ff506561f05ebfc03d05853be99a6781/greendao-3.1.1-sources.jar!/org/greenrobot/greendao/AbstractDao.java" />
+      <jump line="89" column="29" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/RingServ2Dao.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
