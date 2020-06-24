@@ -139,19 +139,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.1.0/b9ebb04df2cb0cad4419af3c658690bc82aa5706/fragment-1.1.0-sources.jar!/androidx/fragment/app/FragmentTransaction.java" timestamp="1593004844924" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/business/callables/CasetaAndRa2SelectSubscriptionAndStatusReadCallableTest.kt" timestamp="1592946157560" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/business/callables/ActivationDataGenerationCallableTest.kt" timestamp="1592936702792" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/VoiceAliasSummaryRepoTest.kt" timestamp="1592945194217" />
       <file name="/fragment.kt" timestamp="1592944603595">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/helper/support/problems/AuthProblemTest.kt" timestamp="1592935195206" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.kt" timestamp="1592944664373">
         <mark key="'" line="34" column="0" />
         <mark key="[" line="280" column="37" />
         <mark key="]" line="280" column="24" />
         <mark key="^" line="280" column="24" />
         <mark key="." line="280" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BleClaimingActivity.kt" timestamp="1593004782579">
+        <mark key="[" line="32" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/business/callables/CommunicationManagerTestHelper.kt" timestamp="1592938328507">
         <mark key="[" line="24" column="0" />
@@ -172,7 +174,6 @@
         <mark key="." line="139" column="11" />
         <mark key="^" line="139" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/EditButtonFailedDevicesPresenterTest.kt" timestamp="1592934474111" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/ActivatePresetCallable.java" timestamp="1592944347520" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/business/callables/ActivatePresetCallableTest.kt" timestamp="1592945825827">
         <mark key="[" line="53" column="41" />
@@ -191,6 +192,7 @@
         <mark key="." line="16" column="13" />
         <mark key="^" line="16" column="14" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.1.0/b9ebb04df2cb0cad4419af3c658690bc82aa5706/fragment-1.1.0-sources.jar!/androidx/fragment/app/FragmentManager.java" timestamp="1593004879638" />
       <file name="/fragment.java" timestamp="1592944324469">
         <mark key="[" line="0" column="0" />
       </file>
