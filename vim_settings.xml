@@ -141,11 +141,11 @@
     <filemarks>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ConnectivityViewModel.java" timestamp="1593018774106" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.1.0/b9ebb04df2cb0cad4419af3c658690bc82aa5706/fragment-1.1.0-sources.jar!/androidx/fragment/app/FragmentTransaction.java" timestamp="1593004844924" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/business/callables/NLOReadCallableTest.kt" timestamp="1593023102740">
-        <mark key="[" line="113" column="50" />
-        <mark key="]" line="117" column="20" />
-        <mark key="^" line="117" column="20" />
-        <mark key="." line="117" column="19" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/business/callables/NLOReadCallableTest.kt" timestamp="1593027671060">
+        <mark key="[" line="152" column="87" />
+        <mark key="]" line="152" column="87" />
+        <mark key="^" line="152" column="87" />
+        <mark key="." line="152" column="86" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/business/callables/CasetaAndRa2SelectSubscriptionAndStatusReadCallableTest.kt" timestamp="1593006330614">
         <mark key="[" line="46" column="31" />
@@ -193,11 +193,10 @@
         <mark key="^" line="49" column="99" />
         <mark key="." line="49" column="98" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/business/callables/ActivatePresetCallableTest.kt" timestamp="1592945825827">
-        <mark key="[" line="53" column="41" />
-        <mark key="]" line="53" column="40" />
-        <mark key="^" line="53" column="40" />
-        <mark key="." line="53" column="39" />
+      <file name="/Dummy.txt" timestamp="1593026815889">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/business/callables/OperationStatusUnsubscribeRequestCallableTest.kt" timestamp="1593022190157">
         <mark key="'" line="55" column="40" />
@@ -328,7 +327,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>ParserFactory.getJsonParser().parseToString(sessionResponseNode)</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -346,7 +345,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>ParserFactory.getJsonParser().parseToString(sessionResponseNode)</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
