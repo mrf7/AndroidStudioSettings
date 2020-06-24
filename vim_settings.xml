@@ -139,8 +139,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/business/callables/CasetaAndRa2SelectSubscriptionAndStatusReadCallableTest.kt" timestamp="1592946157560" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/business/callables/ActivationDataGenerationCallableTest.kt" timestamp="1592936702792" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BaseConnectedActivity.java" timestamp="1592927221333" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/VoiceAliasSummaryRepoTest.kt" timestamp="1592945194217" />
       <file name="/fragment.kt" timestamp="1592944603595">
         <mark key="[" line="0" column="0" />
