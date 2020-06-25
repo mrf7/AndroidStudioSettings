@@ -143,7 +143,7 @@
         <mark key="[" line="27" column="16" />
         <mark key="]" line="27" column="17" />
         <mark key="." line="27" column="17" />
-        <mark key="^" line="79" column="33" />
+        <mark key="^" line="86" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/interfaces/IBleAdvertiser.kt" timestamp="1593031224775">
         <mark key="[" line="42" column="17" />
@@ -156,6 +156,12 @@
         <mark key="]" line="274" column="0" />
         <mark key="." line="274" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/BleErrorDialogFragment.kt" timestamp="1593109156686">
+        <mark key="[" line="66" column="10" />
+        <mark key="]" line="66" column="11" />
+        <mark key="^" line="66" column="11" />
+        <mark key="." line="66" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/business/callables/NLOReadCallableTest.kt" timestamp="1593029086609">
         <mark key="[" line="114" column="0" />
         <mark key="]" line="114" column="0" />
@@ -166,14 +172,20 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/EditButtonFailedDevicesPresenterTest.kt" timestamp="1593100977894">
-        <mark key="[" line="128" column="11" />
-        <mark key="]" line="128" column="12" />
-        <mark key="." line="128" column="12" />
-        <mark key="^" line="125" column="17" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/BleSelectorHelper.kt" timestamp="1593109615630">
+        <mark key="'" line="209" column="8" />
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="214" column="34" />
+        <mark key="." line="214" column="33" />
+        <mark key="^" line="214" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/ketraOob/BleDeviceOOBSelectorFragment.kt" timestamp="1593109344455">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/RingService.java" timestamp="1593091973207" />
-      <file name="/Dummy.txt" timestamp="1593106310658">
+      <file name="/Dummy.txt" timestamp="1593107650074">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -190,12 +202,12 @@
         <mark key="." line="64" column="48" />
         <mark key="^" line="45" column="108" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/EditHomePresenterTest.kt" timestamp="1593106935505">
-        <mark key="'" line="215" column="17" />
-        <mark key="[" line="191" column="0" />
-        <mark key="]" line="191" column="0" />
-        <mark key="^" line="215" column="18" />
-        <mark key="." line="191" column="0" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/EditHomePresenterTest.kt" timestamp="1593107761523">
+        <mark key="'" line="214" column="17" />
+        <mark key="[" line="190" column="0" />
+        <mark key="]" line="190" column="0" />
+        <mark key="^" line="214" column="18" />
+        <mark key="." line="190" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/business/callables/OperationStatusUnsubscribeRequestCallableTest.kt" timestamp="1593022190157">
         <mark key="'" line="55" column="40" />
@@ -209,29 +221,11 @@
         <mark key="]" line="1" column="16" />
         <mark key="." line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/strategy/nestedareaselection/ZoneAliasAreasStrategyTest.kt" timestamp="1593105310542">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="61" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/business/callables/RetransferDeviceConfigurationRequestCallableTest.kt" timestamp="1593019258943">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="47" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/BleDeviceSelectorFragment.java" timestamp="1593095126134">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="212" column="40" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/business/callables/OperationStatusSubscribeRequestCallableTest.kt" timestamp="1593020680967">
-        <mark key="[" line="65" column="40" />
-        <mark key="]" line="65" column="48" />
-        <mark key="^" line="65" column="48" />
-        <mark key="." line="65" column="47" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/BleDeviceSelectorFragment.java" timestamp="1593109524409">
+        <mark key="'" line="211" column="16" />
+        <mark key="[" line="210" column="0" />
+        <mark key="]" line="210" column="87" />
+        <mark key="^" line="211" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/business/callables/ControlStationLedStatusSubscribeCallableTest.kt" timestamp="1593022213299">
         <mark key="[" line="58" column="40" />
@@ -241,8 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="37" filename="$USER_HOME$/Projects/DJApp/buildSrc/src/main/kotlin/Libs.kt" />
-      <jump line="38" column="13" filename="$USER_HOME$/Projects/DJApp/app/src/main/java/com/mfriend/djapp/selectplaylist/PlaylistAdapter.kt" />
       <jump line="561" column="15" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/4.7.0/14a6ce408b763bc8c54a37ee4c19a2f3539d5829/okhttp-4.7.0-sources.jar!/okhttp3/OkHttpClient.kt" />
       <jump line="31" column="12" filename="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/spotifyapi/SpotifyModule.kt" />
       <jump line="24" column="16" filename="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/genericexamples/basics/example5/Example5StructuredConcurrency.kt" />
@@ -341,6 +333,8 @@
       <jump line="99" column="61" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/business/callables/ZoneGoToSpectrumTuningCallableTest.java" />
       <jump line="60" column="40" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/business/callables/OperationStatusUnsubscribeRequestCallableTest.kt" />
       <jump line="222" column="17" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/EditHomePresenterTest.kt" />
+      <jump line="211" column="16" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/BleDeviceSelectorFragment.java" />
+      <jump line="178" column="8" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/BleSelectorHelper.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -349,7 +343,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBQb3dlck1vY2tpdG8ubW9ja1N0YXRpYyhDb21tdW5pY2F0aW9uTWFuYWdlcjo6Y2xhc3MuamF2YSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEludAo=</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -367,7 +361,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>verify</text>
+        <text>requireActivity()</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -376,49 +370,49 @@
         <text>1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25FcnJvckNhbGxiYWNrKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEludGVudCBvcGVuQnRTZXR0aW5ncyA9IG5ldyBJbnRlbnQoU2V0dGluZ3MuQUNUSU9OX0JMVUVUT09USF9TRVRUSU5HUyk7Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBQb3dlck1vY2tpdG8ubW9ja1N0YXRpYyhDb21tdW5pY2F0aW9uTWFuYWdlcjo6Y2xhc3MuamF2YSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEludAo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTW9ja2l0by52ZXJpZnkoY29tbXVuaWNhdGlvbk1hbmFnZXIsIE1vY2tpdG8udGltZXMoMCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWN0aXZpdHkuc2hvd0FsZXJ0RGlhbG9nKHsgXywgXyAtPgogICAgICAgICAgICAgICAgdmFsIG9wZW5CdFNldHRpbmdzID0gSW50ZW50KFNldHRpbmdzLkFDVElPTl9CTFVFVE9PVEhfU0VUVElOR1MpCiAgICAgICAgICAgICAgICBhY3Rpdml0eS5zdGFydEFjdGl2aXR5KG9wZW5CdFNldHRpbmdzKQogICAgICAgICAgICB9LCAiQmx1ZXRvb3RoIG1hY2hpbmUgYnJva2UgcmVzdGFydCB5b3VyIHBob25lIikK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLm1vY2trLnZlcmlmeQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5wb3dlcm1vY2subW9kdWxlcy5qdW5pdDQucnVsZS5Qb3dlck1vY2tSdWxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgKHJlcXVpcmVBY3Rpdml0eSgpIGFzIEJhc2VBY3Rpdml0eSkuc2hvd0FsZXJ0RGlhbG9nKHsgXywgXyAtPgogICAgICAgICAgICAgICAgdmFsIG9wZW5CdFNldHRpbmdzID0gSW50ZW50KFNldHRpbmdzLkFDVElPTl9CTFVFVE9PVEhfU0VUVElOR1MpCiAgICAgICAgICAgICAgICByZXF1aXJlQWN0aXZpdHkoKS5zdGFydEFjdGl2aXR5KG9wZW5CdFNldHRpbmdzKQogICAgICAgICAgICB9LCAiQmx1ZXRvb3RoIG1hY2hpbmUgYnJva2UgcmVzdGFydCB5b3VyIHBob25lIikK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgdGVzdFVVSUQgPSBVVUlEKDB4REVBRCwgMHhCRUVGKQogICAgICAgIHZhbCBjYWxsYmFjazogQ2xhaW1EZXZpY2VDb21tYW5kLkNsYWltRGV2aWNlQ29tbWFuZENhbGxiYWNrID0gbW9ja2socmVsYXhlZCA9IHRydWUpCiAgICAgICAgdmFsIGNvbW1hbmQgPSBDbGFpbURldmljZUNvbW1hbmQoCiAgICAgICAgICAgIHRlc3RVVUlELCAiYm9ndXNLZXkiLCAwLCAiYm9ndVhQYW5JZCIsCiAgICAgICAgICAgICJhTmV0d29ya05hbWUiLCAwLCByb290Q2VydCwgY2FsbGJhY2sKICAgICAgICApCgogICAgICAgIC8vIFZhbGlkIHJlc3BvbnNlcyBmb3IgZWFjaCBjaGFyYWN0ZXJpc3RpYyBleGNlcHQgb25lCiAgICAgICAgZXZlcnkgeyBtb2NrQ29ubmVjdGlvbi53cml0ZUNoYXJhY3RlcmlzdGljKENsYWltRGV2aWNlQ29tbWFuZC5DTEFJTUVSX0dVSUQsIGFueSgpKSB9IHJldHVybnMgU2luZ2xlLmVycm9yKAogICAgICAgICAgICBFeGNlcHRpb24oKQogICAgICAgICkKCiAgICAgICAgY29tbWFuZC5leGVjdXRlKG1vY2tEZXZpY2UpCiAgICAgICAgdmVyaWZ5IHsKICAgICAgICAgICAgY2FsbGJhY2sub25DbGFpbURldmljZUNvbW1hbmRSZXN1bHQoCiAgICAgICAgICAgICAgICBMdXRCbGVDb21tYW5kLkNvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFLAogICAgICAgICAgICAgICAgbnVsbAogICAgICAgICAgICApCiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5wb3dlcm1vY2suY29yZS5jbGFzc2xvYWRlci5hbm5vdGF0aW9ucy5QcmVwYXJlRm9yVGVzdAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5wb3dlcm1vY2suY29yZS5jbGFzc2xvYWRlci5hbm5vdGF0aW9ucy5Qb3dlck1vY2tJZ25vcmUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5SdWxlCg==</text>
+        <text>Show popup when bt breaks</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICBQb3dlck1vY2tpdG8ubW9ja1N0YXRpYyhGZWF0dXJlTWFuYWdlci5jbGFzcyk7CiAgICAgICAgTW9ja2l0by53aGVuKEZlYXR1cmVNYW5hZ2VyLmlzUmluZ0VuYWJsZWQoKSkudGhlblJldHVybih0cnVlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sdXRyb24ubW13LmNvbW11bmljYXRpb24uQ29tbXVuaWNhdGlvbk1hbmFnZXIuQ29tcGFuaW9uLmdldEluc3RhbmNlCg==</text>
+        <text encoding="base64">ICAgICAgICBQb3dlck1vY2tpdG8ubW9ja1N0YXRpYyhDb21tdW5pY2F0aW9uTWFuYWdlcjo6Y2xhc3MuamF2YSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5uaGFhcm1hbi5tb2NraXRva290bGluMi52ZXJpZnkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTW9ja2l0by52ZXJpZnkoY29tbXVuaWNhdGlvbk1hbmFnZXIsIE1vY2tpdG8udGltZXMoMCkpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLzEvL2c=</text>
