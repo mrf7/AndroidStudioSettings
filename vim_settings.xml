@@ -184,10 +184,10 @@
         <mark key="." line="30" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BaseBleSelectorScreenViewModel.kt" timestamp="1593033488960">
-        <mark key="[" line="65" column="48" />
-        <mark key="]" line="65" column="48" />
-        <mark key="." line="65" column="48" />
-        <mark key="^" line="46" column="108" />
+        <mark key="[" line="64" column="48" />
+        <mark key="]" line="64" column="48" />
+        <mark key="." line="64" column="48" />
+        <mark key="^" line="45" column="108" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/EditHomePresenterTest.kt" timestamp="1593030212594" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/business/callables/OperationStatusUnsubscribeRequestCallableTest.kt" timestamp="1593022190157">
@@ -203,8 +203,10 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="47" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/BleDeviceSelectorFragment.java" timestamp="1593033628841">
-        <mark key="[" line="208" column="61" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/BleDeviceSelectorFragment.java" timestamp="1593033884665">
+        <mark key="[" line="208" column="80" />
+        <mark key="]" line="208" column="80" />
+        <mark key="." line="208" column="80" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/business/callables/OperationStatusSubscribeRequestCallableTest.kt" timestamp="1593020680967">
         <mark key="[" line="65" column="40" />
@@ -328,7 +330,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>getActivity().finish()</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -346,7 +348,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>getActivity().finish()</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
