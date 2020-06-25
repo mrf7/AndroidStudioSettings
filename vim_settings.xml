@@ -172,6 +172,7 @@
         <mark key="." line="62" column="47" />
         <mark key="^" line="62" column="48" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/RingService.java" timestamp="1593091973207" />
       <file name="/Dummy.txt" timestamp="1593030224354">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -196,6 +197,11 @@
         <mark key="]" line="52" column="79" />
         <mark key="^" line="21" column="31" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/vigiles_report.csv" timestamp="1593091987339">
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="1" column="16" />
+        <mark key="." line="1" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/business/callables/RetransferDeviceConfigurationRequestCallableTest.kt" timestamp="1593019258943">
         <mark key="[" line="48" column="0" />
