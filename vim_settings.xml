@@ -139,11 +139,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/BleAdvertiser.kt" timestamp="1593115197961">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/VoiceAliasSummaryFragment.kt" timestamp="1593179550640">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
@@ -173,10 +168,10 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/casetaMasterStrings/AppMasterStrings.txt" timestamp="1593112265081">
-        <mark key="[" line="12923" column="0" />
-        <mark key="]" line="12923" column="0" />
-        <mark key="." line="12923" column="0" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/casetaMasterStrings/AppMasterStrings.txt" timestamp="1593181114573">
+        <mark key="[" line="12922" column="23" />
+        <mark key="]" line="12922" column="23" />
+        <mark key="." line="12922" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/VoiceAliasSummaryRepoA.kt" timestamp="1593177892401">
         <mark key="[" line="31" column="6" />
@@ -202,7 +197,7 @@
         <mark key="." line="190" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/VoiceAliasSummaryRepo.kt" timestamp="1593177828887" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/build.gradle" timestamp="1593179898810" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/build.gradle" timestamp="1593179905052" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/BleDeviceSelectorFragment.java" timestamp="1593114249764" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/voice/VoiceAliasSummaryViewModelA.kt" timestamp="1593116353608">
         <mark key="[" line="28" column="19" />
@@ -322,8 +317,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBVUkwoKQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -341,7 +336,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>return null;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
