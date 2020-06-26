@@ -139,12 +139,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/VoiceAliasSummaryFragment.kt" timestamp="1593195021590">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="69" column="12" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/model/BaseDO.java" timestamp="1593182890168" />
       <file name="/Kotlin Console" timestamp="1593179217133">
         <mark key="[" line="0" column="0" />
@@ -159,12 +153,6 @@
         <mark key="[" line="28" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/view/ComingSoonKeypadColumnView.kt" timestamp="1593193713135" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/VoiceAliasSummaryRepoA.kt" timestamp="1593177892401">
-        <mark key="[" line="31" column="6" />
-        <mark key="]" line="102" column="4" />
-        <mark key="." line="102" column="3" />
-        <mark key="^" line="102" column="4" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BaseBleSelectorScreenViewModel.kt" timestamp="1593187348819">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="0" />
