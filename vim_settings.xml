@@ -139,17 +139,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/VoiceAliasSummaryFragment.kt" timestamp="1593439074843" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/model/LeapExceptionModel.java" timestamp="1593201675864" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/DeviceCreateCallable.java" timestamp="1593201764303" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/ServiceCreateCallable.kt" timestamp="1593201367162" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/support/actions/IProblemAction.java" timestamp="1593204357485" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/adapter/ProblemActionAdapter.java" timestamp="1593204393897" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/ble/BaseBleSelectorScreenViewModelTest.java" timestamp="1593194603132">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="316" column="30" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.kt" timestamp="1593442733142">
+        <mark key="[" line="145" column="70" />
+        <mark key="]" line="146" column="7" />
+        <mark key="." line="146" column="6" />
+        <mark key="^" line="146" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.java" timestamp="1593201592902" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/interfaces/viewpresentercontract/editkeypadbutton/EditButtonFailedDevicesContract.kt" timestamp="1593200637408" />
@@ -281,7 +280,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ci8vICAgICAgICBpZiAoc2hhcmVkVmlld01vZGVsLnJlcG8gPT0gbnVsbCkgewovLyAgICAgICAgICAgIHNoYXJlZFZpZXdNb2RlbC5yZXBvID0KLy8gICAgICAgICAgICAgICAgVm9pY2VBbGlhc1N1bW1hcnlSZXBvKG1BcHBDb250ZXh0LCBWb2ljZUFzc2lzdGFudENvbmZpZy5sb2FkKGNvbmZpZ0hyZWYpISEpCi8vICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBjb250ZXh0IC0gY29udGV4dCB1c2VkIHRvIGRldGVybWluZSBjb25uZWN0aXZpdHkgb2YgZGV2aWNlCiAgICAgKiBAcGFyYW0gcmVxdWVzdCAtIHJlcXVlc3QgdG8gYmUgc2VudAogICAgICogQHBhcmFtIGNsZWFuZXIgLSBjYWNoZSBjbGVhbmVyIHRoYXQgaXMgcnVuIGFmdGVyIHByb2Nlc3Npbmcgc28gdGhhdCBzdGFsZSBkb21haW4gb2JqZWN0cyBjYW4KICAgICAqIGJlIGNsZWFuZWQgb3V0IHdoZW4gcmVxdWlyZWQsIGlmIG51bGwsIG5vIGNsZWFuaW5nIHdpbGwgYmUgcnVuCiAgICAgKiBAcmV0dXJuIC0gTGlzdCBvZiBCYXNlRE9zIHRoYXQgd2VyZSB1cGRhdGVkL2luc2VydGVkLiAgTnVsbCBpZiBubyBvYmplY3RzIHdlcmUgcmV0dXJuZWQvdXBkYXRlZC9pbnNlcnRlZCBvciBpZgogICAgICogaXQgaXMgbm90IHBvc3NpYmxlIHRvIHJlcHJlc2VudCB0aGUgY2hhbmdlcyBpbiBvbmUgQmFzZURPIChzdWNoIGFzIGluIHRoZSBjYXNlIG9mIGEgbGlzdCkKICAgICAqIEB0aHJvd3MgTGVhcEV4Y2VwdGlvbk1vZGVsICAgICAgICAgICAgICAgICAtIGxlYXAgZXhjZXB0aW9uIGZyb20gYnJpZGdlCiAgICAgKiBAdGhyb3dzIFJlcXVlc3RSZXNwb25zZVByb2Nlc3NpbmdFeGNlcHRpb24gLSBleGNlcHRpb24gZHVlIHRvIGFsbCBvdGhlciBleGNlcHRpb24gbGlrZSBKc29uIHBhcnNpbmcsIERhb0V4Y2VwdGlvbnMgZXRjLgo=</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -299,7 +298,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>advertiser.start(Mockito.any(), Mockito.any())</text>
+        <text>,</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -308,7 +307,7 @@
         <text>1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJsZVNlbGVjdG9ySGVscGVyLnNob3dCbGVFcnJvckRpYWxvZygoKEJhc2VBY3Rpdml0eSkgcmVxdWlyZUFjdGl2aXR5KCkpLCAoKSAtPiB7CiAgICAgICAgICAgICAgICAgICAgbUJsZUNsYWltaW5nU2NyZWVuVmlld01vZGVsLm9uQmxlRXJyb3JDbGVhcmVkKCk7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBjb250ZXh0IC0gY29udGV4dCB1c2VkIHRvIGRldGVybWluZSBjb25uZWN0aXZpdHkgb2YgZGV2aWNlCiAgICAgKiBAcGFyYW0gcmVxdWVzdCAtIHJlcXVlc3QgdG8gYmUgc2VudAogICAgICogQHBhcmFtIGNsZWFuZXIgLSBjYWNoZSBjbGVhbmVyIHRoYXQgaXMgcnVuIGFmdGVyIHByb2Nlc3Npbmcgc28gdGhhdCBzdGFsZSBkb21haW4gb2JqZWN0cyBjYW4KICAgICAqIGJlIGNsZWFuZWQgb3V0IHdoZW4gcmVxdWlyZWQsIGlmIG51bGwsIG5vIGNsZWFuaW5nIHdpbGwgYmUgcnVuCiAgICAgKiBAcmV0dXJuIC0gTGlzdCBvZiBCYXNlRE9zIHRoYXQgd2VyZSB1cGRhdGVkL2luc2VydGVkLiAgTnVsbCBpZiBubyBvYmplY3RzIHdlcmUgcmV0dXJuZWQvdXBkYXRlZC9pbnNlcnRlZCBvciBpZgogICAgICogaXQgaXMgbm90IHBvc3NpYmxlIHRvIHJlcHJlc2VudCB0aGUgY2hhbmdlcyBpbiBvbmUgQmFzZURPIChzdWNoIGFzIGluIHRoZSBjYXNlIG9mIGEgbGlzdCkKICAgICAqIEB0aHJvd3MgTGVhcEV4Y2VwdGlvbk1vZGVsICAgICAgICAgICAgICAgICAtIGxlYXAgZXhjZXB0aW9uIGZyb20gYnJpZGdlCiAgICAgKiBAdGhyb3dzIFJlcXVlc3RSZXNwb25zZVByb2Nlc3NpbmdFeGNlcHRpb24gLSBleGNlcHRpb24gZHVlIHRvIGFsbCBvdGhlciBleGNlcHRpb24gbGlrZSBKc29uIHBhcnNpbmcsIERhb0V4Y2VwdGlvbnMgZXRjLgo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
