@@ -139,18 +139,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/model/BaseDO.java" timestamp="1593451082728" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/TestProperty.java" timestamp="1593455844150">
-        <mark key="]" line="4" column="24" />
-        <mark key="^" line="4" column="24" />
-        <mark key="." line="4" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/voice/VoiceAliasSummaryViewModel.kt" timestamp="1593455956935">
-        <mark key="[" line="26" column="2" />
-        <mark key="]" line="27" column="42" />
-        <mark key="." line="27" column="41" />
-        <mark key="^" line="27" column="42" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/VoiceAliasSummaryRepoTest.kt" timestamp="1593457762309">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -161,6 +149,9 @@
         <mark key="[" line="89" column="13" />
         <mark key="]" line="89" column="13" />
         <mark key="." line="89" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/Zone.java" timestamp="1593446190853">
+        <mark key="'" line="1538" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/roomDb/src/main/java/com/lutron/roomdb/dao/ChannelDao.kt" timestamp="1593445752578">
         <mark key="[" line="35" column="23" />
@@ -174,30 +165,32 @@
         <mark key="." line="93" column="31" />
         <mark key="^" line="93" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/AudioFavoriteDao.java" timestamp="1593454145862">
+        <mark key="'" line="131" column="47" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/Utils/src/main/java/com/lutron/sharedutils/helper/Either.kt" timestamp="1593453710026">
         <mark key="[" line="21" column="17" />
         <mark key="]" line="21" column="18" />
         <mark key="." line="21" column="18" />
         <mark key="^" line="20" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/AudioFavorite.java" timestamp="1593454624830" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.room/room-common/2.2.4/924310c61a30c7a167a22f636331556bc654ec94/room-common-2.2.4-sources.jar!/androidx/room/Insert.java" timestamp="1593445620725" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao/3.1.1/a0164324ff506561f05ebfc03d05853be99a6781/greendao-3.1.1-sources.jar!/org/greenrobot/greendao/AbstractDao.java" timestamp="1593455619001" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/Zone.java" timestamp="1593446190853">
-        <mark key="'" line="1538" column="47" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/voice/VoiceAliasSummaryViewModelTest.kt" timestamp="1593462077882">
+        <mark key="'" line="66" column="8" />
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+        <mark key="^" line="64" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/response/processor/keypad/AliasProcessor.kt" timestamp="1593445278017" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/InsertHelper.kt" timestamp="1593446604495" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/AudioFavoriteDao.java" timestamp="1593454145862">
-        <mark key="'" line="131" column="47" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/TestProperty.java" timestamp="1593455844150">
+        <mark key="]" line="4" column="24" />
+        <mark key="^" line="4" column="24" />
+        <mark key="." line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/MQTTCredentialEntityDao.java" timestamp="1593446381997" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/voice/VoiceAliasSummaryViewModelTest.kt" timestamp="1593461196681">
-        <mark key="'" line="65" column="8" />
-        <mark key="[" line="85" column="52" />
-        <mark key="]" line="86" column="19" />
-        <mark key="." line="86" column="18" />
-        <mark key="^" line="86" column="19" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/voice/VoiceAliasSummaryViewModel.kt" timestamp="1593455956935">
+        <mark key="[" line="26" column="2" />
+        <mark key="]" line="27" column="42" />
+        <mark key="." line="27" column="41" />
+        <mark key="^" line="27" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/TestDbo.java" timestamp="1593455904513">
         <mark key="[" line="21" column="10" />
@@ -317,8 +310,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>and ensure it starts with scene alias data</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZWxheSgxMDAwKQo=</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -336,7 +329,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>and ensure it starts with scene alias data</text>
+        <text>tabs</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -351,43 +344,43 @@
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgb2JzZXJ2ZXI6IE9ic2VydmVyPExpc3Q+Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWxheSgxMDAwKQo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IGxpc3RPZigKICAgICAgICAgICAgQWxpYXMoIjEiLCAiYnV0dG9uIDEiLCApCiAgICAgICAgKQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgb2JzZXJ2ZXI6IE9ic2VydmVyPExpc3Q+Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGxpc3RPZigKICAgICAgICAgICAgQWxpYXMoIjEiLCAiYnV0dG9uIDEiLCApCiAgICAgICAgKQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXZlcnkge30K</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgdGVzdFVVSUQgPSBVVUlEKDB4REVBRCwgMHhCRUVGKQogICAgICAgIHZhbCBjYWxsYmFjazogQ2xhaW1EZXZpY2VDb21tYW5kLkNsYWltRGV2aWNlQ29tbWFuZENhbGxiYWNrID0gbW9ja2socmVsYXhlZCA9IHRydWUpCiAgICAgICAgdmFsIGNvbW1hbmQgPSBDbGFpbURldmljZUNvbW1hbmQoCiAgICAgICAgICAgIHRlc3RVVUlELCAiYm9ndXNLZXkiLCAwLCAiYm9ndVhQYW5JZCIsCiAgICAgICAgICAgICJhTmV0d29ya05hbWUiLCAwLCByb290Q2VydCwgY2FsbGJhY2sKICAgICAgICApCgogICAgICAgIC8vIFZhbGlkIHJlc3BvbnNlcyBmb3IgZWFjaCBjaGFyYWN0ZXJpc3RpYyBleGNlcHQgb25lCiAgICAgICAgZXZlcnkgeyBtb2NrQ29ubmVjdGlvbi53cml0ZUNoYXJhY3RlcmlzdGljKENsYWltRGV2aWNlQ29tbWFuZC5DTEFJTUVSX0dVSUQsIGFueSgpKSB9IHJldHVybnMgU2luZ2xlLmVycm9yKAogICAgICAgICAgICBFeGNlcHRpb24oKQogICAgICAgICkKCiAgICAgICAgY29tbWFuZC5leGVjdXRlKG1vY2tEZXZpY2UpCiAgICAgICAgdmVyaWZ5IHsKICAgICAgICAgICAgY2FsbGJhY2sub25DbGFpbURldmljZUNvbW1hbmRSZXN1bHQoCiAgICAgICAgICAgICAgICBMdXRCbGVDb21tYW5kLkNvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFLAogICAgICAgICAgICAgICAgbnVsbAogICAgICAgICAgICApCiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb0V2ZXJ5IHsgbW9ja1JlcG8uZ2V0QXNzb2NpYXRlZFJlc291cmNlKGFueSgpKSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXZlcnkge30K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzdHJpY3QgbW9jayBvZiB0aGUgcmVwbyB3b3VsZCBmYWlsIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb0V2ZXJ5IHsgbW9ja1JlcG8uZ2V0QXNzb2NpYXRlZFJlc291cmNlKGFueSgpKSB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBFbnN1cmUgdGhlIHJlcG8gaGFzbnQgYmVlbiB1c2VkIGJlZm9yZSBvYnNlcnZpbmcgdGhlIHZtCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBzdHJpY3QgbW9jayBvZiB0aGUgcmVwbyB3b3VsZCBmYWlsIAo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICBQb3dlck1vY2tpdG8ubW9ja1N0YXRpYyhGZWF0dXJlTWFuYWdlci5jbGFzcyk7CiAgICAgICAgTW9ja2l0by53aGVuKEZlYXR1cmVNYW5hZ2VyLmlzUmluZ0VuYWJsZWQoKSkudGhlblJldHVybih0cnVlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkgeyAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBFbnN1cmUgdGhlIHJlcG8gaGFzbnQgYmVlbiB1c2VkIGJlZm9yZSBvYnNlcnZpbmcgdGhlIHZtCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogVE9ETyBNUkYgV3JpdGUgQ2xhc3MgaGVhZGVyCg==</text>
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkgeyAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/Button/Zone/g</text>
