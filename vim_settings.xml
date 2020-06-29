@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>joiner credential</entry>
-        <entry>joinerCredential</entry>
         <entry>Beta</entry>
         <entry>private</entry>
         <entry>.</entry>
@@ -27,10 +25,10 @@
         <entry>NEST_THERMOSTAT</entry>
         <entry>IDCaptor</entry>
         <entry>1</entry>
+        <entry>button</entry>
+        <entry>Button</entry>
       </history-search>
       <history-cmd>
-        <entry>s/timestamp/joiner iid/g</entry>
-        <entry>s/timestamp/static address/g</entry>
         <entry>s/joiner credential/static address/g</entry>
         <entry>s/joinerCredential/staticAddress/g</entry>
         <entry>s/Beta/alpha/g</entry>
@@ -49,6 +47,8 @@
         <entry>s/NEST_THERMOSTAT/RING/g</entry>
         <entry>s/IDCaptor/IdSlot/g</entry>
         <entry encoding="base64">JzwsJz5zLzEvL2c=</entry>
+        <entry>s/button/zone/g</entry>
+        <entry>s/Button/Zone/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -192,11 +192,12 @@
         <mark key="'" line="131" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/MQTTCredentialEntityDao.java" timestamp="1593446381997" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/voice/VoiceAliasSummaryViewModelTest.kt" timestamp="1593459027959">
-        <mark key="[" line="33" column="8" />
-        <mark key="]" line="33" column="14" />
-        <mark key="." line="33" column="13" />
-        <mark key="^" line="33" column="14" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/voice/VoiceAliasSummaryViewModelTest.kt" timestamp="1593461196681">
+        <mark key="'" line="65" column="8" />
+        <mark key="[" line="85" column="52" />
+        <mark key="]" line="86" column="19" />
+        <mark key="." line="86" column="18" />
+        <mark key="^" line="86" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/TestDbo.java" timestamp="1593455904513">
         <mark key="[" line="21" column="10" />
@@ -209,7 +210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="12" filename="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/genericexamples/basics/example2/Example2Suspend.kt" />
       <jump line="15" column="8" filename="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/genericexamples/basics/example7/Example7SuspendFunctions.kt" />
       <jump line="188" column="25" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/AreaDao.java" />
       <jump line="78" column="28" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/MAreaDao.java" />
@@ -309,6 +309,7 @@
       <jump line="1538" column="47" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/Zone.java" />
       <jump line="131" column="47" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/AudioFavoriteDao.java" />
       <jump line="31" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/voice/VoiceAliasSummaryViewModel.kt" />
+      <jump line="59" column="8" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/voice/VoiceAliasSummaryViewModelTest.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -317,7 +318,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>setup</text>
+        <text>and ensure it starts with scene alias data</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -335,71 +336,71 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>setup</text>
+        <text>and ensure it starts with scene alias data</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
       </register>
       <register name="/" type="4">
-        <text>1</text>
+        <text>Button</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBPYnNlcnZlciBoaGUgdmlldyBtb2RlbCBhbmQgZW5zdXJlIHdlIGdldCB0aGUgZGF0YSAK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgb2JzZXJ2ZXI6IE9ic2VydmVyPExpc3Q8Vm9pY2VBbGlhc1N1bW1hcnlEYXRhTW9kZWw+PiA9IG1vY2trKHJlbGF4ZWQgPSB0cnVlKQogICAgICAgIHZpZXdNb2RlbC5hbGlhc0RhdGEub2JzZXJ2ZUZvcmV2ZXIob2JzZXJ2ZXIpCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgb2JzZXJ2ZXI6IE9ic2VydmVyPExpc3Q+Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXZlcnkge30K</text>
+      <register name="2" type="4">
+        <text encoding="base64">IGxpc3RPZigKICAgICAgICAgICAgQWxpYXMoIjEiLCAiYnV0dG9uIDEiLCApCiAgICAgICAgKQ==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb0V2ZXJ5IHsgbW9ja1JlcG8uZ2V0QXNzb2NpYXRlZFJlc291cmNlKGFueSgpKSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzdHJpY3QgbW9jayBvZiB0aGUgcmVwbyB3b3VsZCBmYWlsIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXZlcnkge30K</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgdGVzdFVVSUQgPSBVVUlEKDB4REVBRCwgMHhCRUVGKQogICAgICAgIHZhbCBjYWxsYmFjazogQ2xhaW1EZXZpY2VDb21tYW5kLkNsYWltRGV2aWNlQ29tbWFuZENhbGxiYWNrID0gbW9ja2socmVsYXhlZCA9IHRydWUpCiAgICAgICAgdmFsIGNvbW1hbmQgPSBDbGFpbURldmljZUNvbW1hbmQoCiAgICAgICAgICAgIHRlc3RVVUlELCAiYm9ndXNLZXkiLCAwLCAiYm9ndVhQYW5JZCIsCiAgICAgICAgICAgICJhTmV0d29ya05hbWUiLCAwLCByb290Q2VydCwgY2FsbGJhY2sKICAgICAgICApCgogICAgICAgIC8vIFZhbGlkIHJlc3BvbnNlcyBmb3IgZWFjaCBjaGFyYWN0ZXJpc3RpYyBleGNlcHQgb25lCiAgICAgICAgZXZlcnkgeyBtb2NrQ29ubmVjdGlvbi53cml0ZUNoYXJhY3RlcmlzdGljKENsYWltRGV2aWNlQ29tbWFuZC5DTEFJTUVSX0dVSUQsIGFueSgpKSB9IHJldHVybnMgU2luZ2xlLmVycm9yKAogICAgICAgICAgICBFeGNlcHRpb24oKQogICAgICAgICkKCiAgICAgICAgY29tbWFuZC5leGVjdXRlKG1vY2tEZXZpY2UpCiAgICAgICAgdmVyaWZ5IHsKICAgICAgICAgICAgY2FsbGJhY2sub25DbGFpbURldmljZUNvbW1hbmRSZXN1bHQoCiAgICAgICAgICAgICAgICBMdXRCbGVDb21tYW5kLkNvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFLAogICAgICAgICAgICAgICAgbnVsbAogICAgICAgICAgICApCiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBFbnN1cmUgdGhlIHJlcG8gaGFzbnQgYmVlbiB1c2VkIGJlZm9yZSBvYnNlcnZpbmcgdGhlIHZtCg==</text>
+        <text encoding="base64">ICAgICAgICBjb0V2ZXJ5IHsgbW9ja1JlcG8uZ2V0QXNzb2NpYXRlZFJlc291cmNlKGFueSgpKSB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJpZnkgeyAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBzdHJpY3QgbW9jayBvZiB0aGUgcmVwbyB3b3VsZCBmYWlsIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogVE9ETyBNUkYgV3JpdGUgQ2xhc3MgaGVhZGVyCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBFbnN1cmUgdGhlIHJlcG8gaGFzbnQgYmVlbiB1c2VkIGJlZm9yZSBvYnNlcnZpbmcgdGhlIHZtCg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICBQb3dlck1vY2tpdG8ubW9ja1N0YXRpYyhGZWF0dXJlTWFuYWdlci5jbGFzcyk7CiAgICAgICAgTW9ja2l0by53aGVuKEZlYXR1cmVNYW5hZ2VyLmlzUmluZ0VuYWJsZWQoKSkudGhlblJldHVybih0cnVlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLm1vY2trLnNsb3QK</text>
+        <text encoding="base64">ICAgICAgICB2ZXJpZnkgeyAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sdXRyb24ubW13LkJhc2VUZXN0Cg==</text>
+        <text encoding="base64">ICogVE9ETyBNUkYgV3JpdGUgQ2xhc3MgaGVhZGVyCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zLzEvL2c=</text>
+        <text>s/Button/Zone/g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>1</last-search>
+      <last-search>Button</last-search>
       <last-offset />
-      <last-pattern>1</last-pattern>
-      <last-replace />
-      <last-substitute>1</last-substitute>
+      <last-pattern>Button</last-pattern>
+      <last-replace>Zone</last-replace>
+      <last-substitute>Button</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
