@@ -173,12 +173,12 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/tls/GattInputStream.kt" timestamp="1593524713594">
         <mark key="[" line="22" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/Utils/src/main/java/com/lutron/sharedutils/extension/CollectionExtension.kt" timestamp="1593539624644">
+      <file name="$USER_HOME$/Documents/caseta-android-app/Utils/src/main/java/com/lutron/sharedutils/extension/CollectionExtension.kt" timestamp="1593540273364">
         <mark key="'" line="57" column="1" />
-        <mark key="[" line="54" column="12" />
-        <mark key="]" line="54" column="33" />
-        <mark key="." line="54" column="32" />
-        <mark key="^" line="54" column="33" />
+        <mark key="[" line="59" column="48" />
+        <mark key="]" line="64" column="37" />
+        <mark key="." line="64" column="36" />
+        <mark key="^" line="64" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/VoiceAliasSummaryRepo.kt" timestamp="1593457931903">
         <mark key="[" line="89" column="13" />
