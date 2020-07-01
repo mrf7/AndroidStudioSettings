@@ -157,6 +157,12 @@
         <mark key="^" line="51" column="36" />
         <mark key="." line="1" column="21" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/tls/GattTlsManager.kt" timestamp="1593626582277">
+        <mark key="[" line="113" column="17" />
+        <mark key="]" line="113" column="23" />
+        <mark key="." line="113" column="22" />
+        <mark key="^" line="113" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/RingSignInPresenterTest.kt" timestamp="1593611912170">
         <mark key="'" line="27" column="6" />
         <mark key="[" line="146" column="0" />
@@ -170,12 +176,6 @@
         <mark key="^" line="95" column="101" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/adapter/AreaDevicesExpandableListAdapter.java" timestamp="1593614704266" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/build.gradle" timestamp="1593610890317">
-        <mark key="[" line="23" column="48" />
-        <mark key="]" line="23" column="50" />
-        <mark key="^" line="23" column="50" />
-        <mark key="." line="23" column="49" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/adapter/Test.kt" timestamp="1593614595555">
         <mark key="[" line="13" column="11" />
         <mark key="]" line="13" column="11" />
@@ -188,7 +188,6 @@
         <mark key="^" line="82" column="113" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/Button.java" timestamp="1593617313076" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/testHelpers/rules/CoroutinesTestRule.kt" timestamp="1593545861557" />
       <file name="$USER_HOME$/Documents/caseta-android-app/Utils/src/main/java/com/lutron/sharedutils/helper/Either.kt" timestamp="1593618756399">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -201,6 +200,13 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/interfaces/IProgrammable.java" timestamp="1593617287752" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/command/ClaimDeviceCommand.kt" timestamp="1593626727723">
+        <mark key="'" line="170" column="21" />
+        <mark key="[" line="249" column="17" />
+        <mark key="]" line="249" column="23" />
+        <mark key="." line="249" column="22" />
+        <mark key="^" line="249" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/adapter/TestFuke.kt" timestamp="1593614682384">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -321,7 +327,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>!!)</text>
+        <text>LOGGER_TAG</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -339,7 +345,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>!!)</text>
+        <text>LOGGER_TAG</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
