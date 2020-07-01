@@ -6,6 +6,7 @@
       <mapping pattern="home_6064056b0b82" type="Native" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
