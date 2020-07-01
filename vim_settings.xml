@@ -144,9 +144,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/tls/GattOutputStream.kt" timestamp="1593524181394">
-        <mark key="[" line="18" column="3" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/config/detekt/detekt.yml" timestamp="1593612385866">
         <mark key="'" line="122" column="25" />
         <mark key="[" line="84" column="4" />
@@ -166,14 +163,14 @@
         <mark key="]" line="214" column="0" />
         <mark key="." line="214" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/tls/GattTlsManager.kt" timestamp="1593524679469" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/RingSignInPresenterTest.kt" timestamp="1593611912170">
         <mark key="'" line="27" column="6" />
         <mark key="[" line="146" column="0" />
         <mark key="]" line="146" column="0" />
         <mark key="." line="146" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593612406602">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/adapter/AreaDevicesExpandableListAdapter.java" timestamp="1593614704266" />
+      <file name="/Dummy.txt" timestamp="1593614613662">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -184,22 +181,25 @@
         <mark key="^" line="23" column="50" />
         <mark key="." line="23" column="49" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/adapter/Test.kt" timestamp="1593614595555">
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="10" column="11" />
+        <mark key="." line="10" column="11" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/tls/GattInputStream.kt" timestamp="1593524713594">
         <mark key="[" line="22" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/Utils/src/main/java/com/lutron/sharedutils/extension/CollectionExtension.kt" timestamp="1593540273364">
         <mark key="'" line="57" column="1" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.madgag.spongycastle/core/1.58.0.0/f5868b4b366be503c878eb78e7d884a510a35dc3/core-1.58.0.0-sources.jar!/org/spongycastle/crypto/tls/TlsClientProtocol.java" timestamp="1593524387251" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/command/ClaimDeviceCommand.kt" timestamp="1593524211005">
-        <mark key="'" line="170" column="21" />
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="0" />
-        <mark key="." line="177" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/testHelpers/rules/CoroutinesTestRule.kt" timestamp="1593545861557" />
       <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/LeapRequestResponseModel.java" timestamp="1593545253954" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/config/detekt/license.template" timestamp="1593611980628">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/adapter/TestFuke.kt" timestamp="1593614682384">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/config/detekt/license.template" timestamp="1593614145178">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="17" />
         <mark key="." line="1" column="17" />
@@ -313,8 +313,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>threshold</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -332,7 +332,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>threshold</text>
+        <text>{</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -347,16 +347,13 @@
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoKICogQ29weXJpZ2h0IChjKSAyMDIxIEx1dHJvbi4gQWxsIHJpZ2h0cyByZXNlcnZlZC4KICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
-      <register name="2" type="4">
-        <text>/*
- * Copyright (c) 2021 Lutron. All rights reserved.
- */
-package</text>
+      <register name="2" type="2">
+        <text encoding="base64">I3BhcnNlKCJGaWxlIEhlYWRlci5qYXZhIikK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
@@ -365,9 +362,7 @@ package</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text>/*
- * Copyright (c) 2020 Lutron. All rights reserved.
- */</text>
+        <text encoding="base64">I3BhcnNlKCJGaWxlIEhlYWRlci5rdCIpCg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
@@ -376,19 +371,19 @@ package</text>
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJ1aWxkVXBvbkRlZmF1bHRDb25maWcgPSB0cnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFVzZSBkZWZhdWx0IGNvbmZpZyBzbyB3ZSBkb250IGhhdmUgdG8gbWFudWFsbHkgYWRkIG5ldyBydWxlcyB0aGF0IGFyZSBlbmFibGVkIGJ5IGRlZmF1bHQKICAgIGJ1aWxkVXBvbkRlZmF1bHRDb25maWcgPSB0cnVlCg==</text>
+        <text>#parse(&quot;File Header.kt&quot;)</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICBQb3dlck1vY2tpdG8ubW9ja1N0YXRpYyhGZWF0dXJlTWFuYWdlci5jbGFzcyk7CiAgICAgICAgTW9ja2l0by53aGVuKEZlYXR1cmVNYW5hZ2VyLmlzUmluZ0VuYWJsZWQoKSkudGhlblJldHVybih0cnVlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoKICogQ29weXJpZ2h0IChjKSBMdXRyb24uIEFsbCByaWdodHMgcmVzZXJ2ZWQKICovCi8qKgogKiBUT0RPIE1SRiBXcml0ZSBDbGFzcyBoZWFkZXIKICoKICogQ3JlYXRlZCBieSBNRnJpZW5kIG9uIDcvMS8yMC4KICovCnBhY2thZ2UgY29tLmx1dHJvbi5tbXcuYWRhcHRlcgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFVzZSBkZWZhdWx0IGNvbmZpZyBzbyB3ZSBkb250IGhhdmUgdG8gbWFudWFsbHkgYWRkIG5ldyBydWxlcyB0aGF0IGFyZSBlbmFibGVkIGJ5IGRlZmF1bHQgCg==</text>
+        <text encoding="base64">ICogQ29weXJpZ2h0IChjKSAyMDIwIEx1dHJvbi4gQWxsIHJpZ2h0cyByZXNlcnZlZC4K</text>
       </register>
       <register name=":" type="4">
         <text>delmarks T</text>
