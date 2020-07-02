@@ -185,7 +185,7 @@
         <mark key="." line="9" column="65" />
         <mark key="^" line="9" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/datamodels/RingCloudCommunicationApi.kt" timestamp="1593638042481">
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/datamodels/RingCloudCommunicationApi.kt" timestamp="1593697702778">
         <mark key="[" line="32" column="57" />
         <mark key="]" line="32" column="57" />
         <mark key="^" line="21" column="92" />
@@ -215,11 +215,11 @@
         <mark key="." line="201" column="63" />
         <mark key="^" line="201" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/build.gradle" timestamp="1593638087979">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="53" column="4" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/build.gradle" timestamp="1593698211172">
+        <mark key="[" line="47" column="50" />
+        <mark key="]" line="48" column="34" />
+        <mark key="^" line="48" column="34" />
+        <mark key="." line="48" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/datamodels/EventTypes.kt" timestamp="1593638854900">
         <mark key="[" line="18" column="11" />
@@ -229,6 +229,12 @@
       </file>
       <file name="/fragment.java" timestamp="1593636205383">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/RingCloudApi.kt" timestamp="1593698179977">
+        <mark key="[" line="60" column="9" />
+        <mark key="]" line="61" column="16" />
+        <mark key="^" line="61" column="16" />
+        <mark key="." line="61" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -339,8 +345,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text>Handle resource read errors and add tests</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -358,7 +364,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>}</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
