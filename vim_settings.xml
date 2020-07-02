@@ -21,15 +21,14 @@
         <entry>Yes</entry>
         <entry>{</entry>
         <entry>return</entry>
-        <entry>scene</entry>
         <entry>NEST_THERMOSTAT</entry>
         <entry>IDCaptor</entry>
         <entry>1</entry>
         <entry>button</entry>
         <entry>Button</entry>
+        <entry>scene</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3ByaXZhdGUvL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0lOQ1JFQVNFL0RFQ1JFQVNFL2c=</entry>
         <entry>s/FORM_FACTOR/DEVICE_CLASS/g</entry>
         <entry>wq</entry>
@@ -49,6 +48,7 @@
         <entry>del t</entry>
         <entry>delmarks t</entry>
         <entry>delmarks T</entry>
+        <entry>s/scene/device/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -151,13 +151,14 @@
         <mark key="." line="37" column="9" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.71/bc2d3018bbb572e087e0afee6bedfba35eba125f/kotlin-stdlib-common-1.3.71-sources.jar!/kotlin/util/Preconditions.kt" timestamp="1593700104697" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/voice/VoiceAliasSummaryViewModel.kt" timestamp="1593700719956">
-        <mark key="[" line="30" column="40" />
-        <mark key="]" line="30" column="59" />
-        <mark key="." line="30" column="58" />
-        <mark key="^" line="30" column="59" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/voice/VoiceAliasSummaryViewModel.kt" timestamp="1593701716835">
+        <mark key="'" line="136" column="0" />
+        <mark key="[" line="138" column="43" />
+        <mark key="]" line="138" column="43" />
+        <mark key="." line="138" column="42" />
+        <mark key="^" line="138" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.kt" timestamp="1593701006644">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.kt" timestamp="1593701728118">
         <mark key="'" line="147" column="15" />
         <mark key="[" line="280" column="66" />
         <mark key="]" line="280" column="74" />
@@ -202,16 +203,16 @@
         <mark key="^" line="128" column="11" />
         <mark key="." line="128" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593701526423">
+      <file name="/Dummy.txt" timestamp="1593701738844">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/NLOFadeFighterPropertiesTiltAssignmentReadCallable.kt" timestamp="1593700557439">
-        <mark key="[" line="38" column="9" />
-        <mark key="]" line="33" column="45" />
-        <mark key="." line="33" column="44" />
-        <mark key="^" line="33" column="45" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/NLOFadeFighterPropertiesTiltAssignmentReadCallable.kt" timestamp="1593701588216">
+        <mark key="[" line="36" column="9" />
+        <mark key="]" line="31" column="45" />
+        <mark key="." line="31" column="44" />
+        <mark key="^" line="31" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/Utils/src/main/java/com/lutron/sharedutils/extension/CollectionExtension.kt" timestamp="1593700287837">
         <mark key="'" line="57" column="1" />
@@ -224,11 +225,11 @@
         <mark key="]" line="25" column="54" />
         <mark key="." line="25" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/LeapReadCallable.kt" timestamp="1593700477475">
-        <mark key="[" line="38" column="10" />
-        <mark key="]" line="38" column="10" />
-        <mark key="^" line="38" column="10" />
-        <mark key="." line="38" column="9" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/LeapReadCallable.kt" timestamp="1593701580009">
+        <mark key="[" line="36" column="10" />
+        <mark key="]" line="36" column="10" />
+        <mark key="^" line="36" column="10" />
+        <mark key="." line="36" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/datamodels/EventType.kt" timestamp="1593696844030">
         <mark key="[" line="11" column="34" />
@@ -244,8 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="101" filename="$USER_HOME$/Projects/DJApp/app/src/main/java/com/mfriend/djapp/SpotifyObjectParser.kt" />
-      <jump line="27" column="30" filename="$USER_HOME$/Projects/DJApp/config/detekt/detekt.yml" />
       <jump line="44" column="0" filename="$USER_HOME$/Projects/DJApp/app/build.gradle.kts" />
       <jump line="0" column="8" filename="$USER_HOME$/Projects/DJApp/app/build.gradle.kts" />
       <jump line="88" column="4" filename="$USER_HOME$/Projects/DJApp/app/build.gradle.kts" />
@@ -344,6 +343,8 @@
       <jump line="145" column="15" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.kt" />
       <jump line="31" column="6" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/business/callables/ShadeLevelWithTiltAssignmentCreateCallableTest.kt" />
       <jump line="98" column="27" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/business/callables/ShadeLevelWithTiltAssignmentCreateCallableTest.kt" />
+      <jump line="134" column="18" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/voice/VoiceAliasSummaryViewModel.kt" />
+      <jump line="136" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/voice/VoiceAliasSummaryViewModel.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -352,7 +353,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text>Made events a map of Event type to String</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -376,65 +377,65 @@
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
       </register>
       <register name="/" type="4">
-        <text>Button</text>
+        <text>scene</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBKc29uQWxpYXMoInJ1bmciKQo=</text>
+        <text encoding="base64">ICAgICAgICAvKiogQ29uc3RhbnQgdG8gZGVub3RlIHRoZSBzY2VuZSBhbGlhcyBsaXN0IHRhYiAqLwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text>Made events a map of Event type to String</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKiogQ29uc3RhbnQgCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gY2F0Y2ggKGU6IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbikgewogICAgICAgICAgICAgICAgICAgIC8vIEV4cGVjdGVkIHBhdGgKICAgICAgICAgICAgICAgIH0K</text>
+        <text>Made events a map of Event type to String</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQFN1cHByZXNzKCJMb29wV2l0aFRvb01hbnlKdW1wU3RhdGVtZW50cyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHJlcG8gdG8gbWFrZSBDUlVEIG9wZXJhdGlvbnMgb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gY2F0Y2ggKGU6IElsbGVnYWxBcmd1bWVudEV4Y2VwdGlvbikgewogICAgICAgICAgICAgICAgICAgIC8vIEV4cGVjdGVkIHBhdGgKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlbW92ZWRJdGVtcy5jb2VyY2VUb1R5cGU8U3RyaW5nPigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQFN1cHByZXNzKCJMb29wV2l0aFRvb01hbnlKdW1wU3RhdGVtZW50cyIpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVE9ETygpCg==</text>
+        <text encoding="base64">ICogQHBhcmFtIHJlcG8gdG8gbWFrZSBDUlVEIG9wZXJhdGlvbnMgb24K</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICBQb3dlck1vY2tpdG8ubW9ja1N0YXRpYyhGZWF0dXJlTWFuYWdlci5jbGFzcyk7CiAgICAgICAgTW9ja2l0by53aGVuKEZlYXR1cmVNYW5hZ2VyLmlzUmluZ0VuYWJsZWQoKSkudGhlblJldHVybih0cnVlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHJlbW92ZWRJdGVtcy5jb2VyY2VUb1R5cGU8U3RyaW5nPigpCg==</text>
       </register>
       <register name="9" type="2">
-        <text>Handle resource read errors and add tests</text>
+        <text encoding="base64">ICAgICAgICAgICAgVE9ETygpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>delmarks T</text>
+        <text>s/scene/device/g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Button</last-search>
+      <last-search>scene</last-search>
       <last-offset />
-      <last-pattern>Button</last-pattern>
-      <last-replace>Zone</last-replace>
-      <last-substitute>Button</last-substitute>
+      <last-pattern>scene</last-pattern>
+      <last-replace>device</last-replace>
+      <last-substitute>scene</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
