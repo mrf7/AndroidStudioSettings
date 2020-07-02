@@ -139,9 +139,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/RingCloudApiFactory.kt" timestamp="1593705985420">
-        <mark key="[" line="31" column="51" />
-        <mark key="]" line="31" column="51" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/RingCloudApiFactory.kt" timestamp="1593711670701">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="54" column="20" />
         <mark key="^" line="32" column="39" />
         <mark key="." line="31" column="51" />
       </file>
@@ -167,6 +167,12 @@
         <mark key="[" line="15" column="3" />
         <mark key="]" line="26" column="69" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/test/java/com/lutron/cloudthings/ring/RingCloudApiTest.kt" timestamp="1593712463617">
+        <mark key="[" line="23" column="24" />
+        <mark key="]" line="23" column="24" />
+        <mark key="^" line="23" column="24" />
+        <mark key="." line="23" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.kt" timestamp="1593703283584">
         <mark key="'" line="147" column="15" />
         <mark key="[" line="280" column="66" />
@@ -174,24 +180,17 @@
         <mark key="." line="280" column="73" />
         <mark key="^" line="280" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/response/processor/keypad/ResponseProcessor.java" timestamp="1593700863961" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/business/callables/ZoneGoToSpectrumTuningCallableTest.kt" timestamp="1593701455008">
         <mark key="[" line="69" column="55" />
         <mark key="]" line="70" column="45" />
         <mark key="^" line="70" column="45" />
         <mark key="." line="70" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/FutureResultRegistry.java" timestamp="1593701168141">
-        <mark key="[" line="25" column="47" />
-        <mark key="]" line="25" column="46" />
-        <mark key="." line="25" column="45" />
-        <mark key="^" line="25" column="46" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/datamodels/RingCloudCommunicationApi.kt" timestamp="1593706039356">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="18" column="9" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/datamodels/RingCloudCommunicationApi.kt" timestamp="1593711390665">
+        <mark key="[" line="16" column="62" />
+        <mark key="]" line="16" column="64" />
+        <mark key="^" line="16" column="64" />
+        <mark key="." line="16" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/business/callables/ShadeLevelWithTiltAssignmentCreateCallableTest.kt" timestamp="1593701372532">
         <mark key="'" line="98" column="27" />
@@ -199,6 +198,12 @@
         <mark key="]" line="128" column="11" />
         <mark key="^" line="128" column="11" />
         <mark key="." line="128" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/test/java/com/lutron/cloudthings/ring/RingCloudCommunicationApiTest.kt" timestamp="1593712731386">
+        <mark key="[" line="76" column="32" />
+        <mark key="]" line="77" column="21" />
+        <mark key="." line="77" column="20" />
+        <mark key="^" line="77" column="21" />
       </file>
       <file name="/Dummy.txt" timestamp="1593706262002">
         <mark key="'" line="0" column="184" />
@@ -230,7 +235,7 @@
       <file name="/fragment.java" timestamp="1593705584501">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/RingCloudApi.kt" timestamp="1593706237039">
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/RingCloudApi.kt" timestamp="1593711360168">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="71" column="66" />
         <mark key="^" line="71" column="66" />
@@ -346,7 +351,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text>Moved RingCloudApiFactory.kt into cloud-things and made RingCloudApi.kt wrap RingCloudCommunicationApi.kt. Changed visibility of things that shouldn't be needed outside of cloud-things</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -364,7 +369,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>RingCloudApiFactory</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -372,20 +377,20 @@
       <register name="/" type="4">
         <text>scene</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IC8qKgogICAgICogR2V0cyB0aGUgcmluZyBjbG91ZCBkYXRhIHNvdXJjZSBBUEkKICAgICAqCiAgICAgKiBAcGFyYW0gc3lzdGVtSWQgICAgICBhbiBpZGVudGlmaWVyIGZvciB0aGUgTHV0cm9uIHN5c3RlbSBpbnZvbHZlZCBpbiB0aGUgUmluZyBwYWlyaW5nLgogICAgICogICAgICAgICAgICAgICAgICAgICAgTXVzdCBmaXQgdGhlIE1BQ0FkZHJlc3Mgb3IgYSBUaGluZ05hbWUgc2NoZW1hLgogICAgICogQHBhcmFtIGFjY2Vzc1Rva2VuICAgdGhlIGJlYXJlciB0b2tlbiBvYnRhaW5lZCB0aHJvdWdoIHRoZSBEZXZpY2UgTG9naW4gT0F1dGggZmxvdyBuZWVkZWQgdG8KICAgICAqICAgICAgICAgICAgICAgICAgICAgIGFjY2VzcyB0aGUgcmVxdWVzdGVkIHJlc291cmNlCiAgICAgKgogICAgICogQHJldHVybiB0aGUgcmluZyBjbG91ZCBkYXRhIHNvdXJjZSBBUEkKICAgICAqLwogICAgZnVuIGdldEFwaShzeXN0ZW1JZDogU3RyaW5nLCBhY2Nlc3NUb2tlbjogU3RyaW5nKTogUmluZ0Nsb3VkQXBpID0KICAgICAgICBSaW5nQ2xvdWRBcGkoQnVpbGRDb25maWcuUklOR19CQVNFX1VSTCwgc3lzdGVtSWQsIGFjY2Vzc1Rva2VuKQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgcmV0cm9maXQgPSBSZXRyb2ZpdC5CdWlsZGVyKCkKICAgICAgICAgICAgLmJhc2VVcmwoYmFzZVJpbmdVcmwpCiAgICAgICAgICAgIC5hZGRDb252ZXJ0ZXJGYWN0b3J5KEphY2tzb25Db252ZXJ0ZXJGYWN0b3J5LmNyZWF0ZSgpKQogICAgICAgICAgICAuY2xpZW50KGh0dHBDbGllbnQpCiAgICAgICAgICAgIC5idWlsZCgpCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text>Moved RingCloudApiFactory.kt into cloud-things and made RingCloudApi.kt wrap RingCloudCommunicationApi.kt. Changed visibility of things that shouldn't be needed outside of cloud-things</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text>Fixed Sonar warning and review comments</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
@@ -394,28 +399,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBkZXZpY2VzUmVzcG9uc2UgPSAiIiIKICAgICAgICB7CiAgICAgICAgICAiZGV2aWNlcyI6IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICJuYW1lIjogImZyb250IGRvb3JiZWxsIiwKICAgICAgICAgICAgICAidHlwZSI6ICJ2aWRlb19kb29yYmVsbCIsCiAgICAgICAgICAgICAgImRlc2NyaXB0aW9uIjogImZyb250IiwKICAgICAgICAgICAgICAiZXZlbnRzIjogewogICAgICAgICAgICAgICAgInJ1bmciOiAiMTIzIiwKICAgICAgICAgICAgICAgICJtb3Rpb24iOiAiNDU2IgogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgXQogICAgICAgIH0KICAgICIiIi50cmltSW5kZW50KCkK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAvKioKICAgICAqIEZhY3RvcnkgZm9yIHJldHJvZml0IGltcGxlbWVudGF0aW9uIG9mIFtSaW5nQ2xvdWRBcGldCiAgICAgKi8KICAgIGNvbXBhbmlvbiBvYmplY3QgUmV0cm9maXRGYWN0b3J5IHsKICAgIH0=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIFRPRE8gTW92ZSB0aGlzIGludG8gc29tZXRoaW5nIGVsc2UK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKGRldmljZXMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBVc2VzIFJldHJvZml0IHRvIGdldCBhbiBhcGkKICAgICAgICAgKiBUT0RPIE1vdmUgdGhpcyBpbnRvIHNvbWV0aGluZyBlbHNlCiAgICAgICAgICovCiAgICAgICAgZnVuIGdldEFwaShiYXNlUmluZ1VybDogU3RyaW5nLCBzeXN0ZW1JZDogU3RyaW5nLCBhY2Nlc3NUb2tlbjogU3RyaW5nKTogUmluZ0Nsb3VkQ29tbXVuaWNhdGlvbkFwaSB7CiAgICAgICAgICAgIC8vIEFkZCB0aGUgYXV0aG9yaXphdGlvbiBhbmQgY29udGVudCB0eXBlIGhlYWRlcnMKICAgICAgICAgICAgdmFsIGh0dHBDbGllbnQgPSBPa0h0dHBDbGllbnQuQnVpbGRlcigpCiAgICAgICAgICAgICAgICAuYWRkSW50ZXJjZXB0b3IgeyBjaGFpbiAtPgogICAgICAgICAgICAgICAgICAgIHZhbCByZXF1ZXN0ID0gY2hhaW4ucmVxdWVzdCgpLm5ld0J1aWxkZXIoKQogICAgICAgICAgICAgICAgICAgICAgICAuYWRkSGVhZGVyKCJBdXRob3JpemF0aW9uIiwgYWNjZXNzVG9rZW4pCiAgICAgICAgICAgICAgICAgICAgICAgIC5hZGRIZWFkZXIoIkNvbnRlbnQtVHlwZSIsICJhcHBsaWNhdGlvbi9qc29uIikKICAgICAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKCkKICAgICAgICAgICAgICAgICAgICBjaGFpbi5wcm9jZWVkKHJlcXVlc3QpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAuYnVpbGQoKQoKICAgICAgICAgICAgdmFsIHJldHJvZml0ID0gUmV0cm9maXQuQnVpbGRlcigpCiAgICAgICAgICAgICAgICAuYmFzZVVybChiYXNlUmluZ1VybCkKICAgICAgICAgICAgICAgIC5hZGRDb252ZXJ0ZXJGYWN0b3J5KEphY2tzb25Db252ZXJ0ZXJGYWN0b3J5LmNyZWF0ZSgpKQogICAgICAgICAgICAgICAgLmNsaWVudChodHRwQ2xpZW50KQogICAgICAgICAgICAgICAgLmJ1aWxkKCkKICAgICAgICAgICAgLy8gVE9ETyBGaWd1cmUgb3V0IGEgYmV0dGVyIHdheSB0byBwdXQgdGhpcyBkYXRhIGluCiAgICAgICAgICAgIHJldHVybiByZXRyb2ZpdC5jcmVhdGUoUmluZ0Nsb3VkQ29tbXVuaWNhdGlvbkFwaTo6Y2xhc3MuamF2YSkKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmNsaWVudChodHRwQ2xpZW50KQo=</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICBQb3dlck1vY2tpdG8ubW9ja1N0YXRpYyhGZWF0dXJlTWFuYWdlci5jbGFzcyk7CiAgICAgICAgTW9ja2l0by53aGVuKEZlYXR1cmVNYW5hZ2VyLmlzUmluZ0VuYWJsZWQoKSkudGhlblJldHVybih0cnVlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sdXRyb24uY2xvdWR0aGluZ3MucmluZy5kYXRhbW9kZWxzLlJpbmdDbG91ZENvbW11bmljYXRpb25BcGkK</text>
+        <text encoding="base64">Ly8gICAgICAgIHZhbCBleHBlY3RlZERldmljZXMgPSBSaW5nRGV2aWNlc1Jlc3BvbnNlKAovLyAgICAgICAgICAgIGxpc3RPZigKLy8gICAgICAgICAgICAgICAgQ2xvdWRSaW5nRGV2aWNlKAovLyAgICAgICAgICAgICAgICAgICAgImZyb250IGRvb3JiZWxsIiwgInZpZGVvX2Rvb3JiZWxsIiwgImZyb250IiwKLy8gICAgICAgICAgICAgICAgICAgIEV2ZW50cygiMTIzIiwgIjQ1NiIpCi8vICAgICAgICAgICAgICAgICkKLy8gICAgICAgICAgICApCi8vICAgICAgICApCi8vICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKGV4cGVjdGVkRGV2aWNlcywgZGV2aWNlcykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sdXRyb24uY2xvdWR0aGluZ3MuRGV2aWNlTG9naW5Db21tdW5pY2F0b3IK</text>
+        <text>Moved RingCloudApiFactory.kt into cloud-things and made RingCloudApi.kt wrap RingCloudCommunicationApi.kt. Changed visibility of things that shouldn't be needed outside of cloud-things</text>
       </register>
       <register name=":" type="4">
         <text>s/scene/device/g</text>
