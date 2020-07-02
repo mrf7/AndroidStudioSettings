@@ -142,15 +142,12 @@
       <file name="/a.dummy" timestamp="1593717731509">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/business/callables/AssociatedResourceReadCallableTest.kt" timestamp="1593723034392" />
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/test/java/com/lutron/cloudthings/ring/RingCloudApiTest.kt" timestamp="1593720579910" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/WorksWithRingFragment.kt" timestamp="1593721049279">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1593716590419">
-        <mark key="[" line="302" column="0" />
-        <mark key="]" line="302" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/RingSetupActivity.kt" timestamp="1593719258002">
         <mark key="[" line="12" column="0" />
@@ -158,22 +155,17 @@
         <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/strategy/tweaker/TweakDimmedHelperTest.kt" timestamp="1593721503532">
-        <mark key="[" line="249" column="0" />
-        <mark key="]" line="249" column="0" />
-        <mark key="." line="249" column="0" />
-        <mark key="^" line="249" column="9" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/RingCloudError.kt" timestamp="1593717755997" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/view/popover/SpectrumPopoverView.java" timestamp="1593720604721" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/strategy/tweaker/TweakSpectrumHelperTest.kt" timestamp="1593721586720">
-        <mark key="[" line="259" column="12" />
-        <mark key="]" line="260" column="0" />
-        <mark key="." line="258" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/strategy/tweaker/TweakSwitchedHelperTest.kt" timestamp="1593721650463">
-        <mark key="[" line="249" column="0" />
-        <mark key="]" line="249" column="0" />
-        <mark key="." line="249" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/datamodels/RingCloudCommunicationApi.kt" timestamp="1593718034788">
         <mark key="[" line="17" column="0" />
@@ -200,15 +192,8 @@
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/TimeclockFetcherTest.kt" timestamp="1593721377150">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="43" />
-        <mark key="." line="53" column="8" />
-        <mark key="^" line="53" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/business/callables/ServiceCreateCallableTest.kt" timestamp="1593721292098">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="43" />
-        <mark key="." line="55" column="0" />
+        <mark key="." line="51" column="8" />
+        <mark key="^" line="51" column="9" />
       </file>
       <file name="/fragment.java" timestamp="1593717731515">
         <mark key="[" line="0" column="0" />
@@ -220,10 +205,10 @@
         <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/strategy/tweaker/TweakCCOZoneHelperTest.kt" timestamp="1593721423793">
-        <mark key="[" line="240" column="0" />
-        <mark key="]" line="240" column="0" />
-        <mark key="." line="240" column="0" />
-        <mark key="^" line="240" column="9" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="9" />
       </file>
     </filemarks>
     <jumps>
