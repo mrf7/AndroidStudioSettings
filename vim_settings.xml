@@ -139,14 +139,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/RingCloudApiFactory.kt" timestamp="1594060408423">
-        <mark key="[" line="59" column="66" />
-        <mark key="]" line="59" column="97" />
-        <mark key="." line="59" column="96" />
-        <mark key="^" line="59" column="97" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/RingCloudApiFactory.kt" timestamp="1594060797692">
+        <mark key="[" line="60" column="35" />
+        <mark key="]" line="60" column="35" />
+        <mark key="." line="60" column="35" />
+        <mark key="^" line="60" column="97" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/4.7.2/c5c4b2e00cd8458c8430925231fa0444c4780579/okhttp-4.7.2-sources.jar!/okhttp3/HttpUrl.kt" timestamp="1594057425626" />
-      <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/authentication/AuthFragment.kt" timestamp="1594056229873" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.11.0/8f3dba92b2f979fd859ce2eda9e1cf8bacf5cc91/jackson-databind-2.11.0-sources.jar!/com/fasterxml/jackson/databind/DeserializationFeature.java" timestamp="1594060518402" />
       <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapenum/EnableStateEnum.java" timestamp="1594059444163" />
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/RingCloudError.kt" timestamp="1594056673472" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.11.0/1e90e40f81ac3a9b2f78061bea06c0a8606ddb8c/jackson-annotations-2.11.0-sources.jar!/com/fasterxml/jackson/annotation/JsonCreator.java" timestamp="1594059402653" />
@@ -171,12 +171,6 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="24" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1594055433891">
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="178" column="5" />
-        <mark key="^" line="285" column="64" />
-        <mark key="." line="285" column="64" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/4.7.0/14a6ce408b763bc8c54a37ee4c19a2f3539d5829/okhttp-4.7.0-sources.jar!/okhttp3/HttpUrl.kt" timestamp="1594058187367">
         <mark key="'" line="1664" column="48" />
       </file>
@@ -188,12 +182,18 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/datamodels/EventType.kt" timestamp="1594059488906">
-        <mark key="'" line="10" column="114" />
-        <mark key="[" line="12" column="2" />
-        <mark key="]" line="12" column="2" />
-        <mark key="^" line="11" column="3" />
-        <mark key="." line="12" column="2" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ring/WorksWithRingViewModel.kt" timestamp="1594060994480">
+        <mark key="[" line="42" column="26" />
+        <mark key="]" line="43" column="91" />
+        <mark key="^" line="43" column="91" />
+        <mark key="." line="43" column="90" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/datamodels/EventType.kt" timestamp="1594060882756">
+        <mark key="'" line="13" column="1" />
+        <mark key="[" line="13" column="1" />
+        <mark key="]" line="13" column="3" />
+        <mark key="^" line="13" column="3" />
+        <mark key="." line="13" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/build.gradle" timestamp="1594058701060">
         <mark key="[" line="58" column="0" />
@@ -206,7 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="8" filename="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/androidTest/java/com/mfriend/coroutinestestbench/genericexamples/basics/SubscribePocTest.kt" />
       <jump line="144" column="53" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/response/processor/keypad/ResponseProcessor.java" />
       <jump line="15" column="4" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/IVoiceAliasSummaryRepo.kt" />
       <jump line="46" column="62" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/VoiceAliasSummaryRepoA.kt" />
@@ -306,6 +305,7 @@
       <jump line="62" column="13" filename="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/RingCloudApiFactory.kt" />
       <jump line="1661" column="34" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/4.7.0/14a6ce408b763bc8c54a37ee4c19a2f3539d5829/okhttp-4.7.0-sources.jar!/okhttp3/HttpUrl.kt" />
       <jump line="1664" column="48" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/4.7.0/14a6ce408b763bc8c54a37ee4c19a2f3539d5829/okhttp-4.7.0-sources.jar!/okhttp3/HttpUrl.kt" />
+      <jump line="14" column="1" filename="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/datamodels/EventType.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -314,7 +314,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>EAD_UNKNOWN_ENUM_VALUES_USING_DEFAULT_VALUE</text>
+        <text>JsonEnumDefaultValue</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -332,7 +332,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>EAD_UNKNOWN_ENUM_VALUES_USING_DEFAULT_VALUE</text>
+        <text>JsonEnumDefaultValue</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
