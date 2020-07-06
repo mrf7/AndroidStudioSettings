@@ -201,9 +201,9 @@
         <mark key="." line="27" column="16" />
         <mark key="^" line="27" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1594047213629">
-        <mark key="[" line="285" column="64" />
-        <mark key="]" line="285" column="99" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1594055433891">
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="178" column="5" />
         <mark key="^" line="285" column="64" />
         <mark key="." line="285" column="64" />
       </file>
@@ -219,11 +219,11 @@
         <mark key="^" line="43" column="91" />
         <mark key="." line="43" column="90" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/build.gradle" timestamp="1594050603250">
-        <mark key="[" line="55" column="61" />
-        <mark key="]" line="55" column="66" />
-        <mark key="^" line="55" column="61" />
-        <mark key="." line="55" column="61" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/build.gradle" timestamp="1594055449076">
+        <mark key="[" line="42" column="5" />
+        <mark key="]" line="43" column="4" />
+        <mark key="^" line="43" column="4" />
+        <mark key="." line="43" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/test/java/com/lutron/cloudthings/ring/RingCloudCommunicatorTest.kt" timestamp="1593724791184">
         <mark key="[" line="18" column="3" />
@@ -345,7 +345,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IlRleHRWaWV3Igo=</text>
+        <text encoding="base64">ICAgIGtvdGxpbk9wdGlvbnMgewogICAgICAgIGp2bVRhcmdldCA9ICBKYXZhVmVyc2lvbi5WRVJTSU9OXzFfOAogICAgfQo=</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -371,8 +371,8 @@
       <register name="/" type="4">
         <text>scene</text>
       </register>
-      <register name="0" type="4">
-        <text>4.7.0</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGtvdGxpbk9wdGlvbnMgewogICAgICAgIGp2bVRhcmdldCA9ICBKYXZhVmVyc2lvbi5WRVJTSU9OXzFfOAogICAgfQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
