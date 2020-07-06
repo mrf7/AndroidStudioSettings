@@ -139,54 +139,63 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/RingCloudApiFactory.kt" timestamp="1594060797692">
-        <mark key="[" line="60" column="35" />
-        <mark key="]" line="60" column="35" />
-        <mark key="." line="60" column="35" />
-        <mark key="^" line="60" column="97" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/AuthorizationException.java" timestamp="1594063318788" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/networkClientModule/src/main/java/com/lutron/networkclient/clients/AbstractBaseClient.java" timestamp="1594061804898" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/prodashboard/ProDashboardSignInViewModel.kt" timestamp="1594061950499">
+        <mark key="[" line="132" column="14" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/4.7.2/c5c4b2e00cd8458c8430925231fa0444c4780579/okhttp-4.7.2-sources.jar!/okhttp3/HttpUrl.kt" timestamp="1594057425626" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.11.0/8f3dba92b2f979fd859ce2eda9e1cf8bacf5cc91/jackson-databind-2.11.0-sources.jar!/com/fasterxml/jackson/databind/DeserializationFeature.java" timestamp="1594060518402" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapenum/EnableStateEnum.java" timestamp="1594059444163" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/RingCloudError.kt" timestamp="1594056673472" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.11.0/1e90e40f81ac3a9b2f78061bea06c0a8606ddb8c/jackson-annotations-2.11.0-sources.jar!/com/fasterxml/jackson/annotation/JsonCreator.java" timestamp="1594059402653" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/RingCloudCommunicator.kt" timestamp="1594058834844">
-        <mark key="[" line="22" column="10" />
-        <mark key="]" line="22" column="11" />
-        <mark key="." line="22" column="10" />
-        <mark key="^" line="22" column="11" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/Utils/src/main/java/com/lutron/sharedutils/helper/Either.kt" timestamp="1594064368368">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
-      <file name="/Kotlin Console" timestamp="1594057774450">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/RingCloudError.kt" timestamp="1594064289875">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1594058354177">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="26" />
-        <mark key="^" line="0" column="26" />
-        <mark key="." line="0" column="25" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/CloudError.kt" timestamp="1594064080689">
+        <mark key="[" line="22" column="40" />
+        <mark key="]" line="22" column="54" />
+        <mark key="." line="22" column="53" />
+        <mark key="^" line="22" column="54" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/datamodels/CloudRingDevice.kt" timestamp="1594060283724">
-        <mark key="[" line="23" column="29" />
-        <mark key="]" line="24" column="1" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="24" column="1" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/RingCloudCommunicator.kt" timestamp="1594062078248">
+        <mark key="[" line="23" column="64" />
+        <mark key="]" line="23" column="106" />
+        <mark key="." line="23" column="105" />
+        <mark key="^" line="23" column="106" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/4.7.0/14a6ce408b763bc8c54a37ee4c19a2f3539d5829/okhttp-4.7.0-sources.jar!/okhttp3/HttpUrl.kt" timestamp="1594058187367">
-        <mark key="'" line="1664" column="48" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/utils/AuthUtils.java" timestamp="1594063363312" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" timestamp="1594064941930">
+        <mark key="[" line="77" column="25" />
+        <mark key="]" line="71" column="51" />
+        <mark key="." line="71" column="50" />
+        <mark key="^" line="71" column="51" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.9.0/409e80ce46c84ef7e74b6934032a73b8421eebe5/retrofit-2.9.0-sources.jar!/retrofit2/Retrofit.java" timestamp="1594058295450" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/networkClientModule/src/main/java/com/lutron/networkclient/clients/constants/StatusCode.java" timestamp="1594059159537" />
-      <file name="/Dummy.txt" timestamp="1594059070441">
-        <mark key="'" line="0" column="184" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/MyLutronCommunicator.kt" timestamp="1594061886041">
+        <mark key="[" line="71" column="8" />
+        <mark key="]" line="71" column="9" />
+        <mark key="." line="71" column="9" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/helpers/IntegrationHelper.java" timestamp="1594063432115">
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="18" column="32" />
+        <mark key="." line="18" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/dataApi/models/CommunicatorFailureException.kt" timestamp="1594062286002" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/networkClientModule/src/main/java/com/lutron/networkclient/clients/constants/StatusCode.java" timestamp="1594062848074" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ring/WorksWithRingViewModel.kt" timestamp="1594060994480">
         <mark key="[" line="42" column="26" />
         <mark key="]" line="43" column="91" />
         <mark key="^" line="43" column="91" />
         <mark key="." line="43" column="90" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/MyLutronCommunicatorManager.kt" timestamp="1594062307936" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/dataApi/LutronDataApiCommunicator.java" timestamp="1594063295258">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/datamodels/EventType.kt" timestamp="1594060882756">
         <mark key="'" line="13" column="1" />
@@ -195,14 +204,16 @@
         <mark key="^" line="13" column="3" />
         <mark key="." line="13" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/build.gradle" timestamp="1594058701060">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.9.0/409e80ce46c84ef7e74b6934032a73b8421eebe5/retrofit-2.9.0-sources.jar!/retrofit2/HttpException.java" timestamp="1594063794484" />
+      <file name="/fragment.java" timestamp="1594063402971">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/build/generated/source/buildConfig/debug/com/lutron/cloudthings/BuildConfig.java" timestamp="1594057320891" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/RingCloudApi.kt" timestamp="1594056665720">
-        <mark key="'" line="51" column="68" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/RingCloudApi.kt" timestamp="1594064225669">
+        <mark key="'" line="52" column="68" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
+        <mark key="^" line="58" column="91" />
       </file>
     </filemarks>
     <jumps>
@@ -314,7 +325,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>JsonEnumDefaultValue</text>
+        <text encoding="base64">IEF1dGhvcml6YXRpb25FcnJvciwgUmluZ0FjY291bnROb3RMaW5rZWQsIENvbW11bmljYXRpb25FcnJvciwgVW5rbm93bkVycm9y</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -332,7 +343,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>JsonEnumDefaultValue</text>
+        <text encoding="base64">IEF1dGhvcml6YXRpb25FcnJvciwgUmluZ0FjY291bnROb3RMaW5rZWQsIENvbW11bmljYXRpb25FcnJvciwgVW5rbm93bkVycm9y</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -347,46 +358,48 @@
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text>data class Event(
-    val rung: String,
-    val motion: String
-)</text>
+        <text encoding="base64">ICAgIGlubGluZSBmdW4gPAo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBldmVudHMxOiBFdmVudAo=</text>
+        <text>/**
+ * Enum of all potential errors when accessing the ring cloud
+ */
+enum class RingCloudError {
+    AuthorizationError, RingAccountNotLinked, CommunicationError, UnknownError
+}</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbG9nZ2VyID0KICAgICAgICAgICAgSHR0cExvZ2dpbmdJbnRlcmNlcHRvcigpLmFsc28geyBpdC5sZXZlbCA9IEh0dHBMb2dnaW5nSW50ZXJjZXB0b3IuTGV2ZWwuQk9EWSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5tZXNzYWdlKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmFkZEludGVyY2VwdG9yKGxvZ2dlcikK</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCJjb20uc3F1YXJldXAub2todHRwMzpsb2dnaW5nLWludGVyY2VwdG9yOjQuNy4wIikK</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgSU9FeGNlcHRpb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBFUlJPUl9DT0RFX0FVVEggPSA0MDEKICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBFUlJPUl9DT0RFX05PX0FDQ09VTlQgPSA0MDQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QFN1cHByZXNzKCJVbmRvY3VtZW50ZWRQdWJsaWNGdW5jdGlvbiIpCg==</text>
+        <text encoding="base64">CiAgICBjb21wYW5pb24gb2JqZWN0IHsKICAgICAgICBwcml2YXRlIHZhbCBMT0dHRVJfVEFHID0gUmluZ0Nsb3VkQXBpOjpjbGFzcy5qYXZhLnNpbXBsZU5hbWUKICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBFUlJPUl9DT0RFX0FVVEggPSA0MDEKICAgICAgICBwcml2YXRlIGNvbnN0IHZhbCBFUlJPUl9DT0RFX05PX0FDQ09VTlQgPSA0MDQKICAgIH0K</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICBQb3dlck1vY2tpdG8ubW9ja1N0YXRpYyhGZWF0dXJlTWFuYWdlci5jbGFzcyk7CiAgICAgICAgTW9ja2l0by53aGVuKEZlYXR1cmVNYW5hZ2VyLmlzUmluZ0VuYWJsZWQoKSkudGhlblJldHVybih0cnVlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdXJsOiBIdHRwVXJsID0gSHR0cFVybC5CdWlsZGVyKCkKICAgICAgICAgICAgLnNjaGVtZSgiaHR0cHMiKQogICAgICAgICAgICAuaG9zdCgicmluZy5pbnRlZ3JhdGlvbnMuZGV2LmlvdC5sdXRyb24uaW8iKQogICAgICAgICAgICAuYWRkUGF0aFNlZ21lbnQoImFwaS1lNTIxY2RkMWNhZDE2MDZkOGZjZDk2NGY5Y2FmNjhlZCIpCiAgICAgICAgICAgIC5hZGRQYXRoU2VnbWVudCgidjEiKQogICAgICAgICAgICAuYWRkUGF0aFNlZ21lbnQoIiIpCiAgICAgICAgICAgIC5idWlsZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGVycm9yID0gd2hlbiAoZS5jb2RlKCkpIHsKICAgICAgICAgICAgICAgIEVSUk9SX0NPREVfQVVUSCAtPiBSaW5nQ2xvdWRFcnJvci5BdXRob3JpemF0aW9uRXJyb3IKICAgICAgICAgICAgICAgIEVSUk9SX0NPREVfTk9fQUNDT1VOVCAtPiBSaW5nQ2xvdWRFcnJvci5SaW5nQWNjb3VudE5vdExpbmtlZAogICAgICAgICAgICAgICAgZWxzZSAtPiB7CiAgICAgICAgICAgICAgICAgICAgTHV0TG9nLmUoTE9HR0VSX1RBRywgIkdvdCBhbiB1bmV4cGVjdGVkIGVycm9yIGNvZGUgZnJvbSBnZXQgcmluZyBkZXZpY2VzOiAke2UuY29kZSgpfSIpCiAgICAgICAgICAgICAgICAgICAgUmluZ0Nsb3VkRXJyb3IuVW5rbm93bkVycm9yCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHQ9IlRleHRWaWV3Igo=</text>
+        <text encoding="base64">ICAgIGRhdGEgY2xhc3MgVW5rbm93bkVycm9yKHZhbCBlcnJvcjogVGhyb3dhYmxlPykgOiBFcnJvclJlc3BvbnNlPE5vdGhpbmc+KCkK</text>
       </register>
       <register name=":" type="4">
         <text>s/scene/device/g</text>
