@@ -139,13 +139,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/RingCloudApiFactory.kt" timestamp="1594067845775">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="59" column="97" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/widget/SceneBaseWidget.java" timestamp="1594146503541">
+        <mark key="'" line="130" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/widget/SceneBaseWidget.java" timestamp="1594145513303" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/WorksWithRingFragment.kt" timestamp="1594143090492">
         <mark key="[" line="60" column="62" />
         <mark key="]" line="60" column="66" />
@@ -158,13 +154,7 @@
         <mark key="." line="38" column="123" />
         <mark key="^" line="38" column="124" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/CloudConstants.java" timestamp="1594066329716" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/RingCloudCommunicator.kt" timestamp="1594066477283">
-        <mark key="[" line="23" column="10" />
-        <mark key="]" line="23" column="39" />
-        <mark key="." line="23" column="38" />
-        <mark key="^" line="23" column="39" />
-      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/service/WidgetService.java" timestamp="1594146486936" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/utils/AuthUtils.java" timestamp="1594134853354" />
       <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/selectplaylist/PlaylistViewModel.kt" timestamp="1594128820320">
         <mark key="'" line="42" column="45" />
@@ -181,6 +171,8 @@
         <mark key="." line="92" column="74" />
         <mark key="^" line="92" column="75" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/service/SceneStatusUpdateSchedulerService.java" timestamp="1594146755612" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/JobSchedulingHelper.java" timestamp="1594146609427" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-core-data/0.10.5/e175264420607f17140713e0bb38213f31cc9c32/arrow-core-data-0.10.5-sources.jar!/arrow/core/Either.kt" timestamp="1594129060274" />
       <file name="/Dummy.txt" timestamp="1594143996162">
         <mark key="'" line="0" column="184" />
@@ -217,7 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.kt" />
       <jump line="212" column="8" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.kt" />
       <jump line="216" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.kt" />
       <jump line="220" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.kt" />
@@ -317,6 +308,7 @@
       <jump line="78" column="62" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" />
       <jump line="42" column="45" filename="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/selectplaylist/PlaylistViewModel.kt" />
       <jump line="73" column="24" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" />
+      <jump line="130" column="12" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/widget/SceneBaseWidget.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
