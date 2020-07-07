@@ -145,6 +145,7 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="59" column="97" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/widget/SceneBaseWidget.java" timestamp="1594145513303" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/WorksWithRingFragment.kt" timestamp="1594143090492">
         <mark key="[" line="60" column="62" />
         <mark key="]" line="60" column="66" />
@@ -156,12 +157,6 @@
         <mark key="]" line="38" column="124" />
         <mark key="." line="38" column="123" />
         <mark key="^" line="38" column="124" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/CloudError.kt" timestamp="1594066038379">
-        <mark key="[" line="10" column="25" />
-        <mark key="]" line="10" column="28" />
-        <mark key="." line="10" column="27" />
-        <mark key="^" line="10" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/CloudConstants.java" timestamp="1594066329716" />
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/RingCloudCommunicator.kt" timestamp="1594066477283">
