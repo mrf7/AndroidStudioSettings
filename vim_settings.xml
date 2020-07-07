@@ -145,7 +145,7 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="59" column="97" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/WorksWithRingFragment.kt" timestamp="1594129420763">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/WorksWithRingFragment.kt" timestamp="1594143090492">
         <mark key="[" line="60" column="62" />
         <mark key="]" line="60" column="66" />
         <mark key="." line="60" column="65" />
@@ -163,7 +163,6 @@
         <mark key="." line="10" column="27" />
         <mark key="^" line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/DeviceLoginCommunicator.java" timestamp="1594065125533" />
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/CloudConstants.java" timestamp="1594066329716" />
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/RingCloudCommunicator.kt" timestamp="1594066477283">
         <mark key="[" line="23" column="10" />
@@ -180,7 +179,6 @@
         <mark key="^" line="42" column="49" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/java/io/PipedInputStream.java" timestamp="1594127393499" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/SignInActivity.java" timestamp="1594065178509" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" timestamp="1594129483737">
         <mark key="'" line="72" column="24" />
         <mark key="[" line="90" column="0" />
@@ -194,10 +192,9 @@
         <mark key="^" line="97" column="114" />
         <mark key="." line="97" column="113" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/SignInFragment.java" timestamp="1594065201029" />
       <file name="$USER_HOME$/Documents/caseta-android-app/networkClientModule/src/main/java/com/lutron/networkclient/clients/constants/StatusCode.java" timestamp="1594065550494" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-core-data/0.10.5/e175264420607f17140713e0bb38213f31cc9c32/arrow-core-data-0.10.5-sources.jar!/arrow/core/Either.kt" timestamp="1594129060274" />
-      <file name="/Dummy.txt" timestamp="1594129701771">
+      <file name="/Dummy.txt" timestamp="1594143381509">
         <mark key="'" line="0" column="184" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -221,6 +218,9 @@
         <mark key="]" line="102" column="12" />
         <mark key="^" line="19" column="115" />
         <mark key="." line="102" column="12" />
+      </file>
+      <file name="/fragment.java" timestamp="1594143485418">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
