@@ -151,6 +151,7 @@
         <mark key="^" line="1496" column="93" />
         <mark key="." line="1496" column="92" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/Zone.java" timestamp="1594305511279" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/support/actions/IProblemAction.java" timestamp="1594234195245">
         <mark key="[" line="27" column="17" />
         <mark key="]" line="27" column="18" />
@@ -178,12 +179,6 @@
         <mark key="^" line="0" column="47" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/layout/works_with_ring_fragment.xml" timestamp="1594231051555">
-        <mark key="[" line="27" column="44" />
-        <mark key="]" line="27" column="46" />
-        <mark key="." line="27" column="45" />
-        <mark key="^" line="27" column="46" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/sharedUiComponents/src/main/java/com/lutron/uicomponents/views/ProblemView.java" timestamp="1594231606495" />
       <file name="/fragment.kt" timestamp="1594236905417">
         <mark key="[" line="0" column="0" />
@@ -206,6 +201,12 @@
         <mark key="]" line="77" column="84" />
         <mark key="." line="77" column="83" />
         <mark key="^" line="77" column="84" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/DetGrop.java" timestamp="1594305515612">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="17" column="11" />
+        <mark key="^" line="17" column="11" />
+        <mark key="." line="17" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/support/actions/AddHomeAction.java" timestamp="1594234211165">
         <mark key="[" line="15" column="26" />
