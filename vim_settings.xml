@@ -145,7 +145,6 @@
         <mark key="^" line="61" column="31" />
         <mark key="." line="61" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/vigiles.gradle.kts" timestamp="1594301262886" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/ring/WorksWithRingViewModelTest.kt" timestamp="1594311482717">
         <mark key="'" line="178" column="0" />
         <mark key="[" line="178" column="0" />
@@ -182,6 +181,7 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="21" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/RingSetupPresenter.kt" timestamp="1594315646415" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/mockwebserver/4.7.2/835912020cc2c86896d45fdabc9c80f7021f0b48/mockwebserver-4.7.2-sources.jar!/okhttp3/mockwebserver/MockResponse.kt" timestamp="1594312101874" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/ActionTypeEnum.java" timestamp="1594314633853" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/Zone.java" timestamp="1594306509369" />
