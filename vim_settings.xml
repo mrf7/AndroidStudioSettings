@@ -144,6 +144,7 @@
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/support/problems/IProblem.java" timestamp="1594233445637" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/support/ProblemBundle.java" timestamp="1594233500869" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/vigiles.gradle.kts" timestamp="1594301262886" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/HomeActivity.java" timestamp="1594234333462">
         <mark key="[" line="1496" column="70" />
         <mark key="]" line="1496" column="93" />
@@ -205,12 +206,6 @@
         <mark key="]" line="77" column="84" />
         <mark key="." line="77" column="83" />
         <mark key="^" line="77" column="84" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1594228290973">
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="178" column="5" />
-        <mark key="^" line="285" column="64" />
-        <mark key="." line="285" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/BleDeviceSelectorFragment.java" timestamp="1594228792633">
         <mark key="[" line="270" column="0" />
