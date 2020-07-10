@@ -145,12 +145,6 @@
         <mark key="^" line="52" column="36" />
         <mark key="." line="52" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/Sample/android-modular-architecture/commons/ui/src/main/kotlin/com/vmadalin/commons/ui/extensions/FragmentExtensions.kt" timestamp="1594390729678">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="56" column="4" />
-        <mark key="^" line="56" column="4" />
-        <mark key="." line="56" column="3" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/Utils/src/main/java/com/lutron/sharedutils/extension/LiveDataExtensions.kt" timestamp="1594326849784">
         <mark key="[" line="36" column="29" />
         <mark key="]" line="36" column="29" />
