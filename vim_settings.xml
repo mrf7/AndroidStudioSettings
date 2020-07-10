@@ -145,6 +145,7 @@
         <mark key="^" line="52" column="36" />
         <mark key="." line="52" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/extension/DatabaseExtensions.kt" timestamp="1594404628202" />
       <file name="$USER_HOME$/Documents/caseta-android-app/Utils/src/main/java/com/lutron/sharedutils/extension/LiveDataExtensions.kt" timestamp="1594326849784">
         <mark key="[" line="36" column="29" />
         <mark key="]" line="36" column="29" />
@@ -192,10 +193,6 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/support/problems/IProblem.java" timestamp="1594323345293" />
       <file name="$USER_HOME$/Documents/caseta-android-app/sharedUiComponents/src/main/res/values/dimens.xml" timestamp="1594323127744" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/CoroutineContract.kt" timestamp="1594387520920" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/RingSignInFragment.kt" timestamp="1594319819858">
-        <mark key="[" line="119" column="37" />
-        <mark key="]" line="134" column="5" />
-      </file>
       <file name="/Dummy.txt" timestamp="1594388424787">
         <mark key="'" line="0" column="184" />
         <mark key="[" line="0" column="0" />
@@ -215,7 +212,7 @@
         <mark key="." line="64" column="56" />
         <mark key="^" line="64" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/DetectionGroup.java" timestamp="1594393143489" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/DetectionGroup.java" timestamp="1594404260545" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/ControlStation.java" timestamp="1594393150173" />
       <file name="$USER_HOME$/Documents/caseta-android-app/sharedUiComponents/src/main/res/layout/problem_view.xml" timestamp="1594323133775">
         <mark key="'" line="12" column="44" />
@@ -334,7 +331,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>parentHref</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -352,7 +349,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>parentHref</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
