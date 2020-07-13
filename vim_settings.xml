@@ -151,13 +151,6 @@
         <mark key="." line="225" column="88" />
         <mark key="^" line="225" column="89" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/RingSignInFragment.kt" timestamp="1594415901313">
-        <mark key="'" line="38" column="24" />
-        <mark key="[" line="38" column="42" />
-        <mark key="]" line="38" column="42" />
-        <mark key="." line="38" column="41" />
-        <mark key="^" line="38" column="42" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" timestamp="1594415658736">
         <mark key="[" line="73" column="8" />
         <mark key="]" line="73" column="122" />
@@ -191,11 +184,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/WorksWithRingFragment.kt" timestamp="1594415907646">
-        <mark key="'" line="112" column="18" />
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="85" column="66" />
+        <mark key="'" line="12" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1594412258915">
         <mark key="[" line="285" column="101" />
