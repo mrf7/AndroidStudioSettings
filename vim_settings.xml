@@ -139,34 +139,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/RingSignInPresenter.kt" timestamp="1594415830074" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/datasource/RingServiceDBDataSource.kt" timestamp="1594653287497">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-core-data/0.10.5/e175264420607f17140713e0bb38213f31cc9c32/arrow-core-data-0.10.5-sources.jar!/arrow/core/Option.kt" timestamp="1594652517960" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/datamodel/RingDevice.kt" timestamp="1594652228479">
-        <mark key="'" line="14" column="58" />
-        <mark key="[" line="18" column="87" />
-        <mark key="]" line="19" column="39" />
-        <mark key="." line="19" column="38" />
-        <mark key="^" line="19" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/selectplaylist/PlaylistViewModel.kt" timestamp="1594652492745">
-        <mark key="'" line="60" column="30" />
-        <mark key="[" line="60" column="94" />
-        <mark key="]" line="60" column="40" />
-        <mark key="." line="60" column="39" />
-        <mark key="^" line="60" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" timestamp="1594653357234">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="77" column="14" />
-        <mark key="^" line="77" column="14" />
-        <mark key="." line="77" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/RingService.java" timestamp="1594653434142" />
       <file name="/Dummy.txt" timestamp="1594653860250">
         <mark key="'" line="0" column="184" />
         <mark key="[" line="0" column="0" />
@@ -183,11 +155,30 @@
       <file name="/fragment.kt" timestamp="1594415429881">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ring/WorksWithRingViewModel.kt" timestamp="1594653855169" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/datasource/RingServiceDBDataSource.kt" timestamp="1594653287497">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/datamodel/RingDevice.kt" timestamp="1594652228479">
+        <mark key="'" line="14" column="58" />
+        <mark key="[" line="18" column="87" />
+        <mark key="]" line="19" column="39" />
+        <mark key="." line="19" column="38" />
+        <mark key="^" line="19" column="39" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/WorksWithRingFragment.kt" timestamp="1594415907646">
         <mark key="'" line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/DetectionGroup.java" timestamp="1594653524522" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/NestService.java" timestamp="1594655273266" />
+      <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/selectplaylist/PlaylistViewModel.kt" timestamp="1594652492745">
+        <mark key="'" line="60" column="30" />
+        <mark key="[" line="60" column="94" />
+        <mark key="]" line="60" column="40" />
+        <mark key="." line="60" column="39" />
+        <mark key="^" line="60" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/DetectionGroup.java" timestamp="1594654970206" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/RingSetupActivity.kt" timestamp="1594414726344">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -199,11 +190,16 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/Trigger.java" timestamp="1594653583795" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/RingCloudApi.kt" timestamp="1594415703889" />
       <file name="/fragment.java" timestamp="1594651939052">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" timestamp="1594653357234">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="77" column="14" />
+        <mark key="^" line="77" column="14" />
+        <mark key="." line="77" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/RingService.java" timestamp="1594655265560" />
     </filemarks>
     <jumps>
       <jump line="31" column="39" filename="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/reviewrequests/ReviewRequestRepo.kt" />
