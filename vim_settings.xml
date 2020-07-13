@@ -139,7 +139,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1594661893465">
+      <file name="/Dummy.txt" timestamp="1594665356905">
         <mark key="'" line="0" column="184" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -178,23 +178,11 @@
         <mark key="." line="60" column="39" />
         <mark key="^" line="60" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/DetectionGroup.java" timestamp="1594654970206" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/Utils/src/main/java/com/lutron/sharedutils/helper/Either.kt" timestamp="1594662646081">
-        <mark key="[" line="42" column="64" />
-        <mark key="]" line="42" column="68" />
-        <mark key="." line="42" column="67" />
-        <mark key="^" line="42" column="68" />
-      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/DetectionGroup.java" timestamp="1594665755928" />
       <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/LeapDetectionGroupModel.java" timestamp="1594656055311" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/asynctask/NestCamDetectionGroupSetupAsyncTask.java" timestamp="1594661134917" />
       <file name="/fragment.java" timestamp="1594651939052">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" timestamp="1594663777464">
-        <mark key="[" line="88" column="115" />
-        <mark key="]" line="89" column="16" />
-        <mark key="." line="89" column="15" />
-        <mark key="^" line="89" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/RingService.java" timestamp="1594655265560" />
     </filemarks>
