@@ -144,18 +144,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/other/MapAsync.kt" timestamp="1594672685366">
-        <mark key="[" line="12" column="30" />
-        <mark key="]" line="12" column="31" />
-        <mark key="." line="12" column="30" />
-        <mark key="^" line="12" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/selectplaylist/PlaylistViewModel.kt" timestamp="1594652492745">
-        <mark key="'" line="60" column="30" />
-        <mark key="[" line="60" column="94" />
-        <mark key="]" line="60" column="40" />
-        <mark key="." line="60" column="39" />
-        <mark key="^" line="60" column="40" />
+      <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/other/MapAsync.kt" timestamp="1594675280416">
+        <mark key="'" line="31" column="24" />
+        <mark key="[" line="31" column="23" />
+        <mark key="]" line="31" column="23" />
+        <mark key="." line="31" column="23" />
+        <mark key="^" line="31" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/voice/VoiceAliasSummaryViewModel.kt" timestamp="1594668228452">
         <mark key="[" line="97" column="117" />
@@ -169,12 +163,12 @@
         <mark key="^" line="94" column="39" />
         <mark key="." line="94" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" timestamp="1594672220215">
-        <mark key="'" line="109" column="83" />
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="152" column="1" />
-        <mark key="." line="109" column="83" />
-        <mark key="^" line="109" column="84" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" timestamp="1594673218246">
+        <mark key="'" line="148" column="149" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="92" column="15" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/RingService.java" timestamp="1594655265560" />
       <file name="/Dummy.txt" timestamp="1594668371211">
@@ -183,6 +177,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="47" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/VoiceAliasSummaryRepo.kt" timestamp="1594672887767">
+        <mark key="[" line="89" column="0" />
+        <mark key="]" line="89" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/WorksWithRingFragment.kt" timestamp="1594671000727">
         <mark key="'" line="12" column="18" />
@@ -204,6 +202,7 @@
         <mark key="." line="45" column="38" />
         <mark key="^" line="45" column="39" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/Utils/src/main/java/com/lutron/sharedutils/helper/Either.kt" timestamp="1594674028148" />
       <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/LeapDetectionGroupModel.java" timestamp="1594656055311" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/asynctask/NestCamDetectionGroupSetupAsyncTask.java" timestamp="1594661134917" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.61/fe3b9d48f4c3947639b6b1760213c1b79281383e/kotlin-stdlib-common-1.3.61-sources.jar!/generated/_Maps.kt" timestamp="1594671750430">
@@ -212,13 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="426" column="20" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" />
-      <jump line="478" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" />
-      <jump line="664" column="30" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.2.0/b34176b43868c9ea90fea057e20153896a333fb6/fragment-1.2.0-sources.jar!/androidx/fragment/app/Fragment.java" />
-      <jump line="18" column="52" filename="$USER_HOME$/Documents/Sample/Kotlin-Coroutine-Use-Cases-on-Android/app/src/main/java/com/lukaslechner/coroutineusecasesonandroid/usecases/coroutines/usecase14/ContinueCoroutineWhenUserLeavesScreenViewModel.kt" />
-      <jump line="16" column="33" filename="$USER_HOME$/Documents/Sample/Kotlin-Coroutine-Use-Cases-on-Android/app/src/main/java/com/lukaslechner/coroutineusecasesonandroid/usecases/coroutines/usecase14/AndroidVersionRepository.kt" />
-      <jump line="22" column="18" filename="$USER_HOME$/Documents/Sample/Kotlin-Coroutine-Use-Cases-on-Android/app/src/main/java/com/lukaslechner/coroutineusecasesonandroid/usecases/coroutines/usecase14/ContinueCoroutineWhenUserLeavesScreenActivity.kt" />
-      <jump line="9" column="19" filename="$USER_HOME$/Documents/Sample/Kotlin-Coroutine-Use-Cases-on-Android/app/src/main/java/com/lukaslechner/coroutineusecasesonandroid/usecases/coroutines/usecase14/AndroidVersionRepository.kt" />
       <jump line="19" column="24" filename="$USER_HOME$/Documents/Sample/Kotlin-Coroutine-Use-Cases-on-Android/app/src/main/java/com/lukaslechner/coroutineusecasesonandroid/usecases/coroutines/usecase14/AndroidVersionRepository.kt" />
       <jump line="112" column="79" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/strategy/deviceUtils/CasetaDeviceUtilsStrategyTest.java" />
       <jump line="271" column="15" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/DeviceCategoryActivity.java" />
@@ -312,6 +304,13 @@
       <jump line="40" column="6" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" />
       <jump line="81" column="68" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" />
       <jump line="109" column="83" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" />
+      <jump line="147" column="65" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" />
+      <jump line="148" column="149" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" />
+      <jump line="24" column="10" filename="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/other/MapAsync.kt" />
+      <jump line="28" column="11" filename="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/other/MapAsync.kt" />
+      <jump line="30" column="7" filename="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/other/MapAsync.kt" />
+      <jump line="36" column="4" filename="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/other/MapAsync.kt" />
+      <jump line="31" column="24" filename="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/other/MapAsync.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -320,7 +319,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -338,7 +337,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -347,49 +346,49 @@
         <text>helpEvent</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c3VzcGVuZCBmdW4gPEEsIEI+IEl0ZXJhYmxlPEE+Lm1hcEFzeW5jKGZ1bmM6IHN1c3BlbmQgKEEpIC0+IEIpOiBMaXN0PEI+ID0gY29yb3V0aW5lU2NvcGUgewogICAgbWFwIHsgYXN5bmMgeyBmdW5jKGl0KSB9IH0uYXdhaXRBbGwoKQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBCYXNlUmVxdWVzdENyZWF0b3IuZ2V0QmFzZVJlYWRSZXF1ZXN0KGFsaWFzLnJlc291cmNlSHJlZikK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5uZXIuc3VtKCkK</text>
+        <text encoding="base64">ICAgIGZsYXRNYXAgeyAgfQo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0Cg==</text>
+        <text encoding="base64">ICAgICIiLmludmFsaWQoKS5tCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlbGF5KDEwMDApCg==</text>
+        <text encoding="base64">ICAgICIiLnZhbGlkKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsYXkoMTAwMCkK</text>
+        <text encoding="base64">ICAgIHJpZ2h0Lgo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsYXkoMTAwMCkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sdXRyb24ubGVhcGxpYi5yZXF1ZXN0Y3JlYXRvci5CYXNlUmVxdWVzdENyZWF0b3IuZ2V0QmFzZVJlYWRSZXF1ZXN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguY29yb3V0aW5lcy5EZWZlcnJlZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhc3luYyB7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5jaGVja2VyZnJhbWV3b3JrLmNoZWNrZXIudW5pdHMucXVhbC5LCg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICBQb3dlck1vY2tpdG8ubW9ja1N0YXRpYyhGZWF0dXJlTWFuYWdlci5jbGFzcyk7CiAgICAgICAgTW9ja2l0by53aGVuKEZlYXR1cmVNYW5hZ2VyLmlzUmluZ0VuYWJsZWQoKSkudGhlblJldHVybih0cnVlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFRPRE8oKQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5jaGVja2VyZnJhbWV3b3JrLmNoZWNrZXIudW5pdHMucXVhbC5BCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBtYXBUbyhBcnJheUxpc3Q8Uj4oc2l6ZSksIHRyYW5zZm9ybSkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sdXRyb24ubW13LmRhdGFzdG9yZS5kYW8uZ2VuZXJhdGVkLkRldGVjdGlvbkdyb3VwCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2hlbHBFdmVudC9zaWduSW5FdmVudC9n</text>
