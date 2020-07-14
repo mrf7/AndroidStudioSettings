@@ -181,11 +181,11 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="21" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" timestamp="1594752055510">
-        <mark key="[" line="82" column="67" />
-        <mark key="]" line="82" column="90" />
-        <mark key="^" line="82" column="90" />
-        <mark key="." line="82" column="89" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" timestamp="1594753113632">
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="77" />
+        <mark key="^" line="111" column="68" />
+        <mark key="." line="153" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1594749619185">
         <mark key="'" line="0" column="184" />
@@ -339,8 +339,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vICAgICAgICAgICAgICAgICBMdXRMb2cuZCgiTVJGIiwgImRldGVjdGlvbiBncm91cCAkZGV0ZWN0aW9uR3JvdXAiKQo=</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -367,7 +367,7 @@
         <text>RingDevice</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gRWFjaCBkZXRlY3Rpb24gZ3JvdXAgY291bGQgaGF2ZSBtdWx0aXBsZSB0cmlnZ2VyIHV1aWRzLCBzbyBjcmVhdGUgYW4gZW50cnkgZm9yIGVhY2ggdXVpZCB0byB0aGUgZGV0ZWN0aW9uIGdyb3VwCg==</text>
+        <text encoding="base64">ICAgIC8vICAgICAgICAgICAgICAgICBMdXRMb2cuZCgiTVJGIiwgImRldGVjdGlvbiBncm91cCAkZGV0ZWN0aW9uR3JvdXAiKQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
