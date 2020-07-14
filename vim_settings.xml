@@ -145,13 +145,6 @@
         <mark key="[" line="755" column="4" />
         <mark key="]" line="755" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/other/MapAsync.kt" timestamp="1594731736137">
-        <mark key="'" line="31" column="19" />
-        <mark key="[" line="31" column="42" />
-        <mark key="]" line="31" column="50" />
-        <mark key="^" line="31" column="50" />
-        <mark key="." line="31" column="49" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/datamodel/RingDevice.kt" timestamp="1594746476676">
         <mark key="'" line="14" column="58" />
         <mark key="[" line="18" column="87" />
@@ -171,6 +164,12 @@
         <mark key="[" line="1039" column="0" />
         <mark key="]" line="1052" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/voice/VoiceAliasSummaryViewModel.kt" timestamp="1594749269725">
+        <mark key="[" line="97" column="117" />
+        <mark key="]" line="97" column="118" />
+        <mark key="^" line="97" column="118" />
+        <mark key="." line="97" column="117" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/RingSignInFragment.kt" timestamp="1594734471990">
         <mark key="[" line="94" column="39" />
         <mark key="]" line="94" column="74" />
@@ -182,37 +181,19 @@
         <mark key="[" line="20" column="0" />
         <mark key="]" line="21" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" timestamp="1594746535764">
-        <mark key="'" line="140" column="42" />
-        <mark key="[" line="122" column="37" />
-        <mark key="]" line="102" column="68" />
-        <mark key="." line="102" column="67" />
-        <mark key="^" line="102" column="68" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1594734503172">
+      <file name="/Dummy.txt" timestamp="1594749619185">
         <mark key="'" line="0" column="184" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="47" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/VoiceAliasSummaryRepo.kt" timestamp="1594672887767">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="77" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ring/WorksWithRingViewModel.kt" timestamp="1594747385613">
-        <mark key="'" line="68" column="53" />
-        <mark key="[" line="124" column="56" />
-        <mark key="]" line="124" column="66" />
-        <mark key="." line="124" column="65" />
-        <mark key="^" line="124" column="66" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/WorksWithRingFragment.kt" timestamp="1594734540922">
         <mark key="'" line="12" column="18" />
-        <mark key="[" line="44" column="35" />
-        <mark key="]" line="44" column="70" />
-        <mark key="^" line="44" column="70" />
-        <mark key="." line="44" column="69" />
+        <mark key="[" line="23" column="35" />
+        <mark key="]" line="23" column="70" />
+        <mark key="^" line="23" column="70" />
+        <mark key="." line="23" column="69" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-core-data/0.10.4/50441bcf2b67ea3a1b7dfa00e21c02e0b5e83ff1/arrow-core-data-0.10.4-sources.jar!/higherkind/higherkind.arrow.core.Either.kt" timestamp="1594732611466">
         <mark key="'" line="3" column="33" />
@@ -221,16 +202,22 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-core-data/0.10.5/e175264420607f17140713e0bb38213f31cc9c32/arrow-core-data-0.10.5-sources.jar!/higherkind/higherkind.arrow.core.Either.kt" timestamp="1594733120606" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/RingSetupActivity.kt" timestamp="1594734531405">
-        <mark key="[" line="45" column="39" />
-        <mark key="]" line="45" column="57" />
-        <mark key="." line="45" column="56" />
-        <mark key="^" line="45" column="57" />
+        <mark key="[" line="18" column="39" />
+        <mark key="]" line="18" column="57" />
+        <mark key="." line="18" column="56" />
+        <mark key="^" line="18" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/Utils/src/main/java/com/lutron/sharedutils/helper/Either.kt" timestamp="1594735788846">
-        <mark key="[" line="55" column="4" />
-        <mark key="]" line="55" column="11" />
-        <mark key="^" line="55" column="11" />
-        <mark key="." line="55" column="10" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/Utils/src/main/java/com/lutron/sharedutils/helper/Either.kt" timestamp="1594749025601">
+        <mark key="[" line="0" column="37" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/build.gradle" timestamp="1594749643509">
+        <mark key="[" line="57" column="78" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
+        <mark key="^" line="59" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/RingCloudApi.kt" timestamp="1594734452559">
         <mark key="[" line="11" column="0" />
@@ -347,7 +334,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>CloudRingDevice</text>
+        <text>}</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -365,7 +352,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>CloudRingDevice</text>
+        <text>}</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
