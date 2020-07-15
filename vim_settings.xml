@@ -7,8 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>INCREASE</entry>
-        <entry>FORM_FACTOR</entry>
         <entry>vigilesReportDirectory</entry>
         <entry>IOException</entry>
         <entry>'</entry>
@@ -27,11 +25,10 @@
         <entry>(d|D)oorbell</entry>
         <entry>helpEvent</entry>
         <entry>RingDevice</entry>
+        <entry>bellResult</entry>
+        <entry>bell</entry>
       </history-search>
       <history-cmd>
-        <entry>s/vigilesReportDirectory/otherDir/g</entry>
-        <entry>s/</entry>
-        <entry>s/'/&quot;/g</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>s/Yes/No</entry>
         <entry>s/{/g</entry>
@@ -49,6 +46,9 @@
         <entry encoding="base64">JzwsJz5zLyhkfEQpb29yYmVsbC9jYW1lcmEvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2hlbHBFdmVudC9zaWduSW5FdmVudC9n</entry>
         <entry encoding="base64">JzwsJz5zL1JpbmdEZXZpY2UvRGV2aWNlL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2JlbGxSZXN1bHQvY2FtUmVzdWx0Lw==</entry>
+        <entry encoding="base64">JzwsJz5zL2JlbGwvY2FtL2c=</entry>
+        <entry>s/bell/cam/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -174,12 +174,12 @@
         <mark key="^" line="0" column="24" />
         <mark key="." line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/RingRepoTest.kt" timestamp="1594829030730">
-        <mark key="'" line="163" column="14" />
-        <mark key="[" line="44" column="69" />
-        <mark key="]" line="44" column="69" />
-        <mark key="^" line="161" column="26" />
-        <mark key="." line="44" column="69" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/RingRepoTest.kt" timestamp="1594829159869">
+        <mark key="'" line="163" column="8" />
+        <mark key="[" line="163" column="0" />
+        <mark key="]" line="163" column="47" />
+        <mark key="^" line="161" column="49" />
+        <mark key="." line="163" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/Utils/src/main/java/com/lutron/sharedutils/extension/CollectionExtension.kt" timestamp="1594824792777">
         <mark key="[" line="60" column="0" />
@@ -312,7 +312,7 @@
       <jump line="117" column="31" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" />
       <jump line="40" column="22" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/ServiceRepo.kt" />
       <jump line="28" column="11" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/ServiceRepo.kt" />
-      <jump line="163" column="14" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/RingRepoTest.kt" />
+      <jump line="163" column="8" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/RingRepoTest.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -320,8 +320,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>, ringLeapDataSource</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RmFsc2UoYmVsbFRyaWdnZXIuZW5hYmxlZCkK</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -339,7 +339,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>, ringLeapDataSource</text>
+        <text>bell</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -348,7 +348,7 @@
         <text>bell</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKCJiZWxsIiwgYmVsbFJlc3VsdC50eXBlKQogICAgICAgIHZhbCBiZWxsVHJpZ2dlciA9IGJlbGxSZXN1bHQudHJpZ2dlcnMuc2luZ2xlKCkgLy8gTWFrZSBzdXJlIHRoZXJlcyBleGFjdGx5IG9uZSB0cmlnZ2VyIAogICAgICAgIEFzc2VydC5hc3NlcnROb3ROdWxsKGJlbGxUcmlnZ2VyKSAKICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKEV2ZW50VHlwZS5SdW5nLCBiZWxsVHJpZ2dlci50cmlnZ2VyVHlwZSkKICAgICAgICBBc3NlcnQuYXNzZXJ0RmFsc2UoYmVsbFRyaWdnZXIuZW5hYmxlZCkK</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RmFsc2UoYmVsbFRyaWdnZXIuZW5hYmxlZCkK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
@@ -393,7 +393,7 @@
         <text encoding="base64">aW1wb3J0IGNvbS5sdXRyb24ubW13LnJlcG9zaXRvcmllcy5SaW5nTGVhcERhdGFTb3VyY2UK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2JlbGwvY2FtL2c=</text>
+        <text>s/bell/cam/g</text>
       </register>
     </registers>
   </component>
