@@ -157,8 +157,8 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/ring/WorksWithRingViewModelTest.kt" timestamp="1594756815175">
-        <mark key="'" line="228" column="0" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/ring/WorksWithRingViewModelTest.kt" timestamp="1594839732625">
+        <mark key="'" line="42" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/RingSignInFragment.kt" timestamp="1594827707764">
         <mark key="[" line="28" column="0" />
@@ -215,7 +215,6 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/SystemActionReadCallable.java" timestamp="1594828122390" />
     </filemarks>
     <jumps>
-      <jump line="298" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.kt" />
       <jump line="99" column="61" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/business/callables/ZoneGoToSpectrumTuningCallableTest.java" />
       <jump line="60" column="40" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/business/callables/OperationStatusUnsubscribeRequestCallableTest.kt" />
       <jump line="222" column="17" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/EditHomePresenterTest.kt" />
@@ -315,6 +314,7 @@
       <jump line="42" column="35" filename="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/other/MapAsync.kt" />
       <jump line="84" column="63" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-core/0.10.4/a810bab3d49adbac0fb204608eec44a54a5b2416/arrow-core-0.10.4-sources.jar!/extension/arrow/core/extensions/either/applicative/EitherApplicative.kt" />
       <jump line="43" column="8" filename="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/other/MapAsync.kt" />
+      <jump line="42" column="5" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/ring/WorksWithRingViewModelTest.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
