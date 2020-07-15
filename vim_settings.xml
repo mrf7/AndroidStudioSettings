@@ -145,11 +145,17 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-core-data/0.10.4/50441bcf2b67ea3a1b7dfa00e21c02e0b5e83ff1/arrow-core-data-0.10.4-sources.jar!/arrow/core/Either.kt" timestamp="1594838360639" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/ServiceRepo.kt" timestamp="1594828075604">
-        <mark key="'" line="28" column="11" />
-        <mark key="[" line="59" column="70" />
-        <mark key="]" line="59" column="70" />
-        <mark key="." line="59" column="70" />
+        <mark key="'" line="27" column="11" />
+        <mark key="[" line="58" column="70" />
+        <mark key="]" line="58" column="70" />
+        <mark key="." line="58" column="70" />
+      </file>
+      <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/other/MapAsync.kt" timestamp="1594838488245">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/ring/WorksWithRingViewModelTest.kt" timestamp="1594756815175">
         <mark key="'" line="228" column="0" />
@@ -160,26 +166,28 @@
         <mark key="^" line="37" column="66" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" timestamp="1594827117431">
-        <mark key="'" line="117" column="31" />
-        <mark key="[" line="89" column="14" />
-        <mark key="]" line="89" column="8" />
-        <mark key="." line="89" column="7" />
-        <mark key="^" line="89" column="8" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-core/0.10.4/a810bab3d49adbac0fb204608eec44a54a5b2416/arrow-core-0.10.4-sources.jar!/extension/arrow/core/extensions/either/applicative/EitherApplicative.kt" timestamp="1594838425109">
+        <mark key="'" line="84" column="63" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594827713865">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" timestamp="1594839630051">
+        <mark key="'" line="110" column="73" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1594839472560">
         <mark key="'" line="0" column="184" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="24" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="24" />
-        <mark key="." line="0" column="23" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/RingRepoTest.kt" timestamp="1594829159869">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/RingRepoTest.kt" timestamp="1594839455590">
         <mark key="'" line="163" column="8" />
-        <mark key="[" line="163" column="0" />
-        <mark key="]" line="163" column="47" />
-        <mark key="^" line="161" column="49" />
-        <mark key="." line="163" column="0" />
+        <mark key="[" line="51" column="35" />
+        <mark key="]" line="51" column="36" />
+        <mark key="^" line="51" column="36" />
+        <mark key="." line="51" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/Utils/src/main/java/com/lutron/sharedutils/extension/CollectionExtension.kt" timestamp="1594824792777">
         <mark key="[" line="60" column="0" />
@@ -204,20 +212,9 @@
         <mark key="]" line="77" column="0" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/build.gradle" timestamp="1594749643509">
-        <mark key="[" line="57" column="78" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="59" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/SystemActionReadCallable.java" timestamp="1594828122390" />
     </filemarks>
     <jumps>
-      <jump line="163" column="21" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/communication/CommunicationManagerTest.kt" />
-      <jump line="161" column="8" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/communication/CommunicationManagerTest.kt" />
-      <jump line="181" column="11" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/communication/CommunicationManagerTest.kt" />
-      <jump line="38" column="16" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.kt" />
-      <jump line="296" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.kt" />
       <jump line="298" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.kt" />
       <jump line="99" column="61" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/business/callables/ZoneGoToSpectrumTuningCallableTest.java" />
       <jump line="60" column="40" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/business/callables/OperationStatusUnsubscribeRequestCallableTest.kt" />
@@ -313,6 +310,11 @@
       <jump line="40" column="22" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/ServiceRepo.kt" />
       <jump line="28" column="11" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/ServiceRepo.kt" />
       <jump line="163" column="8" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/RingRepoTest.kt" />
+      <jump line="110" column="73" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" />
+      <jump line="41" column="8" filename="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/other/MapAsync.kt" />
+      <jump line="42" column="35" filename="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/other/MapAsync.kt" />
+      <jump line="84" column="63" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-core/0.10.4/a810bab3d49adbac0fb204608eec44a54a5b2416/arrow-core-0.10.4-sources.jar!/extension/arrow/core/extensions/either/applicative/EitherApplicative.kt" />
+      <jump line="43" column="8" filename="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/other/MapAsync.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -321,7 +323,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RmFsc2UoYmVsbFRyaWdnZXIuZW5hYmxlZCkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sdXRyb24uc2hhcmVkdXRpbHMuZXh0ZW5zaW9uLm1hcEFzeW5jCg==</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -339,7 +341,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>bell</text>
+        <text>i</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -348,49 +350,55 @@
         <text>bell</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RmFsc2UoYmVsbFRyaWdnZXIuZW5hYmxlZCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXZlbnRzLmZpcnN0T3JOdWxseyBpdCBpcyBFaXRoZXIuTGVmdH0gYXMgRWl0aGVyLkxlZnQgPzogZXZlbnRzLm1hcCB7IChpdCBhcyBFaXRoZXIuUmlnaHQpLmIgfS5yaWdodCgpCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RmFsc2UoY2FtVHJpZ2dlci5lbmFibGVkKQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sdXRyb24uc2hhcmVkdXRpbHMuZXh0ZW5zaW9uLm1hcEFzeW5jCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKCkK</text>
+        <text>Loggin requests</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZXhwZWN0ZWREZXZpY2VzID0gbGlzdE9mKAogICAgICAgICAgICBSaW5nRGV2aWNlKCJiZWxsIiwgImJlbGwiLCBsaXN0T2YoSW50cnVkZXJEZXRlcnJlbnRUcmlnZ2VyKEV2ZW50VHlwZS5SdW5nLCApKSkKICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZXZlbnRzLmZpcnN0T3JOdWxsIHsgaXQgaXMgRWl0aGVyLkxlZnQgfSBhcyBFaXRoZXIuTGVmdD8gPzogZXZlbnRzLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW1BY3Rpb25DYWNoZUNsZWFuZXIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIChzdWNjZXNzLCBmYWlscykgPSBldmVudHMucGFydGl0aW9uIHsgaXQgaXMgRWl0aGVyLlJpZ2h0IH0KICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGZhaWxzLmlzTm90RW1wdHkoKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgZmFpbHMuZmlyc3QoKSBhcyBFaXRoZXIuTGVmdAogICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsIHRyaWdnZXJzID0gc3VjY2Vzcy5tYXAgeyAoaXQgYXMgRWl0aGVyLlJpZ2h0KS5iIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIFJpbmdEZXZpY2UoY2xvdWREZXZpY2UubmFtZSwgY2xvdWREZXZpY2UudHlwZSwgdHJpZ2dlcnMpLnJpZ2h0KCkKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuIGwoZXRzOiBMaXN0PEVpdGhlcjxFeGNlcHRpb24sIFN0cmluZz4+KSB7CiAgICBldHMudHJhdmVyc2UoRWl0aGVyLmFwcGxpY2F0aXZlKCksICkKfQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb0V2ZXJ5IHsgcmluZ0Nsb3VkQXBpLmdldFJpbmdEZXZpY2VzKCkgfSByZXR1cm5zIEVpdGhlci5SaWdodChleHBlY3RlZERldmljZXMpCg==</text>
+      <register name="6" type="4">
+        <text>mockk {
+            every { href } returns &quot;/service/ring&quot;
+        }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="7" type="4">
+        <text>,
+            mockk {
+                every { triggers } returns listOf(Trigger(2, &quot;otherNest thing&quot;, &quot;parent&quot;))
+                every { follows } returns null
+            }</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICBQb3dlck1vY2tpdG8ubW9ja1N0YXRpYyhGZWF0dXJlTWFuYWdlci5jbGFzcyk7CiAgICAgICAgTW9ja2l0by53aGVuKEZlYXR1cmVNYW5hZ2VyLmlzUmluZ0VuYWJsZWQoKSkudGhlblJldHVybih0cnVlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sdXRyb24ubW13LnJlcG9zaXRvcmllcy5SaW5nTGVhcERhdGFTb3VyY2UK</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sdXRyb24ubW13LnJlcG9zaXRvcmllcy5SaW5nTGVhcERhdGFTb3VyY2UK</text>
+        <text encoding="base64">ICAgICAgICAvLyBHZXR0aW5nIHN5c3RlbSBhY3Rpb24gZm9yIHJ1bmcgcmV0dXJucyBhbiBhY3Rpb24sIGFueXRoaW5nIGVsc2UgcmV0dXJucyBudWxsCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/bell/cam/g</text>
