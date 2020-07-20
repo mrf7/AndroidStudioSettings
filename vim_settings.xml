@@ -149,13 +149,7 @@
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/migration/MigrateV10ToV11.java" timestamp="1595253405203" />
       <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/rssiadjustment/RssiAdjustingBLEAdvertiser.kt" timestamp="1595258439575" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/RingRepoTest.kt" timestamp="1595258386811">
-        <mark key="'" line="136" column="18" />
-        <mark key="[" line="158" column="21" />
-        <mark key="]" line="158" column="25" />
-        <mark key="^" line="158" column="25" />
-        <mark key="." line="158" column="24" />
-      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/RingRepoTest.kt" timestamp="1595258386811" />
       <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/rssiadjustment/RssiAdjusterEvaluator.kt" timestamp="1595259039327" />
       <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/BleManufacturingData.java" timestamp="1595260062346">
         <mark key="'" line="15" column="13" />
@@ -174,19 +168,19 @@
         <mark key="^" line="36" column="66" />
         <mark key="." line="1" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1595255848833">
+      <file name="/Dummy.txt" timestamp="1595265718357">
         <mark key="'" line="0" column="184" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="33" />
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/ServiceRepoTest.kt" timestamp="1595257699213">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/ServiceRepoTest.kt" timestamp="1595265714539">
         <mark key="'" line="49" column="11" />
-        <mark key="[" line="108" column="4" />
-        <mark key="]" line="109" column="107" />
-        <mark key="^" line="109" column="107" />
-        <mark key="." line="109" column="106" />
+        <mark key="[" line="112" column="113" />
+        <mark key="]" line="112" column="118" />
+        <mark key="^" line="112" column="118" />
+        <mark key="." line="112" column="117" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/vigiles_report.csv" timestamp="1595251986995" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/dataModels/IntruderDeterrentTrigger.kt" timestamp="1595255872368">
@@ -195,7 +189,7 @@
         <mark key="." line="1" column="44" />
         <mark key="^" line="1" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1595260343706" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1595265693917" />
       <file name="$USER_HOME$/Documents/caseta-android-app/config/detekt/license.template" timestamp="1595251621290">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="2" />
