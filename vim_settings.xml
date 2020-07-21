@@ -162,6 +162,7 @@
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ring/WorksWithRingViewModel.kt" timestamp="1595342364401" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/ServiceRepoTest.kt" timestamp="1595269423942">
         <mark key="'" line="49" column="11" />
         <mark key="[" line="112" column="113" />
@@ -175,10 +176,6 @@
         <mark key="." line="1" column="44" />
         <mark key="^" line="1" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/config/detekt/license.template" timestamp="1595251621290">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="2" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/RingSignInFragment.kt" timestamp="1595255906435">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="17" />
@@ -188,6 +185,8 @@
       <file name="/fragment.java" timestamp="1595255983791">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/RingCloudApi.kt" timestamp="1595342041507" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" timestamp="1595341810831" />
     </filemarks>
     <jumps>
       <jump line="31" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/voice/VoiceAliasSummaryViewModel.kt" />
