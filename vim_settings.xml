@@ -139,13 +139,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1595265718357">
-        <mark key="'" line="0" column="184" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="33" />
-        <mark key="^" line="0" column="33" />
-        <mark key="." line="0" column="32" />
-      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/navigation/ring_nav_graph.xml" timestamp="1595354966083" />
       <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/BleManufacturingData.java" timestamp="1595260062346">
         <mark key="'" line="15" column="13" />
       </file>
@@ -162,6 +156,23 @@
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="44" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/DeviceTracker.java" timestamp="1595346552037" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/RingSignInFragment.kt" timestamp="1595354899897">
+        <mark key="[" line="119" column="69" />
+        <mark key="]" line="119" column="37" />
+        <mark key="^" line="1" column="66" />
+        <mark key="." line="119" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" timestamp="1595352468118">
+        <mark key="[" line="166" column="5" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1595265718357">
+        <mark key="'" line="0" column="184" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="33" />
+        <mark key="^" line="0" column="33" />
+        <mark key="." line="0" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ring/WorksWithRingViewModel.kt" timestamp="1595346530420" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/ServiceRepoTest.kt" timestamp="1595269423942">
         <mark key="'" line="49" column="11" />
@@ -170,26 +181,22 @@
         <mark key="^" line="112" column="118" />
         <mark key="." line="112" column="117" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/WorksWithRingFragment.kt" timestamp="1595355024347">
+        <mark key="[" line="85" column="46" />
+        <mark key="]" line="85" column="73" />
+        <mark key="." line="85" column="72" />
+        <mark key="^" line="85" column="73" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/dataModels/IntruderDeterrentTrigger.kt" timestamp="1595255872368">
         <mark key="[" line="1" column="44" />
         <mark key="]" line="1" column="45" />
         <mark key="." line="1" column="44" />
         <mark key="^" line="1" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/DeviceTracker.java" timestamp="1595346552037" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/RingSignInFragment.kt" timestamp="1595255906435">
-        <mark key="[" line="1" column="17" />
-        <mark key="]" line="1" column="17" />
-        <mark key="^" line="1" column="66" />
-        <mark key="." line="1" column="17" />
-      </file>
       <file name="/fragment.java" timestamp="1595255983791">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/RingCloudApi.kt" timestamp="1595342041507" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" timestamp="1595352468118">
-        <mark key="[" line="166" column="5" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="31" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/voice/VoiceAliasSummaryViewModel.kt" />
@@ -300,7 +307,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>False</text>
+        <text>action_show_ring_sign_in</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -318,7 +325,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>action_show_ring_sign_in</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
