@@ -162,7 +162,7 @@
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="44" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ring/WorksWithRingViewModel.kt" timestamp="1595342364401" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ring/WorksWithRingViewModel.kt" timestamp="1595346530420" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/ServiceRepoTest.kt" timestamp="1595269423942">
         <mark key="'" line="49" column="11" />
         <mark key="[" line="112" column="113" />
@@ -176,6 +176,7 @@
         <mark key="." line="1" column="44" />
         <mark key="^" line="1" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/DeviceTracker.java" timestamp="1595346552037" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/RingSignInFragment.kt" timestamp="1595255906435">
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="17" />
