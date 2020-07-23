@@ -170,18 +170,13 @@
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/casetaMasterStrings/AppMasterStrings.txt" timestamp="1595449182819" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" timestamp="1595429790638" />
+      <file name="$USER_HOME$/Downloads/android-dagger-solution/app/src/main/java/com/example/android/dagger/login/LoginActivity.kt" timestamp="1595512141542" />
       <file name="/Dummy.txt" timestamp="1595360057958">
         <mark key="'" line="0" column="184" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="33" />
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/RingSplashFragment.kt" timestamp="1595359347190">
-        <mark key="[" line="1" column="44" />
-        <mark key="]" line="1" column="45" />
-        <mark key="." line="1" column="44" />
-        <mark key="^" line="1" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/layout/works_with_ring_fragment.xml" timestamp="1595510966338" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/EditScheduleRepo.kt" timestamp="1595445894661" />
@@ -204,10 +199,7 @@
         <mark key="." line="23" column="100" />
         <mark key="^" line="23" column="100" />
       </file>
-      <file name="/fragment.java" timestamp="1595359408325">
-        <mark key="[" line="0" column="15" />
-        <mark key="." line="0" column="14" />
-      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/a00123f261762a7c5e0ec916a2c7c8298d29c400/javax.inject-1-sources.jar!/javax/inject/Inject.java" timestamp="1595512090586" />
     </filemarks>
     <jumps>
       <jump line="95" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/voice/VoiceAliasSummaryViewModelTest.kt" />
