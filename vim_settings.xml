@@ -161,7 +161,6 @@
         <mark key="." line="56" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/DeviceTracker.java" timestamp="1595360287843" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/layout/ring_splash_fragment.xml" timestamp="1595359645910" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/casetaMasterStrings/AppMasterStrings.txt" timestamp="1595449182819" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" timestamp="1595429790638" />
       <file name="$USER_HOME$/Downloads/android-dagger-solution/app/src/main/java/com/example/android/dagger/login/LoginActivity.kt" timestamp="1595512141542" />
@@ -182,12 +181,13 @@
         <mark key="^" line="100" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/ScheduleUpdateCallable.kt" timestamp="1595447312181" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1595360050556">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1595526930491">
         <mark key="[" line="287" column="0" />
         <mark key="]" line="287" column="0" />
         <mark key="." line="287" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/settings.gradle" timestamp="1595521061625" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/Device.java" timestamp="1595533859754" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/RingSplashFragment.kt" timestamp="1595360025688">
         <mark key="[" line="23" column="100" />
         <mark key="]" line="23" column="100" />
