@@ -147,6 +147,12 @@
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/config/detekt/detekt.yml" timestamp="1595430049551" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/model/LeapExceptionModel.java" timestamp="1595429869233" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/ServiceRepo.kt" timestamp="1595510982280">
+        <mark key="[" line="27" column="19" />
+        <mark key="]" line="27" column="19" />
+        <mark key="^" line="27" column="26" />
+        <mark key="." line="27" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/ResourceGroup.java" timestamp="1595440153205">
         <mark key="[" line="91" column="9" />
       </file>
@@ -173,6 +179,7 @@
         <mark key="." line="1" column="44" />
         <mark key="^" line="1" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/layout/works_with_ring_fragment.xml" timestamp="1595510966338" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/EditScheduleRepo.kt" timestamp="1595445894661" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/WorksWithRingFragment.kt" timestamp="1595359750710">
         <mark key="'" line="100" column="0" />
@@ -306,8 +313,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBudWxsLnJpZ2h0KCkK</text>
+      <register name="&quot;" type="4">
+        <text>I</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -325,7 +332,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>I</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
