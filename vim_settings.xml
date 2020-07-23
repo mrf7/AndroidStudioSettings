@@ -168,6 +168,7 @@
         <mark key="." line="41" column="3" />
         <mark key="^" line="41" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/ServiceRepoTest.kt" timestamp="1595538271024" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/ResourceGroup.java" timestamp="1595519976496">
         <mark key="'" line="231" column="0" />
         <mark key="[" line="56" column="9" />
@@ -179,12 +180,6 @@
         <mark key="[" line="287" column="0" />
         <mark key="]" line="287" column="0" />
         <mark key="." line="287" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/RingSplashFragment.kt" timestamp="1595360025688">
-        <mark key="[" line="23" column="100" />
-        <mark key="]" line="23" column="100" />
-        <mark key="." line="23" column="100" />
-        <mark key="^" line="23" column="100" />
       </file>
     </filemarks>
     <jumps>
