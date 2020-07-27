@@ -151,7 +151,7 @@
         <mark key="." line="29" column="46" />
         <mark key="^" line="29" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1595625214903">
+      <file name="/Dummy.txt" timestamp="1595625257270">
         <mark key="'" line="0" column="184" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -176,10 +176,10 @@
       <file name="$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res/values/attrs.xml" timestamp="1595624324914" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/view/decorators/CustomDividerItemDecoration.java" timestamp="1595623389505" />
       <file name="$USER_HOME$/Documents/caseta-android-app/sharedUiComponents/src/main/res/values/color.xml" timestamp="1595625020670" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/WorksWithRingFragment.kt" timestamp="1595618575974">
-        <mark key="[" line="75" column="33" />
-        <mark key="]" line="75" column="35" />
-        <mark key="." line="75" column="34" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/WorksWithRingFragment.kt" timestamp="1595855351797">
+        <mark key="[" line="39" column="6" />
+        <mark key="]" line="39" column="6" />
+        <mark key="." line="39" column="6" />
         <mark key="^" line="75" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/sharedUiComponents/src/main/java/com/lutron/uicomponents/utils/ViewUtils.java" timestamp="1595622124047">
@@ -318,8 +318,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text>First pass layout</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -337,7 +337,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNob3dEaXZpZGVycz0ibWlkZGxlIg==</text>
+        <text>o</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
