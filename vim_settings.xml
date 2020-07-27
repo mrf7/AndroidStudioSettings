@@ -161,10 +161,10 @@
       <file name="/Kotlin Console" timestamp="1595860775510">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ring/RingDeviceSummaryViewModel.kt" timestamp="1595873475272">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ring/RingDeviceSummaryViewModel.kt" timestamp="1595875263501">
         <mark key="'" line="49" column="47" />
-        <mark key="[" line="64" column="150" />
-        <mark key="]" line="64" column="158" />
+        <mark key="[" line="30" column="3" />
+        <mark key="]" line="36" column="4" />
         <mark key="." line="64" column="157" />
         <mark key="^" line="64" column="158" />
       </file>
@@ -181,12 +181,15 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/RingDeviceSummaryFragment.kt" timestamp="1595873488630">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/RingDeviceSummaryFragment.kt" timestamp="1595875298910">
         <mark key="'" line="46" column="63" />
-        <mark key="[" line="64" column="41" />
-        <mark key="]" line="65" column="50" />
-        <mark key="." line="65" column="49" />
-        <mark key="^" line="65" column="50" />
+        <mark key="[" line="68" column="37" />
+        <mark key="]" line="68" column="37" />
+        <mark key="." line="68" column="36" />
+        <mark key="^" line="68" column="37" />
+      </file>
+      <file name="/fragment.kt" timestamp="1595873747706">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ring/WorksWithRingViewModel.kt" timestamp="1595859132849">
         <mark key="'" line="121" column="0" />
@@ -336,8 +339,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOgo=</text>
+      <register name="&quot;" type="4">
+        <text>emptyList</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -355,7 +358,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>WorksWithRingData</text>
+        <text>emptyList</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -364,7 +367,7 @@
         <text>\%</text>
       </register>
       <register name="0" type="4">
-        <text>ScreenState.Data(RingDeviceSummaryData(dummyData))</text>
+        <text encoding="base64">IHByaXZhdGUgdmFsIGR1bW15RGF0YTogTGlzdDxQYWlyPEludHJ1ZGVyRGV0ZXJyZW50VHJpZ2dlciwgSW50cnVkZXJEZXRlcnJlbnRQcm9ncmFtbWluZz8+PiA9IGxpc3RPZigKICAgICAgICBJbnRydWRlckRldGVycmVudFRyaWdnZXIoRXZlbnRUeXBlLlJ1bmcsIG51bGwsIHRydWUpIHRvIEludHJ1ZGVyRGV0ZXJyZW50UHJvZ3JhbW1pbmcoCiAgICAgICAgICAgIHRydWUsCiAgICAgICAgICAgIExpc3QoMykgeyBBZmZlY3RlZFJlc291cmNlKCkgfSwgU3lzdGVtQWN0aW9uKCkKICAgICAgICApLAogICAgICAgIEludHJ1ZGVyRGV0ZXJyZW50VHJpZ2dlcihFdmVudFR5cGUuTW90aW9uLCBudWxsLCB0cnVlKSB0byBudWxsCiAgICAp</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
