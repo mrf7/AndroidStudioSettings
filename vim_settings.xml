@@ -139,10 +139,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/navigation/ring_nav_graph.xml" timestamp="1595864420454">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/navigation/ring_nav_graph.xml" timestamp="1595864764444">
         <mark key="[" line="22" column="45" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+        <mark key="]" line="50" column="73" />
+        <mark key="." line="50" column="72" />
+        <mark key="^" line="50" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/datamodel/RingDevice.kt" timestamp="1595863694840">
         <mark key="[" line="26" column="1" />
@@ -180,7 +181,7 @@
         <mark key="^" line="0" column="33" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/RingDeviceSummaryFragment.kt" timestamp="1595863944725">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/RingDeviceSummaryFragment.kt" timestamp="1595865510763">
         <mark key="'" line="46" column="63" />
         <mark key="[" line="47" column="66" />
         <mark key="]" line="48" column="49" />
