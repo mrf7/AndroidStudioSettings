@@ -139,6 +139,34 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/navigation/ring_nav_graph.xml" timestamp="1595864420454">
+        <mark key="[" line="22" column="45" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/datamodel/RingDevice.kt" timestamp="1595863694840">
+        <mark key="[" line="26" column="1" />
+        <mark key="]" line="26" column="16" />
+        <mark key="^" line="26" column="16" />
+        <mark key="." line="26" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/IntruderDeterrentTriggerAdapter.kt" timestamp="1595625137163">
+        <mark key="'" line="72" column="96" />
+        <mark key="[" line="71" column="61" />
+        <mark key="]" line="71" column="73" />
+        <mark key="^" line="71" column="73" />
+        <mark key="." line="71" column="72" />
+      </file>
+      <file name="/Kotlin Console" timestamp="1595860775510">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ring/RingDeviceSummaryViewModel.kt" timestamp="1595863881439">
+        <mark key="'" line="49" column="47" />
+        <mark key="[" line="64" column="150" />
+        <mark key="]" line="64" column="158" />
+        <mark key="." line="64" column="157" />
+        <mark key="^" line="64" column="158" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/layout/item_view_trigger.xml" timestamp="1595624674317">
         <mark key="[" line="29" column="25" />
         <mark key="]" line="29" column="47" />
@@ -159,17 +187,6 @@
         <mark key="." line="48" column="48" />
         <mark key="^" line="48" column="49" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/navigation/ring_nav_graph.xml" timestamp="1595863976083">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/datamodel/RingDevice.kt" timestamp="1595863694840">
-        <mark key="[" line="26" column="1" />
-        <mark key="]" line="26" column="16" />
-        <mark key="^" line="26" column="16" />
-        <mark key="." line="26" column="15" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ring/WorksWithRingViewModel.kt" timestamp="1595859132849">
         <mark key="'" line="121" column="0" />
         <mark key="[" line="24" column="0" />
@@ -188,16 +205,7 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="34" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/IntruderDeterrentTriggerAdapter.kt" timestamp="1595625137163">
-        <mark key="'" line="72" column="96" />
-        <mark key="[" line="71" column="61" />
-        <mark key="]" line="71" column="73" />
-        <mark key="^" line="71" column="73" />
-        <mark key="." line="71" column="72" />
-      </file>
-      <file name="/Kotlin Console" timestamp="1595860775510">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res/values/attrs_manifest.xml" timestamp="1595864445423" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/layout/fragment_ring_device_summary.xml" timestamp="1595624949586">
         <mark key="[" line="19" column="37" />
         <mark key="]" line="19" column="37" />
@@ -213,13 +221,6 @@
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/view/View.java" timestamp="1595857684876" />
       <file name="/fragment.java" timestamp="1595858676926">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ring/RingDeviceSummaryViewModel.kt" timestamp="1595863881439">
-        <mark key="'" line="49" column="47" />
-        <mark key="[" line="64" column="150" />
-        <mark key="]" line="64" column="158" />
-        <mark key="." line="64" column="157" />
-        <mark key="^" line="64" column="158" />
       </file>
     </filemarks>
     <jumps>
