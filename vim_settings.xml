@@ -210,11 +210,11 @@
         <mark key="]" line="34" column="1" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res/values/attrs_manifest.xml" timestamp="1595864445423" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/layout/fragment_ring_device_summary.xml" timestamp="1595624949586">
-        <mark key="[" line="19" column="37" />
-        <mark key="]" line="19" column="37" />
-        <mark key="." line="19" column="36" />
-        <mark key="^" line="19" column="37" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/layout/fragment_ring_device_summary.xml" timestamp="1595882221609">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="44" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="20" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/adapter/RingDeviceRecyclerAdapter.kt" timestamp="1595857994250">
         <mark key="[" line="63" column="75" />
@@ -340,7 +340,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci9ibGFjayIK</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -366,8 +366,8 @@
       <register name="/" type="4">
         <text>\%</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IHByaXZhdGUgdmFsIGR1bW15RGF0YTogTGlzdDxQYWlyPEludHJ1ZGVyRGV0ZXJyZW50VHJpZ2dlciwgSW50cnVkZXJEZXRlcnJlbnRQcm9ncmFtbWluZz8+PiA9IGxpc3RPZigKICAgICAgICBJbnRydWRlckRldGVycmVudFRyaWdnZXIoRXZlbnRUeXBlLlJ1bmcsIG51bGwsIHRydWUpIHRvIEludHJ1ZGVyRGV0ZXJyZW50UHJvZ3JhbW1pbmcoCiAgICAgICAgICAgIHRydWUsCiAgICAgICAgICAgIExpc3QoMykgeyBBZmZlY3RlZFJlc291cmNlKCkgfSwgU3lzdGVtQWN0aW9uKCkKICAgICAgICApLAogICAgICAgIEludHJ1ZGVyRGV0ZXJyZW50VHJpZ2dlcihFdmVudFR5cGUuTW90aW9uLCBudWxsLCB0cnVlKSB0byBudWxsCiAgICAp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBjb2xvci9ibGFjayIK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
