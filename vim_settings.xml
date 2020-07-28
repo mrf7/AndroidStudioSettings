@@ -210,10 +210,11 @@
         <mark key="]" line="34" column="1" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/platforms/android-29/data/res/values/attrs_manifest.xml" timestamp="1595864445423" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/layout/fragment_ring_device_summary.xml" timestamp="1595943230943">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/layout/fragment_ring_device_summary.xml" timestamp="1595943251947">
+        <mark key="[" line="22" column="12" />
+        <mark key="]" line="22" column="19" />
+        <mark key="." line="22" column="18" />
+        <mark key="^" line="22" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/adapter/RingDeviceRecyclerAdapter.kt" timestamp="1595857994250">
         <mark key="[" line="63" column="75" />
@@ -338,8 +339,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8SW1hZ2VWaWV3CiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50Ii8+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>tools</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -357,7 +358,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>emptyList</text>
+        <text>tools</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
