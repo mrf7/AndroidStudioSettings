@@ -153,7 +153,7 @@
         <mark key="^" line="26" column="16" />
         <mark key="." line="26" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/IntruderDeterrentTriggerAdapter.kt" timestamp="1595951650811">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/IntruderDeterrentTriggerAdapter.kt" timestamp="1595952256859">
         <mark key="'" line="72" column="96" />
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -166,14 +166,14 @@
         <mark key="]" line="78" column="161" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/datamodel/CloudRingDevice.kt" timestamp="1595947933437" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ring/RingDeviceSummaryViewModel.kt" timestamp="1595949167691">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ring/RingDeviceSummaryViewModel.kt" timestamp="1595952620952">
         <mark key="'" line="49" column="47" />
-        <mark key="[" line="39" column="6" />
-        <mark key="]" line="49" column="72" />
-        <mark key="." line="49" column="71" />
-        <mark key="^" line="49" column="72" />
+        <mark key="[" line="62" column="8" />
+        <mark key="]" line="66" column="21" />
+        <mark key="." line="66" column="20" />
+        <mark key="^" line="66" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" timestamp="1595951732327">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" timestamp="1595952450334">
         <mark key="[" line="41" column="15" />
         <mark key="]" line="41" column="116" />
         <mark key="." line="41" column="115" />
@@ -186,7 +186,7 @@
         <mark key="." line="14" column="41" />
         <mark key="^" line="14" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1595951795115">
+      <file name="/Dummy.txt" timestamp="1595951841765">
         <mark key="'" line="0" column="184" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -342,7 +342,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text>Second pass layout and recyler adapter</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCkK</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -360,7 +360,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFuZHJvaWQudXRpbC4=</text>
+        <text>type</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -375,43 +375,43 @@
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text>Second pass layout and recyler adapter</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCkK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ1ZlcnRpY2FsPSJAZGltZW4vZXh0cmFfZXh0cmFfbGFyZ2UiLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHR5cGUgPSBpdC5rZXkK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGVjb3JhdGlvbiAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEludHJ1ZGVyRGV0ZXJyZW50UHJvZ3JhbW1pbmcoCiAgICAgICAgICAgICAgICAgICAgdHJpZ2dlci5lZmZlY3RpdmVBdE5pZ2h0LAogICAgICAgICAgICAgICAgICAgIGl0LAogICAgICAgICAgICAgICAgICAgIHRyaWdnZXIuc3lzdGVtQWN0aW9uCiAgICAgICAgICAgICAgICApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGRpdmlkZXJJdGVtRGVjb3JhdGlvbiA9IERpdmlkZXJJdGVtRGVjb3JhdGlvbihjb250ZXh0LCBsaW5lYXJMYXlvdXRNYW5hZ2VyLm9yaWVudGF0aW9uKQo=</text>
+        <text encoding="base64">ICAgICAgICBkZWxheSg1MDApCiAgICAgICAgcmV0dXJuIFJpbmdEZXZpY2VTdW1tYXJ5RGF0YShkdW1teURhdGEsIHJpbmdSZXBvLlRSSUdHRVJfVElNRU9VVCkucmlnaHQoKQo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZGl2aWRlcgo=</text>
+        <text>Second pass layout and recyler adapter</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9Ij9hbmRyb2lkOmNvbG9yQWNjZW50Igo=</text>
+        <text encoding="base64">PCEtLSAgICAgICAgICAgIGFuZHJvaWQ6cGFkZGluZ1ZlcnRpY2FsPSJAZGltZW4vZXh0cmFfZXh0cmFfbGFyZ2UiLS0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDphdXRvTGluaz0iIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGVjb3JhdGlvbiAgCg==</text>
       </register>
       <register name="w" type="2">
         <text encoding="base64">ICAgICAgICBQb3dlck1vY2tpdG8ubW9ja1N0YXRpYyhGZWF0dXJlTWFuYWdlci5jbGFzcyk7CiAgICAgICAgTW9ja2l0by53aGVuKEZlYXR1cmVNYW5hZ2VyLmlzUmluZ0VuYWJsZWQoKSkudGhlblJldHVybih0cnVlKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3TW9kZWwuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGRpdmlkZXJJdGVtRGVjb3JhdGlvbiA9IERpdmlkZXJJdGVtRGVjb3JhdGlvbihjb250ZXh0LCBsaW5lYXJMYXlvdXRNYW5hZ2VyLm9yaWVudGF0aW9uKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFJpbmdTdW1tYXJ5U2NyZWVuKGl0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZGl2aWRlcgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2RwL3B4</text>
