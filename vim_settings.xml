@@ -199,10 +199,10 @@
         <mark key="." line="101" column="73" />
         <mark key="^" line="101" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/ring/RingDeviceSummaryViewModelTest.kt" timestamp="1595971344991">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="95" column="68" />
-        <mark key="." line="84" column="0" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/ring/RingDeviceSummaryViewModelTest.kt" timestamp="1596030441895">
+        <mark key="[" line="79" column="25" />
+        <mark key="]" line="90" column="68" />
+        <mark key="." line="79" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/Utils/src/main/java/com/lutron/sharedutils/helper/ScreenState.kt" timestamp="1595963675917">
         <mark key="'" line="26" column="0" />
