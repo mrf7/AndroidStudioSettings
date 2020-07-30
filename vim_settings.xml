@@ -150,7 +150,7 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="1" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-runtime/2.3.0/ce839850d38bec85312cf861969b4b32222043ba/navigation-runtime-2.3.0-sources.jar!/androidx/navigation/NavController.java" timestamp="1596121279228" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-runtime/2.3.0/ce839850d38bec85312cf861969b4b32222043ba/navigation-runtime-2.3.0-sources.jar!/androidx/navigation/NavController.java" timestamp="1596122443072" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/ring/WorksWithRingViewModelTest.kt" timestamp="1596053337422">
         <mark key="'" line="222" column="28" />
         <mark key="[" line="228" column="0" />
@@ -167,13 +167,6 @@
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/casetaMasterStrings/AppMasterStrings.txt" timestamp="1596116537024">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ring/RingDeviceSummaryViewModel.kt" timestamp="1596047646513">
-        <mark key="'" line="51" column="23" />
-        <mark key="[" line="65" column="105" />
-        <mark key="]" line="65" column="115" />
-        <mark key="." line="65" column="114" />
-        <mark key="^" line="65" column="115" />
       </file>
       <file name="/Dummy.txt" timestamp="1596050292378">
         <mark key="'" line="0" column="184" />
@@ -208,7 +201,7 @@
         <mark key="^" line="16" column="5" />
         <mark key="." line="16" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/RingSetupActivity.kt" timestamp="1596120145484">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/RingSetupActivity.kt" timestamp="1596122335410">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
@@ -223,6 +216,9 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-ui/2.3.0/b2971cbfd8a5e73ebc3984f3c117fef224325de2/navigation-ui-2.3.0-sources.jar!/androidx/navigation/ui/AppBarConfiguration.java" timestamp="1596121745748" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/BaseFragment.java" timestamp="1596056749119" />
+      <file name="/fragment.java" timestamp="1596122435368">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/res/navigation/nav_graph.xml" timestamp="1596056842698" />
     </filemarks>
     <jumps>
