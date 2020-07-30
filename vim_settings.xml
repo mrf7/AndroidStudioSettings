@@ -154,21 +154,12 @@
         <mark key="[" line="228" column="0" />
         <mark key="]" line="234" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/support/problems/IProblem.kt" timestamp="1596049667143">
-        <mark key="'" line="12" column="10" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/SystemAction.java" timestamp="1596050061464">
-        <mark key="[" line="36" column="40" />
-        <mark key="]" line="36" column="40" />
-        <mark key="^" line="36" column="64" />
-        <mark key="." line="36" column="40" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/casetaMasterStrings/AppMasterStrings.txt" timestamp="1596116537024">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1596050292378">
+      <file name="/Dummy.txt" timestamp="1596129665879">
         <mark key="'" line="0" column="184" />
-        <mark key="[" line="0" column="32" />
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="58" />
         <mark key="^" line="0" column="58" />
         <mark key="." line="0" column="57" />
@@ -179,6 +170,10 @@
         <mark key="]" line="141" column="0" />
         <mark key="." line="141" column="0" />
         <mark key="^" line="140" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/layout/works_with_ring_fragment.xml" timestamp="1596130046030">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/WorksWithRingFragment.kt" timestamp="1596120937320">
         <mark key="'" line="41" column="39" />
@@ -193,18 +188,24 @@
         <mark key="." line="575" column="40" />
         <mark key="^" line="575" column="41" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/layout/fragment_ring_device_summary.xml" timestamp="1596130047808">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="40" />
+        <mark key="^" line="4" column="4" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/dataModels/IntruderDeterrentTrigger.kt" timestamp="1596050533703">
         <mark key="[" line="16" column="5" />
         <mark key="]" line="16" column="5" />
         <mark key="^" line="16" column="5" />
         <mark key="." line="16" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/RingSetupActivity.kt" timestamp="1596124748692">
-        <mark key="'" line="25" column="87" />
-        <mark key="[" line="25" column="11" />
-        <mark key="]" line="25" column="88" />
-        <mark key="^" line="25" column="88" />
-        <mark key="." line="25" column="87" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/RingSetupActivity.kt" timestamp="1596129987194">
+        <mark key="'" line="27" column="32" />
+        <mark key="[" line="25" column="54" />
+        <mark key="]" line="25" column="121" />
+        <mark key="^" line="25" column="121" />
+        <mark key="." line="25" column="120" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-ui-ktx/2.3.0/407dd936012d5b65b0af3e897ea62e436a811419/navigation-ui-ktx-2.3.0-sources.jar!/androidx/navigation/ui/Activity.kt" timestamp="1596123767947" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/RingSplashFragment.kt" timestamp="1596120318588">
@@ -221,7 +222,6 @@
       <file name="$USER_HOME$/Documents/Personal/DJApp/app/src/main/res/navigation/nav_graph.xml" timestamp="1596056842698" />
     </filemarks>
     <jumps>
-      <jump line="118" column="17" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/ring/WorksWithRingViewModelTest.kt" />
       <jump line="137" column="8" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/ring/WorksWithRingViewModelTest.kt" />
       <jump line="131" column="8" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/ring/WorksWithRingViewModelTest.kt" />
       <jump line="160" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/ring/WorksWithRingViewModelTest.kt" />
@@ -321,6 +321,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/casetaMasterStrings/AppMasterStrings.txt" />
       <jump line="12" column="10" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/support/problems/IProblem.kt" />
       <jump line="26" column="87" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/RingSetupActivity.kt" />
+      <jump line="27" column="32" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/RingSetupActivity.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -329,7 +330,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOgo=</text>
+        <text encoding="base64">ICAgIHN0eWxlPSJAc3R5bGUvU2NyZWVuVGhlbWUuTm9QYWRkaW5nIgo=</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -347,7 +348,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>actionBar</text>
+        <text>&quot;</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -356,7 +357,7 @@
         <text>actualE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aW9uQmFyLnNldERpc3BsYXlIb21lQXNVcEVuYWJsZWQoZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgIHN0eWxlPSJAc3R5bGUvU2NyZWVuVGhlbWUuTm9QYWRkaW5nIgo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
