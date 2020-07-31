@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>NEST_THERMOSTAT</entry>
         <entry>IDCaptor</entry>
         <entry>1</entry>
         <entry>button</entry>
@@ -27,9 +26,9 @@
         <entry>emit\((.*)\)</entry>
         <entry>actualyE</entry>
         <entry>actualE</entry>
+        <entry>getSystemAction</entry>
       </history-search>
       <history-cmd>
-        <entry>del t</entry>
         <entry>delmarks t</entry>
         <entry>delmarks T</entry>
         <entry>s/scene/device/g</entry>
@@ -49,6 +48,7 @@
         <entry encoding="base64">JzwsJz5zL2VtaXRcKCguKilcKS9fc2NyZWVuU3RhdGUudmFsdWUgPSBcMS9n</entry>
         <entry encoding="base64">JzwsJz5zL2FjdHVhbHlFL2UvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2FjdHVhbEUvZS9n</entry>
+        <entry encoding="base64">JzwsJz5zL2dldFN5c3RlbUFjdGlvbi9nZXRSZXNvdXJjZUdyb3VwL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -139,9 +139,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/strategy/deviceselectionstrategy/DeviceSelectionStrategyFactoryTest.kt" timestamp="1596226402189">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="70" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/strategy/deviceselectionstrategy/DeviceSelectionStrategyFactoryTest.kt" timestamp="1596227834510">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/datasource/RingServiceDBDataSource.kt" timestamp="1596217538004">
         <mark key="[" line="7" column="0" />
@@ -150,7 +150,7 @@
         <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao/3.1.1/a0164324ff506561f05ebfc03d05853be99a6781/greendao-3.1.1-sources.jar!/org/greenrobot/greendao/AbstractDao.java" timestamp="1596208559672" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/ServiceRepo.kt" timestamp="1596226508320">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/ServiceRepo.kt" timestamp="1596226761399">
         <mark key="[" line="90" column="20" />
         <mark key="]" line="90" column="28" />
         <mark key="^" line="90" column="28" />
@@ -194,12 +194,12 @@
         <mark key="^" line="36" column="28" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1596222705581">
+      <file name="/Dummy.txt" timestamp="1596228589022">
         <mark key="'" line="0" column="184" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="52" />
+        <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="52" />
-        <mark key="." line="0" column="51" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/RingDeviceSummaryFragment.kt" timestamp="1596222495080">
         <mark key="'" line="54" column="8" />
@@ -222,11 +222,12 @@
         <mark key="." line="169" column="118" />
         <mark key="^" line="169" column="119" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/ServiceRepoTest.kt" timestamp="1596226615275">
-        <mark key="[" line="46" column="22" />
-        <mark key="]" line="69" column="7" />
-        <mark key="^" line="69" column="7" />
-        <mark key="." line="69" column="6" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/ServiceRepoTest.kt" timestamp="1596228145322">
+        <mark key="'" line="31" column="24" />
+        <mark key="[" line="46" column="19" />
+        <mark key="]" line="44" column="27" />
+        <mark key="." line="44" column="26" />
+        <mark key="^" line="44" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/build.gradle" timestamp="1596219238695">
         <mark key="[" line="35" column="0" />
@@ -244,10 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="6" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" />
-      <jump line="81" column="68" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" />
-      <jump line="109" column="83" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" />
-      <jump line="147" column="65" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" />
       <jump line="148" column="149" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" />
       <jump line="24" column="10" filename="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/other/MapAsync.kt" />
       <jump line="28" column="11" filename="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/other/MapAsync.kt" />
@@ -344,6 +341,10 @@
       <jump line="53" column="8" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/RingDeviceSummaryFragment.kt" />
       <jump line="92" column="39" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ring/RingDeviceSummaryViewModel.kt" />
       <jump line="111" column="37" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/RingRepoTest.kt" />
+      <jump line="178" column="11" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/ServiceRepoTest.kt" />
+      <jump line="45" column="26" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/ServiceRepoTest.kt" />
+      <jump line="217" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/ServiceRepoTest.kt" />
+      <jump line="32" column="24" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/ServiceRepoTest.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -352,7 +353,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBEYW9IZWxwZXJIb2xkZXIuZ2V0SW5zdGFuY2UoKS5vcGVuRGF0YWJhc2UoY29udGV4dCwgInRlc3QtZGIiKQo=</text>
+        <text>Fixed serializing crash</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -370,71 +371,71 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>/resourcegroup/1</text>
+        <text>systemAwayHref</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
       </register>
       <register name="/" type="4">
-        <text>actualE</text>
+        <text>getSystemAction</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBEYW9IZWxwZXJIb2xkZXIuZ2V0SW5zdGFuY2UoKS5vcGVuRGF0YWJhc2UoY29udGV4dCwgInRlc3QtZGIiKQo=</text>
+        <text encoding="base64">ICAgICAgICBEYW9IZWxwZXJIb2xkZXIuZ2V0SW5zdGFuY2UoKS5jbG9zZURhdGFiYXNlKCkK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCIkZGV0ZWN0aW9uR3JvdXAgZm9sbG93cyAke2RldGVjdGlvbkdyb3VwPy5mb2xsb3dzfSIpCg==</text>
+        <text>Fixed serializing crash</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImhyZWYiCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCIkZGV0ZWN0aW9uR3JvdXAgZm9sbG93cyAke2RldGVjdGlvbkdyb3VwPy5mb2xsb3dzfSIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQuaHJlZQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuCg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZiAoZGV0ZWN0aW9uR3JvdXAgPT0gbnVsbCkgcmV0dXJuIEludHJ1ZGVyRGV0ZXJyZW50VHJpZ2dlcih0eXBlLCBmYWxzZSwgZmFsc2UsIG51bGwpLnJpZ2h0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgImhyZWYiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmFsc2UsCiAgICAgICAgICAgICAgICAgICAgICAgIFN5c3RlbUFjdGlvbigpLmFwcGx5IHsgYWN0aXZhdGVJZlN1bnNldCA9IHRydWUgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXQuaHJlZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtQWN0aW9uKCkuYXBwbHkgeyByZXNvdXJjZUdyb3VwSHJlZiA9ICIvcmVzb3VyY2Vncm91cC8xIiB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBpZiAoZGV0ZWN0aW9uR3JvdXAgPT0gbnVsbCkgcmV0dXJuIEludHJ1ZGVyRGV0ZXJyZW50VHJpZ2dlcih0eXBlLCBmYWxzZSwgZmFsc2UsIG51bGwpLnJpZ2h0KCkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW1BY3Rpb24oKS5hcHBseSB7IHJlc291cmNlR3JvdXBIcmVmID0gIi9yZXNvdXJjZWdyb3VwLzEiIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmFsc2UsCiAgICAgICAgICAgICAgICAgICAgICAgIFN5c3RlbUFjdGlvbigpLmFwcGx5IHsgYWN0aXZhdGVJZlN1bnNldCA9IHRydWUgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtQWN0aW9uKCkuYXBwbHkgeyByZXNvdXJjZUdyb3VwSHJlZiA9ICIvcmVzb3VyY2Vncm91cC8xIiB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL2FjdHVhbEUvZS9n</text>
+        <text encoding="base64">JzwsJz5zL2dldFN5c3RlbUFjdGlvbi9nZXRSZXNvdXJjZUdyb3VwL2c=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>actualE</last-search>
+      <last-search>getSystemAction</last-search>
       <last-offset />
-      <last-pattern>actualE</last-pattern>
-      <last-replace>e</last-replace>
-      <last-substitute>actualE</last-substitute>
+      <last-pattern>getSystemAction</last-pattern>
+      <last-replace>getResourceGroup</last-replace>
+      <last-substitute>getSystemAction</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
