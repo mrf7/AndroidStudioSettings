@@ -198,12 +198,12 @@
         <mark key="." line="68" column="120" />
         <mark key="^" line="68" column="121" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/RingRepoTest.kt" timestamp="1596223977145">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/RingRepoTest.kt" timestamp="1596224777601">
         <mark key="'" line="111" column="37" />
-        <mark key="[" line="153" column="92" />
-        <mark key="]" line="154" column="30" />
-        <mark key="." line="154" column="29" />
-        <mark key="^" line="154" column="30" />
+        <mark key="[" line="343" column="48" />
+        <mark key="]" line="343" column="58" />
+        <mark key="." line="343" column="57" />
+        <mark key="^" line="343" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/ring/RingDeviceSummaryViewModelTest.kt" timestamp="1596223237220">
         <mark key="'" line="136" column="0" />
@@ -347,8 +347,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCIkZGV0ZWN0aW9uR3JvdXAgZm9sbG93cyAke2RldGVjdGlvbkdyb3VwPy5mb2xsb3dzfSIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>/resourcegroup/1</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -366,7 +366,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>also</text>
+        <text>/resourcegroup/1</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -375,7 +375,7 @@
         <text>actualE</text>
       </register>
       <register name="0" type="4">
-        <text>SystemActionData(&quot;sysact&quot;, false</text>
+        <text>/sysaction</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
