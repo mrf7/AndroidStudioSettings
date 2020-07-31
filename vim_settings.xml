@@ -139,12 +139,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/dataModels/IntruderDeterrentProgramming.kt" timestamp="1596136806937">
-        <mark key="[" line="15" column="11" />
-        <mark key="]" line="13" column="87" />
-        <mark key="." line="13" column="86" />
-        <mark key="^" line="13" column="87" />
-      </file>
       <file name="/Dummy.txt" timestamp="1596142742848">
         <mark key="'" line="0" column="184" />
         <mark key="[" line="0" column="0" />
@@ -162,17 +156,18 @@
       <file name="/fragment.kt" timestamp="1596140161291">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/datasource/RingServiceDBDataSource.kt" timestamp="1596208463942">
+        <mark key="[" line="23" column="79" />
+        <mark key="]" line="17" column="35" />
+        <mark key="^" line="17" column="35" />
+        <mark key="." line="17" column="34" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao/3.1.1/a0164324ff506561f05ebfc03d05853be99a6781/greendao-3.1.1-sources.jar!/org/greenrobot/greendao/AbstractDao.java" timestamp="1596208559672" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/datamodel/RingDevice.kt" timestamp="1596138098875">
         <mark key="[" line="26" column="3" />
         <mark key="]" line="26" column="1" />
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="1" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/WorksWithRingFragment.kt" timestamp="1596136725956">
-        <mark key="'" line="143" column="0" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="110" column="0" />
-        <mark key="." line="110" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/ring/RingDeviceSummaryViewModelTest.kt" timestamp="1596142724960">
         <mark key="'" line="135" column="0" />
@@ -219,6 +214,9 @@
         <mark key="^" line="112" column="90" />
         <mark key="." line="112" column="89" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/DaoSession.java" timestamp="1596208435847">
+        <mark key="'" line="1131" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/SystemAction.java" timestamp="1596140585681">
         <mark key="[" line="41" column="4" />
         <mark key="]" line="41" column="12" />
@@ -235,7 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="18" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/WorksWithRingFragment.kt" />
       <jump line="38" column="24" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/RingSignInFragment.kt" />
       <jump line="12" column="58" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/datamodel/RingDevice.kt" />
       <jump line="63" column="30" filename="$USER_HOME$/Documents/Personal/DJApp/app/src/main/java/com/mfriend/djapp/selectplaylist/PlaylistViewModel.kt" />
@@ -335,6 +332,7 @@
       <jump line="124" column="118" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/RingDeviceSummaryFragment.kt" />
       <jump line="187" column="59" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" />
       <jump line="139" column="35" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" />
+      <jump line="1131" column="26" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/DaoSession.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
