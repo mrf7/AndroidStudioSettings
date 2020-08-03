@@ -139,9 +139,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/strategy/deviceselectionstrategy/DeviceSelectionStrategyFactoryTest.kt" timestamp="1596227834510">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="53" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/VoiceAliasSummaryFragment.kt" timestamp="1596478495823">
+        <mark key="[" line="139" column="61" />
+        <mark key="]" line="139" column="79" />
+        <mark key="^" line="139" column="79" />
+        <mark key="." line="139" column="78" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.9.0/409e80ce46c84ef7e74b6934032a73b8421eebe5/retrofit-2.9.0-sources.jar!/retrofit2/Retrofit.java" timestamp="1596466808020" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/RingSignInPresenter.kt" timestamp="1596470233092">
@@ -163,7 +165,12 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/voice/VoiceAliasSummaryViewModel.kt" timestamp="1596477729139" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/voice/VoiceAliasSummaryViewModel.kt" timestamp="1596478447078">
+        <mark key="[" line="44" column="53" />
+        <mark key="]" line="45" column="33" />
+        <mark key="^" line="45" column="33" />
+        <mark key="." line="45" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ring/RingDeviceSummaryViewModel.kt" timestamp="1596463524167">
         <mark key="a" line="88" column="39" />
         <mark key="'" line="140" column="20" />
@@ -186,6 +193,9 @@
         <mark key="]" line="148" column="58" />
         <mark key="." line="148" column="57" />
         <mark key="^" line="148" column="58" />
+      </file>
+      <file name="/fragment.kt" timestamp="1596478347461">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/4.7.2/c5c4b2e00cd8458c8430925231fa0444c4780579/okhttp-4.7.2-sources.jar!/okhttp3/Request.kt" timestamp="1596466877134" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ring/WorksWithRingViewModel.kt" timestamp="1596468477811" />
@@ -305,8 +315,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBfc2hvd0RldmljZVN1bW1hcnlFdmVudAo=</text>
+      <register name="&quot;" type="4">
+        <text>this</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -324,7 +334,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>args.ringDevice.deviceType</text>
+        <text>this</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -339,43 +349,43 @@
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBfc2hvd0RldmljZVN1bW1hcnlFdmVudAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRDb25maWdGaWVsZCAiU3RyaW5nIiwgIlJJTkdfQVVUSE9SSVpBVElPTl9SRURJUkVDVF9VUkwiLCAiXCJodHRwczovL2RldmljZS1sb2dpbi5kZXYuaW90Lmx1dHJvbi5pby9pbnRlZ3JhdGlvbi9hdXRob3JpemF0aW9uL2VzdGFibGlzaFwiIgo=</text>
+        <text encoding="base64">ICAgICAgICBMdXRMb2cuZChMT0dHRVJfVEFHLCAibnVsbCgpICIpCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRDb25maWdGaWVsZCAiU3RyaW5nIiwgIlJJTkdfQkFTRV9VUkwiLCAiXCJodHRwczovL3JpbmcuaW50ZWdyYXRpb25zLmlvdC5sdXRyb24uaW8vYXBpL3YxXCIiCg==</text>
+        <text encoding="base64">ICAgICAgICBPYmplY3QgcmVzdWx0TG9nID0gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRDb25maWdGaWVsZCAiU3RyaW5nIiwgIlJJTkdfQkFTRV9VUkwiLCAiXCJodHRwczovL3JpbmcuaW50ZWdyYXRpb25zLmlvdC5sdXRyb24uaW8vYXBpL3YxXCIiCg==</text>
+        <text encoding="base64">ICAgICAgICBMdXRMb2cuZCgiTVJGIiwgIiIrcmVzdWx0KQo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIHRydWUgaWYgYW55IG9mIHRoZSBbdHJpZ2dlcnNdIG9uIHRoaXMgZGV2aWNlIGhhcyBwcm9ncmFtbWluZwo=</text>
+        <text encoding="base64">ICAgICAgICBfc2hvd0RldmljZVN1bW1hcnlFdmVudAo=</text>
       </register>
       <register name="6" type="2">
-        <text>Fixed serializing crash</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRDb25maWdGaWVsZCAiU3RyaW5nIiwgIlJJTkdfQVVUSE9SSVpBVElPTl9SRURJUkVDVF9VUkwiLCAiXCJodHRwczovL2RldmljZS1sb2dpbi5kZXYuaW90Lmx1dHJvbi5pby9pbnRlZ3JhdGlvbi9hdXRob3JpemF0aW9uL2VzdGFibGlzaFwiIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRDb25maWdGaWVsZCAiU3RyaW5nIiwgIlJJTkdfQkFTRV9VUkwiLCAiXCJodHRwczovL3JpbmcuaW50ZWdyYXRpb25zLmlvdC5sdXRyb24uaW8vYXBpL3YxXCIiCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCIkZGV0ZWN0aW9uR3JvdXAgZm9sbG93cyAke2RldGVjdGlvbkdyb3VwPy5mb2xsb3dzfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRDb25maWdGaWVsZCAiU3RyaW5nIiwgIlJJTkdfQkFTRV9VUkwiLCAiXCJodHRwczovL3JpbmcuaW50ZWdyYXRpb25zLmlvdC5sdXRyb24uaW8vYXBpL3YxXCIiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuCg==</text>
+        <text encoding="base64">ICAgICAqIHRydWUgaWYgYW55IG9mIHRoZSBbdHJpZ2dlcnNdIG9uIHRoaXMgZGV2aWNlIGhhcyBwcm9ncmFtbWluZwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2dldFN5c3RlbUFjdGlvbi9nZXRSZXNvdXJjZUdyb3VwL2c=</text>
