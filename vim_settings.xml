@@ -149,7 +149,6 @@
         <mark key="^" line="16" column="35" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao/3.1.1/a0164324ff506561f05ebfc03d05853be99a6781/greendao-3.1.1-sources.jar!/org/greenrobot/greendao/AbstractDao.java" timestamp="1596208559672" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/ServiceRepo.kt" timestamp="1596226761399">
         <mark key="[" line="90" column="20" />
         <mark key="]" line="90" column="28" />
@@ -221,13 +220,6 @@
         <mark key="]" line="169" column="119" />
         <mark key="." line="169" column="118" />
         <mark key="^" line="169" column="119" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/ServiceRepoTest.kt" timestamp="1596228145322">
-        <mark key="'" line="31" column="24" />
-        <mark key="[" line="46" column="19" />
-        <mark key="]" line="44" column="27" />
-        <mark key="." line="44" column="26" />
-        <mark key="^" line="44" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/build.gradle" timestamp="1596219238695">
         <mark key="[" line="35" column="0" />
