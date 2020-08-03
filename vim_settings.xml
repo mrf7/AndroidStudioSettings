@@ -144,12 +144,17 @@
         <mark key="]" line="50" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/navigation/ring_nav_graph.xml" timestamp="1596463977691">
-        <mark key="[" line="59" column="52" />
-        <mark key="]" line="60" column="43" />
-        <mark key="^" line="60" column="43" />
-        <mark key="." line="60" column="42" />
+        <mark key="]" line="55" column="43" />
+        <mark key="^" line="55" column="43" />
+        <mark key="." line="55" column="42" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.9.0/409e80ce46c84ef7e74b6934032a73b8421eebe5/retrofit-2.9.0-sources.jar!/retrofit2/Retrofit.java" timestamp="1596466808020" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/RingSignInPresenter.kt" timestamp="1596470233092">
+        <mark key="[" line="54" column="16" />
+        <mark key="]" line="54" column="44" />
+        <mark key="^" line="54" column="44" />
+        <mark key="." line="54" column="43" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/ServiceRepo.kt" timestamp="1596463126117">
         <mark key="[" line="91" column="16" />
         <mark key="]" line="91" column="16" />
@@ -184,7 +189,7 @@
         <mark key="^" line="153" column="15" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.14.9/5ad877a6749b53b7b177e7b328ebf59ce06b75af/okhttp-3.14.9-sources.jar!/okhttp3/RealCall.java" timestamp="1596464692516" />
-      <file name="/Dummy.txt" timestamp="1596464454077">
+      <file name="/Dummy.txt" timestamp="1596470583298">
         <mark key="'" line="0" column="184" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -211,13 +216,6 @@
         <mark key="]" line="71" column="54" />
         <mark key="." line="71" column="53" />
         <mark key="^" line="71" column="54" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/ring/RingDeviceSummaryViewModelTest.kt" timestamp="1596223237220">
-        <mark key="'" line="136" column="0" />
-        <mark key="[" line="169" column="117" />
-        <mark key="]" line="169" column="119" />
-        <mark key="." line="169" column="118" />
-        <mark key="^" line="169" column="119" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/4.7.2/c5c4b2e00cd8458c8430925231fa0444c4780579/okhttp-4.7.2-sources.jar!/okhttp3/Call.kt" timestamp="1596466818876" />
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/build.gradle" timestamp="1596467276727">
