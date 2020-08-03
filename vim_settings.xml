@@ -163,12 +163,6 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="26" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/ring/WorksWithRingViewModelTest.kt" timestamp="1596223007186">
-        <mark key="[" line="117" column="94" />
-        <mark key="]" line="117" column="94" />
-        <mark key="." line="117" column="94" />
-        <mark key="^" line="111" column="92" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/SystemAction.java" timestamp="1596226504785">
         <mark key="[" line="41" column="4" />
         <mark key="]" line="41" column="12" />
@@ -212,6 +206,12 @@
         <mark key="^" line="343" column="58" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/4.7.2/c5c4b2e00cd8458c8430925231fa0444c4780579/okhttp-4.7.2-sources.jar!/okhttp3/Request.kt" timestamp="1596466877134" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ring/WorksWithRingViewModel.kt" timestamp="1596468477811">
+        <mark key="[" line="70" column="66" />
+        <mark key="]" line="71" column="54" />
+        <mark key="." line="71" column="53" />
+        <mark key="^" line="71" column="54" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/ring/RingDeviceSummaryViewModelTest.kt" timestamp="1596223237220">
         <mark key="'" line="136" column="0" />
         <mark key="[" line="169" column="117" />
@@ -338,7 +338,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRDb25maWdGaWVsZCAiU3RyaW5nIiwgIlJJTkdfQVVUSE9SSVpBVElPTl9SRURJUkVDVF9VUkwiLCAiXCJodHRwczovL2RldmljZS1sb2dpbi5kZXYuaW90Lmx1dHJvbi5pby9pbnRlZ3JhdGlvbi9hdXRob3JpemF0aW9uL2VzdGFibGlzaFwiIgo=</text>
+        <text encoding="base64">ICAgICAgICBfc2hvd0RldmljZVN1bW1hcnlFdmVudAo=</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -371,13 +371,13 @@
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRDb25maWdGaWVsZCAiU3RyaW5nIiwgIlJJTkdfQVVUSE9SSVpBVElPTl9SRURJUkVDVF9VUkwiLCAiXCJodHRwczovL2RldmljZS1sb2dpbi5kZXYuaW90Lmx1dHJvbi5pby9pbnRlZ3JhdGlvbi9hdXRob3JpemF0aW9uL2VzdGFibGlzaFwiIgo=</text>
+        <text encoding="base64">ICAgICAgICBfc2hvd0RldmljZVN1bW1hcnlFdmVudAo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRDb25maWdGaWVsZCAiU3RyaW5nIiwgIlJJTkdfQkFTRV9VUkwiLCAiXCJodHRwczovL3JpbmcuaW50ZWdyYXRpb25zLmlvdC5sdXRyb24uaW8vYXBpL3YxXCIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRDb25maWdGaWVsZCAiU3RyaW5nIiwgIlJJTkdfQVVUSE9SSVpBVElPTl9SRURJUkVDVF9VUkwiLCAiXCJodHRwczovL2RldmljZS1sb2dpbi5kZXYuaW90Lmx1dHJvbi5pby9pbnRlZ3JhdGlvbi9hdXRob3JpemF0aW9uL2VzdGFibGlzaFwiIgo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
@@ -386,28 +386,28 @@
         <text encoding="base64">ICAgICAgICAgICAgYnVpbGRDb25maWdGaWVsZCAiU3RyaW5nIiwgIlJJTkdfQkFTRV9VUkwiLCAiXCJodHRwczovL3JpbmcuaW50ZWdyYXRpb25zLmlvdC5sdXRyb24uaW8vYXBpL3YxXCIiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIHRydWUgaWYgYW55IG9mIHRoZSBbdHJpZ2dlcnNdIG9uIHRoaXMgZGV2aWNlIGhhcyBwcm9ncmFtbWluZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRDb25maWdGaWVsZCAiU3RyaW5nIiwgIlJJTkdfQkFTRV9VUkwiLCAiXCJodHRwczovL3JpbmcuaW50ZWdyYXRpb25zLmlvdC5sdXRyb24uaW8vYXBpL3YxXCIiCg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text>Fixed serializing crash</text>
+        <text encoding="base64">ICAgICAqIHRydWUgaWYgYW55IG9mIHRoZSBbdHJpZ2dlcnNdIG9uIHRoaXMgZGV2aWNlIGhhcyBwcm9ncmFtbWluZwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>Fixed serializing crash</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCIkZGV0ZWN0aW9uR3JvdXAgZm9sbG93cyAke2RldGVjdGlvbkdyb3VwPy5mb2xsb3dzfSIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKCIkZGV0ZWN0aW9uR3JvdXAgZm9sbG93cyAke2RldGVjdGlvbkdyb3VwPy5mb2xsb3dzfSIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImhyZWYiCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2dldFN5c3RlbUFjdGlvbi9nZXRSZXNvdXJjZUdyb3VwL2c=</text>
