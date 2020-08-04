@@ -192,6 +192,12 @@
         <mark key="]" line="2" column="3" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/RingCloudCommunicator.kt" timestamp="1596556729054">
+        <mark key="[" line="25" column="83" />
+        <mark key="]" line="26" column="39" />
+        <mark key="^" line="26" column="39" />
+        <mark key="." line="26" column="38" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/FileImportExportPresenter.java" timestamp="1596551809830" />
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/build.gradle" timestamp="1596553104609">
         <mark key="[" line="35" column="0" />
