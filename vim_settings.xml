@@ -156,22 +156,25 @@
         <mark key="^" line="46" column="63" />
         <mark key="." line="46" column="62" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel/2.2.0/4f90404dd52d3162217bf329db5afb32d373ec63/lifecycle-viewmodel-2.2.0-sources.jar!/androidx/lifecycle/ViewModel.java" timestamp="1596574426676" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/closecontrol/CloseControlActivity.kt" timestamp="1596570125675">
         <mark key="[" line="15" column="42" />
         <mark key="]" line="16" column="54" />
         <mark key="^" line="16" column="54" />
         <mark key="." line="16" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/ui/main/MainViewModel.kt" timestamp="1596570562104">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/ui/main/MainViewModel.kt" timestamp="1596574573010">
+        <mark key="[" line="22" column="35" />
+        <mark key="]" line="22" column="43" />
+        <mark key="." line="22" column="42" />
+        <mark key="^" line="22" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/ui/main/MainFragment.kt" timestamp="1596570664860">
-        <mark key="[" line="29" column="51" />
-        <mark key="]" line="31" column="29" />
-        <mark key="." line="31" column="28" />
-        <mark key="^" line="31" column="29" />
+      <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/ui/main/MainFragment.kt" timestamp="1596574349066">
+        <mark key="'" line="21" column="28" />
+        <mark key="[" line="22" column="30" />
+        <mark key="]" line="22" column="43" />
+        <mark key="." line="22" column="42" />
+        <mark key="^" line="22" column="43" />
       </file>
       <file name="/Dummy.txt" timestamp="1596569819463">
         <mark key="'" line="0" column="184" />
@@ -187,9 +190,6 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/build.gradle" timestamp="1596570462568">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="74" column="26" />
-      </file>
-      <file name="/fragment.kt" timestamp="1596553009880">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ring/WorksWithRingViewModel.kt" timestamp="1596565823626">
         <mark key="'" line="5" column="87" />
@@ -235,8 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="53" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" />
-      <jump line="117" column="31" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" />
       <jump line="40" column="22" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/ServiceRepo.kt" />
       <jump line="28" column="11" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/ServiceRepo.kt" />
       <jump line="163" column="8" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/RingRepoTest.kt" />
@@ -335,6 +333,8 @@
       <jump line="37" column="7" filename="$USER_HOME$/Documents/Screwing/CloseControl/app/build.gradle" />
       <jump line="42" column="0" filename="$USER_HOME$/Documents/Screwing/CloseControl/app/build.gradle" />
       <jump line="20" column="23" filename="$USER_HOME$/Documents/Screwing/CloseControl/app/build.gradle" />
+      <jump line="21" column="28" filename="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/ui/main/MainFragment.kt" />
+      <jump line="15" column="21" filename="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/ui/main/MainViewModel.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -342,8 +342,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>+'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGluaXQgewogICAgfQo=</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -361,7 +361,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>+'</text>
+        <text>()</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -376,43 +376,43 @@
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdvcmcuYWx0YmVhY29uOmFuZHJvaWQtYmVhY29uLWxpYnJhcnk6MisnCg==</text>
+        <text encoding="base64">ICAgIGluaXQgewogICAgfQo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2aWV3TW9kZWxTY29wZS5sYXVuY2ggeyAKICAgICAgICAgICAgY2FsbGJhY2tGbG93IHsgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3TW9kZWwuZGF0YS4odmlld0xpZmVjeWNsZU93bmVyKSB7CiAgICAgICAgICAgIG1lc3NhZ2UudGV4dCA9IGl0CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBiZWFjb25NYW5hZ2VyLmJpbmQodGhpcykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBVc2UgdGhlIFZpZXdNb2RlbAo=</text>
+        <text encoding="base64">ICAgIGluaXQgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogIAogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRUYWcoKSAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEltcGxlbWVudCB0aGUgVmlld01vZGVsCg==</text>
+        <text encoding="base64">ICAgIGZ1biBzdGFydCgpIHsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGt0eENvcmVWZXJzaW9uID0gIjEuMS4wIgogICAga3R4RnJhZ21lbnRWZXJzaW9uID0gIjEuMS4wIgogICAga3R4Vmlld01vZGVsVmVyc2lvbiA9ICIyLjEuMCIKICAgIGt0eENvbGxlY3Rpb25WZXJzaW9uID0gIjEuMS4wIgogICAga3R4TGlmZWN5Y2xlVmVyc2lvbiA9ICIyLjIuMCIKICAgIGt0eFJ4VmVyc2lvbiA9ICIyLjEuMCIK</text>
+        <text encoding="base64">ICAgICAgICB2aWV3TW9kZWxTY29wZQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJhbmRyb2lkeC5saWZlY3ljbGU6bGlmZWN5Y2xlLXJlYWN0aXZlc3RyZWFtcy1rdHg6JHtyb290UHJvamVjdC5leHQua3R4TGlmZWN5Y2xlVmVyc2lvbiB9Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJhbmRyb2lkeC5jb2xsZWN0aW9uOmNvbGxlY3Rpb24ta3R4OiR7cm9vdFByb2plY3QuZXh0Lmt0eENvbGxlY3Rpb25WZXJzaW9ufSIK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2dldFN5c3RlbUFjdGlvbi9nZXRSZXNvdXJjZUdyb3VwL2c=</text>
