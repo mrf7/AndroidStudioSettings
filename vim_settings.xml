@@ -163,9 +163,9 @@
         <mark key="." line="16" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/ui/main/MainFragment.kt" timestamp="1596570164559">
-        <mark key="[" line="16" column="40" />
-        <mark key="]" line="16" column="12" />
-        <mark key="." line="16" column="12" />
+        <mark key="[" line="17" column="40" />
+        <mark key="]" line="17" column="12" />
+        <mark key="." line="17" column="12" />
       </file>
       <file name="/Dummy.txt" timestamp="1596569819463">
         <mark key="'" line="0" column="184" />
@@ -178,7 +178,7 @@
         <mark key="[" line="122" column="0" />
         <mark key="]" line="122" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/build.gradle" timestamp="1596570229310">
+      <file name="$USER_HOME$/Documents/caseta-android-app/build.gradle" timestamp="1596570462568">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="74" column="26" />
       </file>
@@ -192,9 +192,9 @@
         <mark key="^" line="5" column="88" />
         <mark key="." line="5" column="87" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1596570192367">
-        <mark key="[" line="280" column="0" />
-        <mark key="]" line="286" column="101" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1596570470719">
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="179" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/build.gradle" timestamp="1596553104609">
         <mark key="[" line="35" column="0" />
@@ -213,11 +213,12 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1596565954436">
         <mark key="'" line="55" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/build.gradle" timestamp="1596570333558">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="37" column="67" />
+      <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/build.gradle" timestamp="1596570485872">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="24" column="4" />
+        <mark key="." line="24" column="3" />
+        <mark key="^" line="24" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/closecontrol/CloseControlActivitiy.kt" timestamp="1596569758724">
         <mark key="'" line="12" column="44" />
@@ -231,8 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="13" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" />
-      <jump line="182" column="31" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/RingRepoTest.kt" />
       <jump line="166" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" />
       <jump line="108" column="53" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" />
       <jump line="117" column="31" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" />
@@ -331,6 +330,8 @@
       <jump line="65" column="35" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/BleDeviceSelectorFragment.java" />
       <jump line="200" column="19" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/BleDeviceSelectorFragment.java" />
       <jump line="12" column="44" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/closecontrol/CloseControlActivitiy.kt" />
+      <jump line="37" column="7" filename="$USER_HOME$/Documents/Screwing/CloseControl/app/build.gradle" />
+      <jump line="42" column="0" filename="$USER_HOME$/Documents/Screwing/CloseControl/app/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -339,7 +340,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGt0eENvcmVWZXJzaW9uID0gIjEuMS4wIgogICAga3R4RnJhZ21lbnRWZXJzaW9uID0gIjEuMS4wIgogICAga3R4Vmlld01vZGVsVmVyc2lvbiA9ICIyLjEuMCIKICAgIGt0eENvbGxlY3Rpb25WZXJzaW9uID0gIjEuMS4wIgogICAga3R4TGlmZWN5Y2xlVmVyc2lvbiA9ICIyLjIuMCIKICAgIGt0eFJ4VmVyc2lvbiA9ICIyLjEuMCIK</text>
+        <text encoding="base64">ICAgIGtvdGxpbk9wdGlvbnMgewogICAgICAgIGp2bVRhcmdldCA9ICBKYXZhVmVyc2lvbi5WRVJTSU9OXzFfOAogICAgfQo=</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -366,7 +367,7 @@
         <text>getSystemAction</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGt0eENvcmVWZXJzaW9uID0gIjEuMS4wIgogICAga3R4RnJhZ21lbnRWZXJzaW9uID0gIjEuMS4wIgogICAga3R4Vmlld01vZGVsVmVyc2lvbiA9ICIyLjEuMCIKICAgIGt0eENvbGxlY3Rpb25WZXJzaW9uID0gIjEuMS4wIgogICAga3R4TGlmZWN5Y2xlVmVyc2lvbiA9ICIyLjIuMCIKICAgIGt0eFJ4VmVyc2lvbiA9ICIyLjEuMCIK</text>
+        <text encoding="base64">ICAgIGtvdGxpbk9wdGlvbnMgewogICAgICAgIGp2bVRhcmdldCA9ICBKYXZhVmVyc2lvbi5WRVJTSU9OXzFfOAogICAgfQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
