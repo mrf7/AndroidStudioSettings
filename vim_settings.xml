@@ -145,6 +145,28 @@
         <mark key="^" line="138" column="79" />
         <mark key="." line="138" column="78" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/RingCloudCommunicator.kt" timestamp="1596556753236">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/voice/VoiceAliasSummaryViewModel.kt" timestamp="1596566918133">
+        <mark key="[" line="46" column="3" />
+        <mark key="]" line="46" column="63" />
+        <mark key="^" line="46" column="63" />
+        <mark key="." line="46" column="62" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/closecontrol/CloseControlActivity.kt" timestamp="1596570125675">
+        <mark key="[" line="15" column="42" />
+        <mark key="]" line="16" column="54" />
+        <mark key="^" line="16" column="54" />
+        <mark key="." line="16" column="53" />
+      </file>
+      <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/ui/main/MainFragment.kt" timestamp="1596570164559">
+        <mark key="[" line="16" column="40" />
+        <mark key="]" line="16" column="12" />
+        <mark key="." line="16" column="12" />
+      </file>
       <file name="/Dummy.txt" timestamp="1596569819463">
         <mark key="'" line="0" column="184" />
         <mark key="[" line="0" column="0" />
@@ -152,16 +174,13 @@
         <mark key="^" line="0" column="52" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/RingDeviceSummaryFragment.kt" timestamp="1596550069291">
-        <mark key="'" line="79" column="0" />
-        <mark key="[" line="68" column="41" />
-        <mark key="]" line="69" column="39" />
-        <mark key="^" line="69" column="39" />
-        <mark key="." line="69" column="38" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BaseBleSelectorScreenViewModel.kt" timestamp="1596566171065">
         <mark key="[" line="122" column="0" />
         <mark key="]" line="122" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/build.gradle" timestamp="1596570229310">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="74" column="26" />
       </file>
       <file name="/fragment.kt" timestamp="1596553009880">
         <mark key="[" line="0" column="0" />
@@ -173,10 +192,9 @@
         <mark key="^" line="5" column="88" />
         <mark key="." line="5" column="87" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/RingCloudCommunicator.kt" timestamp="1596556753236">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1596570192367">
+        <mark key="[" line="280" column="0" />
+        <mark key="]" line="286" column="101" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/build.gradle" timestamp="1596553104609">
         <mark key="[" line="35" column="0" />
@@ -195,17 +213,11 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1596565954436">
         <mark key="'" line="55" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/voice/VoiceAliasSummaryViewModel.kt" timestamp="1596566918133">
-        <mark key="[" line="46" column="3" />
-        <mark key="]" line="46" column="63" />
-        <mark key="^" line="46" column="63" />
-        <mark key="." line="46" column="62" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/closecontrol/CloseControlActivity.kt" timestamp="1596569918468">
-        <mark key="[" line="15" column="42" />
-        <mark key="]" line="16" column="54" />
-        <mark key="^" line="16" column="54" />
-        <mark key="." line="16" column="53" />
+      <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/build.gradle" timestamp="1596570333558">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="37" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/closecontrol/CloseControlActivitiy.kt" timestamp="1596569758724">
         <mark key="'" line="12" column="44" />
@@ -327,7 +339,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAgIGt0eENvcmVWZXJzaW9uID0gIjEuMS4wIgogICAga3R4RnJhZ21lbnRWZXJzaW9uID0gIjEuMS4wIgogICAga3R4Vmlld01vZGVsVmVyc2lvbiA9ICIyLjEuMCIKICAgIGt0eENvbGxlY3Rpb25WZXJzaW9uID0gIjEuMS4wIgogICAga3R4TGlmZWN5Y2xlVmVyc2lvbiA9ICIyLjIuMCIKICAgIGt0eFJ4VmVyc2lvbiA9ICIyLjEuMCIK</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -345,7 +357,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>${rootProject.ext.ktxLifecycleVersion}</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -354,49 +366,73 @@
         <text>getSystemAction</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBTaW11bGF0ZSBsb2FkaW5nIG9uIGxpZmVjeWNsZSBldmVudCBieSBjYWxsaW5nIGZldGNoIGFsaWFzZXMKICAgICAgICB2aWV3TW9kZWwuZmV0Y2hBbGlhc2VzKCkK</text>
+        <text encoding="base64">ICAgIGt0eENvcmVWZXJzaW9uID0gIjEuMS4wIgogICAga3R4RnJhZ21lbnRWZXJzaW9uID0gIjEuMS4wIgogICAga3R4Vmlld01vZGVsVmVyc2lvbiA9ICIyLjEuMCIKICAgIGt0eENvbGxlY3Rpb25WZXJzaW9uID0gIjEuMS4wIgogICAga3R4TGlmZWN5Y2xlVmVyc2lvbiA9ICIyLjIuMCIKICAgIGt0eFJ4VmVyc2lvbiA9ICIyLjEuMCIK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAgIGt0eENvcmVWZXJzaW9uID0gIjEuMS4wIgogICAga3R4RnJhZ21lbnRWZXJzaW9uID0gIjEuMS4wIgogICAga3R4Vmlld01vZGVsVmVyc2lvbiA9ICIyLjEuMCIKICAgIGt0eENvbGxlY3Rpb25WZXJzaW9uID0gIjEuMS4wIgogICAga3R4TGlmZWN5Y2xlVmVyc2lvbiA9ICIyLjIuMCIKICAgIGt0eFJ4VmVyc2lvbiA9ICIyLjEuMCIK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogVE9ETyBtZnJpZW5kIFdSSVRFIENMQVNTIEhFQURFUgo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJhbmRyb2lkeC5saWZlY3ljbGU6bGlmZWN5Y2xlLXJlYWN0aXZlc3RyZWFtcy1rdHg6JHtyb290UHJvamVjdC5leHQua3R4TGlmZWN5Y2xlVmVyc2lvbiB9Igo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBPYnNlcnZlIHRoZSB2aWV3IG1vZGVsIHRvIHRyaWdnZXIgdGhlIGxvYWQK</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJhbmRyb2lkeC5jb2xsZWN0aW9uOmNvbGxlY3Rpb24ta3R4OiR7cm9vdFByb2plY3QuZXh0Lmt0eENvbGxlY3Rpb25WZXJzaW9ufSIK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBPYnNlcnZlIHRoZSB2aWV3IG1vZGVsIHRvIHRyaWdnZXIgdGhlIGxvYWQK</text>
+      <register name="4" type="4">
+        <text>{
+    implementation fileTree(dir: &quot;libs&quot;, include: [&quot;*.jar&quot;])
+    implementation &quot;org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version&quot;
+    implementation 'androidx.core:core-ktx:1.3.1'
+    implementation 'androidx.appcompat:appcompat:1.1.0'
+    implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+    implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0'
+    implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0'
+    ktxCoreVersion = &quot;1.1.0&quot;
+    ktxFragmentVersion = &quot;1.1.0&quot;
+    ktxViewModelVersion = &quot;2.1.0&quot;
+    ktxCollectionVersion = &quot;1.1.0&quot;
+    ktxLifecycleVersion = &quot;2.2.0&quot;
+    ktxRxVersion = &quot;2.1.0&quot;
+    implementation &quot;androidx.core:core-ktx:1.1.0&quot;
+    implementation &quot;androidx.collection:collection-ktx:${rootProject.ext.ktxCollectionVersion}&quot;
+    implementation &quot;androidx.lifecycle:lifecycle-reactivestreams-ktx:${rootProject.ext.ktxLifecycleVersion }&quot;
+    implementation &quot;androidx.fragment:fragment-ktx:${rootProject.ext.ktxFragmentVersion}&quot;
+    implementation &quot;androidx.lifecycle:lifecycle-livedata-core-ktx:${rootProject.ext.ktxLifecycleVersion}&quot;
+    implementation &quot;androidx.lifecycle:lifecycle-livedata-ktx:${rootProject.ext.ktxLifecycleVersion}&quot;
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.1'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
+
+}</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBXaGVuIHRoZSBkYXRhIGlzIG5lZWRlZCwgc3RhcnQgdG8gZmV0Y2ggaXQK</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJhbmRyb2lkeC5saWZlY3ljbGU6bGlmZWN5Y2xlLXZpZXdtb2RlbC1rdHg6JHtyb290UHJvamVjdC5leHQua3R4TGlmZWN5Y2xlVmVyc2lvbiB9Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmZXRjaEFsaWFzZXMoKQo=</text>
+        <text encoding="base64">ICAgICAgICB2aWV3TW9kZWwgPSBWaWV3TW9kZWxQcm92aWRlcnMub2YodGhpcykuZ2V0KE1haW5WaWV3TW9kZWw6OmNsYXNzLmphdmEpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmZXRjaEFsaWFzZXMoKQo=</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPbkxpZmVjeWNsZUV2ZW50KExpZmVjeWNsZS5FdmVudCkK</text>
+        <text encoding="base64">ICogVE9ETyBtZnJpZW5kIFdSSVRFIENMQVNTIEhFQURFUgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN1c3BlbmQgZnVuIGRlbGV0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBPYnNlcnZlIHRoZSB2aWV3IG1vZGVsIHRvIHRyaWdnZXIgdGhlIGxvYWQK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2dldFN5c3RlbUFjdGlvbi9nZXRSZXNvdXJjZUdyb3VwL2c=</text>
