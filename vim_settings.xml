@@ -219,12 +219,12 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1596565954436">
         <mark key="'" line="55" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/build.gradle" timestamp="1596570485872">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="23" column="5" />
-        <mark key="]" line="24" column="4" />
-        <mark key="." line="24" column="3" />
-        <mark key="^" line="24" column="4" />
+      <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/build.gradle" timestamp="1596573662847">
+        <mark key="'" line="20" column="23" />
+        <mark key="[" line="42" column="58" />
+        <mark key="]" line="42" column="58" />
+        <mark key="." line="42" column="58" />
+        <mark key="^" line="42" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/closecontrol/CloseControlActivitiy.kt" timestamp="1596569758724">
         <mark key="'" line="12" column="44" />
@@ -235,7 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="166" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" />
       <jump line="108" column="53" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" />
       <jump line="117" column="31" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" />
       <jump line="40" column="22" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/ServiceRepo.kt" />
@@ -335,6 +334,7 @@
       <jump line="12" column="44" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/closecontrol/CloseControlActivitiy.kt" />
       <jump line="37" column="7" filename="$USER_HOME$/Documents/Screwing/CloseControl/app/build.gradle" />
       <jump line="42" column="0" filename="$USER_HOME$/Documents/Screwing/CloseControl/app/build.gradle" />
+      <jump line="20" column="23" filename="$USER_HOME$/Documents/Screwing/CloseControl/app/build.gradle" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -342,8 +342,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3TW9kZWwuZGF0YS4odmlld0xpZmVjeWNsZU93bmVyKSB7CiAgICAgICAgICAgIG1lc3NhZ2UudGV4dCA9IGl0CiAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>+'</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -361,7 +361,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>observe</text>
+        <text>+'</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -376,67 +376,43 @@
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3TW9kZWwuZGF0YS4odmlld0xpZmVjeWNsZU93bmVyKSB7CiAgICAgICAgICAgIG1lc3NhZ2UudGV4dCA9IGl0CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICdvcmcuYWx0YmVhY29uOmFuZHJvaWQtYmVhY29uLWxpYnJhcnk6MisnCg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBVc2UgdGhlIFZpZXdNb2RlbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogIAogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICB2aWV3TW9kZWwuZGF0YS4odmlld0xpZmVjeWNsZU93bmVyKSB7CiAgICAgICAgICAgIG1lc3NhZ2UudGV4dCA9IGl0CiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IEltcGxlbWVudCB0aGUgVmlld01vZGVsCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBVc2UgdGhlIFZpZXdNb2RlbAo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGt0eENvcmVWZXJzaW9uID0gIjEuMS4wIgogICAga3R4RnJhZ21lbnRWZXJzaW9uID0gIjEuMS4wIgogICAga3R4Vmlld01vZGVsVmVyc2lvbiA9ICIyLjEuMCIKICAgIGt0eENvbGxlY3Rpb25WZXJzaW9uID0gIjEuMS4wIgogICAga3R4TGlmZWN5Y2xlVmVyc2lvbiA9ICIyLjIuMCIKICAgIGt0eFJ4VmVyc2lvbiA9ICIyLjEuMCIK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogIAogICAgICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJhbmRyb2lkeC5saWZlY3ljbGU6bGlmZWN5Y2xlLXJlYWN0aXZlc3RyZWFtcy1rdHg6JHtyb290UHJvamVjdC5leHQua3R4TGlmZWN5Y2xlVmVyc2lvbiB9Igo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IEltcGxlbWVudCB0aGUgVmlld01vZGVsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJhbmRyb2lkeC5jb2xsZWN0aW9uOmNvbGxlY3Rpb24ta3R4OiR7cm9vdFByb2plY3QuZXh0Lmt0eENvbGxlY3Rpb25WZXJzaW9ufSIK</text>
+        <text encoding="base64">ICAgIGt0eENvcmVWZXJzaW9uID0gIjEuMS4wIgogICAga3R4RnJhZ21lbnRWZXJzaW9uID0gIjEuMS4wIgogICAga3R4Vmlld01vZGVsVmVyc2lvbiA9ICIyLjEuMCIKICAgIGt0eENvbGxlY3Rpb25WZXJzaW9uID0gIjEuMS4wIgogICAga3R4TGlmZWN5Y2xlVmVyc2lvbiA9ICIyLjIuMCIKICAgIGt0eFJ4VmVyc2lvbiA9ICIyLjEuMCIK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>{
-    implementation fileTree(dir: &quot;libs&quot;, include: [&quot;*.jar&quot;])
-    implementation &quot;org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version&quot;
-    implementation 'androidx.core:core-ktx:1.3.1'
-    implementation 'androidx.appcompat:appcompat:1.1.0'
-    implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
-    implementation 'androidx.lifecycle:lifecycle-extensions:2.2.0'
-    implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0'
-    ktxCoreVersion = &quot;1.1.0&quot;
-    ktxFragmentVersion = &quot;1.1.0&quot;
-    ktxViewModelVersion = &quot;2.1.0&quot;
-    ktxCollectionVersion = &quot;1.1.0&quot;
-    ktxLifecycleVersion = &quot;2.2.0&quot;
-    ktxRxVersion = &quot;2.1.0&quot;
-    implementation &quot;androidx.core:core-ktx:1.1.0&quot;
-    implementation &quot;androidx.collection:collection-ktx:${rootProject.ext.ktxCollectionVersion}&quot;
-    implementation &quot;androidx.lifecycle:lifecycle-reactivestreams-ktx:${rootProject.ext.ktxLifecycleVersion }&quot;
-    implementation &quot;androidx.fragment:fragment-ktx:${rootProject.ext.ktxFragmentVersion}&quot;
-    implementation &quot;androidx.lifecycle:lifecycle-livedata-core-ktx:${rootProject.ext.ktxLifecycleVersion}&quot;
-    implementation &quot;androidx.lifecycle:lifecycle-livedata-ktx:${rootProject.ext.ktxLifecycleVersion}&quot;
-    testImplementation 'junit:junit:4.12'
-    androidTestImplementation 'androidx.test.ext:junit:1.1.1'
-    androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
-
-}</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJhbmRyb2lkeC5saWZlY3ljbGU6bGlmZWN5Y2xlLXJlYWN0aXZlc3RyZWFtcy1rdHg6JHtyb290UHJvamVjdC5leHQua3R4TGlmZWN5Y2xlVmVyc2lvbiB9Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJhbmRyb2lkeC5saWZlY3ljbGU6bGlmZWN5Y2xlLXZpZXdtb2RlbC1rdHg6JHtyb290UHJvamVjdC5leHQua3R4TGlmZWN5Y2xlVmVyc2lvbiB9Igo=</text>
+        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uICJhbmRyb2lkeC5jb2xsZWN0aW9uOmNvbGxlY3Rpb24ta3R4OiR7cm9vdFByb2plY3QuZXh0Lmt0eENvbGxlY3Rpb25WZXJzaW9ufSIK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2dldFN5c3RlbUFjdGlvbi9nZXRSZXNvdXJjZUdyb3VwL2c=</text>
