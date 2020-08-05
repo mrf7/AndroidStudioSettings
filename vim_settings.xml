@@ -139,6 +139,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bfdc40c3e2bd32613cf67f6619c3e020/jetified-android-beacon-library-2.17.1/jars/classes.jar!/org/altbeacon/beacon/BeaconManager.class" timestamp="1596659697044" />
       <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/MainActivity.kt" timestamp="1596659310469">
         <mark key="[" line="172" column="38" />
         <mark key="]" line="172" column="56" />
@@ -150,6 +151,7 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="16" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/model/BaseDO.java" timestamp="1596659517951" />
       <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/ui/main/MainViewModel.kt" timestamp="1596651637031">
         <mark key="'" line="33" column="23" />
         <mark key="[" line="60" column="47" />
@@ -177,14 +179,10 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/Device.java" timestamp="1596655205683">
         <mark key="'" line="1436" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/Aggregator.java" timestamp="1596638652366" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/dataModels/IntruderDeterrentTrigger.kt" timestamp="1596640804906" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bfdc40c3e2bd32613cf67f6619c3e020/jetified-android-beacon-library-2.17.1/jars/classes.jar!/org/altbeacon/beacon/Identifier.class" timestamp="1596658238724" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bfdc40c3e2bd32613cf67f6619c3e020/jetified-android-beacon-library-2.17.1/jars/classes.jar!/org/altbeacon/beacon/Beacon.class" timestamp="1596655781080">
         <mark key="'" line="304" column="30" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1596575503905">
-        <mark key="'" line="55" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/Sample/android-beacon-library-reference/app/src/main/java/org/altbeacon/beaconreference/RangingActivity.java" timestamp="1596657035003" />
       <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/build.gradle" timestamp="1596657155049">
