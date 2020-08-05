@@ -145,35 +145,6 @@
         <mark key="^" line="138" column="79" />
         <mark key="." line="138" column="78" />
       </file>
-      <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/MainActivity.kt" timestamp="1596575989320" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/voice/VoiceAliasSummaryViewModel.kt" timestamp="1596566918133">
-        <mark key="[" line="46" column="3" />
-        <mark key="]" line="46" column="63" />
-        <mark key="^" line="46" column="63" />
-        <mark key="." line="46" column="62" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel/2.2.0/4f90404dd52d3162217bf329db5afb32d373ec63/lifecycle-viewmodel-2.2.0-sources.jar!/androidx/lifecycle/ViewModel.java" timestamp="1596574426676" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/closecontrol/CloseControlActivity.kt" timestamp="1596570125675">
-        <mark key="[" line="15" column="42" />
-        <mark key="]" line="16" column="54" />
-        <mark key="^" line="16" column="54" />
-        <mark key="." line="16" column="53" />
-      </file>
-      <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/ui/main/MainViewModel.kt" timestamp="1596577109590">
-        <mark key="'" line="47" column="58" />
-        <mark key="[" line="47" column="36" />
-        <mark key="]" line="47" column="59" />
-        <mark key="." line="47" column="58" />
-        <mark key="^" line="47" column="59" />
-      </file>
-      <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/ui/main/MainFragment.kt" timestamp="1596574349066">
-        <mark key="'" line="21" column="28" />
-        <mark key="[" line="22" column="30" />
-        <mark key="]" line="22" column="43" />
-        <mark key="." line="22" column="42" />
-        <mark key="^" line="22" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/Sample/android-beacon-library-reference/app/src/main/java/org/altbeacon/beaconreference/BeaconReferenceApplication.java" timestamp="1596576098986" />
       <file name="/Dummy.txt" timestamp="1596569819463">
         <mark key="'" line="0" column="184" />
         <mark key="[" line="0" column="0" />
@@ -189,7 +160,7 @@
         <mark key="[" line="177" column="0" />
         <mark key="]" line="179" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/Device.java" timestamp="1596575493491" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/Aggregator.java" timestamp="1596638652366" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bfdc40c3e2bd32613cf67f6619c3e020/jetified-android-beacon-library-2.17.1/jars/classes.jar!/org/altbeacon/beacon/Beacon.class" timestamp="1596577125400">
         <mark key="'" line="243" column="35" />
       </file>
@@ -205,7 +176,12 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1596575503905">
         <mark key="'" line="55" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/Sample/android-beacon-library-reference/app/src/main/java/org/altbeacon/beaconreference/RangingActivity.java" timestamp="1596576395919" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/voice/VoiceAliasSummaryViewModel.kt" timestamp="1596566918133">
+        <mark key="[" line="46" column="3" />
+        <mark key="]" line="46" column="63" />
+        <mark key="^" line="46" column="63" />
+        <mark key="." line="46" column="62" />
+      </file>
       <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/build.gradle" timestamp="1596573662847">
         <mark key="'" line="20" column="23" />
         <mark key="[" line="42" column="58" />
@@ -213,12 +189,32 @@
         <mark key="." line="42" column="58" />
         <mark key="^" line="42" column="59" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/closecontrol/CloseControlActivity.kt" timestamp="1596570125675">
+        <mark key="[" line="15" column="42" />
+        <mark key="]" line="16" column="54" />
+        <mark key="^" line="16" column="54" />
+        <mark key="." line="16" column="53" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/closecontrol/CloseControlActivitiy.kt" timestamp="1596569758724">
         <mark key="'" line="12" column="44" />
         <mark key="[" line="12" column="26" />
         <mark key="]" line="12" column="53" />
         <mark key="^" line="12" column="53" />
         <mark key="." line="12" column="52" />
+      </file>
+      <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/ui/main/MainViewModel.kt" timestamp="1596577109590">
+        <mark key="'" line="47" column="58" />
+        <mark key="[" line="47" column="36" />
+        <mark key="]" line="47" column="59" />
+        <mark key="." line="47" column="58" />
+        <mark key="^" line="47" column="59" />
+      </file>
+      <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/ui/main/MainFragment.kt" timestamp="1596574349066">
+        <mark key="'" line="21" column="28" />
+        <mark key="[" line="22" column="30" />
+        <mark key="]" line="22" column="43" />
+        <mark key="." line="22" column="42" />
+        <mark key="^" line="22" column="43" />
       </file>
     </filemarks>
     <jumps>
