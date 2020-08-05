@@ -146,27 +146,11 @@
         <mark key="." line="172" column="55" />
         <mark key="^" line="172" column="56" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel/2.2.0/4f90404dd52d3162217bf329db5afb32d373ec63/lifecycle-viewmodel-2.2.0-sources.jar!/androidx/lifecycle/AndroidViewModel.java" timestamp="1596651039388" />
       <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/AndroidManifest.xml" timestamp="1596655031621">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="16" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/model/BaseDO.java" timestamp="1596659517951" />
-      <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/ui/main/MainViewModel.kt" timestamp="1596651637031">
-        <mark key="'" line="33" column="23" />
-        <mark key="[" line="60" column="47" />
-        <mark key="]" line="60" column="47" />
-        <mark key="." line="60" column="47" />
-        <mark key="^" line="60" column="48" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/casetaMasterStrings/AppMasterStrings.txt" timestamp="1596640787092" />
-      <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/ui/main/MainFragment.kt" timestamp="1596653980724">
-        <mark key="'" line="31" column="28" />
-        <mark key="[" line="72" column="95" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="78" column="69" />
-      </file>
       <file name="$USER_HOME$/Documents/Sample/android-beacon-library-reference/app/src/main/java/org/altbeacon/beaconreference/BeaconReferenceApplication.java" timestamp="1596656460174" />
       <file name="/fragment.kt" timestamp="1596656218487">
         <mark key="[" line="0" column="0" />
@@ -179,7 +163,6 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/Device.java" timestamp="1596655205683">
         <mark key="'" line="1436" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/dataModels/IntruderDeterrentTrigger.kt" timestamp="1596640804906" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bfdc40c3e2bd32613cf67f6619c3e020/jetified-android-beacon-library-2.17.1/jars/classes.jar!/org/altbeacon/beacon/Identifier.class" timestamp="1596658238724" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bfdc40c3e2bd32613cf67f6619c3e020/jetified-android-beacon-library-2.17.1/jars/classes.jar!/org/altbeacon/beacon/Beacon.class" timestamp="1596655781080">
         <mark key="'" line="304" column="30" />
@@ -201,6 +184,9 @@
         <mark key="]" line="7" column="78" />
         <mark key="^" line="28" column="40" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1596660848147">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
