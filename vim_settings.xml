@@ -159,11 +159,12 @@
         <mark key="^" line="16" column="54" />
         <mark key="." line="16" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/ui/main/MainViewModel.kt" timestamp="1596576926975">
-        <mark key="[" line="47" column="75" />
-        <mark key="]" line="47" column="75" />
-        <mark key="." line="47" column="74" />
-        <mark key="^" line="47" column="75" />
+      <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/ui/main/MainViewModel.kt" timestamp="1596577109590">
+        <mark key="'" line="47" column="58" />
+        <mark key="[" line="47" column="36" />
+        <mark key="]" line="47" column="59" />
+        <mark key="." line="47" column="58" />
+        <mark key="^" line="47" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/ui/main/MainFragment.kt" timestamp="1596574349066">
         <mark key="'" line="21" column="28" />
@@ -180,10 +181,6 @@
         <mark key="^" line="0" column="52" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BaseBleSelectorScreenViewModel.kt" timestamp="1596566171065">
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="122" column="48" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/build.gradle" timestamp="1596570462568">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="74" column="26" />
@@ -193,6 +190,9 @@
         <mark key="]" line="179" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/Device.java" timestamp="1596575493491" />
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bfdc40c3e2bd32613cf67f6619c3e020/jetified-android-beacon-library-2.17.1/jars/classes.jar!/org/altbeacon/beacon/Beacon.class" timestamp="1596577125400">
+        <mark key="'" line="243" column="35" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/voice/VoiceAliasSummaryViewModelTest.kt" timestamp="1596568963164">
         <mark key="[" line="104" column="0" />
         <mark key="]" line="105" column="32" />
@@ -222,8 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="22" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/ServiceRepo.kt" />
-      <jump line="28" column="11" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/ServiceRepo.kt" />
       <jump line="163" column="8" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/RingRepoTest.kt" />
       <jump line="110" column="73" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" />
       <jump line="41" column="8" filename="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/other/MapAsync.kt" />
@@ -322,6 +320,8 @@
       <jump line="20" column="23" filename="$USER_HOME$/Documents/Screwing/CloseControl/app/build.gradle" />
       <jump line="21" column="28" filename="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/ui/main/MainFragment.kt" />
       <jump line="15" column="21" filename="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/ui/main/MainViewModel.kt" />
+      <jump line="47" column="58" filename="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/ui/main/MainViewModel.kt" />
+      <jump line="243" column="35" filename="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bfdc40c3e2bd32613cf67f6619c3e020/jetified-android-beacon-library-2.17.1/jars/classes.jar!/org/altbeacon/beacon/Beacon.class" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
