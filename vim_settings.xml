@@ -150,6 +150,13 @@
         <mark key="[" line="69" column="0" />
         <mark key="]" line="74" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/MainActivity.kt" timestamp="1596651835384">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="13" column="68" />
+        <mark key="^" line="13" column="68" />
+        <mark key="." line="13" column="67" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel/2.2.0/4f90404dd52d3162217bf329db5afb32d373ec63/lifecycle-viewmodel-2.2.0-sources.jar!/androidx/lifecycle/AndroidViewModel.java" timestamp="1596651039388" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1596570470719">
         <mark key="[" line="177" column="0" />
         <mark key="]" line="179" column="5" />
@@ -159,27 +166,15 @@
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bfdc40c3e2bd32613cf67f6619c3e020/jetified-android-beacon-library-2.17.1/jars/classes.jar!/org/altbeacon/beacon/Beacon.class" timestamp="1596577125400">
         <mark key="'" line="243" column="35" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/voice/VoiceAliasSummaryViewModelTest.kt" timestamp="1596568963164">
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="105" column="32" />
-        <mark key="^" line="64" column="8" />
-        <mark key="." line="104" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1596575503905">
         <mark key="'" line="55" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/voice/VoiceAliasSummaryViewModel.kt" timestamp="1596566918133">
-        <mark key="[" line="46" column="3" />
-        <mark key="]" line="46" column="63" />
-        <mark key="^" line="46" column="63" />
-        <mark key="." line="46" column="62" />
-      </file>
-      <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/build.gradle" timestamp="1596573662847">
+      <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/build.gradle" timestamp="1596651251761">
         <mark key="'" line="20" column="23" />
-        <mark key="[" line="42" column="58" />
-        <mark key="]" line="42" column="58" />
-        <mark key="." line="42" column="58" />
-        <mark key="^" line="42" column="59" />
+        <mark key="[" line="42" column="64" />
+        <mark key="]" line="43" column="59" />
+        <mark key="." line="43" column="58" />
+        <mark key="^" line="43" column="59" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/closecontrol/CloseControlActivity.kt" timestamp="1596570125675">
         <mark key="[" line="15" column="42" />
@@ -187,6 +182,7 @@
         <mark key="^" line="16" column="54" />
         <mark key="." line="16" column="53" />
       </file>
+      <file name="$USER_HOME$/Documents/Sample/android-beacon-library-reference/app/src/main/java/org/altbeacon/beaconreference/MonitoringActivity.java" timestamp="1596651548303" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/closecontrol/CloseControlActivitiy.kt" timestamp="1596569758724">
         <mark key="'" line="12" column="44" />
         <mark key="[" line="12" column="26" />
@@ -194,25 +190,24 @@
         <mark key="^" line="12" column="53" />
         <mark key="." line="12" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/ui/main/MainViewModel.kt" timestamp="1596577109590">
-        <mark key="'" line="47" column="58" />
-        <mark key="[" line="47" column="36" />
-        <mark key="]" line="47" column="59" />
-        <mark key="." line="47" column="58" />
-        <mark key="^" line="47" column="59" />
+      <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/ui/main/MainViewModel.kt" timestamp="1596651637031">
+        <mark key="'" line="33" column="23" />
+        <mark key="[" line="60" column="47" />
+        <mark key="]" line="60" column="47" />
+        <mark key="." line="60" column="47" />
+        <mark key="^" line="60" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/casetaMasterStrings/AppMasterStrings.txt" timestamp="1596640787092" />
-      <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/ui/main/MainFragment.kt" timestamp="1596574349066">
-        <mark key="'" line="21" column="28" />
-        <mark key="[" line="22" column="30" />
-        <mark key="]" line="22" column="43" />
-        <mark key="." line="22" column="42" />
-        <mark key="^" line="22" column="43" />
+      <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/ui/main/MainFragment.kt" timestamp="1596651957237">
+        <mark key="'" line="26" column="28" />
+        <mark key="[" line="45" column="39" />
+        <mark key="]" line="45" column="39" />
+        <mark key="." line="45" column="39" />
+        <mark key="^" line="46" column="47" />
       </file>
+      <file name="$USER_HOME$/Documents/Sample/android-beacon-library-reference/app/src/main/java/org/altbeacon/beaconreference/BeaconReferenceApplication.java" timestamp="1596651570086" />
     </filemarks>
     <jumps>
-      <jump line="163" column="8" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/RingRepoTest.kt" />
-      <jump line="110" column="73" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" />
       <jump line="41" column="8" filename="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/other/MapAsync.kt" />
       <jump line="42" column="35" filename="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/other/MapAsync.kt" />
       <jump line="84" column="63" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-core/0.10.4/a810bab3d49adbac0fb204608eec44a54a5b2416/arrow-core-0.10.4-sources.jar!/extension/arrow/core/extensions/either/applicative/EitherApplicative.kt" />
@@ -311,6 +306,8 @@
       <jump line="15" column="21" filename="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/ui/main/MainViewModel.kt" />
       <jump line="47" column="58" filename="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/ui/main/MainViewModel.kt" />
       <jump line="243" column="35" filename="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bfdc40c3e2bd32613cf67f6619c3e020/jetified-android-beacon-library-2.17.1/jars/classes.jar!/org/altbeacon/beacon/Beacon.class" />
+      <jump line="43" column="59" filename="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/ui/main/MainViewModel.kt" />
+      <jump line="32" column="23" filename="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/ui/main/MainViewModel.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -318,8 +315,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcGxpY2F0aW9uQ29udGV4dC51bmJpbmRTZXJ2aWNlKHAwKQo=</text>
+      <register name="&quot;" type="4">
+        <text>?</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -352,43 +349,43 @@
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFwcGxpY2F0aW9uQ29udGV4dC51bmJpbmRTZXJ2aWNlKHAwKQo=</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQo=</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQo=</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiZWFjb25NYW5hZ2VyLmJpbmQob2JqZWN0IDogQmVhY29uQ29uc3VtZXIgewoKICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIG9uQmVhY29uU2VydmljZUNvbm5lY3QoKSB7CiAgICAgICAgICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikKICAgICAgICAgICAgfQoKICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkFjdGl2aXR5Q3JlYXRlZChzYXZlZEluc3RhbmNlU3RhdGU6IEJ1bmRsZT8pIHsKICAgICAgICBzdXBlci5vbkFjdGl2aXR5Q3JlYXRlZChzYXZlZEluc3RhbmNlU3RhdGUpCi8vICAgICAgICB2aWV3TW9kZWwuZGF0YS5vYnNlcnZlKHZpZXdMaWZlY3ljbGVPd25lcikgewovLyAgICAgICAgICAgIG1lc3NhZ2UudGV4dCA9IGl0Ci8vICAgICAgICB9Ci8vICAgICAgICB2aWV3TW9kZWwuZ2V0VXBkYXRlcygpCiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIGdldEFwcGxpY2F0aW9uQ29udGV4dCgpOiBDb250ZXh0IHsKICAgICAgICAgICAgICAgIFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQogICAgICAgICAgICB9CgogICAgICAgICAgICBvdmVycmlkZSBmdW4gdW5iaW5kU2VydmljZShwMDogU2VydmljZUNvbm5lY3Rpb24/KSB7CiAgICAgICAgICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikKICAgICAgICAgICAgfQoKICAgICAgICAgICAgb3ZlcnJpZGUgZnVuIGJpbmRTZXJ2aWNlKHAwOiBJbnRlbnQ/LCBwMTogU2VydmljZUNvbm5lY3Rpb24/LCBwMjogSW50KTogQm9vbGVhbiB7CiAgICAgICAgICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGluaXQgewogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2aWV3TW9kZWxTY29wZS5sYXVuY2ggeyAKICAgICAgICAgICAgY2FsbGJhY2tGbG93IHsgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRPRE8oIk5vdCB5ZXQgaW1wbGVtZW50ZWQiKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2dldFN5c3RlbUFjdGlvbi9nZXRSZXNvdXJjZUdyb3VwL2c=</text>
