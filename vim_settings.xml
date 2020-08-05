@@ -139,12 +139,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/VoiceAliasSummaryFragment.kt" timestamp="1596566813916">
-        <mark key="[" line="138" column="61" />
-        <mark key="]" line="138" column="79" />
-        <mark key="^" line="138" column="79" />
-        <mark key="." line="138" column="78" />
-      </file>
       <file name="/Dummy.txt" timestamp="1596569819463">
         <mark key="'" line="0" column="184" />
         <mark key="[" line="0" column="0" />
@@ -161,6 +155,7 @@
         <mark key="]" line="179" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/Aggregator.java" timestamp="1596638652366" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/dataModels/IntruderDeterrentTrigger.kt" timestamp="1596640804906" />
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bfdc40c3e2bd32613cf67f6619c3e020/jetified-android-beacon-library-2.17.1/jars/classes.jar!/org/altbeacon/beacon/Beacon.class" timestamp="1596577125400">
         <mark key="'" line="243" column="35" />
       </file>
@@ -206,7 +201,7 @@
         <mark key="." line="47" column="58" />
         <mark key="^" line="47" column="59" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/casetaMasterStrings/AppMasterStrings.txt" timestamp="1596639816334" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/casetaMasterStrings/AppMasterStrings.txt" timestamp="1596640787092" />
       <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/ui/main/MainFragment.kt" timestamp="1596574349066">
         <mark key="'" line="21" column="28" />
         <mark key="[" line="22" column="30" />
