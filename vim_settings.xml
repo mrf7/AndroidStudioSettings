@@ -154,13 +154,17 @@
         <mark key="^" line="12" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/Sample/android-beacon-library-reference/app/src/main/java/org/altbeacon/beaconreference/BeaconReferenceApplication.java" timestamp="1596656460174" />
+      <file name="/Dummy.txt" timestamp="1596730145442">
+        <mark key="'" line="0" column="184" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="52" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BaseBleActivity.kt" timestamp="1596660995114">
         <mark key="'" line="28" column="6" />
         <mark key="[" line="28" column="0" />
         <mark key="]" line="175" column="5" />
-      </file>
-      <file name="/fragment.kt" timestamp="1596656218487">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Sample/android-beacon-library-reference/app/src/main/AndroidManifest.xml" timestamp="1596657117177">
         <mark key="[" line="6" column="0" />
@@ -174,12 +178,10 @@
         <mark key="^" line="37" column="35" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bfdc40c3e2bd32613cf67f6619c3e020/jetified-android-beacon-library-2.17.1/jars/classes.jar!/org/altbeacon/beacon/Identifier.class" timestamp="1596658238724" />
-      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bfdc40c3e2bd32613cf67f6619c3e020/jetified-android-beacon-library-2.17.1/jars/classes.jar!/org/altbeacon/beacon/Beacon.class" timestamp="1596655781080">
-        <mark key="'" line="304" column="30" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/closecontrol/CloseControl.kt" timestamp="1596660894635">
         <mark key="[" line="10" column="13" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/build.gradle" timestamp="1596729595156" />
       <file name="$USER_HOME$/Documents/Sample/android-beacon-library-reference/app/src/main/java/org/altbeacon/beaconreference/RangingActivity.java" timestamp="1596657035003" />
       <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/build.gradle" timestamp="1596657155049">
         <mark key="'" line="43" column="52" />
