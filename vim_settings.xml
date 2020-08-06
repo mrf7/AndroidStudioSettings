@@ -153,7 +153,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="12" column="53" />
       </file>
-      <file name="$USER_HOME$/Documents/Sample/android-beacon-library-reference/app/src/main/java/org/altbeacon/beaconreference/BeaconReferenceApplication.java" timestamp="1596656460174" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/RingService.java" timestamp="1596733610938" />
       <file name="/Dummy.txt" timestamp="1596730170795">
         <mark key="'" line="0" column="184" />
         <mark key="[" line="0" column="0" />
@@ -166,9 +166,10 @@
         <mark key="[" line="28" column="0" />
         <mark key="]" line="175" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/Sample/android-beacon-library-reference/app/src/main/AndroidManifest.xml" timestamp="1596657117177">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="9" column="78" />
+      <file name="/fragment.kt" timestamp="1596734501618">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.72/28f81264fad20dd20cc692003f4a27d355632073/kotlin-stdlib-1.3.72-sources.jar!/kotlin/util/MathJVM.kt" timestamp="1596659285892" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/closecontrol/ui/main/CloseControlFragment.kt" timestamp="1596727325216">
@@ -182,24 +183,6 @@
         <mark key="[" line="10" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/build.gradle" timestamp="1596729595156" />
-      <file name="$USER_HOME$/Documents/Sample/android-beacon-library-reference/app/src/main/java/org/altbeacon/beaconreference/RangingActivity.java" timestamp="1596657035003" />
-      <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/build.gradle" timestamp="1596657155049">
-        <mark key="'" line="43" column="52" />
-        <mark key="[" line="42" column="64" />
-        <mark key="]" line="43" column="59" />
-        <mark key="." line="43" column="58" />
-        <mark key="^" line="43" column="59" />
-      </file>
-      <file name="$USER_HOME$/Documents/Sample/android-beacon-library-reference/app/src/main/java/org/altbeacon/beaconreference/MonitoringActivity.java" timestamp="1596656935555">
-        <mark key="[" line="111" column="0" />
-        <mark key="]" line="150" column="9" />
-      </file>
-      <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/AndroidManifest.xml" timestamp="1596657121164">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="7" column="78" />
-        <mark key="^" line="28" column="40" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="/fragment.java" timestamp="1596661442708">
         <mark key="[" line="0" column="0" />
       </file>
@@ -313,7 +296,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbSA9IG1hLnsgKGtleSwgdmFsdWUpIC0+CiAgICAgICAgICAgIGtleQogICAgICAgIH0K</text>
+        <text>RingService.loadAll()</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -346,43 +329,43 @@
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbSA9IG1hLnsgKGtleSwgdmFsdWUpIC0+CiAgICAgICAgICAgIGtleQogICAgICAgIH0K</text>
+        <text>RingService.loadAll()</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmFwcGNvbXBhdC5hcHAuQXBwQ29tcGF0QWN0aXZpdHkK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbSA9IG1hLnsgKGtleSwgdmFsdWUpIC0+CiAgICAgICAgICAgIGtleQogICAgICAgIH0K</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWR4LmFwcGNvbXBhdC5hcHAuQXBwQ29tcGF0QWN0aXZpdHkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5jbG9zZV9jb250cm9sX2FjdGl2aXR5KQo=</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5jbG9zZV9jb250cm9sX2FjdGl2aXR5KQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sdXRyb24ubW13LmNsb3NlY29udHJvbC5SCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKAogICAgICAgICAgICAgICAgICAgICJCZWFjb24iLCAiZm91bmQgYmVhY29ucyAke2JlYWNvbnMuam9pblRvU3RyaW5nIHsgIiRpdFxuXHQgJHtpdC5pZDIudG9IZXhTdHJpbmcoKX0iIH0pCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sdXRyb24ubW13LmNsb3NlY29udHJvbC5SCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpdC50b1N0cmluZygpICsgaXQuZGlzdGFuY2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZy5kKAogICAgICAgICAgICAgICAgICAgICJCZWFjb24iLCAiZm91bmQgYmVhY29ucyAke2JlYWNvbnMuam9pblRvU3RyaW5nIHsgIiRpdFxuXHQgJHtpdC5pZDIudG9IZXhTdHJpbmcoKX0iIH0pCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>reg</text>
