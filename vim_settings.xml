@@ -139,62 +139,42 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/config/detekt/detekt.yml" timestamp="1596736446978" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/adapter/AreaExpandableListAdapter.java" timestamp="1596743057737" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/closecontrol/BaseBleConnectedActivity.kt" timestamp="1596736401462">
-        <mark key="'" line="127" column="50" />
-        <mark key="[" line="23" column="3" />
-        <mark key="]" line="24" column="22" />
-        <mark key="^" line="24" column="22" />
-        <mark key="." line="24" column="21" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/SettingListOptionEnum.java" timestamp="1596738168037">
-        <mark key="[" line="29" column="72" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/adapter/AreaDevicesExpandableListAdapter.java" timestamp="1596744104839" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/DeviceTypeEnum.java" timestamp="1596745925855" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/adapter/AreaDevicesExpandableListAdapter.java" timestamp="1596744662679" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/closecontrol/CloseControlActivity.kt" timestamp="1596739649683">
         <mark key="[" line="20" column="42" />
         <mark key="]" line="21" column="37" />
         <mark key="." line="21" column="36" />
         <mark key="^" line="21" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/closecontrol/ui/main/CloseControlViewModel.kt" timestamp="1596744266612">
-        <mark key="[" line="53" column="118" />
-        <mark key="]" line="51" column="120" />
-        <mark key="." line="51" column="119" />
-        <mark key="^" line="51" column="120" />
+      <file name="/fragment.kt" timestamp="1596745993882">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1596736219888">
-        <mark key="[" line="292" column="0" />
-        <mark key="]" line="292" column="64" />
-        <mark key="." line="292" column="0" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/closecontrol/ui/main/CloseControlViewModel.kt" timestamp="1596746685206">
+        <mark key="]" line="47" column="51" />
+        <mark key="^" line="47" column="51" />
+        <mark key="." line="47" column="50" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/closecontrol/ui/main/CloseControlFragment.kt" timestamp="1596743994152">
-        <mark key="[" line="49" column="29" />
-        <mark key="]" line="50" column="42" />
-        <mark key="." line="50" column="41" />
-        <mark key="^" line="50" column="42" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/closecontrol/ui/main/CloseControlFragment.kt" timestamp="1596744939209">
+        <mark key="[" line="50" column="45" />
+        <mark key="]" line="51" column="76" />
+        <mark key="." line="51" column="75" />
+        <mark key="^" line="51" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/SettingActivityUIHelper.java" timestamp="1596738734661">
-        <mark key="[" line="309" column="17" />
-        <mark key="]" line="310" column="22" />
-        <mark key="." line="310" column="21" />
-        <mark key="^" line="310" column="22" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/DeviceListFragment.java" timestamp="1596744827738">
+        <mark key="'" line="408" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/adapter/viewmodel/FavoriteAreaDevicesViewModel.java" timestamp="1596743427321" />
-      <file name="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/MainActivity.kt" timestamp="1596737885107">
-        <mark key="[" line="172" column="38" />
-        <mark key="]" line="172" column="56" />
-        <mark key="." line="172" column="55" />
-        <mark key="^" line="172" column="56" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/SettingActivity.java" timestamp="1596738576883">
-        <mark key="[" line="318" column="76" />
-        <mark key="]" line="319" column="22" />
-        <mark key="^" line="319" column="22" />
-        <mark key="." line="319" column="21" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/HomeActivity.java" timestamp="1596742754108" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/Zone.java" timestamp="1596745122484" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/syncFramework/helper/AthenaSyncChainHelper.java" timestamp="1596746212232">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/helper/AreaUIHelper.java" timestamp="1596743546541">
         <mark key="[" line="368" column="4" />
         <mark key="]" line="368" column="11" />
@@ -207,7 +187,7 @@
         <mark key="^" line="42" column="52" />
         <mark key="." line="42" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/casetaMasterStrings/AppMasterStrings.txt" timestamp="1596738220365" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/request/creator/keypad/DeviceRequestCreator.kt" timestamp="1596746591088" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/closecontrol/BeaconManagerWrapper.kt" timestamp="1596739295412">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="44" column="25" />
@@ -221,12 +201,15 @@
         <mark key="^" line="0" column="52" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1596744099097">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/Device.java" timestamp="1596746119987">
+        <mark key="'" line="1436" column="21" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/DeviceReadCallable.java" timestamp="1596746280081" />
+      <file name="/fragment.java" timestamp="1596744632851">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="3" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/ServiceRepoTest.kt" />
       <jump line="60" column="30" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/ServiceRepoTest.kt" />
       <jump line="100" column="50" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/ServiceRepoTest.kt" />
       <jump line="46" column="11" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/ServiceRepoTest.kt" />
@@ -326,6 +309,7 @@
       <jump line="127" column="50" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/closecontrol/BaseBleConnectedActivity.kt" />
       <jump line="29" column="30" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/closecontrol/ui/main/CloseControlFragment.kt" />
       <jump line="33" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/closecontrol/ui/main/CloseControlFragment.kt" />
+      <jump line="408" column="16" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/DeviceListFragment.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -334,7 +318,10 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">c3VzcGVuZCA=</text>
+        <text>mandSuspending(
+                getApplication(),
+                getAllDevicesRequest(),
+                DeviceCacheCleaner(null)</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -352,7 +339,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3VzcGVuZCA=</text>
+        <text />
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -366,44 +353,47 @@
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCkK</text>
+      <register name="1" type="4">
+        <text>mandSuspending(
+                getApplication(),
+                getAllDevicesRequest(),
+                DeviceCacheCleaner(null)</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUYXNrQ29tcG9zZXIgZGV2aWNlcyA9IG5ldyBUYXNrPigpCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZS50ZXh0ID0gaXQK</text>
+        <text>Device.loadAll().map { it.deviceType }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBEZXZpY2UubG9hZEZyb21TZXJpYWxOdW1iZXIoc2VyaWFsKQo=</text>
+        <text>Device.loadAll().first().serialNumber</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGJlYWNvbnNTdHJpbmcgPSBiZWFjb25zLmpvaW5Ub1N0cmluZyB7CiAgICAgICAgICAgICAgICAiJGl0ICR7aXQuZGlzdGFuY2UudG9TdHJpbmcoKS50YWtlKDQpfVxuXHQgJHtpdC5pZDIudG9IZXhTdHJpbmcoKX1cdCR7aXQuaWQzLnRvSGV4U3RyaW5nKCl9IgogICAgICAgICAgICB9Cg==</text>
+        <text>Device.loadAll().map { it.serialNumber }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGluaXQgewogICAgICAgIHZpZXdNb2RlbFNjb3BlLmxhdW5jaCB7CiAgICAgICAgICAgIGJlYWNvbk1hbmFnZXJXcmFwcGVyLmJlYWNvbkZsb3coKS5jb2xsZWN0IHsKICAgICAgICAgICAgICAgIExvZy5kKCJNUkYiLCBpdC5qb2luVG9TdHJpbmcoKSkKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0K</text>
+        <text>area.zones.first().device</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoc2F2ZWRJbnN0YW5jZVN0YXRlID09IG51bGwpIHsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCkK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VwcG9ydEZyYWdtZW50TWFuYWdlci5iZWdpblRyYW5zYWN0aW9uKCkKICAgICAgICAgICAgICAgIC5yZXBsYWNlKFIuaWQuY29udGFpbmVyLCBDbG9zZUNvbnRyb2xGcmFnbWVudC5uZXdJbnN0YW5jZSgpKQogICAgICAgICAgICAgICAgLmNvbW1pdE5vdygpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRDb250ZW50VmlldyhSLmxheW91dC5jbG9zZV9jb250cm9sX2FjdGl2aXR5KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZS50ZXh0ID0gaXQK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2JlYWNvbnMvaXQvZw==</text>
