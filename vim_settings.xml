@@ -153,17 +153,20 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/closecontrol/ui/main/CloseControlViewModel.kt" timestamp="1596746685206">
-        <mark key="]" line="47" column="51" />
-        <mark key="^" line="47" column="51" />
-        <mark key="." line="47" column="50" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/closecontrol/ui/main/CloseControlViewModel.kt" timestamp="1596748751975">
+        <mark key="[" line="76" column="12" />
+        <mark key="]" line="77" column="59" />
+        <mark key="." line="77" column="58" />
+        <mark key="^" line="77" column="59" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.kt" timestamp="1596746967640" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/closecontrol/ui/main/CloseControlFragment.kt" timestamp="1596744939209">
         <mark key="[" line="50" column="45" />
         <mark key="]" line="51" column="76" />
         <mark key="." line="51" column="75" />
         <mark key="^" line="51" column="76" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/LeapRequestResponseModel.java" timestamp="1596747142463" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/DeviceListFragment.java" timestamp="1596744827738">
         <mark key="'" line="408" column="16" />
       </file>
@@ -181,18 +184,11 @@
         <mark key="." line="368" column="10" />
         <mark key="^" line="368" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/strategy/settings/HydraSettingOptionsStrategy.kt" timestamp="1596739079484">
-        <mark key="[" line="42" column="47" />
-        <mark key="]" line="42" column="52" />
-        <mark key="^" line="42" column="52" />
-        <mark key="." line="42" column="51" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/request/creator/keypad/DeviceRequestCreator.kt" timestamp="1596746591088" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/closecontrol/BeaconManagerWrapper.kt" timestamp="1596739295412">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="44" column="25" />
-        <mark key="^" line="60" column="98" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/request/creator/keypad/DeviceRequestCreator.kt" timestamp="1596748844877">
+        <mark key="[" line="159" column="97" />
+        <mark key="]" line="159" column="84" />
+        <mark key="." line="159" column="83" />
+        <mark key="^" line="159" column="84" />
       </file>
       <file name="/Dummy.txt" timestamp="1596742944735">
         <mark key="'" line="0" column="184" />
@@ -317,11 +313,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>mandSuspending(
-                getApplication(),
-                getAllDevicesRequest(),
-                DeviceCacheCleaner(null)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBEZXZpY2VSZWFkQ2FsbGFibGUoZ2V0QXBwbGljYXRpb24oKSkuY2FsbFN1c3BlbmRpbmcoKS5hbHNvIHsKICAgICAgICAgICAgTG9nLmQoCiAgICAgICAgICAgICAgICAiTVJGIiwKICAgICAgICAgICAgICAgICIke2l0Py5jb2VyY2VUb1R5cGU8RGV2aWNlPigpPy5tYXAgeyBkZXZpY2UgLT4gIiR7ZGV2aWNlLmRldmljZVR5cGV9ICR7ZGV2aWNlLnNlcmlhbE51bWJlcn0iIH19IgogICAgICAgICAgICApCiAgICAgICAgfQo=</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -353,47 +346,47 @@
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>mandSuspending(
-                getApplication(),
-                getAllDevicesRequest(),
-                DeviceCacheCleaner(null)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBEZXZpY2VSZWFkQ2FsbGFibGUoZ2V0QXBwbGljYXRpb24oKSkuY2FsbFN1c3BlbmRpbmcoKS5hbHNvIHsKICAgICAgICAgICAgTG9nLmQoCiAgICAgICAgICAgICAgICAiTVJGIiwKICAgICAgICAgICAgICAgICIke2l0Py5jb2VyY2VUb1R5cGU8RGV2aWNlPigpPy5tYXAgeyBkZXZpY2UgLT4gIiR7ZGV2aWNlLmRldmljZVR5cGV9ICR7ZGV2aWNlLnNlcmlhbE51bWJlcn0iIH19IgogICAgICAgICAgICApCiAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBUYXNrQ29tcG9zZXIgZGV2aWNlcyA9IG5ldyBUYXNrPigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text>Device.loadAll().map { it.deviceType }</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGV2aWNlUmVhZENhbGxhYmxlKGdldEFwcGxpY2F0aW9uKCkpLmNhbGxTdXNwZW5kaW5nKCkuYWxzbyB7CiAgICAgICAgICAgICAgICBMb2cuZCgKICAgICAgICAgICAgICAgICAgICAiTVJGIiwKICAgICAgICAgICAgICAgICAgICAiJHtpdD8uY29lcmNlVG9UeXBlPERldmljZT4oKT8ubWFwIHsgZGV2aWNlIC0+ICIke2RldmljZS5kZXZpY2VUeXBlfSAke2RldmljZS5zZXJpYWxOdW1iZXJ9IiB9fSIKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="4" type="2">
-        <text>Device.loadAll().first().serialNumber</text>
+      <register name="4" type="4">
+        <text>mandSuspending(
+                getApplication(),
+                getAllDevicesRequest(),
+                DeviceCacheCleaner(null)</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text>Device.loadAll().map { it.serialNumber }</text>
+        <text encoding="base64">ICAgICAgICBUYXNrQ29tcG9zZXIgZGV2aWNlcyA9IG5ldyBUYXNrPigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text>area.zones.first().device</text>
+        <text>Device.loadAll().map { it.deviceType }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCkK</text>
+        <text>Device.loadAll().first().serialNumber</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>Device.loadAll().map { it.serialNumber }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVzc2FnZS50ZXh0ID0gaXQK</text>
+        <text>area.zones.first().device</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2JlYWNvbnMvaXQvZw==</text>
