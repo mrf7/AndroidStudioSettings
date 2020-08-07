@@ -139,6 +139,34 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/syncFramework/helper/AthenaSyncChainHelper.java" timestamp="1596746212232">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/layout/main_fragment.xml" timestamp="1596812262346">
+        <mark key="[" line="21" column="22" />
+        <mark key="]" line="21" column="22" />
+        <mark key="." line="21" column="22" />
+        <mark key="^" line="7" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/gradle.properties" timestamp="1596813409814">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/requestcreator/AreaRequestCreator.kt" timestamp="1596816058753">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/request/creator/keypad/DeviceRequestCreator.kt" timestamp="1596812202732">
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="154" column="61" />
+        <mark key="." line="154" column="60" />
+        <mark key="^" line="154" column="61" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/request/creator/nest/SystemActionRequestCreator.java" timestamp="1596815218136" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/closecontrol/BeaconManagerWrapper.kt" timestamp="1596812072593">
         <mark key="[" line="56" column="42" />
         <mark key="]" line="56" column="48" />
@@ -157,17 +185,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/syncFramework/helper/AthenaSyncChainHelper.java" timestamp="1596746212232">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/helper/AreaUIHelper.java" timestamp="1596743546541">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="6" column="11" />
-        <mark key="." line="6" column="10" />
-        <mark key="^" line="6" column="11" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/closecontrol/ui/main/CloseControlViewModel.kt" timestamp="1596811800455">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
@@ -184,29 +201,19 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/Device.java" timestamp="1596746119987">
         <mark key="'" line="1436" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/layout/main_fragment.xml" timestamp="1596812262346">
-        <mark key="[" line="21" column="22" />
-        <mark key="]" line="21" column="22" />
-        <mark key="." line="21" column="22" />
-        <mark key="^" line="7" column="48" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/gradle.properties" timestamp="1596813409814">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/LeapDetectionGroupModel.kt" timestamp="1596815595021">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/DeviceListFragment.java" timestamp="1596744827738">
         <mark key="'" line="408" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/request/creator/keypad/DeviceRequestCreator.kt" timestamp="1596812202732">
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="154" column="61" />
-        <mark key="." line="154" column="60" />
-        <mark key="^" line="154" column="61" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/request/creator/nest/SystemActionRequestCreator.java" timestamp="1596813019210" />
-      <file name="/fragment.java" timestamp="1596744632851">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/requestcreator/DetectionGroupRequestCreator.java" timestamp="1596815735011">
+        <mark key="[" line="42" column="109" />
+        <mark key="]" line="42" column="110" />
+        <mark key="^" line="42" column="110" />
+        <mark key="." line="42" column="109" />
       </file>
     </filemarks>
     <jumps>
@@ -317,8 +324,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -336,7 +343,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -351,46 +358,43 @@
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">b3JnLmdyYWRsZS5wYXJhbGxlbD10cnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmdW4gbShtbTogTWFwPFN0cmluZywgTGlzdDxTdHJpbmc+Pz4pOiBNYXA8SW50LCBJbnQ+IHsKICAgICAgICB9Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgMHhkZWFkYmVlZkwgLT4gQXJlYS5sb2FkQnlOYW1lKCJEZW4iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG1tLiB7ICB9LmVudHJpZXMuYXNzb2NpYXRlIHsgKGtleSwgdmFsdWUpIC0+CiAgICAgICAgICAgICAgICBrZXkubGVuZ3RoIHRvIHZhbHVlLnNpemUKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBEZXZpY2VSZWFkQ2FsbGFibGUoZ2V0QXBwbGljYXRpb24oKSkuY2FsbFN1c3BlbmRpbmcoKS5hbHNvIHsKICAgICAgICAgICAgTG9nLmQoCiAgICAgICAgICAgICAgICAiTVJGIiwKICAgICAgICAgICAgICAgICIke2l0Py5jb2VyY2VUb1R5cGU8RGV2aWNlPigpPy5tYXAgeyBkZXZpY2UgLT4gIiR7ZGV2aWNlLmRldmljZVR5cGV9ICR7ZGV2aWNlLnNlcmlhbE51bWJlcn0iIH19IgogICAgICAgICAgICApCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ewogICAgZnVuIHQobTogTWFwPFN0cmluZywgTGlzdDxTdHJpbmc+Pz4pewogICAgICAgIG0uZmlsdGVyVmFsdWVzIHsgIWl0LmlzTnVsbE9yRW1wdHkoKSB9CiAgICB9Cn0K</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGV2aWNlUmVhZENhbGxhYmxlKGdldEFwcGxpY2F0aW9uKCkpLmNhbGxTdXNwZW5kaW5nKCkuYWxzbyB7CiAgICAgICAgICAgICAgICBMb2cuZCgKICAgICAgICAgICAgICAgICAgICAiTVJGIiwKICAgICAgICAgICAgICAgICAgICAiJHtpdD8uY29lcmNlVG9UeXBlPERldmljZT4oKT8ubWFwIHsgZGV2aWNlIC0+ICIke2RldmljZS5kZXZpY2VUeXBlfSAke2RldmljZS5zZXJpYWxOdW1iZXJ9IiB9fSIKICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ewogICAgZnVuIHQobTogTWFwPFN0cmluZywgTGlzdDxTdHJpbmc+Pz4pewogICAgICAgIG0uZW50cmllcy4KICAgIH0K</text>
       </register>
-      <register name="7" type="4">
-        <text>mandSuspending(
-                getApplication(),
-                getAllDevicesRequest(),
-                DeviceCacheCleaner(null)</text>
+      <register name="7" type="2">
+        <text encoding="base64">b3JnLmdyYWRsZS5wYXJhbGxlbD10cnVlCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUYXNrQ29tcG9zZXIgZGV2aWNlcyA9IG5ldyBUYXNrPigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text>Device.loadAll().map { it.deviceType }</text>
+        <text encoding="base64">ICAgICAgICAgICAgMHhkZWFkYmVlZkwgLT4gQXJlYS5sb2FkQnlOYW1lKCJEZW4iKQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2JlYWNvbnMvaXQvZw==</text>
