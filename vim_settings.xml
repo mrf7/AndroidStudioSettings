@@ -217,11 +217,12 @@
         <mark key="." line="167" column="24" />
         <mark key="^" line="167" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/communication/CommunicationManagerTest.kt" timestamp="1596830767487">
-        <mark key="[" line="224" column="67" />
-        <mark key="]" line="240" column="68" />
-        <mark key="." line="240" column="67" />
-        <mark key="^" line="240" column="68" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/communication/CommunicationManagerTest.kt" timestamp="1596831417035">
+        <mark key="'" line="241" column="8" />
+        <mark key="[" line="303" column="0" />
+        <mark key="]" line="305" column="135" />
+        <mark key="." line="305" column="134" />
+        <mark key="^" line="305" column="135" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.kt" timestamp="1596828321861">
         <mark key="[" line="242" column="16" />
@@ -244,7 +245,6 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao/3.1.1/a0164324ff506561f05ebfc03d05853be99a6781/greendao-3.1.1-sources.jar!/org/greenrobot/greendao/query/WhereCondition.java" timestamp="1596825598827" />
     </filemarks>
     <jumps>
-      <jump line="15" column="13" filename="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/BleManufacturingData.java" />
       <jump line="106" column="12" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/WorksWithRingFragment.kt" />
       <jump line="100" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/WorksWithRingFragment.kt" />
       <jump line="84" column="29" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/ResourceGroup.java" />
@@ -344,6 +344,7 @@
       <jump line="82" column="61" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/datastore/dao/datasource/RingServiceDBDataSourceTest.kt" />
       <jump line="387" column="38" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/RingRepoTest.kt" />
       <jump line="214" column="53" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/ServiceRepoTest.kt" />
+      <jump line="241" column="8" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/communication/CommunicationManagerTest.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
