@@ -139,7 +139,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/datasource/RingServiceDBDataSource.kt" timestamp="1597090705262">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/datasource/RingServiceDBDataSource.kt" timestamp="1597092282186">
         <mark key="[" line="19" column="56" />
         <mark key="]" line="19" column="95" />
         <mark key="^" line="19" column="95" />
@@ -159,11 +159,11 @@
         <mark key="^" line="425" column="73" />
         <mark key="." line="425" column="72" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/communication/CommunicationManagerTest.kt" timestamp="1596832961975">
-        <mark key="'" line="241" column="8" />
-        <mark key="[" line="303" column="0" />
-        <mark key="]" line="305" column="135" />
-        <mark key="." line="305" column="134" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/communication/CommunicationManagerTest.kt" timestamp="1597092139137">
+        <mark key="'" line="280" column="28" />
+        <mark key="[" line="43" column="4" />
+        <mark key="]" line="43" column="4" />
+        <mark key="." line="43" column="4" />
         <mark key="^" line="305" column="135" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.kt" timestamp="1596828321861">
@@ -178,8 +178,8 @@
         <mark key="." line="115" column="17" />
         <mark key="^" line="115" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/requestcreator/DetectionGroupRequestCreator.java" timestamp="1597089620928">
-        <mark key="[" line="40" column="0" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/requestcreator/DetectionGroupRequestCreator.java" timestamp="1597091947326">
+        <mark key="[" line="42" column="6" />
         <mark key="]" line="48" column="110" />
         <mark key="^" line="48" column="110" />
         <mark key="." line="48" column="109" />
@@ -220,12 +220,11 @@
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/NestService.java" timestamp="1597084934550" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/DetectionGroup.java" timestamp="1597085175936" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/converter/DaoToLeap.java" timestamp="1597091273898" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/converter/DaoToLeap.java" timestamp="1597091929181" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/Trigger.java" timestamp="1597085553917" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1597070726152" />
     </filemarks>
     <jumps>
-      <jump line="106" column="12" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/WorksWithRingFragment.kt" />
       <jump line="100" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/WorksWithRingFragment.kt" />
       <jump line="84" column="29" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/ResourceGroup.java" />
       <jump line="231" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/ResourceGroup.java" />
@@ -325,6 +324,7 @@
       <jump line="387" column="38" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/RingRepoTest.kt" />
       <jump line="214" column="53" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/ServiceRepoTest.kt" />
       <jump line="241" column="8" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/communication/CommunicationManagerTest.kt" />
+      <jump line="280" column="28" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/communication/CommunicationManagerTest.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -333,7 +333,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">dGVzdGluZyA=</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -351,7 +351,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGVzdGluZyA=</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
