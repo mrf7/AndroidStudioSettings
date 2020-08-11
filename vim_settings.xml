@@ -151,12 +151,8 @@
         <mark key="." line="173" column="47" />
         <mark key="^" line="173" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/RingRepoTest.kt" timestamp="1596827942828">
-        <mark key="'" line="393" column="38" />
-        <mark key="[" line="424" column="88" />
-        <mark key="]" line="425" column="73" />
-        <mark key="^" line="425" column="73" />
-        <mark key="." line="425" column="72" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/VoiceAliasSummaryRepo.kt" timestamp="1597159752141">
+        <mark key="[" line="68" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/communication/CommunicationManagerTest.kt" timestamp="1597092998140">
         <mark key="'" line="280" column="28" />
@@ -165,7 +161,7 @@
         <mark key="." line="43" column="4" />
         <mark key="^" line="305" column="135" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.kt" timestamp="1596828321861">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.kt" timestamp="1597160748694">
         <mark key="[" line="242" column="16" />
         <mark key="]" line="242" column="37" />
         <mark key="^" line="242" column="37" />
