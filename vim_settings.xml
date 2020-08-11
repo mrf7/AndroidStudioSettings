@@ -188,11 +188,11 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/requestcreator/DetectionGroupRequestCreator.java" timestamp="1597175799759">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="53" column="110" />
-        <mark key="^" line="53" column="110" />
-        <mark key="." line="53" column="109" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/requestcreator/DetectionGroupRequestCreator.java" timestamp="1597175935448">
+        <mark key="[" line="45" column="14" />
+        <mark key="]" line="45" column="48" />
+        <mark key="^" line="45" column="48" />
+        <mark key="." line="45" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/LutBleDevice.java" timestamp="1597158122229" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/dataModels/TriggerProgramming.kt" timestamp="1597087485975">
