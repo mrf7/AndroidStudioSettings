@@ -139,33 +139,72 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/LeapLedStatusModel.kt" timestamp="1597240415754" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/voice/VoiceAliasSummaryViewModel.kt" timestamp="1597244871948" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/RingRepoTest.kt" timestamp="1597240321846">
-        <mark key="'" line="393" column="38" />
-        <mark key="[" line="424" column="88" />
-        <mark key="]" line="425" column="73" />
-        <mark key="^" line="425" column="73" />
-        <mark key="." line="425" column="72" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/voice/VoiceAliasSummaryViewModel.kt" timestamp="1597246888178">
+        <mark key="[" line="91" column="46" />
+        <mark key="]" line="91" column="47" />
+        <mark key="." line="91" column="46" />
+        <mark key="^" line="91" column="47" />
       </file>
-      <file name="/fragment.kt" timestamp="1597241863214">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" timestamp="1597247614085">
+        <mark key="[" line="217" column="28" />
+        <mark key="]" line="219" column="22" />
+        <mark key="." line="219" column="21" />
+        <mark key="^" line="219" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/VoiceAliasSummaryRepo.kt" timestamp="1597245189777">
-        <mark key="[" line="83" column="15" />
-        <mark key="]" line="83" column="16" />
-        <mark key="." line="83" column="16" />
-        <mark key="^" line="72" column="16" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/RingRepoTest.kt" timestamp="1597248086676">
+        <mark key="'" line="389" column="38" />
+        <mark key="[" line="418" column="76" />
+        <mark key="]" line="418" column="80" />
+        <mark key="." line="418" column="79" />
+        <mark key="^" line="418" column="80" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/LeapTriggerGroupModel.kt" timestamp="1597179866471">
-        <mark key="[" line="13" column="5" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/VoiceAliasSummaryRepoTest.kt" timestamp="1597247219259">
+        <mark key="[" line="106" column="96" />
+        <mark key="]" line="106" column="138" />
+        <mark key="." line="106" column="137" />
+        <mark key="^" line="106" column="138" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/response/processor/keypad/ResponseProcessor.java" timestamp="1597180312798" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/VoiceAliasSummaryRepo.kt" timestamp="1597246376530">
+        <mark key="[" line="85" column="113" />
+        <mark key="]" line="85" column="123" />
+        <mark key="." line="85" column="122" />
+        <mark key="^" line="85" column="123" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/LeapError.kt" timestamp="1597247189457">
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="19" column="63" />
+        <mark key="." line="19" column="62" />
+        <mark key="^" line="19" column="63" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/communication/CommunicationManagerTest.kt" timestamp="1597247998305">
+        <mark key="'" line="282" column="28" />
+        <mark key="[" line="212" column="58" />
+        <mark key="]" line="242" column="47" />
+        <mark key="." line="242" column="46" />
+        <mark key="^" line="242" column="47" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.kt" timestamp="1597246575587">
+        <mark key="a" line="241" column="20" />
+        <mark key="[" line="253" column="35" />
+        <mark key="]" line="253" column="93" />
+        <mark key="^" line="253" column="93" />
+        <mark key="." line="253" column="92" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/test/java/com.lutron.leaplib/leapmodel/LeapBridgeSystemModelTest.kt" timestamp="1597242534251">
         <mark key="'" line="20" column="8" />
         <mark key="]" line="20" column="67" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/LeapCommunicationError.kt" timestamp="1597248143681">
+        <mark key="[" line="21" column="18" />
+        <mark key="]" line="21" column="90" />
+        <mark key="^" line="21" column="90" />
+        <mark key="." line="21" column="89" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/ServiceRepo.kt" timestamp="1597247572113">
+        <mark key="[" line="96" column="36" />
+        <mark key="]" line="95" column="76" />
+        <mark key="." line="95" column="75" />
+        <mark key="^" line="95" column="76" />
       </file>
       <file name="/Dummy.txt" timestamp="1597244737783">
         <mark key="'" line="0" column="184" />
@@ -174,12 +213,6 @@
         <mark key="^" line="0" column="52" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/LeapTriggerModel.kt" timestamp="1597179929508">
-        <mark key="[" line="13" column="5" />
-        <mark key="]" line="13" column="11" />
-        <mark key="^" line="13" column="11" />
-        <mark key="." line="13" column="10" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/test/java/com.lutron.leaplib/requestcreator/DetectionGroupRequestCreatorTest.kt" timestamp="1597244480736">
         <mark key="'" line="17" column="34" />
         <mark key="[" line="13" column="0" />
@@ -187,8 +220,18 @@
         <mark key="." line="15" column="54" />
         <mark key="^" line="15" column="55" />
       </file>
-      <file name="/fragment.java" timestamp="1597241047825">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/ServiceRepoTest.kt" timestamp="1597248112002">
+        <mark key="'" line="150" column="53" />
+        <mark key="[" line="128" column="89" />
+        <mark key="]" line="128" column="124" />
+        <mark key="." line="128" column="123" />
+        <mark key="^" line="128" column="124" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/voice/VoiceAliasSummaryViewModelTest.kt" timestamp="1597247020475">
+        <mark key="[" line="179" column="60" />
+        <mark key="]" line="179" column="68" />
+        <mark key="^" line="179" column="68" />
+        <mark key="." line="179" column="67" />
       </file>
     </filemarks>
     <jumps>
@@ -300,7 +343,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>ithTimeout(Constants.DEFAULT_READ_TIMEOUT.toLong()) {</text>
+        <text encoding="base64">bW9ja2s8VGltZW91dENhbmNlbGxhdGlvbkV4Y2VwdGlvbj4oKQ==</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -318,7 +361,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>ithTimeout(Constants.DEFAULT_READ_TIMEOUT.toLong()) {</text>
+        <text encoding="base64">bW9ja2s8VGltZW91dENhbmNlbGxhdGlvbkV4Y2VwdGlvbj4oKQ==</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -327,77 +370,53 @@
         <text>leapBridgeSystemModel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbGVhcEJyaWRnZVN5c3RlbU1vZGVsID0gUGFyc2VyRmFjdG9yeS5nZXRKc29uUGFyc2VyKCkucGFyc2UoaW5wdXRTdHJlYW0sIExlYXBCcmlkZ2VTeXN0ZW1Nb2RlbDo6Y2xhc3MuamF2YSkgYXMgTGVhcEJyaWRnZVN5c3RlbU1vZGVsOwoKICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKDQwLjUyMSwgbGVhcEJyaWRnZVN5c3RlbU1vZGVsLmxhdGl0dWRlKTsKICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKC03NS4zNzksIGxlYXBCcmlkZ2VTeXN0ZW1Nb2RlbC5sb25naXR1ZGUpOwogICAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMoIkFtZXJpY2EvTmV3X1lvcmsiLCBsZWFwQnJpZGdlU3lzdGVtTW9kZWwudGltZVpvbmUpOwogICAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMoIi9zeXN0ZW0iLCBsZWFwQnJpZGdlU3lzdGVtTW9kZWwuaHJlZik7Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogU2VuZHMgdGhlIFtyZXF1ZXN0XSB0byB0aGUgY29ubmVjdGlvbiBzZXJ2aWNlIGFuZCBzdXNwZW5kcyB1bnRpbCBvbiBvZiB0aGUgZm9sbG93aW5nIG9jY3VycwogICAgICogMSkgVGhlIHJlc3BvbnNlIGNvcnJlc3BvbmRpbmcgdG8geW91ciByZXF1ZXN0IGlzIHJldHVybmVkLgogICAgICogMikgQW4gZXhjZXB0aW9uIGlzIHRocm93bi4uLgogICAgICogQSkgRHVlIHRvIHJlcXVlc3QgcmV0dXJuaW5nIGFuIGVycm9yCiAgICAgKiBCKSBEdWUgdG8gY29ubmVjdGlvbiBiZWluZyB1bmF2YWlsYWJsZQogICAgICoKICAgICAqIEBwYXJhbSBjb250ZXh0IC0gY29udGV4dCB1c2VkIHRvIGRldGVybWluZSBjb25uZWN0aXZpdHkgb2YgZGV2aWNlCiAgICAgKiBAcGFyYW0gcmVxdWVzdCAtIHJlcXVlc3QgdG8gYmUgc2VudAogICAgICogQHBhcmFtIGNsZWFuZXIgLSBjYWNoZSBjbGVhbmVyIHRoYXQgaXMgcnVuIGFmdGVyIHByb2Nlc3Npbmcgc28gdGhhdCBzdGFsZSBkb21haW4gb2JqZWN0cyBjYW4KICAgICAqIGJlIGNsZWFuZWQgb3V0IHdoZW4gcmVxdWlyZWQsIGlmIG51bGwsIG5vIGNsZWFuaW5nIHdpbGwgYmUgcnVuCiAgICAgKiBAcmV0dXJuIC0gTGlzdCBvZiBCYXNlRE9zIHRoYXQgd2VyZSB1cGRhdGVkL2luc2VydGVkLiAgTnVsbCBpZiBubyBvYmplY3RzIHdlcmUgcmV0dXJuZWQvdXBkYXRlZC9pbnNlcnRlZCBvciBpZgogICAgICogaXQgaXMgbm90IHBvc3NpYmxlIHRvIHJlcHJlc2VudCB0aGUgY2hhbmdlcyBpbiBvbmUgQmFzZURPIChzdWNoIGFzIGluIHRoZSBjYXNlIG9mIGEgbGlzdCkKICAgICAqIEB0aHJvd3MgTGVhcEV4Y2VwdGlvbk1vZGVsICAgICAgICAgICAgICAgICAtIGxlYXAgZXhjZXB0aW9uIGZyb20gYnJpZGdlCiAgICAgKiBAdGhyb3dzIFJlcXVlc3RSZXNwb25zZVByb2Nlc3NpbmdFeGNlcHRpb24gLSBleGNlcHRpb24gZHVlIHRvIGFsbCBvdGhlciBleGNlcHRpb24gbGlrZSBKc29uIHBhcnNpbmcsIERhb0V4Y2VwdGlvbnMgZXRjLgogICAgICovCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>.forEach {
-            it.parentHref = voiceAssistantConfig.href
-            it.insert()
-        }</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBHZXR0aW5nIHJlc3BvbnNlIHByb2Nlc3NpbmcgZXhjZXB0aW9uCiAgICAgICAgY29FdmVyeSB7IHNlcnZpY2VSZXBvLmdldFJlc291cmNlR3JvdXAoIi9zeXNhY3Rpb24iKSB9IHJldHVybnMgUmVxdWVzdFJlc3BvbnNlUHJvY2Vzc2luZ0V4Y2VwdGlvbigpLmxlZnQoKQogICAgICAgIHJlc3VsdCA9IHJ1bkJsb2NraW5nIHsgcmluZ1JlcG8uZ2V0UHJvZ3JhbW1pbmcodHJpZ2dlcikgfQogICAgICAgICAgICAuZm9sZChpZkxlZnQgPSB7IGl0IH0sIGlmUmlnaHQgPSB7IGVycm9yKCJ1bmV4cGVjdGVkIHN1Y2Nlc3MiKSB9KQogICAgICAgIEFzc2VydC5hc3NlcnRFcXVhbHMoUmluZ1JlcG8uUmluZ0Vycm9yLlVua25vd24sIHJlc3VsdClWCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0LmNvZXJjZVRvVHlwZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHJlc3VsdHMuaXNOdWxsT3JFbXB0eSgpKSB7CiAgICAgICAgICAgICAgICBMZWFwRXhjZXB0aW9uKExlYXBFeGNlcHRpb25Nb2RlbCgiVW5leHBlY3RlZCBlbXB0eSByZXNwb25zZSIpKS5sZWZ0KCkKICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text>&quot;&quot;&quot;
-            {
-                &quot;CommuniqueType&quot;:&quot;UpdateRequest&quot;,
-                &quot;Header&quot;:{
-                   &quot;Url&quot;:&quot;/detGroup&quot;
-                },
-                &quot;Body&quot;:{
-                   &quot;DetectionGroup&quot;:{
-                      &quot;TriggerGroup&quot;:{
-                         &quot;Triggers&quot;:[
-                            {
-                               &quot;UUID&quot;:&quot;uuid&quot;
-                            }
-                         ]
-                      },
-                      &quot;EnabledState&quot;:&quot;Enabled&quot;,
-                      &quot;Follows&quot;:{
-                        &quot;href&quot;:&quot;/systemAction&quot;
-                      },
-                      &quot;Parent&quot;:{
-                        &quot;href&quot;:&quot;/parent&quot;
-                      }
-                   }
-                }
-            }
-        &quot;&quot;&quot;.trimIndent()</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuZmFpbCgiU2hvdWxkbnQgaGF2ZSBtYWRlIGl0IHRoaXMgZmFyIikK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text>coAnswers {
+            delay(20_000)
+            // Should be canceled in delay
+            error(&quot;Shouldn't have made it this far&quot;)
+        }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICJEZXRlY3Rpb25Hcm91cCI6ewogICAgICAgICAgICAgICAgICA=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm5AbGF1bmNoCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">OiBMZWFwSHJlZk1vZGVsKCkK</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTHV0TG9nLncoTE9HR0VSX1RBRywgIlJlcXVlc3QgdGltZWQgb3V0IiwgZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sdXRyb24ubGVhcGxpYi5sZWFwbW9kZWwuSHJlZkNvbW1hbmRNb2RlbAo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5FeGNlcHRpb24K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2xlYXBCcmlkZ2VTeXN0ZW1Nb2RlbC9zZXJpYWxNb25pdG9yL2c=</text>
