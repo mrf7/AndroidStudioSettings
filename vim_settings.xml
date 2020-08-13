@@ -172,6 +172,7 @@
         <mark key="^" line="419" column="79" />
         <mark key="." line="419" column="60" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/build.gradle" timestamp="1597329175061" />
       <file name="/fragment.kt" timestamp="1597263982489">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="28" />
@@ -222,9 +223,6 @@
         <mark key="]" line="42" column="33" />
         <mark key="." line="42" column="32" />
         <mark key="^" line="42" column="33" />
-      </file>
-      <file name="/fragment.java" timestamp="1597262672920">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
