@@ -182,9 +182,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/EditDeviceActivity.java" timestamp="1597327607305">
-        <mark key="'" line="1242" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/closecontrol/ui/main/CloseControlViewModel.kt" timestamp="1597349186144">
         <mark key="'" line="77" column="62" />
         <mark key="[" line="74" column="4" />
@@ -197,6 +194,12 @@
         <mark key="]" line="48" column="46" />
         <mark key="." line="48" column="45" />
         <mark key="^" line="48" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/Trigger.java" timestamp="1597417232897">
+        <mark key="[" line="109" column="98" />
+        <mark key="]" line="109" column="99" />
+        <mark key="." line="109" column="98" />
+        <mark key="^" line="109" column="99" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/TriggerProgrammingViewModelTest.kt" timestamp="1597345753913">
         <mark key="[" line="10" column="0" />
@@ -315,7 +318,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>id</text>
+        <text>);</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -333,7 +336,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>);</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
