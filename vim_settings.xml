@@ -148,6 +148,10 @@
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/response/processor/keypad/SystemActionProcessor.java" timestamp="1597433942765" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/request/creator/nest/helper/ActionStatementHelper.java" timestamp="1597434104936" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/request/creator/nest/SystemActionRequestCreator.java" timestamp="1597436164657" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/SystemAction.java" timestamp="1597436017990">
+        <mark key="'" line="76" column="50" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ring/RingDeviceSummaryViewModel.kt" timestamp="1597431026237">
         <mark key="'" line="79" column="82" />
         <mark key="[" line="84" column="0" />
@@ -194,12 +198,6 @@
         <mark key="^" line="87" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/request/creator/nest/helper/SPFindCommandTarget.java" timestamp="1597434203793" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/closecontrol/ui/main/CloseControlFragment.kt" timestamp="1597349069469">
-        <mark key="[" line="48" column="42" />
-        <mark key="]" line="48" column="46" />
-        <mark key="." line="48" column="45" />
-        <mark key="^" line="48" column="46" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/dataModels/IntruderDeterrentTrigger.kt" timestamp="1597434707994" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/DetectionGroup.java" timestamp="1597431060339">
         <mark key="[" line="226" column="0" />
@@ -215,7 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="53" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/ring/RingDeviceSummaryViewModelTest.kt" />
       <jump line="131" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/ring/RingDeviceSummaryViewModelTest.kt" />
       <jump line="222" column="28" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/ring/WorksWithRingViewModelTest.kt" />
       <jump line="24" column="68" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/adapter/RingDeviceRecyclerAdapter.kt" />
@@ -315,6 +312,7 @@
       <jump line="415" column="34" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/RingRepoTest.kt" />
       <jump line="155" column="53" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/ServiceRepoTest.kt" />
       <jump line="75" column="82" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ring/RingDeviceSummaryViewModel.kt" />
+      <jump line="76" column="50" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/SystemAction.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
