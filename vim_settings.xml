@@ -139,7 +139,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/response/processor/keypad/ResponseProcessor.java" timestamp="1597430126687" />
       <file name="$USER_HOME$/Documents/Screwing/CoroutinesTestBench/app/src/main/java/com/mfriend/coroutinestestbench/other/MapAsync.kt" timestamp="1597674396610">
         <mark key="'" line="59" column="15" />
         <mark key="[" line="61" column="65" />
@@ -147,15 +146,10 @@
         <mark key="." line="61" column="65" />
         <mark key="^" line="61" column="71" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/IntruderDeterrentTriggerAdapter.kt" timestamp="1597413279112">
-        <mark key="[" line="82" column="71" />
-        <mark key="]" line="85" column="29" />
-        <mark key="." line="85" column="28" />
-        <mark key="^" line="85" column="29" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.arrow-kt/arrow-core-data/0.10.4/50441bcf2b67ea3a1b7dfa00e21c02e0b5e83ff1/arrow-core-data-0.10.4-sources.jar!/arrow/core/ListK.kt" timestamp="1597670317588" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/response/processor/keypad/SystemActionProcessor.java" timestamp="1597433942765" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/request/creator/nest/helper/ActionStatementHelper.java" timestamp="1597434104936" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/manager/featuremanager/LeapVersionFeatureProvider.kt" timestamp="1597675083216" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/SystemAction.java" timestamp="1597436017990">
         <mark key="'" line="76" column="50" />
       </file>
@@ -178,19 +172,10 @@
         <mark key="^" line="92" column="26" />
         <mark key="." line="92" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/RingRepoTest.kt" timestamp="1597412290160">
-        <mark key="'" line="415" column="34" />
-        <mark key="[" line="394" column="28" />
-        <mark key="]" line="394" column="42" />
-        <mark key="^" line="394" column="42" />
-        <mark key="." line="394" column="41" />
-      </file>
-      <file name="/fragment.kt" timestamp="1597430794169">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/manager/featuremanager/ProductTypeFeatureProvider.kt" timestamp="1597675123369" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/strategy/deviceUtil/CasetaDeviceUtilsStrategy.java" timestamp="1597675166256" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/request/creator/nest/helper/SPFindCommandTarget.java" timestamp="1597434203793" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/manager/featuremanager/FeatureEngine.kt" timestamp="1597675208606" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/dataModels/IntruderDeterrentTrigger.kt" timestamp="1597434707994" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/DetectionGroup.java" timestamp="1597431060339">
         <mark key="[" line="226" column="0" />
