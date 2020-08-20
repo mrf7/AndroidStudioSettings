@@ -179,12 +179,12 @@
         <mark key="." line="98" column="0" />
         <mark key="^" line="154" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModel.kt" timestamp="1597935537313">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModel.kt" timestamp="1597936484375">
         <mark key="'" line="145" column="13" />
-        <mark key="[" line="102" column="102" />
-        <mark key="]" line="102" column="102" />
-        <mark key="^" line="102" column="102" />
-        <mark key="." line="102" column="101" />
+        <mark key="[" line="177" column="79" />
+        <mark key="]" line="178" column="52" />
+        <mark key="^" line="178" column="52" />
+        <mark key="." line="178" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/ControlStation.java" timestamp="1597865094031" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/response/processor/keypad/IResponseProcessor.java" timestamp="1597762458175" />
