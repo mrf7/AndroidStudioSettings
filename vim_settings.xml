@@ -139,7 +139,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/strategy/deviceselectionstrategy/SmartAwayNestCamDeviceSelectionStrategyTest.kt" timestamp="1598018203677">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/strategy/deviceselectionstrategy/SmartAwayNestCamDeviceSelectionStrategyTest.kt" timestamp="1598018352066">
         <mark key="'" line="148" column="30" />
         <mark key="[" line="51" column="33" />
         <mark key="]" line="51" column="34" />
@@ -159,11 +159,6 @@
         <mark key="." line="207" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0/2151d26c3b241f0a887f2dadb9ab091649fcf020/recyclerview-1.0.0-sources.jar!/androidx/recyclerview/widget/DiffUtil.java" timestamp="1597948113416" />
-      <file name="/fragment.kt" timestamp="1597934550997">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/datastore/dao/generated/TriggerTest.kt" timestamp="1597946675001">
         <mark key="[" line="69" column="29" />
         <mark key="]" line="69" column="30" />
@@ -205,10 +200,10 @@
         <mark key="." line="17" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/DetectionGroup.java" timestamp="1598018127479">
-        <mark key="[" line="226" column="0" />
-        <mark key="]" line="226" column="0" />
-        <mark key="." line="226" column="0" />
-        <mark key="^" line="227" column="45" />
+        <mark key="[" line="235" column="0" />
+        <mark key="]" line="235" column="0" />
+        <mark key="." line="235" column="0" />
+        <mark key="^" line="236" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModel.kt" timestamp="1597947883085">
         <mark key="'" line="145" column="13" />
@@ -224,6 +219,7 @@
         <mark key="." line="109" column="90" />
         <mark key="^" line="109" column="124" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1598022763840" />
       <file name="$USER_HOME$/Documents/caseta-android-app/sharedUiComponents/src/main/java/com/lutron/uicomponents/adaptors/BaseRecyclerViewAdapter.java" timestamp="1597947956258" />
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/CloudConstants.java" timestamp="1597948844186" />
     </filemarks>
