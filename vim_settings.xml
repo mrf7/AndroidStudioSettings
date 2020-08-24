@@ -153,13 +153,13 @@
         <mark key="." line="250" column="8" />
         <mark key="^" line="207" column="8" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0/2151d26c3b241f0a887f2dadb9ab091649fcf020/recyclerview-1.0.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java" timestamp="1598291842119" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0/2151d26c3b241f0a887f2dadb9ab091649fcf020/recyclerview-1.0.0-sources.jar!/androidx/recyclerview/widget/DiffUtil.java" timestamp="1597948113416" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/adapter/VoiceAliasEditListAdapter.kt" timestamp="1598291933884">
-        <mark key="[" line="144" column="82" />
-        <mark key="]" line="145" column="30" />
-        <mark key="^" line="145" column="30" />
-        <mark key="." line="145" column="29" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0/2151d26c3b241f0a887f2dadb9ab091649fcf020/recyclerview-1.0.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java" timestamp="1598292018291">
+        <mark key="'" line="10997" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/adapter/VoiceAliasEditListAdapter.kt" timestamp="1598291954658">
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="0" />
+        <mark key="." line="145" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/LeapCommunicationError.kt" timestamp="1597953211774" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/ServiceRepo.kt" timestamp="1598276340407">
@@ -192,12 +192,17 @@
         <mark key="^" line="481" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/strategy/deviceselectionstrategy/deviceselectionviewstrategy/SmartAwayNestCamDeviceSelectionViewStrategy.kt" timestamp="1598018062040" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/dataModels/IntruderDeterrentTrigger.kt" timestamp="1598291913144">
-        <mark key="'" line="49" column="22" />
-        <mark key="[" line="49" column="30" />
-        <mark key="]" line="49" column="37" />
-        <mark key="." line="49" column="36" />
-        <mark key="^" line="49" column="37" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/adapter/CheckableExpandableSectionedDeviceRecyclerViewAdapter.java" timestamp="1598291977062">
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="153" column="0" />
+        <mark key="." line="153" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/dataModels/IntruderDeterrentTrigger.kt" timestamp="1598292836682">
+        <mark key="'" line="49" column="16" />
+        <mark key="[" line="49" column="11" />
+        <mark key="]" line="49" column="24" />
+        <mark key="." line="49" column="23" />
+        <mark key="^" line="49" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/DetectionGroup.java" timestamp="1598018127479">
         <mark key="[" line="235" column="0" />
@@ -221,7 +226,6 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/CloudConstants.java" timestamp="1597948844186" />
     </filemarks>
     <jumps>
-      <jump line="107" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/RingDeviceSummaryFragment.kt" />
       <jump line="164" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/RingDeviceSummaryFragment.kt" />
       <jump line="21" column="17" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/datamodel/RingDevice.kt" />
       <jump line="23" column="22" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/IntruderDeterrentTriggerAdapter.kt" />
@@ -320,7 +324,8 @@
       <jump line="148" column="30" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/strategy/deviceselectionstrategy/SmartAwayNestCamDeviceSelectionStrategyTest.kt" />
       <jump line="132" column="20" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/ServiceRepo.kt" />
       <jump line="47" column="58" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/dataModels/IntruderDeterrentTrigger.kt" />
-      <jump line="49" column="22" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/dataModels/IntruderDeterrentTrigger.kt" />
+      <jump line="10997" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0/2151d26c3b241f0a887f2dadb9ab091649fcf020/recyclerview-1.0.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java" />
+      <jump line="49" column="16" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/dataModels/IntruderDeterrentTrigger.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -362,45 +367,45 @@
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnVuIHR0KGdhbGxlcnlWaWV3SG9sZGVyOiBHYWxsZXJ5Vmlld0hvbGRlcikgewogICAgKGdhbGxlcnlWaWV3SG9sZGVyIGFzIFJlY3ljbGVyVmlldy5WaWV3SG9sZGVyKS5pdGVtVmlldwp9Cg==</text>
+        <text encoding="base64">CmZ1biB0dChnYWxsZXJ5Vmlld0hvbGRlcjogR2FsbGVyeVZpZXdIb2xkZXIpIHsKICAgIGdhbGxlcnlWaWV3SG9sZGVyLml0ZW1WaWV3ID0gbnVsbAp9Cg==</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text>class GalleryViewHolder(view: GalleryItemView) :RecyclerView.ViewHolder(view) {
- val itemView: GalleryItemView = view
-}</text>
+        <text encoding="base64">ICAgICAgICBob2xkZXIuaXRlbVZpZXcgPSBudWxsOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sdXRyb24ubGVhcGxpYi5sZWFwbW9kZWwuTGVhcFRpbWVDbG9ja01vZGVsOwo=</text>
+        <text encoding="base64">ICAgICAgICBob2xkZXIuaXRlbVZpZXcgPSBudWxsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sdXRyb24ubGVhcGxpYi5sZWFwbW9kZWwuTGVhcFN5c3RlbUFjdGlvbk1vZGVsOwo=</text>
+        <text encoding="base64">ZnVuIHR0KGdhbGxlcnlWaWV3SG9sZGVyOiBHYWxsZXJ5Vmlld0hvbGRlcikgewogICAgKGdhbGxlcnlWaWV3SG9sZGVyIGFzIFJlY3ljbGVyVmlldy5WaWV3SG9sZGVyKS5pdGVtVmlldwp9Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sdXRyb24ubGVhcGxpYi5sZWFwbW9kZWwuTGVhcERheUxpZ2h0U2F2aW5nSW5mb01vZGVsOwo=</text>
+        <text>class GalleryViewHolder(view: GalleryItemView) :RecyclerView.ViewHolder(view) {
+ val itemView: GalleryItemView = view
+}</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sdXRyb24ubGVhcGxpYi5sZWFwbW9kZWwuTGVhcEZvbGxvd3NNb2RlbDsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sdXRyb24ubGVhcGxpYi5sZWFwbW9kZWwuTGVhcFRpbWVDbG9ja01vZGVsOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sdXRyb24ubGVhcGxpYi5sZWFwbW9kZWwuTGVhcFByZXNldEFzc2lnbm1lbnRNb2RlbDsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sdXRyb24ubGVhcGxpYi5sZWFwbW9kZWwuTGVhcFN5c3RlbUFjdGlvbk1vZGVsOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sdXRyb24ubGVhcGxpYi5sZWFwbW9kZWwuTGVhcE5lc3RTZXJ2aWNlTW9kZWw7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sdXRyb24ubGVhcGxpYi5sZWFwbW9kZWwuTGVhcERheUxpZ2h0U2F2aW5nSW5mb01vZGVsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sdXRyb24ubGVhcGxpYi5sZWFwbW9kZWwuTGVhcE5lc3RQcm9wZXJ0aWVzTW9kZWw7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sdXRyb24ubGVhcGxpYi5sZWFwbW9kZWwuTGVhcEZvbGxvd3NNb2RlbDsK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyhzfFMpeXN0ZW1BY3Rpb24vZGV0ZWN0aW9uR3JvdXAvZw==</text>
