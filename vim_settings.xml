@@ -146,42 +146,14 @@
         <mark key="'" line="10997" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.61/72876c4e34feff9bf8d93d0b100e71ce6f5f8244/kotlin-stdlib-1.3.61-sources.jar!/kotlin/Collections.kt" timestamp="1598295554900" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ring/RingDeviceSummaryViewModel.kt" timestamp="1598368757793">
-        <mark key="[" line="107" column="47" />
-        <mark key="]" line="107" column="46" />
-        <mark key="." line="107" column="45" />
-        <mark key="^" line="107" column="46" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/RingRepo.kt" timestamp="1598368949489">
-        <mark key="[" line="176" column="42" />
-        <mark key="]" line="177" column="40" />
-        <mark key="^" line="177" column="40" />
-        <mark key="." line="177" column="39" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/RingRepoTest.kt" timestamp="1598369263412">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="502" column="8" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/build.gradle" timestamp="1598303510219">
         <mark key="[" line="89" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/ring/RingDeviceSummaryViewModelTest.kt" timestamp="1598369039246">
-        <mark key="[" line="86" column="52" />
-        <mark key="]" line="86" column="52" />
-        <mark key="." line="86" column="52" />
-      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/ring/RingDeviceSummaryViewModelTest.kt" timestamp="1598369039246" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/adapter/VoiceAliasEditListAdapter.kt" timestamp="1598291954658">
         <mark key="[" line="145" column="0" />
         <mark key="]" line="145" column="0" />
         <mark key="." line="145" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/LeapTimeClockModel.kt" timestamp="1598364747306">
-        <mark key="[" line="16" column="5" />
-        <mark key="]" line="16" column="11" />
-        <mark key="^" line="16" column="11" />
-        <mark key="." line="16" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/interfaces/IDevice.java" timestamp="1598293707615" />
       <file name="$USER_HOME$/Documents/caseta-android-app/Utils/src/main/java/com/lutron/sharedutils/ObservableMutableList.kt" timestamp="1598295532040">
@@ -198,18 +170,6 @@
         <mark key="[" line="153" column="0" />
         <mark key="]" line="153" column="0" />
         <mark key="." line="153" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/LeapDetectionGroupModel.kt" timestamp="1598364717169">
-        <mark key="[" line="14" column="5" />
-        <mark key="]" line="14" column="11" />
-        <mark key="^" line="14" column="11" />
-        <mark key="." line="14" column="10" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/dataModels/IntruderDeterrentTrigger.kt" timestamp="1598368917433">
-        <mark key="[" line="33" column="75" />
-        <mark key="]" line="34" column="65" />
-        <mark key="." line="34" column="64" />
-        <mark key="^" line="34" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModel.kt" timestamp="1598291669338">
         <mark key="'" line="139" column="13" />
