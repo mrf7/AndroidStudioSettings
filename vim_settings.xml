@@ -142,7 +142,6 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/LeapButtonModel.kt" timestamp="1598364657566">
         <mark key="[" line="15" column="5" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.61/72876c4e34feff9bf8d93d0b100e71ce6f5f8244/kotlin-stdlib-1.3.61-sources.jar!/kotlin/Collections.kt" timestamp="1598295554900" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ring/RingDeviceSummaryViewModel.kt" timestamp="1598388736708">
         <mark key="'" line="101" column="29" />
         <mark key="[" line="103" column="73" />
@@ -155,9 +154,6 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/ring/RingDeviceSummaryViewModelTest.kt" timestamp="1598388771013">
         <mark key="'" line="172" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/Utils/src/main/java/com/lutron/sharedutils/ObservableMutableList.kt" timestamp="1598295532040">
-        <mark key="'" line="97" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/DeviceAddedActivity.java" timestamp="1598535400427" />
       <file name="/Dummy.txt" timestamp="1598369494086">
         <mark key="'" line="0" column="184" />
@@ -166,6 +162,7 @@
         <mark key="^" line="0" column="52" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/request/creator/keypad/AffectedResourceRequestCreator.java" timestamp="1598556864353" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModel.kt" timestamp="1598549445249">
         <mark key="'" line="139" column="13" />
         <mark key="[" line="36" column="114" />
