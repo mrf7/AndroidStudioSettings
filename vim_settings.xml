@@ -139,22 +139,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/LeapButtonModel.kt" timestamp="1598364657566">
-        <mark key="[" line="15" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ring/RingDeviceSummaryViewModel.kt" timestamp="1598388736708">
-        <mark key="'" line="101" column="29" />
-        <mark key="[" line="103" column="73" />
-        <mark key="]" line="103" column="73" />
-        <mark key="." line="103" column="73" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/build.gradle" timestamp="1598303510219">
-        <mark key="[" line="89" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/ring/RingDeviceSummaryViewModelTest.kt" timestamp="1598388771013">
-        <mark key="'" line="172" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/DeviceAddedActivity.java" timestamp="1598535400427" />
       <file name="/Dummy.txt" timestamp="1598369494086">
         <mark key="'" line="0" column="184" />
         <mark key="[" line="0" column="0" />
@@ -162,18 +146,28 @@
         <mark key="^" line="0" column="52" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/request/creator/keypad/AffectedResourceRequestCreator.java" timestamp="1598556864353" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModel.kt" timestamp="1598549445249">
-        <mark key="'" line="139" column="13" />
-        <mark key="[" line="36" column="114" />
-        <mark key="]" line="37" column="16" />
-        <mark key="^" line="37" column="16" />
-        <mark key="." line="37" column="15" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/build.gradle" timestamp="1598303510219">
+        <mark key="[" line="89" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/converter/DaoToLeap.java" timestamp="1598389316465" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/converter/LeapToDao.java" timestamp="1598376691643" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/TriggerProgrammingFragment.kt" timestamp="1598388597995" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/ring/RingCloudApi.kt" timestamp="1598549383614" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/ring/RingDeviceSummaryViewModelTest.kt" timestamp="1598388771013">
+        <mark key="'" line="172" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/manager/featuremanager/BuildTypeFeatureProvider.kt" timestamp="1598627320369" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/LeapButtonModel.kt" timestamp="1598364657566">
+        <mark key="[" line="15" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModel.kt" timestamp="1598627777438">
+        <mark key="'" line="139" column="13" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ring/RingDeviceSummaryViewModel.kt" timestamp="1598388736708">
+        <mark key="'" line="101" column="29" />
+        <mark key="[" line="103" column="73" />
+        <mark key="]" line="103" column="73" />
+        <mark key="." line="103" column="73" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="99" column="28" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/BleDeviceSelectorFragment.java" />
