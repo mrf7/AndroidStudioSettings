@@ -149,6 +149,9 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/build.gradle" timestamp="1598303510219">
         <mark key="[" line="89" column="5" />
       </file>
+      <file name="/fragment.kt" timestamp="1598886799646">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/SettingActivity.java" timestamp="1598645264484">
         <mark key="[" line="189" column="0" />
         <mark key="]" line="191" column="9" />
@@ -186,6 +189,7 @@
         <mark key="." line="53" column="0" />
         <mark key="^" line="73" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/data/repository/RingRepo.kt" timestamp="1598888509303" />
       <file name="$USER_HOME$/Documents/caseta-android-app/sharedUiComponents/src/main/java/com/lutron/uicomponents/adaptors/SectionedBaseRecyclerViewAdapter.java" timestamp="1598885726245" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ring/RingDeviceSummaryViewModel.kt" timestamp="1598388736708">
         <mark key="'" line="101" column="29" />
