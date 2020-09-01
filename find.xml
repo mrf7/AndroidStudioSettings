@@ -17,5 +17,6 @@
     <mask>*.xml</mask>
     <mask>*Test.kt</mask>
     <mask>*.kt</mask>
+    <mask>*Ble*</mask>
   </component>
 </application>
