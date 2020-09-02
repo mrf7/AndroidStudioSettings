@@ -139,7 +139,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1598884024714">
+      <file name="/Dummy.txt" timestamp="1599071487038">
         <mark key="'" line="0" column="184" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -170,11 +170,11 @@
         <mark key="." line="41" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/RingDeviceSummaryFragment.kt" timestamp="1599069074165">
-        <mark key="'" line="161" column="48" />
-        <mark key="[" line="159" column="81" />
-        <mark key="]" line="159" column="99" />
-        <mark key="." line="159" column="98" />
-        <mark key="^" line="159" column="99" />
+        <mark key="'" line="160" column="48" />
+        <mark key="[" line="158" column="81" />
+        <mark key="]" line="158" column="99" />
+        <mark key="." line="158" column="98" />
+        <mark key="^" line="158" column="99" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/data/datamodel/RingDevice.kt" timestamp="1599061154623">
         <mark key="'" line="27" column="47" />
