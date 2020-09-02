@@ -152,7 +152,7 @@
         <mark key="." line="69" column="12" />
         <mark key="^" line="69" column="13" />
       </file>
-      <file name="/fragment.kt" timestamp="1598993038902">
+      <file name="/fragment.kt" timestamp="1599062704280">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -204,18 +204,18 @@
         <mark key="." line="94" column="87" />
         <mark key="^" line="94" column="88" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/data/repository/RingRepo.kt" timestamp="1599058886333">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/data/repository/RingRepo.kt" timestamp="1599062840926">
         <mark key="'" line="55" column="29" />
-        <mark key="[" line="180" column="40" />
+        <mark key="[" line="389" column="95" />
         <mark key="]" line="180" column="40" />
         <mark key="." line="180" column="40" />
         <mark key="^" line="180" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/TriggerProgrammingViewModel.kt" timestamp="1598985376849">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-        <mark key="^" line="73" column="22" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/TriggerProgrammingViewModel.kt" timestamp="1599062725063">
+        <mark key="[" line="71" column="31" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="75" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/converter/LeapToDao.java" timestamp="1599054746338">
         <mark key="'" line="195" column="13" />
@@ -330,7 +330,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBPbkxpZmVjeWNsZUV2ZW50KExpZmVjeWNsZS5FdmVudC5PTl9SRVNVTUUpCg==</text>
+        <text>triggerProgramming</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -363,7 +363,7 @@
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBPbkxpZmVjeWNsZUV2ZW50KExpZmVjeWNsZS5FdmVudC5PTl9SRVNVTUUpCg==</text>
+        <text>triggerProgramming</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
@@ -375,19 +375,19 @@
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPbkxpZmVjeWNsZUV2ZW50KExpZmVjeWNsZS5FdmVudC5PTl9SRVNVTUUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Py5vYnNlcnZlKHZpZXdMaWZlY3ljbGVPd25lcikgeyByZXN1bHQgLT4KICAgICAgICAgICAKICAgICAgICAgICAgfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmluZ1NlcnZpY2UgPQogICAgICAgICAgICBzZXJ2aWNlUmVwby5sZWFwUmVzb3VyY2VEYXRhU291cmNlLnJlYWQocmluZ1NlcnZpY2VIcmVmLCBSaW5nU2VydmljZTo6Y2xhc3MuamF2YSkuYXNzZXJ0UmlnaHQoKQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">Py5vYnNlcnZlKHZpZXdMaWZlY3ljbGVPd25lcikgeyByZXN1bHQgLT4KICAgICAgICAgICAKICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgcmluZ1NlcnZpY2UgPQogICAgICAgICAgICBzZXJ2aWNlUmVwby5sZWFwUmVzb3VyY2VEYXRhU291cmNlLnJlYWQocmluZ1NlcnZpY2VIcmVmLCBSaW5nU2VydmljZTo6Y2xhc3MuamF2YSkuYXNzZXJ0UmlnaHQoKQo=</text>
@@ -396,10 +396,10 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9yCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmluZ1NlcnZpY2UgPQogICAgICAgICAgICBzZXJ2aWNlUmVwby5sZWFwUmVzb3VyY2VEYXRhU291cmNlLnJlYWQocmluZ1NlcnZpY2VIcmVmLCBSaW5nU2VydmljZTo6Y2xhc3MuamF2YSkuYXNzZXJ0UmlnaHQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG5vIGVycm9yIGV4cGVjdGVkIHRvIGxvYWQgdGhlIGRhdGEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9yCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyhzfFMpeXN0ZW1BY3Rpb24vZGV0ZWN0aW9uR3JvdXAvZw==</text>
