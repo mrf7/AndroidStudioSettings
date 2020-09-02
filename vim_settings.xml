@@ -174,17 +174,15 @@
         <mark key="]" line="41" column="4" />
         <mark key="." line="41" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/presenter/ring/RingDeviceSummaryViewModelTest.kt" timestamp="1598388771013">
-        <mark key="'" line="172" column="0" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/data/datamodel/RingDevice.kt" timestamp="1599054116213">
+        <mark key="'" line="27" column="47" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/LeapButtonModel.kt" timestamp="1598364657566">
-        <mark key="[" line="15" column="5" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/dataModels/IntruderDeterrentTrigger.kt" timestamp="1599054169462" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/DetectionGroup.java" timestamp="1599054726919">
+        <mark key="'" line="213" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/DetectionGroup.java" timestamp="1598987075253">
-        <mark key="'" line="196" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModel.kt" timestamp="1598987383865">
-        <mark key="'" line="139" column="13" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModel.kt" timestamp="1599054275292">
+        <mark key="'" line="37" column="61" />
         <mark key="[" line="146" column="13" />
         <mark key="]" line="146" column="55" />
         <mark key="." line="146" column="54" />
@@ -211,28 +209,20 @@
         <mark key="." line="53" column="0" />
         <mark key="^" line="73" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/data/repository/RingRepo.kt" timestamp="1598993307790">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/data/repository/RingRepo.kt" timestamp="1599054559191">
         <mark key="'" line="55" column="29" />
-        <mark key="[" line="180" column="107" />
-        <mark key="]" line="180" column="121" />
-        <mark key="." line="180" column="120" />
-        <mark key="^" line="180" column="121" />
+        <mark key="[" line="180" column="40" />
+        <mark key="]" line="180" column="40" />
+        <mark key="." line="180" column="40" />
+        <mark key="^" line="180" column="43" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1598989612144" />
       <file name="$USER_HOME$/Documents/caseta-android-app/sharedUiComponents/src/main/java/com/lutron/uicomponents/adaptors/SectionedBaseRecyclerViewAdapter.java" timestamp="1598885726245" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ring/RingDeviceSummaryViewModel.kt" timestamp="1598388736708">
-        <mark key="'" line="101" column="29" />
-        <mark key="[" line="103" column="73" />
-        <mark key="]" line="103" column="73" />
-        <mark key="." line="103" column="73" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/converter/LeapToDao.java" timestamp="1599054746338">
+        <mark key="'" line="195" column="13" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="$USER_HOME$/Documents/Screwing/CloseControl/app/build.gradle" />
-      <jump line="20" column="23" filename="$USER_HOME$/Documents/Screwing/CloseControl/app/build.gradle" />
-      <jump line="21" column="28" filename="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/ui/main/MainFragment.kt" />
-      <jump line="15" column="21" filename="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/ui/main/MainViewModel.kt" />
-      <jump line="47" column="58" filename="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/ui/main/MainViewModel.kt" />
       <jump line="243" column="35" filename="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bfdc40c3e2bd32613cf67f6619c3e020/jetified-android-beacon-library-2.17.1/jars/classes.jar!/org/altbeacon/beacon/Beacon.class" />
       <jump line="43" column="59" filename="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/ui/main/MainViewModel.kt" />
       <jump line="32" column="23" filename="$USER_HOME$/Documents/Screwing/CloseControl/app/src/main/java/com/mfriend/closecontrol/ui/main/MainViewModel.kt" />
@@ -328,6 +318,11 @@
       <jump line="179" column="36" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/data/repository/RingRepo.kt" />
       <jump line="54" column="29" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/data/repository/RingRepo.kt" />
       <jump line="38" column="6" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/ServiceRepo.kt" />
+      <jump line="134" column="46" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModel.kt" />
+      <jump line="37" column="61" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModel.kt" />
+      <jump line="27" column="47" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/data/datamodel/RingDevice.kt" />
+      <jump line="213" column="41" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/DetectionGroup.java" />
+      <jump line="195" column="13" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/converter/LeapToDao.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -335,8 +330,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9yCg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -354,7 +349,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZSA=</text>
+        <text>s</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -369,43 +364,43 @@
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9yCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmluZ1NlcnZpY2UgPQogICAgICAgICAgICBzZXJ2aWNlUmVwby5sZWFwUmVzb3VyY2VEYXRhU291cmNlLnJlYWQocmluZ1NlcnZpY2VIcmVmLCBSaW5nU2VydmljZTo6Y2xhc3MuamF2YSkuYXNzZXJ0UmlnaHQoKQo=</text>
       </register>
       <register name="q" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG5vIGVycm9yIGV4cGVjdGVkIHRvIGxvYWQgdGhlIGRhdGEK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcmluZ1NlcnZpY2UgPQogICAgICAgICAgICBzZXJ2aWNlUmVwby5sZWFwUmVzb3VyY2VEYXRhU291cmNlLnJlYWQocmluZ1NlcnZpY2VIcmVmLCBSaW5nU2VydmljZTo6Y2xhc3MuamF2YSkuYXNzZXJ0UmlnaHQoKQo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KChkZXRlY3Rpb25Hcm91cHMgYXMgamF2YS51dGlsLkFycmF5TGlzdDwqPilbMF0gYXMgRGV0ZWN0aW9uR3JvdXApLnRyaWdnZXJz</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9yCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIG5vIGVycm9yIGV4cGVjdGVkIHRvIGxvYWQgdGhlIGRhdGEK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBDcmVhdGUgYSBsb29rdXAgdGFibGUgZnJvbSB0aGUgbGlzdCBvZiBkZXRlY3Rpb24gZ3JvdXBzIGZvciBlYXNpZXIgc2VhcmNoaW5nIGJ5IHV1aWQuIFdyYXAgdGhhdCBhbmQKICAgICAgICAvLyBjbG91ZCBkZXZpY2VzIGluIGEgcGFpciBmb3IgdGhlIG5leHQgb3BlcmF0aW9uCg==</text>
+        <text encoding="base64">KChkZXRlY3Rpb25Hcm91cHMgYXMgamF2YS51dGlsLkFycmF5TGlzdDwqPilbMF0gYXMgRGV0ZWN0aW9uR3JvdXApLnRyaWdnZXJz</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjbG91ZERldmljZXMgdG8gY3JlYXRlTG9va3VwVGFibGUoZGV0ZWN0aW9uR3JvdXBzKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2aWNlUmVwbwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBDcmVhdGUgYSBsb29rdXAgdGFibGUgZnJvbSB0aGUgbGlzdCBvZiBkZXRlY3Rpb24gZ3JvdXBzIGZvciBlYXNpZXIgc2VhcmNoaW5nIGJ5IHV1aWQuIFdyYXAgdGhhdCBhbmQKICAgICAgICAvLyBjbG91ZCBkZXZpY2VzIGluIGEgcGFpciBmb3IgdGhlIG5leHQgb3BlcmF0aW9uCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjbG91ZERldmljZXMgdG8gY3JlYXRlTG9va3VwVGFibGUoZGV0ZWN0aW9uR3JvdXBzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzZXJ2aWNlUmVwbwo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyhzfFMpeXN0ZW1BY3Rpb24vZGV0ZWN0aW9uR3JvdXAvZw==</text>
