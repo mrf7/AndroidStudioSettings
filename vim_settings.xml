@@ -182,12 +182,12 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/DetectionGroup.java" timestamp="1599054726919">
         <mark key="'" line="213" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModel.kt" timestamp="1599069455120">
-        <mark key="'" line="160" column="12" />
-        <mark key="[" line="157" column="8" />
-        <mark key="]" line="157" column="29" />
-        <mark key="." line="157" column="28" />
-        <mark key="^" line="157" column="29" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModel.kt" timestamp="1599138002700">
+        <mark key="'" line="162" column="12" />
+        <mark key="[" line="192" column="70" />
+        <mark key="]" line="199" column="0" />
+        <mark key="." line="199" column="0" />
+        <mark key="^" line="199" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/build.gradle" timestamp="1598885561432">
         <mark key="[" line="35" column="0" />
