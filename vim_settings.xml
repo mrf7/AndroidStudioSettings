@@ -157,12 +157,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ring/data/repository/RingRepoTest.kt" timestamp="1599145440065">
-        <mark key="'" line="383" column="41" />
-        <mark key="[" line="379" column="47" />
-        <mark key="]" line="379" column="58" />
-        <mark key="^" line="379" column="58" />
-        <mark key="." line="379" column="57" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ring/data/repository/RingRepoTest.kt" timestamp="1599147179983">
+        <mark key="'" line="391" column="41" />
+        <mark key="[" line="611" column="94" />
+        <mark key="]" line="612" column="105" />
+        <mark key="^" line="612" column="105" />
+        <mark key="." line="612" column="104" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/LutBleDevice.java" timestamp="1598989984253">
         <mark key="[" line="237" column="35" />
@@ -200,10 +200,11 @@
         <mark key="." line="105" column="86" />
         <mark key="^" line="105" column="87" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/data/repository/RingRepo.kt" timestamp="1599145219931">
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/data/repository/RingRepo.kt" timestamp="1599146989509">
+        <mark key="[" line="330" column="46" />
+        <mark key="]" line="330" column="56" />
+        <mark key="." line="330" column="55" />
+        <mark key="^" line="330" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/TriggerProgrammingViewModel.kt" timestamp="1599144461686">
         <mark key="[" line="72" column="0" />
@@ -329,8 +330,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text>WIP refresh data after editing programming</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -348,7 +349,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>t</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -357,7 +358,7 @@
         <text>mostRecentData</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBfc2NyZWVuU3RhdGUudmFsdWUgPSBTY3JlZW5TdGF0ZS5Mb2FkaW5nKFIuc3RyaW5nLnByb2dyZXNzX21lc3NhZ2VfbG9hZGluZykKICAgICAgICBMb2cuZCgiTVJGIiwgIkxvYWRpbmcgbmV3IGRhdGEgaW4gZGV2aWNlIHN1bW1hcnkiKQogICAgICAgIHZhbCBsb2FkUmVzdWx0ID0gZ2V0RGV2aWNlU3VtbWFyeShyaW5nRGV2aWNlKS5mb2xkKHsgU2NyZWVuU3RhdGUuRXJyb3IoaXQpIH0sIHsgU2NyZWVuU3RhdGUuRGF0YShpdCkgfSkKICAgICAgICBfc2NyZWVuU3RhdGUudmFsdWUgPSBsb2FkUmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb0V2ZXJ5IHsgcmluZ1NlcnZpY2VEQkRhdGFTb3VyY2UuZ2V0UmluZ1NlcnZpY2UoKSEhLmRldGVjdGlvbkdyb3VwcyB9IHJldHVybnMgbGlzdE9mKERldGVjdGlvbkdyb3VwKCkuYXBwbHkgewogICAgICAgICAgICB0cmlnZ2VycyA9IGxpc3RPZihUcmlnZ2VyKCkuYWxzbyB7IGl0LnV1aWQgPSAidXVpZDEiIH0pCiAgICAgICAgICAgIGZvbGxvd3MgPSAiL3N5c2FjdGlvbiIKICAgICAgICB9KQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
