@@ -157,12 +157,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ring/data/repository/RingRepoTest.kt" timestamp="1599147179983">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ring/data/repository/RingRepoTest.kt" timestamp="1599147778962">
         <mark key="'" line="391" column="41" />
-        <mark key="[" line="611" column="94" />
-        <mark key="]" line="612" column="105" />
-        <mark key="^" line="612" column="105" />
-        <mark key="." line="612" column="104" />
+        <mark key="[" line="628" column="74" />
+        <mark key="]" line="628" column="78" />
+        <mark key="^" line="628" column="78" />
+        <mark key="." line="628" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/bluetooth-claiming/src/main/java/com/lutron/bluetoothclaiming/LutBleDevice.java" timestamp="1598989984253">
         <mark key="[" line="237" column="35" />
@@ -331,7 +331,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>false</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -349,7 +349,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>false</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
