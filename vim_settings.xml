@@ -160,7 +160,7 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="213" column="77" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/data/repository/RingRepo.kt" timestamp="1599227235487">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/data/repository/RingRepo.kt" timestamp="1599228263254">
         <mark key="'" line="460" column="32" />
         <mark key="[" line="319" column="17" />
         <mark key="]" line="462" column="16" />
@@ -174,18 +174,18 @@
         <mark key="." line="31" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/sharedUiComponents/src/main/java/com/lutron/uicomponents/viewmodels/CommonCheckableViewModel.java" timestamp="1599156556352" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/WorksWithRingViewModel.kt" timestamp="1599225891597">
-        <mark key="'" line="116" column="102" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="^" line="119" column="12" />
-        <mark key="." line="115" column="0" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/WorksWithRingViewModel.kt" timestamp="1599228091310">
+        <mark key="'" line="117" column="102" />
+        <mark key="[" line="118" column="25" />
+        <mark key="]" line="116" column="0" />
+        <mark key="^" line="120" column="12" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/casetaMasterStrings/AppMasterStrings.txt" timestamp="1599161053672">
         <mark key="[" line="7057" column="5" />
         <mark key="]" line="7057" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1599227635166">
+      <file name="/Dummy.txt" timestamp="1599228169578">
         <mark key="'" line="0" column="184" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
