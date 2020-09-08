@@ -153,10 +153,17 @@
         <mark key="^" line="17" column="110" />
         <mark key="." line="17" column="109" />
       </file>
-      <file name="$USER_HOME$/Documents/Screwing/KmmApp/iosApp/iosAppTests/iosAppTests.swift" timestamp="1599576210772" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ring/data/repository/RingRepoTest.kt" timestamp="1599227531487">
         <mark key="[" line="320" column="94" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/RingDeviceSummaryFragment.kt" timestamp="1599168523092">
+        <mark key="'" line="157" column="0" />
+        <mark key="[" line="157" column="101" />
+        <mark key="]" line="158" column="58" />
+        <mark key="^" line="158" column="58" />
+        <mark key="." line="158" column="57" />
+      </file>
+      <file name="$USER_HOME$/Documents/Screwing/KmmApp/iosApp/iosAppTests/iosAppTests.swift" timestamp="1599576210772" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/TriggerProgrammingFragment.kt" timestamp="1599227461996">
         <mark key="'" line="7" column="64" />
       </file>
@@ -172,16 +179,6 @@
         <mark key="]" line="462" column="16" />
         <mark key="." line="462" column="15" />
         <mark key="^" line="462" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/HomeActivity.java" timestamp="1599250938882">
-        <mark key="'" line="155" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/RingDeviceSummaryFragment.kt" timestamp="1599168523092">
-        <mark key="'" line="157" column="0" />
-        <mark key="[" line="157" column="101" />
-        <mark key="]" line="158" column="58" />
-        <mark key="^" line="158" column="58" />
-        <mark key="." line="158" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/layout/status_bar_thermostat_view.xml" timestamp="1599251756964">
         <mark key="[" line="10" column="55" />
