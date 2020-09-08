@@ -139,11 +139,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/usecase/LightStatusTracker.kt" timestamp="1599253143047">
-        <mark key="[" line="47" column="79" />
-        <mark key="]" line="47" column="78" />
-        <mark key="^" line="47" column="78" />
-        <mark key="." line="47" column="77" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/usecase/LightStatusTracker.kt" timestamp="1599253335910">
+        <mark key="[" line="17" column="108" />
+        <mark key="]" line="17" column="110" />
+        <mark key="^" line="17" column="110" />
+        <mark key="." line="17" column="109" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/HomeActivity.java" timestamp="1599250938882">
         <mark key="'" line="155" column="13" />
