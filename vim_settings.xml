@@ -160,10 +160,11 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/TriggerProgrammingFragment.kt" timestamp="1599227461996">
         <mark key="'" line="7" column="64" />
       </file>
-      <file name="$USER_HOME$/Downloads/RoomControlExample/app/src/main/java/com/curbell/roomcontrolexample/MainActivity.java" timestamp="1599590931054">
-        <mark key="[" line="494" column="0" />
-        <mark key="]" line="494" column="0" />
-        <mark key="." line="494" column="0" />
+      <file name="$USER_HOME$/Downloads/RoomControlExample/app/src/main/java/com/curbell/roomcontrolexample/MainActivity.java" timestamp="1599590993544">
+        <mark key="[" line="416" column="21" />
+        <mark key="]" line="416" column="21" />
+        <mark key="." line="416" column="20" />
+        <mark key="^" line="416" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/data/repository/RingRepo.kt" timestamp="1599228263254">
         <mark key="'" line="460" column="32" />
