@@ -42,13 +42,13 @@
         <entry encoding="base64">JzwsJz5zL2FjdHVhbEUvZS9n</entry>
         <entry encoding="base64">JzwsJz5zL2dldFN5c3RlbUFjdGlvbi9nZXRSZXNvdXJjZUdyb3VwL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2JlYWNvbnMvaXQvZw==</entry>
-        <entry>reg</entry>
         <entry encoding="base64">JzwsJz5zL3N5c3RlbUFjdGlvbkRhdGEvZXZlbnRUeXBlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2lucHV0U3RyZWFtL291dHB1dC9n</entry>
         <entry encoding="base64">JzwsJz5zL2xlYXBCcmlkZ2VTeXN0ZW1Nb2RlbC9zZXJpYWxNb25pdG9yL2c=</entry>
         <entry encoding="base64">JzwsJz5zLyhzfFMpeXN0ZW1BY3Rpb24vZGV0ZWN0aW9uR3JvdXAvZw==</entry>
         <entry encoding="base64">JzwsJz5zL21vc3RSZWNlbnREYXRhL29sZERhdGEvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyJrZXkiL1VQREFURURfVFJJR0dFUl9LRVkvZw==</entry>
+        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -184,26 +184,13 @@
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/view/ViewGroup.java" timestamp="1599595770770">
         <mark key="'" line="8949" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/TriggerProgrammingFragment.kt" timestamp="1599680789320">
-        <mark key="'" line="141" column="43" />
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="." line="143" column="0" />
-        <mark key="^" line="142" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ring/usecase/presenter/TriggerProgrammingViewModelTest.kt" timestamp="1599681562757">
-        <mark key="[" line="227" column="33" />
-        <mark key="]" line="227" column="48" />
-        <mark key="." line="227" column="47" />
-        <mark key="^" line="227" column="48" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/data/repository/RingRepo.kt" timestamp="1599673443936">
         <mark key="[" line="145" column="0" />
         <mark key="]" line="145" column="0" />
         <mark key="." line="145" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/TriggerProgrammingViewModel.kt" timestamp="1599680909995">
-        <mark key="'" line="183" column="0" />
+        <mark key="'" line="176" column="0" />
         <mark key="[" line="90" column="7" />
         <mark key="]" line="90" column="69" />
         <mark key="." line="90" column="68" />
