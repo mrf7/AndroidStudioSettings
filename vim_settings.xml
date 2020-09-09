@@ -158,23 +158,19 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/Utils/src/main/java/com/lutron/sharedutils/extension/CollectionExtension.kt" timestamp="1599673415196">
         <mark key="'" line="65" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/RingDeviceSummaryFragment.kt" timestamp="1599168523092">
-        <mark key="'" line="157" column="0" />
-        <mark key="[" line="157" column="101" />
-        <mark key="]" line="158" column="58" />
-        <mark key="^" line="158" column="58" />
-        <mark key="." line="158" column="57" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.activity/activity/1.1.0/4ee68d89e86e4d40bd44c0e2efe7e63716320932/activity-1.1.0-sources.jar!/androidx/activity/OnBackPressedCallback.java" timestamp="1599667021514" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/values/strings.xml" timestamp="1599675910863">
+        <mark key="'" line="1578" column="18" />
+      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/view/ViewGroup.java" timestamp="1599595770770">
         <mark key="'" line="8949" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/TriggerProgrammingFragment.kt" timestamp="1599675854098">
-        <mark key="'" line="45" column="35" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/TriggerProgrammingFragment.kt" timestamp="1599675890784">
+        <mark key="'" line="128" column="60" />
         <mark key="[" line="128" column="35" />
-        <mark key="]" line="128" column="47" />
-        <mark key="." line="128" column="46" />
-        <mark key="^" line="128" column="47" />
+        <mark key="]" line="128" column="61" />
+        <mark key="." line="128" column="60" />
+        <mark key="^" line="128" column="61" />
       </file>
       <file name="$USER_HOME$/Downloads/RoomControlExample/app/src/main/java/com/curbell/roomcontrolexample/MainActivity.java" timestamp="1599591705083">
         <mark key="[" line="128" column="28" />
@@ -212,8 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="457" column="58" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/RingRepoTest.kt" />
-      <jump line="501" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/RingRepoTest.kt" />
       <jump line="144" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/adapter/AreaDevicesExpandableListAdapter.java" />
       <jump line="568" column="4" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/DeviceListFragment.java" />
       <jump line="616" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/DeviceListFragment.java" />
@@ -312,6 +306,8 @@
       <jump line="176" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/TriggerProgrammingViewModel.kt" />
       <jump line="65" column="31" filename="$USER_HOME$/Documents/caseta-android-app/Utils/src/main/java/com/lutron/sharedutils/extension/CollectionExtension.kt" />
       <jump line="145" column="35" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/data/repository/RingRepo.kt" />
+      <jump line="128" column="60" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/TriggerProgrammingFragment.kt" />
+      <jump line="1578" column="18" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/values/strings.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -320,7 +316,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>btn_title_cancel</text>
+        <text>btn_title_no</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -338,7 +334,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>btn_title_cancel</text>
+        <text>btn_title_no</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
