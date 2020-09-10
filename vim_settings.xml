@@ -171,14 +171,10 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/PrivacySettingsActivity.kt" timestamp="1599744560166">
         <mark key="'" line="8" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/menu/save_menu.xml" timestamp="1599680265557">
-        <mark key="'" line="14" column="8" />
-        <mark key="[" line="8" column="31" />
-        <mark key="]" line="8" column="45" />
-        <mark key="." line="8" column="44" />
-        <mark key="^" line="8" column="45" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/datasource/ITrackerVisitor.kt" timestamp="1599767815983" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/helper/HomeStatusHelper.java" timestamp="1599770494173">
+        <mark key="'" line="51" column="49" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/VoiceAliasEditFragment.kt" timestamp="1599686107449">
         <mark key="'" line="158" column="45" />
       </file>
@@ -204,10 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="63" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModelTest.kt" />
-      <jump line="7019" column="30" filename="$USER_HOME$/Documents/caseta-android-app/app/casetaMasterStrings/AppMasterStrings.txt" />
-      <jump line="82" column="103" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModel.kt" />
-      <jump line="215" column="34" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/data/repository/RingRepo.kt" />
       <jump line="198" column="43" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModelTest.kt" />
       <jump line="225" column="60" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModelTest.kt" />
       <jump line="258" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModelTest.kt" />
@@ -304,6 +296,10 @@
       <jump line="147" column="40" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/TriggerProgrammingFragment.kt" />
       <jump line="28" column="16" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/usecase/LightStatusTracker.kt" />
       <jump line="90" column="55" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/view/IconTextVisitor.kt" />
+      <jump line="38" column="13" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/helper/HomeStatusHelper.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/helper/HomeStatusHelper.java" />
+      <jump line="62" column="49" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/helper/HomeStatusHelper.java" />
+      <jump line="51" column="49" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/helper/HomeStatusHelper.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
