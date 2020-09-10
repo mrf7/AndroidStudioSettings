@@ -171,7 +171,7 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/RingSplashFragment.kt" timestamp="1599746215881" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/layout/onboarding_fragment.xml" timestamp="1599745995356" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/activity/RingSetupActivity.kt" timestamp="1599678468667" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BaseActivity.java" timestamp="1599744695119">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BaseActivity.java" timestamp="1599753699057">
         <mark key="'" line="215" column="11" />
         <mark key="[" line="216" column="0" />
         <mark key="]" line="216" column="0" />
