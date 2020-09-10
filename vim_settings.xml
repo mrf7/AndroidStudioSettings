@@ -145,13 +145,12 @@
         <mark key="." line="42" column="42" />
         <mark key="^" line="42" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/EditSceneBaseActivity.java" timestamp="1599678495656">
-        <mark key="'" line="95" column="8" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/dataModels/TriggerProgramming.kt" timestamp="1599679940542" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/app/AlertDialog.java" timestamp="1599754650279" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/TriggerProgrammingFragment.kt" timestamp="1599744576281">
         <mark key="'" line="145" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/content/DialogInterface.java" timestamp="1599754641776" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/OnboardingViewModel.kt" timestamp="1599685383184">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -165,12 +164,12 @@
         <mark key="^" line="0" column="52" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/DiscardChangesDialogFragment.kt" timestamp="1599754707260" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.1.0/9865019bbd2d95e41dede3d8ebf964aa93f97766/appcompat-1.1.0-sources.jar!/androidx/appcompat/app/ActionBar.java" timestamp="1599744697209">
         <mark key="'" line="91" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/RingSplashFragment.kt" timestamp="1599746215881" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/layout/onboarding_fragment.xml" timestamp="1599745995356" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/activity/RingSetupActivity.kt" timestamp="1599678468667" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BaseActivity.java" timestamp="1599753699057">
         <mark key="'" line="215" column="11" />
         <mark key="[" line="216" column="0" />
@@ -190,9 +189,6 @@
         <mark key="]" line="8" column="45" />
         <mark key="." line="8" column="44" />
         <mark key="^" line="8" column="45" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/values/strings.xml" timestamp="1599678872486">
-        <mark key="'" line="16" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/VoiceAliasEditFragment.kt" timestamp="1599686107449">
         <mark key="'" line="158" column="45" />
