@@ -139,27 +139,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/navigation/ring_nav_graph.xml" timestamp="1599746305441">
-        <mark key="[" line="42" column="29" />
-        <mark key="]" line="42" column="43" />
-        <mark key="." line="42" column="42" />
-        <mark key="^" line="42" column="43" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/dataModels/TriggerProgramming.kt" timestamp="1599679940542" />
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/app/AlertDialog.java" timestamp="1599754650279" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/TriggerProgrammingFragment.kt" timestamp="1599756875586">
-        <mark key="'" line="145" column="40" />
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
-      </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/content/DialogInterface.java" timestamp="1599754641776" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/OnboardingViewModel.kt" timestamp="1599685383184">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="19" column="142" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1599757467600">
         <mark key="'" line="0" column="184" />
         <mark key="[" line="0" column="0" />
@@ -167,21 +146,27 @@
         <mark key="^" line="0" column="52" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/DiscardChangesDialogFragment.kt" timestamp="1599754801042" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/navigation/ring_nav_graph.xml" timestamp="1599746305441">
+        <mark key="[" line="42" column="29" />
+        <mark key="]" line="42" column="43" />
+        <mark key="." line="42" column="42" />
+        <mark key="^" line="42" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/usecase/LightStatusTracker.kt" timestamp="1599766852018">
+        <mark key="'" line="28" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/view/IconTextVisitor.kt" timestamp="1599767976006">
+        <mark key="'" line="90" column="55" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.1.0/9865019bbd2d95e41dede3d8ebf964aa93f97766/appcompat-1.1.0-sources.jar!/androidx/appcompat/app/ActionBar.java" timestamp="1599744697209">
         <mark key="'" line="91" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/RingSplashFragment.kt" timestamp="1599746215881" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/layout/onboarding_fragment.xml" timestamp="1599745995356" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/view/IconTextBulletinRenderer.kt" timestamp="1599767412988" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BaseActivity.java" timestamp="1599753699057">
         <mark key="'" line="215" column="11" />
         <mark key="[" line="216" column="0" />
         <mark key="]" line="216" column="0" />
         <mark key="." line="216" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/menu/next_menu.xml" timestamp="1599680246508">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="7" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/PrivacySettingsActivity.kt" timestamp="1599744560166">
         <mark key="'" line="8" column="26" />
@@ -193,6 +178,7 @@
         <mark key="." line="8" column="44" />
         <mark key="^" line="8" column="45" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/datasource/ITrackerVisitor.kt" timestamp="1599767815983" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/VoiceAliasEditFragment.kt" timestamp="1599686107449">
         <mark key="'" line="158" column="45" />
       </file>
@@ -203,6 +189,12 @@
         <mark key="." line="90" column="68" />
         <mark key="^" line="90" column="69" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/OnboardingViewModel.kt" timestamp="1599685383184">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="19" column="142" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/OnboardingFragment.kt" timestamp="1599683858621">
         <mark key="'" line="73" column="56" />
         <mark key="[" line="71" column="41" />
@@ -212,8 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="60" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/TriggerProgrammingViewModel.kt" />
-      <jump line="181" column="11" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModelTest.kt" />
       <jump line="183" column="63" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModelTest.kt" />
       <jump line="7019" column="30" filename="$USER_HOME$/Documents/caseta-android-app/app/casetaMasterStrings/AppMasterStrings.txt" />
       <jump line="82" column="103" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModel.kt" />
@@ -312,6 +302,8 @@
       <jump line="62" column="72" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/OnBoardingFragment.kt" />
       <jump line="72" column="32" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/OnBoardingFragment.kt" />
       <jump line="147" column="40" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/TriggerProgrammingFragment.kt" />
+      <jump line="28" column="16" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/usecase/LightStatusTracker.kt" />
+      <jump line="90" column="55" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/view/IconTextVisitor.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -355,8 +347,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="q" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ29tbWFuZFJlc3VsdCBtQ29tbWFuZFJlc3VsdDsK</text>
+      <register name="q" type="4">
+        <text />
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gYmFzZUFjdGl2aXR5LnNob3dBbGVydERpYWxvZygKICAgICAgICAgICAgLy8gICAgIGdldFN0cmluZyhSLnN0cmluZy5idG5fdGl0bGVfc2F2ZSksCiAgICAgICAgICAgIC8vICAgICB7IF8sIF8gLT4KICAgICAgICAgICAgLy8gICAgICAgICB2aWV3TW9kZWwuc2F2ZVByb2dyYW1taW5nKHN3aXRjaEVmZmVjdGl2ZUF0TmlnaHQuaXNDaGVja2VkLCBsaXN0QWRhcHRlci5jaGlsZFNlbGVjdGlvbikKICAgICAgICAgICAgLy8gICAgIH0sCiAgICAgICAgICAgIC8vICAgICBnZXRTdHJpbmcoUi5zdHJpbmcuYWxlcnRfYnV0dG9uX3RpdGxlX2Rpc2NhcmQpLAogICAgICAgICAgICAvLyAgICAgeyBfLCBfIC0+IHZpZXdNb2RlbC5kaXNjYXJkQ2hhbmdlcygpIH0sCiAgICAgICAgICAgIC8vICAgICAiIiwgZ2V0U3RyaW5nKFIuc3RyaW5nLmFsZXJ0X21lc3NhZ2VfY29uZmlybV9leGl0KQogICAgICAgICAgICAvLyApCg==</text>
