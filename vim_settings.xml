@@ -173,17 +173,10 @@
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/datasource/ITrackerVisitor.kt" timestamp="1599767815983" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/helper/HomeStatusHelper.java" timestamp="1599770494173">
-        <mark key="'" line="51" column="49" />
+        <mark key="'" line="215" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/VoiceAliasEditFragment.kt" timestamp="1599686107449">
         <mark key="'" line="158" column="45" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/TriggerProgrammingViewModel.kt" timestamp="1599680909995">
-        <mark key="'" line="176" column="0" />
-        <mark key="[" line="90" column="7" />
-        <mark key="]" line="90" column="69" />
-        <mark key="." line="90" column="68" />
-        <mark key="^" line="90" column="69" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/OnboardingViewModel.kt" timestamp="1599685383184">
         <mark key="[" line="28" column="0" />
