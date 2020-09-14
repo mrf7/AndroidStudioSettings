@@ -157,7 +157,7 @@
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/response/processor/keypad/ResponseProcessor.java" timestamp="1599854948948" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BaseBleActivity.kt" timestamp="1599846647690" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/adapter/RingDeviceRecyclerAdapter.kt" timestamp="1600097310201">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/adapter/RingDeviceRecyclerAdapter.kt" timestamp="1600098244100">
         <mark key="'" line="112" column="64" />
         <mark key="[" line="113" column="48" />
         <mark key="]" line="115" column="81" />
