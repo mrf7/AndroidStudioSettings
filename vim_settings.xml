@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>bell</entry>
         <entry>listOf\(.*\)</entry>
         <entry>map</entry>
         <entry>LeapExceptionModel</entry>
@@ -27,9 +26,9 @@
         <entry encoding="base64">XDxzbG90XD4=</entry>
         <entry>mostRecentData</entry>
         <entry>&quot;key&quot;</entry>
+        <entry>any</entry>
       </history-search>
       <history-cmd>
-        <entry>s/bell/cam/g</entry>
         <entry encoding="base64">JzwsJz5zL2xpc3RPZlwoLipcKS9lbXB0eUxpc3QoKS9n</entry>
         <entry encoding="base64">JzwsJz5zL21hcC9mbGF0TWFwL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0xlYXBFeGNlcHRpb25Nb2RlbC9SZXF1ZXN0UmVzcG9uc2VQcm9jZXNzaW5nRXhjZXB0aW9uL2c=</entry>
@@ -49,6 +48,7 @@
         <entry encoding="base64">JzwsJz5zL21vc3RSZWNlbnREYXRhL29sZERhdGEvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyJrZXkiL1VQREFURURfVFJJR0dFUl9LRVkvZw==</entry>
         <entry>reg</entry>
+        <entry>s/any/all/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -157,6 +157,13 @@
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/response/processor/keypad/ResponseProcessor.java" timestamp="1599854948948" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BaseBleActivity.kt" timestamp="1599846647690" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/adapter/RingDeviceRecyclerAdapter.kt" timestamp="1600097310201">
+        <mark key="'" line="112" column="64" />
+        <mark key="[" line="113" column="48" />
+        <mark key="]" line="115" column="81" />
+        <mark key="^" line="115" column="81" />
+        <mark key="." line="115" column="80" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.1.0/9865019bbd2d95e41dede3d8ebf964aa93f97766/appcompat-1.1.0-sources.jar!/androidx/appcompat/app/ActionBar.java" timestamp="1599744697209">
         <mark key="'" line="91" column="22" />
       </file>
@@ -193,8 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="198" column="43" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModelTest.kt" />
-      <jump line="225" column="60" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModelTest.kt" />
       <jump line="258" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModelTest.kt" />
       <jump line="190" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModelTest.kt" />
       <jump line="146" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModelTest.kt" />
@@ -293,6 +298,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/helper/HomeStatusHelper.java" />
       <jump line="62" column="49" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/helper/HomeStatusHelper.java" />
       <jump line="51" column="49" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/helper/HomeStatusHelper.java" />
+      <jump line="112" column="8" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/adapter/RingDeviceRecyclerAdapter.kt" />
+      <jump line="113" column="64" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/adapter/RingDeviceRecyclerAdapter.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -301,7 +308,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">L3JpbmdfbmF2X2dyYXBoIiA=</text>
+        <text>context.getString(subtitleText)</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -319,73 +326,72 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">L3JpbmdfbmF2X2dyYXBoIiA=</text>
+        <text>context.getString(subtitleText)</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;key&quot;</text>
+        <text>any</text>
       </register>
       <register name="0" type="4">
-        <text>OnboardingEvent.SetOnboardingData(getOnboardingScreenData())</text>
+        <text>item.triggersByType.values.any { it.detectionGroupData?.onlyAtNight == true }</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVE9ETygpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gYmFzZUFjdGl2aXR5LnNob3dBbGVydERpYWxvZygKICAgICAgICAgICAgLy8gICAgIGdldFN0cmluZyhSLnN0cmluZy5idG5fdGl0bGVfc2F2ZSksCiAgICAgICAgICAgIC8vICAgICB7IF8sIF8gLT4KICAgICAgICAgICAgLy8gICAgICAgICB2aWV3TW9kZWwuc2F2ZVByb2dyYW1taW5nKHN3aXRjaEVmZmVjdGl2ZUF0TmlnaHQuaXNDaGVja2VkLCBsaXN0QWRhcHRlci5jaGlsZFNlbGVjdGlvbikKICAgICAgICAgICAgLy8gICAgIH0sCiAgICAgICAgICAgIC8vICAgICBnZXRTdHJpbmcoUi5zdHJpbmcuYWxlcnRfYnV0dG9uX3RpdGxlX2Rpc2NhcmQpLAogICAgICAgICAgICAvLyAgICAgeyBfLCBfIC0+IHZpZXdNb2RlbC5kaXNjYXJkQ2hhbmdlcygpIH0sCiAgICAgICAgICAgIC8vICAgICAiIiwgZ2V0U3RyaW5nKFIuc3RyaW5nLmFsZXJ0X21lc3NhZ2VfY29uZmlybV9leGl0KQogICAgICAgICAgICAvLyApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgVE9ETygpCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbk9wdGlvbnNJdGVtU2VsZWN0ZWQoaXRlbTogTWVudUl0ZW0pOiBCb29sZWFuIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVE9ETygpCg==</text>
       </register>
-      <register name="4" type="8">
-        <text>n
-o</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoYXROaWdodFRyaWdnZXJzLmNvbnRhaW5zQWxsKQo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text>w
-w</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgc3VidGl0bGUgPSBpZiAoKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">bwog</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNlQWN0aXZpdHkuc3VwcG9ydEFjdGlvbkJhcj8uc2V0U2hvd0hpZGVBbmltYXRpb25FbmFibGVkKHRydWUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gYmFzZUFjdGl2aXR5LnNob3dBbGVydERpYWxvZygKICAgICAgICAgICAgLy8gICAgIGdldFN0cmluZyhSLnN0cmluZy5idG5fdGl0bGVfc2F2ZSksCiAgICAgICAgICAgIC8vICAgICB7IF8sIF8gLT4KICAgICAgICAgICAgLy8gICAgICAgICB2aWV3TW9kZWwuc2F2ZVByb2dyYW1taW5nKHN3aXRjaEVmZmVjdGl2ZUF0TmlnaHQuaXNDaGVja2VkLCBsaXN0QWRhcHRlci5jaGlsZFNlbGVjdGlvbikKICAgICAgICAgICAgLy8gICAgIH0sCiAgICAgICAgICAgIC8vICAgICBnZXRTdHJpbmcoUi5zdHJpbmcuYWxlcnRfYnV0dG9uX3RpdGxlX2Rpc2NhcmQpLAogICAgICAgICAgICAvLyAgICAgeyBfLCBfIC0+IHZpZXdNb2RlbC5kaXNjYXJkQ2hhbmdlcygpIH0sCiAgICAgICAgICAgIC8vICAgICAiIiwgZ2V0U3RyaW5nKFIuc3RyaW5nLmFsZXJ0X21lc3NhZ2VfY29uZmlybV9leGl0KQogICAgICAgICAgICAvLyApCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOnBvcFVwVG89IkBpZC9yaW5nU3BsYXNoRnJhZ21lbnQiCg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbk9wdGlvbnNJdGVtU2VsZWN0ZWQoaXRlbTogTWVudUl0ZW0pOiBCb29sZWFuIHsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlQWN0aXZpdHkoKS5vbkJhY2tQcmVzc2VkRGlzcGF0Y2hlci5hZGRDYWxsYmFjayh0aGlzKSB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+      <register name="9" type="8">
+        <text>n
+o</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>s/any/all/g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>&quot;key&quot;</last-search>
+      <last-search>any</last-search>
       <last-offset />
-      <last-pattern>&quot;key&quot;</last-pattern>
-      <last-replace>UPDATED_TRIGGER_KEY</last-replace>
-      <last-substitute>&quot;key&quot;</last-substitute>
+      <last-pattern>any</last-pattern>
+      <last-replace>all</last-replace>
+      <last-substitute>any</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
