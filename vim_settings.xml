@@ -139,27 +139,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1599757467600">
-        <mark key="'" line="0" column="184" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="52" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/navigation/ring_nav_graph.xml" timestamp="1599853803171">
         <mark key="[" line="16" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/usecase/LightStatusTracker.kt" timestamp="1599768111934">
-        <mark key="'" line="28" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/view/IconTextVisitor.kt" timestamp="1599768122982">
-        <mark key="'" line="90" column="55" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BaseBleActivity.kt" timestamp="1600357004501">
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/ProfileConstructor.kt" timestamp="1600357162351" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/adapter/RingDeviceRecyclerAdapter.kt" timestamp="1600109250743">
         <mark key="'" line="112" column="64" />
         <mark key="[" line="113" column="48" />
@@ -167,28 +150,27 @@
         <mark key="^" line="115" column="81" />
         <mark key="." line="115" column="80" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/FileImportExportPresenter.java" timestamp="1600116968838">
+        <mark key="'" line="504" column="18" />
+        <mark key="[" line="478" column="0" />
+        <mark key="]" line="479" column="74" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BaseBleActivity.kt" timestamp="1600357004501">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
+      </file>
       <file name="/fragment.kt" timestamp="1600116867120">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.1.0/9865019bbd2d95e41dede3d8ebf964aa93f97766/appcompat-1.1.0-sources.jar!/androidx/appcompat/app/ActionBar.java" timestamp="1599744697209">
-        <mark key="'" line="91" column="22" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.10/9d22e03b9f0a300edff23ccf219d406d12c3378f/rxjava-2.2.10-sources.jar!/io/reactivex/subjects/BehaviorSubject.java" timestamp="1600357096178">
+        <mark key="'" line="153" column="46" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/connection/state/Connected.java" timestamp="1600181063148" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BaseActivity.java" timestamp="1599753699057">
-        <mark key="'" line="215" column="11" />
-        <mark key="[" line="216" column="0" />
-        <mark key="]" line="216" column="0" />
-        <mark key="." line="216" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.kt" timestamp="1600181075517">
         <mark key="'" line="291" column="28" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/FileImportExportPresenter.java" timestamp="1600116968838">
-        <mark key="'" line="504" column="18" />
-        <mark key="[" line="478" column="0" />
-        <mark key="]" line="479" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/helper/HomeStatusHelper.java" timestamp="1599770494173">
         <mark key="'" line="215" column="49" />
@@ -198,7 +180,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModel.kt" />
       <jump line="65" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModel.kt" />
       <jump line="145" column="13" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModel.kt" />
       <jump line="273" column="7" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ring/usecase/presenter/WorksWithRingViewModelTest.kt" />
@@ -298,6 +279,7 @@
       <jump line="504" column="18" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/FileImportExportPresenter.java" />
       <jump line="291" column="28" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.kt" />
       <jump line="105" column="13" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BaseBleActivity.kt" />
+      <jump line="153" column="46" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.10/9d22e03b9f0a300edff23ccf219d406d12c3378f/rxjava-2.2.10-sources.jar!/io/reactivex/subjects/BehaviorSubject.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
