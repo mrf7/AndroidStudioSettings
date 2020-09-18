@@ -146,7 +146,6 @@
         <mark key="^" line="29" column="52" />
         <mark key="." line="29" column="51" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/ProfileConstructor.kt" timestamp="1600357162351" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao/3.1.1/a0164324ff506561f05ebfc03d05853be99a6781/greendao-3.1.1-sources.jar!/org/greenrobot/greendao/AbstractDao.java" timestamp="1600439249518" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/view/IconTextBulletinRenderer.kt" timestamp="1600366739652">
         <mark key="'" line="37" column="26" />
@@ -157,16 +156,30 @@
         <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/FileImportExportPresenter.java" timestamp="1600435203352">
-        <mark key="'" line="504" column="18" />
-        <mark key="[" line="478" column="0" />
-        <mark key="]" line="479" column="74" />
+        <mark key="'" line="501" column="18" />
+        <mark key="[" line="475" column="0" />
+        <mark key="]" line="476" column="74" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/data/repository/RingRepo.kt" timestamp="1600444091063">
+        <mark key="[" line="133" column="39" />
+        <mark key="]" line="133" column="51" />
+        <mark key="^" line="133" column="51" />
+        <mark key="." line="133" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/Sample/android-architecture-components/PagingWithNetworkSample/lib/src/main/java/com/android/example/paging/pagingwithnetwork/reddit/repository/Listing.kt" timestamp="1600436706224" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/WorksWithRingViewModel.kt" timestamp="1600443895911">
+        <mark key="'" line="161" column="67" />
+        <mark key="[" line="106" column="27" />
+        <mark key="]" line="110" column="20" />
+        <mark key="^" line="110" column="20" />
+        <mark key="." line="110" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/casetaMasterStrings/AppMasterStrings.txt" timestamp="1600443741451">
+        <mark key="[" line="6905" column="5" />
+        <mark key="]" line="6905" column="23" />
+      </file>
       <file name="$USER_HOME$/Documents/Sample/android-architecture-components/PagingWithNetworkSample/README.md" timestamp="1600436311430" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/util/Collection.java" timestamp="1600436723150" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.10/9d22e03b9f0a300edff23ccf219d406d12c3378f/rxjava-2.2.10-sources.jar!/io/reactivex/subjects/BehaviorSubject.java" timestamp="1600357096178">
-        <mark key="'" line="153" column="46" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/view/OneLineVisitor.kt" timestamp="1600439196925">
         <mark key="'" line="127" column="40" />
         <mark key="[" line="123" column="36" />
@@ -177,10 +190,10 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.0-rc01/cca6b1d13507033419ba77f0a7382316127976f1/paging-common-2.1.0-rc01-sources.jar!/androidx/paging/PagedList.java" timestamp="1600438139020">
         <mark key="'" line="137" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.kt" timestamp="1600439763664">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.kt" timestamp="1600441499628">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/view/BulletinAdapter.kt" timestamp="1600369482546" />
       <file name="$USER_HOME$/Documents/Sample/android-architecture-components/PagingWithNetworkSample/app/src/main/java/com/android/example/paging/pagingwithnetwork/reddit/api/RedditApi.kt" timestamp="1600438232537" />
@@ -191,8 +204,6 @@
       <file name="$USER_HOME$/Documents/Sample/android-architecture-components/PagingWithNetworkSample/app/src/main/java/com/android/example/paging/pagingwithnetwork/reddit/repository/inMemory/byPage/InMemoryByPageKeyRepository.kt" timestamp="1600437545624" />
     </filemarks>
     <jumps>
-      <jump line="132" column="20" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/ServiceRepo.kt" />
-      <jump line="47" column="58" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/dataModels/IntruderDeterrentTrigger.kt" />
       <jump line="10997" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0/2151d26c3b241f0a887f2dadb9ab091649fcf020/recyclerview-1.0.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java" />
       <jump line="49" column="32" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/dataModels/IntruderDeterrentTrigger.kt" />
       <jump line="58" column="20" filename="$USER_HOME$/Documents/caseta-android-app/Utils/src/main/java/com/lutron/sharedutils/ObservableMutableList.kt" />
@@ -291,6 +302,8 @@
       <jump line="560" column="19" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.0-rc01/cca6b1d13507033419ba77f0a7382316127976f1/paging-common-2.1.0-rc01-sources.jar!/androidx/paging/PagedList.java" />
       <jump line="137" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.0-rc01/cca6b1d13507033419ba77f0a7382316127976f1/paging-common-2.1.0-rc01-sources.jar!/androidx/paging/PagedList.java" />
       <jump line="67" column="18" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.kt" />
+      <jump line="154" column="50" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/WorksWithRingViewModel.kt" />
+      <jump line="155" column="67" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/WorksWithRingViewModel.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -298,8 +311,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDb250aW51YXRpZGRuPD4oKQo=</text>
+      <register name="&quot;" type="4">
+        <text>err_no_ring_devices</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -325,8 +338,8 @@
       <register name="/" type="4">
         <text>any</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlIGRvY3VtZW50RGlyZWN0b3J5ID0gbUFwcGxpY2F0aW9uQ29udGV4dC5nZXRFeHRlcm5hbEZpbGVzRGlyKG51bGwpOwogICAgICAgIG1FeHBvcnRQYXRoID0gbmV3IEZpbGUoZG9jdW1lbnREaXJlY3RvcnksIEJMRUFQX0VYUE9SVF9ESVJFQ1RPUlkpOwogICAgICAgIG1JbXBvcnRQYXRoID0gbmV3IEZpbGUoZG9jdW1lbnREaXJlY3RvcnksIEJMRUFQX0lNUE9SVF9ESVJFQ1RPUlkpOwo=</text>
+      <register name="0" type="4">
+        <text>err_no_ring_devices</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
