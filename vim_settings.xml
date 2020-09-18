@@ -147,6 +147,7 @@
         <mark key="." line="29" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/ProfileConstructor.kt" timestamp="1600357162351" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.greenrobot/greendao/3.1.1/a0164324ff506561f05ebfc03d05853be99a6781/greendao-3.1.1-sources.jar!/org/greenrobot/greendao/AbstractDao.java" timestamp="1600439249518" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/view/IconTextBulletinRenderer.kt" timestamp="1600366739652">
         <mark key="'" line="37" column="26" />
       </file>
@@ -162,16 +163,11 @@
       </file>
       <file name="$USER_HOME$/Documents/Sample/android-architecture-components/PagingWithNetworkSample/lib/src/main/java/com/android/example/paging/pagingwithnetwork/reddit/repository/Listing.kt" timestamp="1600436706224" />
       <file name="$USER_HOME$/Documents/Sample/android-architecture-components/PagingWithNetworkSample/README.md" timestamp="1600436311430" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BaseBleActivity.kt" timestamp="1600357004501">
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
-      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-28/java/util/Collection.java" timestamp="1600436723150" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.10/9d22e03b9f0a300edff23ccf219d406d12c3378f/rxjava-2.2.10-sources.jar!/io/reactivex/subjects/BehaviorSubject.java" timestamp="1600357096178">
         <mark key="'" line="153" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/view/OneLineVisitor.kt" timestamp="1600436048019">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/view/OneLineVisitor.kt" timestamp="1600439196925">
         <mark key="'" line="127" column="40" />
         <mark key="[" line="123" column="36" />
         <mark key="]" line="123" column="36" />
@@ -181,19 +177,20 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.0-rc01/cca6b1d13507033419ba77f0a7382316127976f1/paging-common-2.1.0-rc01-sources.jar!/androidx/paging/PagedList.java" timestamp="1600438139020">
         <mark key="'" line="137" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/connection/state/Connected.java" timestamp="1600181063148" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.kt" timestamp="1600181075517">
-        <mark key="'" line="291" column="28" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.kt" timestamp="1600439763664">
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/view/BulletinAdapter.kt" timestamp="1600369482546" />
       <file name="$USER_HOME$/Documents/Sample/android-architecture-components/PagingWithNetworkSample/app/src/main/java/com/android/example/paging/pagingwithnetwork/reddit/api/RedditApi.kt" timestamp="1600438232537" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/AliasDao.java" timestamp="1600439384103" />
       <file name="/fragment.java" timestamp="1600435951176">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Sample/android-architecture-components/PagingWithNetworkSample/app/src/main/java/com/android/example/paging/pagingwithnetwork/reddit/repository/inMemory/byPage/InMemoryByPageKeyRepository.kt" timestamp="1600437545624" />
     </filemarks>
     <jumps>
-      <jump line="148" column="30" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/strategy/deviceselectionstrategy/SmartAwayNestCamDeviceSelectionStrategyTest.kt" />
       <jump line="132" column="20" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/ServiceRepo.kt" />
       <jump line="47" column="58" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/dataModels/IntruderDeterrentTrigger.kt" />
       <jump line="10997" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0/2151d26c3b241f0a887f2dadb9ab091649fcf020/recyclerview-1.0.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java" />
@@ -293,6 +290,7 @@
       <jump line="105" column="21" filename="$USER_HOME$/Documents/Sample/android-architecture-components/PagingWithNetworkSample/app/src/test/java/com/android/example/paging/pagingwithnetwork/reddit/repository/inMemory/InMemoryRepositoryTest.kt" />
       <jump line="560" column="19" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.0-rc01/cca6b1d13507033419ba77f0a7382316127976f1/paging-common-2.1.0-rc01-sources.jar!/androidx/paging/PagedList.java" />
       <jump line="137" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.0-rc01/cca6b1d13507033419ba77f0a7382316127976f1/paging-common-2.1.0-rc01-sources.jar!/androidx/paging/PagedList.java" />
+      <jump line="67" column="18" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -301,7 +299,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwYWdlZExpc3QK</text>
+        <text encoding="base64">ICAgICAgICBDb250aW51YXRpZGRuPD4oKQo=</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -319,7 +317,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PCo+KTog</text>
+        <text>o</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -334,40 +332,40 @@
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYWdlZExpc3QK</text>
+        <text encoding="base64">ICAgICAgICBDb250aW51YXRpZGRuPD4oKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbGlzdDpMaXN0PFN0cmluZz4/ID0gbGlzdE9mKCIiKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYWdlZExpc3QK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsaXN0LmlzTnVsbE9yRW1wdHkoKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgbGlzdDpMaXN0PFN0cmluZz4/ID0gbGlzdE9mKCIiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text>encryptedFileInputStreamin</text>
+        <text encoding="base64">ICAgICAgICBsaXN0LmlzTnVsbE9yRW1wdHkoKQo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbUltcG9ydFBhdGggPSBGaWxlKGRvY3VtZW50RGlyZWN0b3J5LCBGaWxlSW1wb3J0RXhwb3J0UHJlc2VudGVyLkJMRUFQX0lNUE9SVF9ESVJFQ1RPUlkpCg==</text>
+        <text>encryptedFileInputStreamin</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIG1FeHBvcnRQYXRoID0gIi9zdG9yYWdlL2VtdWxhdGVkLzAvQW5kcm9pZC9kYXRhL2NvbS5sdXRyb24ubW13L2ZpbGVzL1RlbXAvQkxFRXhwb3J0Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbUltcG9ydFBhdGggPSBGaWxlKGRvY3VtZW50RGlyZWN0b3J5LCBGaWxlSW1wb3J0RXhwb3J0UHJlc2VudGVyLkJMRUFQX0lNUE9SVF9ESVJFQ1RPUlkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGludGVybmFsQmxlYXBGaWxlID0gRmlsZVV0aWxzLmNyZWF0ZU5ld0ZpbGVJbkludGVybmFsU3RvcmFnZShjb250ZXh0LCBDb25zdGFudHMuQkxFQVBfSU1QT1JUX0NPUFlfTkFNRSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIG1FeHBvcnRQYXRoID0gIi9zdG9yYWdlL2VtdWxhdGVkLzAvQW5kcm9pZC9kYXRhL2NvbS5sdXRyb24ubW13L2ZpbGVzL1RlbXAvQkxFRXhwb3J0Igo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVE9ETygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGludGVybmFsQmxlYXBGaWxlID0gRmlsZVV0aWxzLmNyZWF0ZU5ld0ZpbGVJbkludGVybmFsU3RvcmFnZShjb250ZXh0LCBDb25zdGFudHMuQkxFQVBfSU1QT1JUX0NPUFlfTkFNRSkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgVE9ETygpCg==</text>
