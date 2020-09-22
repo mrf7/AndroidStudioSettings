@@ -146,7 +146,6 @@
         <mark key="^" line="0" column="52" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ConnectivityViewModel.java" timestamp="1600462493579" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/layout/works_with_ring_fragment.xml" timestamp="1600694045741">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -159,13 +158,13 @@
         <mark key="." line="123" column="35" />
         <mark key="^" line="123" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/Utils/build.gradle" timestamp="1600462107446" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/extension/ActivityExtension.kt" timestamp="1600698061074">
         <mark key="[" line="14" column="45" />
         <mark key="]" line="14" column="56" />
         <mark key="^" line="14" column="56" />
         <mark key="." line="14" column="55" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/SettingActivity.java" timestamp="1600720956472" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/RingDeviceSummaryFragment.kt" timestamp="1600463509400">
         <mark key="[" line="171" column="89" />
         <mark key="]" line="171" column="89" />
@@ -182,14 +181,12 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/Utils/src/main/java/com/lutron/sharedutils/extension/ActivityExtension.kt" timestamp="1600462595550">
         <mark key="[" line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1600711124695" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/values/strings.xml" timestamp="1600460930552">
         <mark key="'" line="105" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModel.kt" timestamp="1600453708508">
         <mark key="'" line="43" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/utils/Utils.java" timestamp="1600463070544" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ring/usecase/presenter/WorksWithRingViewModelTest.kt" timestamp="1600455347286">
         <mark key="[" line="21" column="62" />
         <mark key="]" line="21" column="69" />
@@ -202,7 +199,6 @@
         <mark key="." line="149" column="35" />
         <mark key="^" line="149" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/UINotificationEnum.java" timestamp="1600702203910" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/casetaMasterStrings/AppMasterStrings.txt" timestamp="1600450114735">
         <mark key="[" line="6905" column="5" />
         <mark key="]" line="6905" column="23" />
