@@ -146,7 +146,7 @@
         <mark key="^" line="0" column="52" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ObservableTest.kt" timestamp="1600876562181">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ObservableTest.kt" timestamp="1600877107255">
         <mark key="'" line="26" column="70" />
         <mark key="[" line="53" column="28" />
         <mark key="]" line="53" column="41" />
@@ -154,12 +154,12 @@
         <mark key="^" line="53" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/adapter/viewmodel/AliasDataModel.kt" timestamp="1600871563947" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/usecase/LightStatusTracker.kt" timestamp="1600874114602">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/usecase/LightStatusTracker.kt" timestamp="1600877163462">
         <mark key="'" line="25" column="76" />
         <mark key="[" line="25" column="65" />
-        <mark key="]" line="25" column="78" />
-        <mark key="^" line="25" column="78" />
-        <mark key="." line="25" column="77" />
+        <mark key="]" line="25" column="123" />
+        <mark key="^" line="25" column="123" />
+        <mark key="." line="25" column="122" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/layout/works_with_ring_fragment.xml" timestamp="1600694045741">
         <mark key="[" line="47" column="0" />
