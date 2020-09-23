@@ -146,7 +146,7 @@
         <mark key="^" line="0" column="52" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/adapter/viewmodel/AliasDataModel.kt" timestamp="1600870504930" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/adapter/viewmodel/AliasDataModel.kt" timestamp="1600871563947" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/layout/works_with_ring_fragment.xml" timestamp="1600694045741">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="47" column="0" />
@@ -181,6 +181,7 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/Utils/src/main/java/com/lutron/sharedutils/extension/ActivityExtension.kt" timestamp="1600462595550">
         <mark key="[" line="14" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/model/BaseDO.java" timestamp="1600871186755" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/values/strings.xml" timestamp="1600460930552">
         <mark key="'" line="105" column="18" />
       </file>
@@ -199,7 +200,7 @@
         <mark key="." line="149" column="35" />
         <mark key="^" line="149" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/sharedUiComponents/src/main/java/com/lutron/uicomponents/viewmodels/CommonCheckableViewModel.java" timestamp="1600870699042" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/sharedUiComponents/src/main/java/com/lutron/uicomponents/viewmodels/CommonCheckableViewModel.java" timestamp="1600871558621" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/casetaMasterStrings/AppMasterStrings.txt" timestamp="1600450114735">
         <mark key="[" line="6905" column="5" />
         <mark key="]" line="6905" column="23" />
