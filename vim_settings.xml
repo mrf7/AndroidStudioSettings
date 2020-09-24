@@ -139,7 +139,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1600693775723">
+      <file name="/Dummy.txt" timestamp="1600970429857">
         <mark key="'" line="0" column="184" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -153,7 +153,6 @@
         <mark key="." line="53" column="40" />
         <mark key="^" line="53" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/adapter/viewmodel/AliasDataModel.kt" timestamp="1600871563947" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/usecase/LightStatusTracker.kt" timestamp="1600877163462">
         <mark key="'" line="25" column="76" />
         <mark key="[" line="25" column="65" />
@@ -191,19 +190,25 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/Utils/src/main/java/com/lutron/sharedutils/extension/ActivityExtension.kt" timestamp="1600462595550">
         <mark key="[" line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/model/BaseDO.java" timestamp="1600871186755" />
       <file name="/Kotlin Console" timestamp="1600875001146">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/values/strings.xml" timestamp="1600460930552">
         <mark key="'" line="105" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/HomeStatusFragment.java" timestamp="1600874052504" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/WorksWithRingFragment.kt" timestamp="1600463125570">
         <mark key="[" line="148" column="0" />
         <mark key="]" line="149" column="37" />
         <mark key="." line="149" column="35" />
         <mark key="^" line="149" column="36" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/buildconfig.xml" timestamp="1600970425940">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+      </file>
+      <file name="/fragment.java" timestamp="1600968528246">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
