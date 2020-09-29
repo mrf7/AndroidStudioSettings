@@ -179,9 +179,7 @@
         <mark key="]" line="171" column="89" />
         <mark key="." line="171" column="89" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BaseActivity.java" timestamp="1600462313816">
-        <mark key="'" line="695" column="71" />
-      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/syncFramework/helper/CasetaRa2SelectSyncChainHelper.java" timestamp="1601403972550" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.kt" timestamp="1600699011026">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
@@ -193,10 +191,8 @@
       <file name="/Kotlin Console" timestamp="1600875001146">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/values/strings.xml" timestamp="1600460930552">
-        <mark key="'" line="105" column="18" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/dependenciesReport.txt" timestamp="1601393280736" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/syncFramework/helper/HydraSyncChainHelper.java" timestamp="1601403979500" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/WorksWithRingFragment.kt" timestamp="1600463125570">
         <mark key="[" line="148" column="0" />
         <mark key="]" line="149" column="37" />
@@ -204,6 +200,8 @@
         <mark key="^" line="149" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/DeviceSubcategoryEnum.java" timestamp="1601403845441" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/timeclockEvent/TimeclockEventFetcher.kt" timestamp="1601404058567" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/syncFramework/common/SyncTaskEnum.java" timestamp="1601403959894" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/buildconfig.xml" timestamp="1600971896370">
         <mark key="[" line="2" column="16" />
         <mark key="]" line="2" column="20" />
