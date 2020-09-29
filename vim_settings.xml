@@ -142,6 +142,12 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/TimeclockReadCallable.kt" timestamp="1601410212012" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/HydraScheduleListFragment.kt" timestamp="1601411091623" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/ResponseModel.kt" timestamp="1601411385304" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/extension/DatabaseExtensions.kt" timestamp="1601413773801">
+        <mark key="[" line="87" column="3" />
+        <mark key="]" line="86" column="62" />
+        <mark key="." line="86" column="62" />
+        <mark key="^" line="86" column="61" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/timeclockEvent/TimeclockEventFetcher.kt" timestamp="1601411041918" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/request/creator/keypad/EventRequestCreator.kt" timestamp="1601410989492" />
       <file name="/Dummy.txt" timestamp="1600971899635">
@@ -153,18 +159,10 @@
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/HydraScheduleListViewModel.kt" timestamp="1601411284250" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/pagesource/TimeClockEventsPageSource.kt" timestamp="1601410995957" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/paging/LeapPager.kt" timestamp="1601413237298" />
       <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/LeapHeaderModel.java" timestamp="1601411404995" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/paging/PagingError.kt" timestamp="1601410203468" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/timeclockEvent/TimeclockEventFetcherFactory.kt" timestamp="1601411065540" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/buildconfig.xml" timestamp="1600971896370">
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="2" column="20" />
-        <mark key="." line="2" column="20" />
-        <mark key="^" line="2" column="14" />
-      </file>
-      <file name="/fragment.java" timestamp="1600968528246">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/timeclockEvent/TimeclockEventRepo.kt" timestamp="1601411349843" />
     </filemarks>
     <jumps>
@@ -276,7 +274,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>5908</text>
+        <text encoding="base64">YWxzbyA=</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -294,7 +292,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>5908</text>
+        <text encoding="base64">YWxzbyA=</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -303,7 +301,7 @@
         <text>any</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKCJkaXNwb3NpbmcgMiIpCiAgICAgICAgZGlzcG9zYWJsZTIuZGlzcG9zZSgpCg==</text>
+        <text encoding="base64">ICAgIERhb0hlbHBlckhvbGRlci5nZXRJbnN0YW5jZSgpLnNlc3Npb24/LnJ1bkluVHggeyBmb3JFYWNoKGFjdGlvbikgfQo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
