@@ -155,6 +155,14 @@
         <mark key="^" line="43" column="59" />
         <mark key="." line="43" column="58" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/IconHelper.java" timestamp="1601489229172" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/IconEnum.java" timestamp="1601489141211">
+        <mark key="[" line="56" column="80" />
+        <mark key="]" line="56" column="81" />
+        <mark key="^" line="56" column="81" />
+        <mark key="." line="56" column="80" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/DeviceTypeEnum.java" timestamp="1601489176757" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/DeviceHelper.java" timestamp="1601488446799">
         <mark key="[" line="542" column="29" />
         <mark key="]" line="543" column="57" />
