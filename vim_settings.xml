@@ -143,21 +143,13 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/HydraScheduleListFragment.kt" timestamp="1601411091623" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/ResponseModel.kt" timestamp="1601411385304" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/extension/DatabaseExtensions.kt" timestamp="1601413773801">
-        <mark key="[" line="87" column="3" />
-        <mark key="]" line="86" column="62" />
-        <mark key="." line="86" column="62" />
-        <mark key="^" line="86" column="61" />
+        <mark key="[" line="9" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/timeclockEvent/TimeclockEventFetcher.kt" timestamp="1601411041918" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/request/creator/keypad/EventRequestCreator.kt" timestamp="1601410989492" />
-      <file name="/Dummy.txt" timestamp="1600971899635">
-        <mark key="'" line="0" column="184" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="52" />
-        <mark key="." line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/RequestCreatorTest/EventRequestCreatorTest.java" timestamp="1601472612712" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/HydraScheduleListViewModel.kt" timestamp="1601411284250" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/TimeclockFetcherTest.kt" timestamp="1601472857320" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/pagesource/TimeClockEventsPageSource.kt" timestamp="1601410995957" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/paging/LeapPager.kt" timestamp="1601413237298" />
       <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/LeapHeaderModel.java" timestamp="1601411404995" />
