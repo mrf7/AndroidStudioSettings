@@ -149,21 +149,21 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/request/creator/keypad/EventRequestCreator.kt" timestamp="1601410989492" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/RequestCreatorTest/EventRequestCreatorTest.java" timestamp="1601472612712" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/HydraScheduleListViewModel.kt" timestamp="1601411284250" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/repositories/TimeclockFetcherTest.kt" timestamp="1601472857320" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/pagesource/TimeClockEventsPageSource.kt" timestamp="1601410995957" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/Utils/src/main/java/com/lutron/sharedutils/extension/CollectionExtension.kt" timestamp="1601476254961" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/pagesource/TimeClockEventsPageSource.kt" timestamp="1601476205210">
+        <mark key="'" line="43" column="55" />
+        <mark key="[" line="43" column="44" />
+        <mark key="]" line="43" column="59" />
+        <mark key="^" line="43" column="59" />
+        <mark key="." line="43" column="58" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/paging/LeapPager.kt" timestamp="1601413237298" />
       <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/LeapHeaderModel.java" timestamp="1601411404995" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/paging/PagingError.kt" timestamp="1601414734051">
-        <mark key="[" line="28" column="8" />
-        <mark key="]" line="28" column="77" />
-        <mark key="^" line="28" column="77" />
-        <mark key="." line="28" column="76" />
-      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/paging/PagingError.kt" timestamp="1601414734051" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/timeclockEvent/TimeclockEventFetcherFactory.kt" timestamp="1601411065540" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/timeclockEvent/TimeclockEventRepo.kt" timestamp="1601411349843" />
     </filemarks>
     <jumps>
-      <jump line="213" column="41" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/DetectionGroup.java" />
       <jump line="195" column="13" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/converter/LeapToDao.java" />
       <jump line="159" column="48" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/RingDeviceSummaryFragment.kt" />
       <jump line="156" column="8" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModel.kt" />
@@ -263,6 +263,7 @@
       <jump line="25" column="55" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ObservableTest.kt" />
       <jump line="8094" column="43" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.10/9d22e03b9f0a300edff23ccf219d406d12c3378f/rxjava-2.2.10-sources.jar!/io/reactivex/Observable.java" />
       <jump line="26" column="70" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ObservableTest.kt" />
+      <jump line="43" column="55" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/pagesource/TimeClockEventsPageSource.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
