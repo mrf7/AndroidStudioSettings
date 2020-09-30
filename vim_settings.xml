@@ -139,6 +139,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/LightTypeEnum.java" timestamp="1601488482143" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/extension/DatabaseExtensions.kt" timestamp="1601413773801">
         <mark key="[" line="9" column="3" />
       </file>
@@ -154,9 +155,13 @@
         <mark key="^" line="43" column="59" />
         <mark key="." line="43" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/DeviceHelper.java" timestamp="1601480772899">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/DeviceHelper.java" timestamp="1601488446799">
         <mark key="[" line="542" column="29" />
+        <mark key="]" line="543" column="57" />
+        <mark key="^" line="543" column="57" />
+        <mark key="." line="543" column="56" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/LightSubtypeEnum.java" timestamp="1601488469200" />
     </filemarks>
     <jumps>
       <jump line="195" column="13" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/converter/LeapToDao.java" />
