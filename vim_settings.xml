@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>listOf\(.*\)</entry>
         <entry>map</entry>
         <entry>LeapExceptionModel</entry>
         <entry>dp</entry>
@@ -27,9 +26,9 @@
         <entry>mostRecentData</entry>
         <entry>&quot;key&quot;</entry>
         <entry>any</entry>
+        <entry>Collections.singltonList\((R.drawable.\w)\)</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2xpc3RPZlwoLipcKS9lbXB0eUxpc3QoKS9n</entry>
         <entry encoding="base64">JzwsJz5zL21hcC9mbGF0TWFwL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0xlYXBFeGNlcHRpb25Nb2RlbC9SZXF1ZXN0UmVzcG9uc2VQcm9jZXNzaW5nRXhjZXB0aW9uL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2RwL3B4</entry>
@@ -49,6 +48,7 @@
         <entry encoding="base64">JzwsJz5zLyJrZXkiL1VQREFURURfVFJJR0dFUl9LRVkvZw==</entry>
         <entry>s/any/all/g</entry>
         <entry>reg</entry>
+        <entry encoding="base64">JzwsJz5zL0NvbGxlY3Rpb25zLnNpbmdsdG9uTGlzdFwoKFIuZHJhd2FibGUuXHcpXCkvJDE=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -139,41 +139,54 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/LightTypeEnum.java" timestamp="1601488482143" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/extension/DatabaseExtensions.kt" timestamp="1601413773801">
-        <mark key="[" line="9" column="3" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/AddDeviceByButtonPressFragment.java" timestamp="1601493079663">
+        <mark key="'" line="141" column="92" />
+        <mark key="[" line="431" column="45" />
+        <mark key="]" line="431" column="57" />
+        <mark key="^" line="431" column="57" />
+        <mark key="." line="431" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/business/pagesource/TimeClockEventsPageSourceTest.kt" timestamp="1601477347954">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/pagesource/TimeClockEventsPageSource.kt" timestamp="1601476205210">
-        <mark key="'" line="43" column="55" />
-        <mark key="[" line="43" column="44" />
-        <mark key="]" line="43" column="59" />
-        <mark key="^" line="43" column="59" />
-        <mark key="." line="43" column="58" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/IconHelper.java" timestamp="1601489952157" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/IconEnum.java" timestamp="1601490083769">
-        <mark key="[" line="56" column="80" />
-        <mark key="]" line="56" column="81" />
-        <mark key="^" line="56" column="81" />
-        <mark key="." line="56" column="80" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/manager/featuremanager/BuildTypeFeatureProvider.kt" timestamp="1601491666039" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/IconEnum.java" timestamp="1601494689616">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="58" column="83" />
+        <mark key="^" line="58" column="83" />
+        <mark key="." line="58" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/DeviceTypeEnum.java" timestamp="1601489176757" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/DeviceHelper.java" timestamp="1601488446799">
-        <mark key="[" line="542" column="29" />
-        <mark key="]" line="543" column="57" />
-        <mark key="^" line="543" column="57" />
-        <mark key="." line="543" column="56" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/DeviceHelper.java" timestamp="1601494497090">
+        <mark key="[" line="572" column="16" />
+        <mark key="]" line="572" column="29" />
+        <mark key="." line="572" column="29" />
+        <mark key="^" line="546" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/casetaMasterStrings/AppMasterStrings.txt" timestamp="1601491214001" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BaseConnectedActivity.java" timestamp="1601491256011" />
+      <file name="/Dummy.txt" timestamp="1601493734492">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/LightTypeEnum.java" timestamp="1601494378654">
+        <mark key="[" line="37" column="4" />
+        <mark key="]" line="39" column="16" />
+        <mark key="." line="39" column="4" />
+        <mark key="^" line="39" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/IconHelper.java" timestamp="1601489952157" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BaseActivity.java" timestamp="1601491258356" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/strategy/deviceUtil/CasetaDeviceUtilsStrategy.java" timestamp="1601492335876">
+        <mark key="[" line="75" column="35" />
+        <mark key="]" line="75" column="35" />
+        <mark key="." line="75" column="35" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/AddDeviceActivity.java" timestamp="1601492812421">
+        <mark key="'" line="241" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/strategy/deviceUtil/Ra2SelectDeviceUtilsStrategy.java" timestamp="1601492132011" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/DiscoveredFlashableDeviceFragment.java" timestamp="1601491549295" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/DeviceFinder.java" timestamp="1601492988004" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/LightSubtypeEnum.java" timestamp="1601488469200" />
     </filemarks>
     <jumps>
-      <jump line="195" column="13" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/converter/LeapToDao.java" />
-      <jump line="159" column="48" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/RingDeviceSummaryFragment.kt" />
       <jump line="156" column="8" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModel.kt" />
       <jump line="160" column="12" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModel.kt" />
       <jump line="382" column="41" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ring/data/repository/RingRepoTest.kt" />
@@ -272,6 +285,8 @@
       <jump line="8094" column="43" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.10/9d22e03b9f0a300edff23ccf219d406d12c3378f/rxjava-2.2.10-sources.jar!/io/reactivex/Observable.java" />
       <jump line="26" column="70" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ObservableTest.kt" />
       <jump line="43" column="55" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/pagesource/TimeClockEventsPageSource.kt" />
+      <jump line="139" column="92" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/AddDeviceByButtonPressFragment.java" />
+      <jump line="241" column="23" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/AddDeviceActivity.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -279,8 +294,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudHNQYWdlLmRhdGEuc2luZ2xlCg==</text>
+      <register name="&quot;" type="4">
+        <text>LandscapeLight</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -298,71 +313,71 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YWxzbyA=</text>
+        <text>LandscapeLight</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
       </register>
       <register name="/" type="4">
-        <text>any</text>
+        <text>Collections.singltonList\((R.drawable.\w)\)</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIERhb0hlbHBlckhvbGRlci5nZXRJbnN0YW5jZSgpLnNlc3Npb24/LnJ1bkluVHggeyBmb3JFYWNoKGFjdGlvbikgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpZ2h0c1R5cGVTdWJUeXBlTWFwLnB1dChMaWdodFR5cGVFbnVtLkxhbmRzY2FwZUxpZ2h0LCBudWxsKTsK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudHNQYWdlLmRhdGEuc2luZ2xlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpZ2h0c1R5cGVTdWJUeXBlTWFwLnB1dChMaWdodFR5cGVFbnVtLlNUUklOR19MSUdIVFMsIG51bGwpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdWJqZWN0Lm9uTmV4dCgyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZGlzcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRPRE8gTVJGIEFkZCBvdXRkb29yIGxpZ2h0IHR5cGVzIGhlcmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IkBkaW1lbi9tZWRpdW0iCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luTGVmdD0iQGRpbWVuL2V4dHJhX2xhcmdlIgo=</text>
+        <text encoding="base64">ICAgICAgICBldmVudHNQYWdlLmRhdGEuc2luZ2xlCg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkxlZnQ9IkBkaW1lbi9zY3JlZW5fbWFyZ2luIgo=</text>
+        <text encoding="base64">ICAgICAgICBzdWJqZWN0Lm9uTmV4dCgyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2JlbG93PSJAK2lkL3R2X2ZlYXR1cmVfZGVzY3JpcHRpb24iCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSJAZGltZW4vZXh0cmFfbGFyZ2UiCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZGlzcAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkxlZnQ9IkBkaW1lbi9leHRyYV9sYXJnZSIKICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iQGRpbWVuL2V4dHJhX2xhcmdlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5Ub3A9IkBkaW1lbi9tZWRpdW0iCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luTGVmdD0iQGRpbWVuL2V4dHJhX2xhcmdlIgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text>removed bench test code</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkxlZnQ9IkBkaW1lbi9zY3JlZW5fbWFyZ2luIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm5AY29yb3V0aW5lU2NvcGUgZW1wdHlMaXN0PFJpbmdEZXZpY2U+KCkucmlnaHQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2JlbG93PSJAK2lkL3R2X2ZlYXR1cmVfZGVzY3JpcHRpb24iCiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSJAZGltZW4vZXh0cmFfbGFyZ2UiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text encoding="base64">JzwsJz5zL0NvbGxlY3Rpb25zLnNpbmdsdG9uTGlzdFwoKFIuZHJhd2FibGUuXHcpXCkvJDE=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>any</last-search>
+      <last-search>Collections.singltonList\((R.drawable.\w)\)</last-search>
       <last-offset />
-      <last-pattern>any</last-pattern>
-      <last-replace>all</last-replace>
-      <last-substitute>any</last-substitute>
+      <last-pattern>Collections.singltonList\((R.drawable.\w)\)</last-pattern>
+      <last-replace>$1</last-replace>
+      <last-substitute>Collections.singltonList\((R.drawable.\w)\)</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
