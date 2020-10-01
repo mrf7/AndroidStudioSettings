@@ -139,13 +139,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/AddDeviceByButtonPressFragment.java" timestamp="1601493079663">
-        <mark key="'" line="141" column="92" />
-        <mark key="[" line="431" column="45" />
-        <mark key="]" line="431" column="57" />
-        <mark key="^" line="431" column="57" />
-        <mark key="." line="431" column="56" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/manager/featuremanager/BuildTypeFeatureProvider.kt" timestamp="1601491666039" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/IconEnum.java" timestamp="1601494689616">
         <mark key="[" line="56" column="0" />
@@ -158,20 +151,13 @@
         <mark key="[" line="543" column="64" />
         <mark key="]" line="543" column="64" />
         <mark key="." line="543" column="64" />
-        <mark key="^" line="546" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/casetaMasterStrings/AppMasterStrings.txt" timestamp="1601559832770" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BaseConnectedActivity.java" timestamp="1601491256011" />
-      <file name="/Dummy.txt" timestamp="1601493734492">
+      <file name="/Dummy.txt" timestamp="1601562804331">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/LightTypeEnum.java" timestamp="1601561035047">
-        <mark key="'" line="37" column="76" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="37" column="14" />
-      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/LightTypeEnum.java" timestamp="1601561035047" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/IconHelper.java" timestamp="1601489952157" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BaseActivity.java" timestamp="1601491258356" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/strategy/deviceUtil/CasetaDeviceUtilsStrategy.java" timestamp="1601492335876">
@@ -179,10 +165,17 @@
         <mark key="]" line="75" column="35" />
         <mark key="." line="75" column="35" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1601563533614" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/AddDeviceActivity.java" timestamp="1601492812421">
         <mark key="'" line="241" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/strategy/deviceUtil/Ra2SelectDeviceUtilsStrategy.java" timestamp="1601492132011" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/build.gradle" timestamp="1601563585035">
+        <mark key="[" line="29" column="8" />
+        <mark key="]" line="25" column="91" />
+        <mark key="^" line="25" column="91" />
+        <mark key="." line="25" column="90" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/DiscoveredFlashableDeviceFragment.java" timestamp="1601491549295" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/DeviceFinder.java" timestamp="1601492988004" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/LightSubtypeEnum.java" timestamp="1601488469200" />
