@@ -139,22 +139,26 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/manager/featuremanager/BuildTypeFeatureProvider.kt" timestamp="1601491666039" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/IconEnum.java" timestamp="1601566397958">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="87" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/SignInFragment.java" timestamp="1601574324980" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/IconEnum.java" timestamp="1601572804840" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/herokuProd/java/com.lutron.mmw.common/ConfigConstants.java" timestamp="1601575514547" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/DeviceLoginCommunicatorManager.java" timestamp="1601574358754" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/strategy/settings/AthenaSettingOptionsStrategy.kt" timestamp="1601575053865">
+        <mark key="[" line="21" column="70" />
+        <mark key="]" line="21" column="76" />
+        <mark key="." line="21" column="75" />
+        <mark key="^" line="21" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/DeviceTypeEnum.java" timestamp="1601489176757" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/DeviceHelper.java" timestamp="1601561741136">
         <mark key="[" line="543" column="64" />
         <mark key="]" line="543" column="64" />
         <mark key="." line="543" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BaseConnectedActivity.java" timestamp="1601491256011" />
-      <file name="/Dummy.txt" timestamp="1601566192433">
+      <file name="/Dummy.txt" timestamp="1601575264284">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/herokuProd/java/com/lutron/mmw/communication/DeviceLoginCommunicatorFactory.java" timestamp="1601575541215" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/herokuQa/java/com.lutron.mmw.common/ConfigConstants.java" timestamp="1601575554657" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/LightTypeEnum.java" timestamp="1601561035047" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/ZoneCategoryTypeEnum.java" timestamp="1601566318445">
         <mark key="[" line="38" column="18" />
@@ -162,8 +166,6 @@
         <mark key="^" line="38" column="29" />
         <mark key="." line="38" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/IconHelper.java" timestamp="1601489952157" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BaseActivity.java" timestamp="1601491258356" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/strategy/deviceUtil/CasetaDeviceUtilsStrategy.java" timestamp="1601492335876">
         <mark key="[" line="75" column="35" />
         <mark key="]" line="75" column="35" />
@@ -173,15 +175,15 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/AddDeviceActivity.java" timestamp="1601492812421">
         <mark key="'" line="241" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/strategy/deviceUtil/Ra2SelectDeviceUtilsStrategy.java" timestamp="1601492132011" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/build.gradle" timestamp="1601563585035">
-        <mark key="[" line="29" column="8" />
-        <mark key="]" line="25" column="91" />
-        <mark key="^" line="25" column="91" />
-        <mark key="." line="25" column="90" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/build.gradle" timestamp="1601575899697">
+        <mark key="[" line="26" column="74" />
+        <mark key="]" line="25" column="100" />
+        <mark key="^" line="25" column="100" />
+        <mark key="." line="25" column="99" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/DiscoveredFlashableDeviceFragment.java" timestamp="1601491549295" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/DeviceFinder.java" timestamp="1601492988004" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/build/generated/source/buildConfig/debug/com/lutron/cloudthings/BuildConfig.java" timestamp="1601573786251" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/CloudConstants.java" timestamp="1601574689238" />
     </filemarks>
     <jumps>
       <jump line="160" column="12" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModel.kt" />
@@ -291,8 +293,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIExBTkRTQ0FQRV9TSE9SVChDb2xsZWN0aW9ucy5zaW5nbGV0b25MaXN0KFIuZHJhd2FibGUuZGV2aWNlX2ljb25fbGFuc2NhcGVfbGlnaHRzKSksCg==</text>
+      <register name="&quot;" type="4">
+        <text>Spaces</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -310,7 +312,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>device_icon_landscape</text>
+        <text>Spaces</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
