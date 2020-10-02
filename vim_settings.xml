@@ -142,11 +142,6 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/IconEnum.java" timestamp="1601572804840" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/herokuProd/java/com.lutron.mmw.common/ConfigConstants.java" timestamp="1601575514547" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/DeviceLoginCommunicatorManager.java" timestamp="1601574358754" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/DeviceHelper.java" timestamp="1601561741136">
-        <mark key="[" line="543" column="64" />
-        <mark key="]" line="543" column="64" />
-        <mark key="." line="543" column="64" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/herokuProd/java/com/lutron/mmw/communication/DeviceLoginCommunicatorFactory.java" timestamp="1601575541215" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/herokuQa/java/com.lutron.mmw.common/ConfigConstants.java" timestamp="1601575554657" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/prodashboard/ProDashboardSignInViewModel.kt" timestamp="1601662335460" />
@@ -161,8 +156,14 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.61/fe3b9d48f4c3947639b6b1760213c1b79281383e/kotlin-stdlib-common-1.3.61-sources.jar!/kotlin/util/Preconditions.kt" timestamp="1601662097294" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/casetaMasterStrings/AppMasterStrings.txt" timestamp="1601652566670" />
-      <file name="/Dummy.txt" timestamp="1601575264284">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1601667759978">
+        <mark key="[" line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/LightTypeEnum.java" timestamp="1601667701161">
+        <mark key="[" line="20" column="82" />
+        <mark key="]" line="23" column="77" />
+        <mark key="^" line="23" column="77" />
+        <mark key="." line="23" column="76" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/ZoneCategoryTypeEnum.java" timestamp="1601566318445">
         <mark key="[" line="38" column="18" />
