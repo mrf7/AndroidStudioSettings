@@ -150,7 +150,7 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/herokuProd/java/com/lutron/mmw/communication/DeviceLoginCommunicatorFactory.java" timestamp="1601575541215" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/herokuQa/java/com.lutron.mmw.common/ConfigConstants.java" timestamp="1601575554657" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/prodashboard/ProDashboardSignInViewModel.kt" timestamp="1601662335460" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/MyLutronCommunicator.kt" timestamp="1601661435706" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/MyLutronCommunicator.kt" timestamp="1601662934574" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1601563533614" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/SignInFragment.java" timestamp="1601574324980" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/strategy/settings/AthenaSettingOptionsStrategy.kt" timestamp="1601575053865">
@@ -178,8 +178,11 @@
         <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1601585673173" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/build/generated/source/buildConfig/debug/com/lutron/cloudthings/BuildConfig.java" timestamp="1601573786251" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/CloudConstants.java" timestamp="1601574689238" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/build/generated/source/buildConfig/debug/com/lutron/cloudthings/BuildConfig.java" timestamp="1601662580556">
+        <mark key="[" line="26" column="44" />
+        <mark key="]" line="26" column="101" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/CloudConstants.java" timestamp="1601662948290" />
     </filemarks>
     <jumps>
       <jump line="160" column="12" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModel.kt" />
@@ -289,8 +292,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRDb25maWdGaWVsZCAiU3RyaW5nIiwgIlJJTkdfQVVUSE9SSVpBVElPTl9SRURJUkVDVF9VUkwiLCAiXCJodHRwczovL2RldmljZS1sb2dpbi5xYS5sdXRyb24uY29tL2ludGVncmF0aW9uL2F1dGhvcml6YXRpb24vZXN0YWJsaXNoXCIiCg==</text>
+      <register name="&quot;" type="4">
+        <text>https://aaz-um-integration-coreservices.azurewebsites.net/</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -316,8 +319,8 @@
       <register name="/" type="4">
         <text>Collections.singltonList\((R.drawable.\w)\)</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRDb25maWdGaWVsZCAiU3RyaW5nIiwgIlJJTkdfQVVUSE9SSVpBVElPTl9SRURJUkVDVF9VUkwiLCAiXCJodHRwczovL2RldmljZS1sb2dpbi5xYS5pb3QubHV0cm9uLmlvL2ludGVncmF0aW9uL2F1dGhvcml6YXRpb24vZXN0YWJsaXNoXCIiCg==</text>
+      <register name="0" type="4">
+        <text>https://aaz-um-integration-coreservices.azurewebsites.net/</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
