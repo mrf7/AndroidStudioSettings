@@ -139,14 +139,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/IconEnum.java" timestamp="1601572804840" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/client/FetchingTrustProviderDecorator.java" timestamp="1602000609227" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/herokuProd/java/com.lutron.mmw.common/ConfigConstants.java" timestamp="1601575514547" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/DeviceLoginCommunicatorManager.java" timestamp="1601574358754" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/herokuProd/java/com/lutron/mmw/communication/DeviceLoginCommunicatorFactory.java" timestamp="1601575541215" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/herokuQa/java/com.lutron.mmw.common/ConfigConstants.java" timestamp="1601575554657" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/prodashboard/ProDashboardSignInViewModel.kt" timestamp="1601662335460" />
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/MyLutronCommunicator.kt" timestamp="1601662934574" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/SignInFragment.java" timestamp="1601574324980" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/client/AuthorizationExceptionBlockingClient.java" timestamp="1602000547597" />
       <file name="$USER_HOME$/Documents/caseta-android-app/domain-objects/src/main/java/com/lutron/model/time/AstronomicTime.kt" timestamp="1601996525086" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/strategy/settings/AthenaSettingOptionsStrategy.kt" timestamp="1601575053865">
         <mark key="[" line="21" column="70" />
@@ -174,6 +173,7 @@
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/view/IconTextBulletinVisitor.kt" timestamp="1601996906370" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1601585673173" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/interfaces/viewpresentercontract/NLOSettingsContract.kt" timestamp="1602000629975" />
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/build/generated/source/buildConfig/debug/com/lutron/cloudthings/BuildConfig.java" timestamp="1601662580556">
         <mark key="[" line="26" column="44" />
         <mark key="]" line="26" column="101" />
