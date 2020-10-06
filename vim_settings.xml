@@ -165,12 +165,6 @@
         <mark key="^" line="23" column="77" />
         <mark key="." line="23" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/ZoneCategoryTypeEnum.java" timestamp="1601566318445">
-        <mark key="[" line="38" column="18" />
-        <mark key="]" line="38" column="29" />
-        <mark key="^" line="38" column="29" />
-        <mark key="." line="38" column="28" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/MyLutronCommunicatorManager.kt" timestamp="1601663191997" />
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/build.gradle" timestamp="1601586220805">
         <mark key="[" line="38" column="0" />
@@ -178,6 +172,7 @@
         <mark key="^" line="26" column="101" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/view/IconTextBulletinVisitor.kt" timestamp="1601996906370" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/ble/BleActivationViewModel.kt" timestamp="1601585673173" />
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/build/generated/source/buildConfig/debug/com/lutron/cloudthings/BuildConfig.java" timestamp="1601662580556">
         <mark key="[" line="26" column="44" />
