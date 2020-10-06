@@ -156,8 +156,8 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.61/fe3b9d48f4c3947639b6b1760213c1b79281383e/kotlin-stdlib-common-1.3.61-sources.jar!/kotlin/util/Preconditions.kt" timestamp="1601662097294" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/casetaMasterStrings/AppMasterStrings.txt" timestamp="1601652566670" />
-      <file name="/Dummy.txt" timestamp="1601667759978">
-        <mark key="[" line="0" column="9" />
+      <file name="/Dummy.txt" timestamp="1601667783010">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/LightTypeEnum.java" timestamp="1601667701161">
         <mark key="[" line="20" column="82" />
