@@ -147,13 +147,14 @@
         <mark key="]" line="15" column="24" />
         <mark key="." line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/MyLutronCommunicator.kt" timestamp="1601662934574" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/timeScratchSpace/DefaultTimeStringStrategy.kt" timestamp="1602084447552" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/client/AuthorizationExceptionBlockingClient.java" timestamp="1602000547597" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.11.0/1e90e40f81ac3a9b2f78061bea06c0a8606ddb8c/jackson-annotations-2.11.0-sources.jar!/com/fasterxml/jackson/annotation/JsonProperty.java" timestamp="1602012233846" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/DeviceCategoryEnum.java" timestamp="1602082042285" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/domain-objects/src/main/java/com/lutron/model/time/AstronomicTime.kt" timestamp="1601996525086" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/domain-objects/src/main/java/com/lutron/model/time/AstronomicTime.kt" timestamp="1602084186290" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/domain-objects/src/main/java/com/lutron/model/time/ITime.kt" timestamp="1602084281302" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/casetaMasterStrings/AppMasterStrings.txt" timestamp="1602083093429" />
-      <file name="/Dummy.txt" timestamp="1602082232638">
+      <file name="/Dummy.txt" timestamp="1602084551122">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/LightTypeEnum.java" timestamp="1601667701161">
@@ -171,11 +172,7 @@
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/view/IconTextBulletinVisitor.kt" timestamp="1601996906370" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/interfaces/viewpresentercontract/NLOSettingsContract.kt" timestamp="1602000629975" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/build/generated/source/buildConfig/debug/com/lutron/cloudthings/BuildConfig.java" timestamp="1601662580556">
-        <mark key="[" line="26" column="44" />
-        <mark key="]" line="26" column="101" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/CloudConstants.java" timestamp="1601663058355" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/domain-objects/src/main/java/com/lutron/model/time/TimeSpan.kt" timestamp="1602084266179" />
     </filemarks>
     <jumps>
       <jump line="160" column="12" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModel.kt" />
