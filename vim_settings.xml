@@ -139,21 +139,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/client/FetchingTrustProviderDecorator.java" timestamp="1602000609227" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/build.gradle" timestamp="1602012402463" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/Utils/build.gradle" timestamp="1602012448236" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/LeapButtonModel.kt" timestamp="1602012790834">
-        <mark key="[" line="15" column="24" />
-        <mark key="]" line="15" column="24" />
-        <mark key="." line="15" column="24" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/timeScratchSpace/DefaultTimeStringStrategy.kt" timestamp="1602084447552" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/client/AuthorizationExceptionBlockingClient.java" timestamp="1602000547597" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.11.0/1e90e40f81ac3a9b2f78061bea06c0a8606ddb8c/jackson-annotations-2.11.0-sources.jar!/com/fasterxml/jackson/annotation/JsonProperty.java" timestamp="1602012233846" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/DeviceCategoryEnum.java" timestamp="1602082042285" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/domain-objects/src/main/java/com/lutron/model/time/AstronomicTime.kt" timestamp="1602084186290" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/domain-objects/src/main/java/com/lutron/model/time/ITime.kt" timestamp="1602084281302" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/casetaMasterStrings/AppMasterStrings.txt" timestamp="1602083093429" />
       <file name="/Dummy.txt" timestamp="1602084551122">
         <mark key="[" line="0" column="0" />
       </file>
@@ -163,20 +148,23 @@
         <mark key="^" line="23" column="77" />
         <mark key="." line="23" column="76" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/MyLutronCommunicatorManager.kt" timestamp="1601663191997" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/programming-framework/src/main/java/com/lutron/programming/presetAssignment/common/AssignmentDifferences.kt" timestamp="1602085267650" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/LeapButtonModel.kt" timestamp="1602012790834">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="24" />
+        <mark key="." line="15" column="24" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/build.gradle" timestamp="1602012430443">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="153" />
         <mark key="^" line="26" column="101" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/view/IconTextBulletinVisitor.kt" timestamp="1601996906370" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/interfaces/viewpresentercontract/NLOSettingsContract.kt" timestamp="1602000629975" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/domain-objects/src/main/java/com/lutron/model/time/TimeSpan.kt" timestamp="1602084266179" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/programming-framework/src/main/java/com/lutron/programming/presetAssignment/common/PresetAssignmentHasherVisitor.java" timestamp="1602085617442">
+        <mark key="'" line="133" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="12" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModel.kt" />
-      <jump line="382" column="41" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ring/data/repository/RingRepoTest.kt" />
       <jump line="141" column="49" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ring/usecase/presenter/TriggerProgrammingViewModelTest.kt" />
       <jump line="193" column="58" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ring/usecase/presenter/TriggerProgrammingViewModelTest.kt" />
       <jump line="182" column="25" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/data/repository/RingRepo.kt" />
@@ -275,6 +263,8 @@
       <jump line="139" column="92" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/AddDeviceByButtonPressFragment.java" />
       <jump line="241" column="23" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/AddDeviceActivity.java" />
       <jump line="37" column="76" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/enums/device/LightTypeEnum.java" />
+      <jump line="75" column="0" filename="$USER_HOME$/Documents/caseta-android-app/programming-framework/src/main/java/com/lutron/programming/presetAssignment/common/PresetAssignmentHasherVisitor.java" />
+      <jump line="133" column="0" filename="$USER_HOME$/Documents/caseta-android-app/programming-framework/src/main/java/com/lutron/programming/presetAssignment/common/PresetAssignmentHasherVisitor.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
