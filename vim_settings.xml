@@ -152,20 +152,24 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/AreaRepo.kt" timestamp="1602096431176" />
       <file name="$USER_HOME$/Documents/caseta-android-app/roomDb/src/main/java/com/lutron/roomdb/DefaultRoomRepository.kt" timestamp="1602184001972" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.room/room-runtime/2.2.4/174ebdbe3e7a886906c6e488c230a74c6da0ccea/room-runtime-2.2.4-sources.jar!/androidx/room/RoomDatabase.java" timestamp="1602184446589" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/programming-framework/src/main/java/com/lutron/programming/presetAssignment/common/PresetAssignmentHasherVisitor.java" timestamp="1602087079346">
-        <mark key="'" line="133" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1602093806150">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/sharedUiComponents/src/main/java/com/lutron/uicomponents/views/CustomExpandableListView.java" timestamp="1602093958794" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/build/generated/source/buildConfig/release/com/lutron/cloudthings/BuildConfig.java" timestamp="1602188843908">
+        <mark key="[" line="26" column="44" />
+        <mark key="]" line="26" column="76" />
+      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/DeviceLoginCommunicator.java" timestamp="1602097568424" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/MyLutronCommunicator.kt" timestamp="1602094467491" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/MyLutronCommunicator.kt" timestamp="1602189400243">
+        <mark key="[" line="108" column="62" />
+        <mark key="]" line="108" column="62" />
+        <mark key="." line="108" column="62" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/MyLutronCommunicatorManager.kt" timestamp="1602188753850" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/helper/programminghelper/DiffGeneratorTest.kt" timestamp="1602172524071" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BaseActivity.java" timestamp="1602169016476" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/Device.java" timestamp="1602095666672" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1602103571445" />
       <file name="$USER_HOME$/Documents/caseta-android-app/roomDb/src/main/java/com/lutron/roomdb/DefaultRoomDatabase.kt" timestamp="1602185734046" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/cloud-things/src/main/java/com/lutron/cloudthings/CloudConstants.java" timestamp="1602188997200" />
     </filemarks>
     <jumps>
       <jump line="193" column="58" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ring/usecase/presenter/TriggerProgrammingViewModelTest.kt" />
@@ -276,7 +280,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>accessToken</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -294,7 +298,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>accessToken</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -303,7 +307,7 @@
         <text>Collections.singltonList\((R.drawable.\w)\)</text>
       </register>
       <register name="0" type="4">
-        <text>https://aaz-um-integration-coreservices.azurewebsites.net/</text>
+        <text>https://umsssoservice.lutron.com/</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
