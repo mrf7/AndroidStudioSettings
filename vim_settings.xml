@@ -139,6 +139,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/caseta-android-app/roomDb/src/main/java/com/lutron/roomdb/model/UserProfileAllChannels.kt" timestamp="1602184411560" />
       <file name="$USER_HOME$/Documents/caseta-android-app/programming-framework/src/main/java/com/lutron/programming/presetAssignment/common/AssignmentDifferences.kt" timestamp="1602085267650" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/helper/programminghelper/DiffGenerator.kt" timestamp="1602172224749">
         <mark key="'" line="44" column="73" />
@@ -149,6 +150,8 @@
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/Time.java" timestamp="1602168946328" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/repositories/AreaRepo.kt" timestamp="1602096431176" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/roomDb/src/main/java/com/lutron/roomdb/DefaultRoomRepository.kt" timestamp="1602184001972" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.room/room-runtime/2.2.4/174ebdbe3e7a886906c6e488c230a74c6da0ccea/room-runtime-2.2.4-sources.jar!/androidx/room/RoomDatabase.java" timestamp="1602184446589" />
       <file name="$USER_HOME$/Documents/caseta-android-app/programming-framework/src/main/java/com/lutron/programming/presetAssignment/common/PresetAssignmentHasherVisitor.java" timestamp="1602087079346">
         <mark key="'" line="133" column="0" />
       </file>
@@ -162,6 +165,7 @@
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BaseActivity.java" timestamp="1602169016476" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/generated/Device.java" timestamp="1602095666672" />
       <file name="$USER_HOME$/Documents/caseta-android-app/app/build.gradle" timestamp="1602103571445" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/roomDb/src/main/java/com/lutron/roomdb/DefaultRoomDatabase.kt" timestamp="1602184421121" />
     </filemarks>
     <jumps>
       <jump line="193" column="58" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ring/usecase/presenter/TriggerProgrammingViewModelTest.kt" />
