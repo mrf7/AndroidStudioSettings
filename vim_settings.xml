@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>map</entry>
         <entry>LeapExceptionModel</entry>
         <entry>dp</entry>
         <entry>\%</entry>
@@ -27,9 +26,9 @@
         <entry>&quot;key&quot;</entry>
         <entry>any</entry>
         <entry>Collections.singltonList\((R.drawable.\w)\)</entry>
+        <entry>href</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL21hcC9mbGF0TWFwL2c=</entry>
         <entry encoding="base64">JzwsJz5zL0xlYXBFeGNlcHRpb25Nb2RlbC9SZXF1ZXN0UmVzcG9uc2VQcm9jZXNzaW5nRXhjZXB0aW9uL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2RwL3B4</entry>
         <entry encoding="base64">JzwsJz4vXCU=</entry>
@@ -49,6 +48,7 @@
         <entry>s/any/all/g</entry>
         <entry>reg</entry>
         <entry encoding="base64">JzwsJz5zL0NvbGxlY3Rpb25zLnNpbmdsdG9uTGlzdFwoKFIuZHJhd2FibGUuXHcpXCkvJDE=</entry>
+        <entry>s/href/occupiedActionSchedule/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -139,32 +139,38 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/OccupancyGroupTestActionCallable.java" timestamp="1602515593238" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/requestcreator/BaseRequestCreator.java" timestamp="1602527799080" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/requestcreator/BaseRequestCreator.java" timestamp="1602532364448" />
       <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/LeapOccupancyGroupModel.java" timestamp="1602531524742" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/test/java/com.lutron.leaplib/leapmodel/LeapOccupancyGroupModelTest.kt" timestamp="1602531060598">
-        <mark key="[" line="47" column="56" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/test/java/com.lutron.leaplib/leapmodel/LeapOccupancyGroupModelTest.kt" timestamp="1602533861031">
+        <mark key="[" line="108" column="66" />
+        <mark key="]" line="108" column="56" />
+        <mark key="^" line="108" column="56" />
+        <mark key="." line="108" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/LeapSchedulePropertiesModel.kt" timestamp="1602514322585" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/requestcreator/OccupancyGroupRequestCreator.java" timestamp="1602530062004">
-        <mark key="'" line="36" column="74" />
-        <mark key="[" line="36" column="56" />
-        <mark key="]" line="36" column="76" />
-        <mark key="^" line="36" column="76" />
-        <mark key="." line="36" column="75" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/requestcreator/OccupancyGroupRequestCreator.java" timestamp="1602533584857">
+        <mark key="'" line="41" column="74" />
+        <mark key="[" line="37" column="34" />
+        <mark key="]" line="37" column="34" />
+        <mark key="^" line="38" column="93" />
+        <mark key="." line="37" column="34" />
       </file>
-      <file name="/fragment.kt" timestamp="1602531464126">
-        <mark key="[" line="0" column="104" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/build.gradle" timestamp="1602534854312">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="5" column="31" />
+        <mark key="." line="5" column="31" />
+      </file>
+      <file name="/fragment.kt" timestamp="1602532393672">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="91" />
         <mark key="." line="0" column="91" />
         <mark key="^" line="0" column="13" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.11.0/8f3dba92b2f979fd859ce2eda9e1cf8bacf5cc91/jackson-databind-2.11.0-sources.jar!/com/fasterxml/jackson/databind/node/ObjectNode.java" timestamp="1602530760017" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/LeapHeaderModel.java" timestamp="1602530553517">
-        <mark key="[" line="105" column="89" />
-        <mark key="]" line="105" column="89" />
-        <mark key="^" line="105" column="89" />
-        <mark key="." line="105" column="88" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/LeapHeaderModel.java" timestamp="1602533791668">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="104" column="89" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/requestcreator/ZoneStatusRequestCreator.java" timestamp="1602530664449" />
       <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/LeapHeaderModel.kt" timestamp="1602530482282">
@@ -177,32 +183,38 @@
         <mark key="." line="84" column="35" />
         <mark key="^" line="83" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/LeapRequestResponseModel.java" timestamp="1602529718093" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/test/java/com.lutron.leaplib/requestcreator/OccupancyGroupRequestCreatorTest.kt" timestamp="1602531373236">
-        <mark key="'" line="64" column="35" />
-        <mark key="[" line="70" column="7" />
-        <mark key="]" line="70" column="46" />
-        <mark key="." line="70" column="45" />
-        <mark key="^" line="70" column="46" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/test/java/com.lutron.leaplib/requestcreator/OccupancyGroupRequestCreatorTest.kt" timestamp="1602533772040">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="72" column="46" />
+        <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/callables/NLOUpdateCallable.kt" timestamp="1602527525644" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/response/processor/keypad/OccupancyGroupProcessor.java" timestamp="1602530037521">
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/response/processor/keypad/OccupancyGroupProcessor.java" timestamp="1602533025208">
         <mark key="[" line="29" column="100" />
         <mark key="]" line="29" column="100" />
         <mark key="." line="29" column="117" />
         <mark key="^" line="38" column="73" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/voicealias/AliasModel.java" timestamp="1602527651740" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/dao/converter/LeapToDao.java" timestamp="1602528715159" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/LeapOccupancyGroupModel.kt" timestamp="1602530990062">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="5" />
-        <mark key="." line="9" column="4" />
+      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/LeapTimeOfDayModel.kt" timestamp="1602532890456">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="5" />
+        <mark key="^" line="8" column="5" />
+        <mark key="." line="8" column="4" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1602533994003">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/LeapOccupancyGroupModel.kt" timestamp="1602532704412">
+        <mark key="[" line="17" column="2" />
+        <mark key="]" line="17" column="2" />
+        <mark key="." line="17" column="2" />
         <mark key="^" line="9" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/leap/LeapResourceDataSource.kt" timestamp="1602533892326" />
     </filemarks>
     <jumps>
-      <jump line="92" column="52" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/TriggerProgrammingFragment.kt" />
       <jump line="108" column="78" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/TriggerProgrammingFragment.kt" />
       <jump line="157" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/RingDeviceSummaryFragment.kt" />
       <jump line="186" column="57" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModel.kt" />
@@ -302,6 +314,7 @@
       <jump line="36" column="74" filename="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/requestcreator/OccupancyGroupRequestCreator.java" />
       <jump line="85" column="23" filename="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/test/java/com.lutron.leaplib/requestcreator/OccupancyGroupRequestCreatorTest.kt" />
       <jump line="60" column="35" filename="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/test/java/com.lutron.leaplib/requestcreator/OccupancyGroupRequestCreatorTest.kt" />
+      <jump line="71" column="8" filename="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/test/java/com.lutron.leaplib/requestcreator/OccupancyGroupRequestCreatorTest.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -309,8 +322,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>as LeapOccupancyGroupMode</text>
+      <register name="&quot;" type="2">
+        <text>Unhide Ollie</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -328,78 +341,73 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>as LeapOccupancyGroupMode</text>
+        <text>!!.</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
       </register>
       <register name="/" type="4">
-        <text>Collections.singltonList\((R.drawable.\w)\)</text>
+        <text>href</text>
       </register>
-      <register name="0" type="4">
-        <text>https://umsssoservice.lutron.com/</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKG9jY01vZGVsLmhyZWYsIHRlc3RCb2R5LmhyZWYpCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text>(testRequest ).mBody[&quot;OccupancyGroup&quot;]</text>
+        <text>Unhide Ollie</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>{
-
-}</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYmplY3RzOwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
-      <register name="3" type="4">
-        <text>val x = ParserFactory.getJsonParser().parse(
-            testRequest.body[LeapConstant.NODE_OCCUPANCY_GROUP],
-            LeapOccupancyGroupModel::class.java
-        ) as LeapOccupancyGroupModel</text>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS5sdXRyb24ubGVhcGxpYi5sZWFwbW9kZWwuTGVhcEhlYWRlck1vZGVsCg==</text>
       </register>
-      <register name="4" type="8">
-        <text>private
-private</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgSU9FeGNlcHRpb24K</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text>p
-p</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyB2YWwgZXhwZWN0ZWRCb2R5ID0gIiIiCiAgICAgICAgLy8gICAgIHsKICAgICAgICAvLyAgICAgICAgICJPY2N1cGFuY3lHcm91cCI6IHsKICAgICAgICAvLyAgICAgICAgICAgICAiaHJlZiI6ICIvb2NjdXBhbmN5Z3JvdXAvMSIsCiAgICAgICAgLy8gICAgICAgICAgICAgIk9jY3VwaWVkQWN0aW9uU2NoZWR1bGUiOiB7CiAgICAgICAgLy8gICAgICAgICAgICAgICAgICJTY2hlZHVsZVR5cGUiOiAiRGFpbHkiLAogICAgICAgIC8vICAgICAgICAgICAgICAgICAiRGFpbHlTY2hlZHVsZVByb3BlcnRpZXMiOiB7CiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAiU3RhcnRUaW1lIjogewogICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICJFdmVudFR5cGUiOiAiRml4ZWQiLAogICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICJUaW1lT2ZEYXkiOiB7IkhvdXIiOiA1LCJNaW51dGUiOiAyMH0KICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAiRW5kVGltZSI6IHsKICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAiRXZlbnRUeXBlIjogIkFzdHJvbm9taWMiLAogICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICJBc3Ryb25vbWljRXZlbnRUeXBlIjogIlN1bnJpc2UiLAogICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICJBc3Ryb25vbWljVGltZU9mZnNldCI6ICI1OjAwIgogICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgIC8vICAgICAgICAgICAgICAgICB9CiAgICAgICAgLy8gICAgICAgICAgICAgfSwKICAgICAgICAvLyAgICAgICAgICAgICAiVW5vY2N1cGllZEFjdGlvblNjaGVkdWxlIjogewogICAgICAgIC8vICAgICAgICAgICAgICAgICAiU2NoZWR1bGVUeXBlIjogIk5vbmUiCiAgICAgICAgLy8gICAgICAgICAgICAgfQogICAgICAgIC8vICAgICAgICAgfQogICAgICAgIC8vICAgICB9CiAgICAgICAgLy8gIiIiLnRyaW1JbmRlbnQoKQogICAgICAgIC8vIEpTT05Bc3NlcnQuYXNzZXJ0RXF1YWxzKGV4cGVjdGVkQm9keSwgdGVzdFJlcXVlc3QuYm9keS50b1ByZXR0eVN0cmluZygpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKCkge30K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBPQ0NVUEFOQ1lfR1JPVVAgPSAiT2NjdXBhbmN5R3JvdXAiOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIE9DQ1VQQU5DWV9HUk9VUFMgPSAiT2NjdXBhbmN5R3JvdXBzIjsK</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKG9jY01vZGVsLm9jY3VwaWVkQWN0aW9uU2NoZWR1bGUsIHRlc3RCb2R5Lm9jY3VwaWVkQWN0aW9uU2NoZWR1bGUpCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBQYXJzZXJGYWN0b3J5LmdldEpzb25QYXJzZXIoKS5wYXJzZSgpCg==</text>
+      <register name="8" type="4">
+        <text>{
+
+}</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIHJldXNlIGFzdHJvbm9taWMgLyBjbG9jayB0aW1lIGNvbnN0cnVjdHMgZnJvbSBOTE8K</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQK</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL0NvbGxlY3Rpb25zLnNpbmdsdG9uTGlzdFwoKFIuZHJhd2FibGUuXHcpXCkvJDE=</text>
+        <text>s/href/occupiedActionSchedule/g</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Collections.singltonList\((R.drawable.\w)\)</last-search>
+      <last-search>href</last-search>
       <last-offset />
-      <last-pattern>Collections.singltonList\((R.drawable.\w)\)</last-pattern>
-      <last-replace>$1</last-replace>
-      <last-substitute>Collections.singltonList\((R.drawable.\w)\)</last-substitute>
+      <last-pattern>href</last-pattern>
+      <last-replace>occupiedActionSchedule</last-replace>
+      <last-substitute>href</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
