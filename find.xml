@@ -6,15 +6,16 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="build.gradle" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
-    <mask>build.gradle</mask>
     <mask>*.xml</mask>
     <mask>*Test.kt</mask>
     <mask>*Ble*</mask>
     <mask>*.kt</mask>
+    <mask>build.gradle</mask>
   </component>
 </application>
