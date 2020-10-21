@@ -36,6 +36,12 @@
     <keyboard-shortcut first-keystroke="meta g" />
   </action>
   <action id="FindNext" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta b" />
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="Force touch" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
   <action id="Move" />
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="meta right" />
