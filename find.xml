@@ -6,27 +6,18 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
+    <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
-    <mask>*.js</mask>
-    <mask>*.as</mask>
-    <mask>*.css</mask>
-    <mask>*.mxml</mask>
-    <mask>*.crt</mask>
-    <mask>*.pem</mask>
-    <mask>*.gradle</mask>
+    <mask>*.properties</mask>
     <mask>*.xml</mask>
-    <mask>*Callable.java</mask>
-    <mask>*.java</mask>
-    <mask>*.pl</mask>
-    <mask>*Contract.java</mask>
-    <mask>detek-baseline.*</mask>
-    <mask>detekt-baseline.*</mask>
-    <mask>build.*</mask>
-    <mask>*Test.*</mask>
-    <mask>*.kt</mask>
+    <mask>*Test.kt</mask>
+    <mask>*Ble*</mask>
     <mask>build.gradle</mask>
+    <mask>*.java</mask>
+    <mask>*.kt</mask>
+    <mask>*gradle*</mask>
   </component>
 </application>
