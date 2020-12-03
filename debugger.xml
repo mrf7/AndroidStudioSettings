@@ -130,6 +130,17 @@
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundTypeRenderer">
         <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="com.lutron.mmw.presenter.ScheduleEditorData" />
+        <Renderer ID="EnumerationChildrenRenderer" role="children">
+          <option name="QUALIFIED_NAME" value="com.lutron.mmw.presenter.ScheduleEditorData" />
+          <option name="AppendDefault" value="true" />
+          <ChildrenExpression Name="">
+            <TextWithImports text="customStartTimeEditor.getSelectedTime()&#13;&#13;Kotlin" type="expression" />
+          </ChildrenExpression>
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.lutron.mmw.adapter.viewmodel.AreaDevicesViewModel" />
         <Renderer ID="EnumerationChildrenRenderer" role="children">
           <option name="QUALIFIED_NAME" value="com.lutron.mmw.adapter.viewmodel.AreaDevicesViewModel" />
@@ -224,11 +235,6 @@
       <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
     </general>
     <debuggers>
-      <debugger id="kotlin_debugger">
-        <configuration>
-          <option name="filterForStdlibAlreadyAdded" value="true" />
-        </configuration>
-      </debugger>
       <debugger id="ObjectiveC">
         <configuration>
           <option name="VALUES_FILTER_ENABLED" value="false" />
