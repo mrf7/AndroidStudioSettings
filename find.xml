@@ -8,6 +8,7 @@
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Fragment*" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -19,5 +20,6 @@
     <mask>*.java</mask>
     <mask>*.kt</mask>
     <mask>*gradle*</mask>
+    <mask>*Fragment*</mask>
   </component>
 </application>
