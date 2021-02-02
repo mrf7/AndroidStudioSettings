@@ -139,16 +139,41 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/sqldelight/CoroutinesExtensions.kt" timestamp="1612217808136">
+        <mark key="'" line="62" column="11" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/MainActivity.kt" timestamp="1612282140468">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/CodeEntryViewModel.kt" timestamp="1612282028327">
+        <mark key="'" line="12" column="26" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/response/processor/keypad/OccupancyGroupProcessor.java" timestamp="1602533025208">
+        <mark key="[" line="29" column="100" />
+        <mark key="]" line="29" column="100" />
+        <mark key="." line="29" column="117" />
+        <mark key="^" line="38" column="73" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/DatabaseHelper.kt" timestamp="1612217792662">
+        <mark key="'" line="32" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/caseta-android-app/build.gradle" timestamp="1602534854312">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="5" column="31" />
+        <mark key="." line="5" column="31" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" timestamp="1612217829295">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1602533994003">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="/fragment.kt" timestamp="1602532393672">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="91" />
-        <mark key="." line="0" column="91" />
-        <mark key="^" line="0" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/LeapHeaderModel.java" timestamp="1602533791668">
         <mark key="[" line="6" column="0" />
@@ -156,14 +181,11 @@
         <mark key="^" line="104" column="89" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/sqldelight/CoroutinesExtensions.kt" timestamp="1612217808136">
-        <mark key="'" line="62" column="11" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/build.gradle.kts" timestamp="1612280414546">
-        <mark key="[" line="10" column="33" />
-        <mark key="]" line="11" column="16" />
-        <mark key="^" line="11" column="16" />
-        <mark key="." line="11" column="15" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/build.gradle.kts" timestamp="1612281497553">
+        <mark key="[" line="188" column="66" />
+        <mark key="]" line="188" column="67" />
+        <mark key="^" line="188" column="67" />
+        <mark key="." line="188" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/LeapTimeOfDayModel.kt" timestamp="1602532890456">
         <mark key="[" line="8" column="0" />
@@ -177,22 +199,6 @@
         <mark key="." line="17" column="2" />
         <mark key="^" line="9" column="5" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/CodeEntryViewModel.kt" timestamp="1612217825222">
-        <mark key="'" line="11" column="26" />
-        <mark key="[" line="21" column="41" />
-        <mark key="]" line="21" column="41" />
-        <mark key="^" line="21" column="41" />
-        <mark key="." line="21" column="40" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/response/processor/keypad/OccupancyGroupProcessor.java" timestamp="1602533025208">
-        <mark key="[" line="29" column="100" />
-        <mark key="]" line="29" column="100" />
-        <mark key="." line="29" column="117" />
-        <mark key="^" line="38" column="73" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/DatabaseHelper.kt" timestamp="1612217792662">
-        <mark key="'" line="32" column="13" />
-      </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/test/java/com.lutron.leaplib/leapmodel/LeapOccupancyGroupModelTest.kt" timestamp="1602533861031">
         <mark key="[" line="108" column="66" />
         <mark key="]" line="108" column="56" />
@@ -205,19 +211,16 @@
         <mark key="^" line="72" column="46" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/build.gradle" timestamp="1602534854312">
-        <mark key="[" line="5" column="30" />
-        <mark key="]" line="5" column="31" />
-        <mark key="." line="5" column="31" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/AndroidManifest.xml" timestamp="1612281387667">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/build.gradle.kts" timestamp="1612280392992">
         <mark key="[" line="21" column="71" />
         <mark key="]" line="21" column="72" />
         <mark key="^" line="21" column="72" />
         <mark key="." line="21" column="71" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" timestamp="1612217829295">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/requestcreator/OccupancyGroupRequestCreator.java" timestamp="1602533584857">
         <mark key="'" line="41" column="74" />
@@ -228,7 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="65" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModel.kt" />
       <jump line="344" column="34" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ring/data/repository/RingRepoTest.kt" />
       <jump line="155" column="13" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/HomeActivity.java" />
       <jump line="4895" column="28" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0/2151d26c3b241f0a887f2dadb9ab091649fcf020/recyclerview-1.0.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java" />
@@ -328,6 +330,7 @@
       <jump line="11" column="26" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/CodeEntryViewModel.kt" />
       <jump line="75" column="6" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" />
+      <jump line="13" column="33" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/MainActivity.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -336,7 +339,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text>Unhide Ollie</text>
+        <text encoding="base64">ICAgICAgICBOZXdSZWxpYy5kaXNhYmxlRmVhdHVyZShGZWF0dXJlKQo=</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -354,7 +357,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>!!.</text>
+        <text>;</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -369,45 +372,43 @@
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text>Unhide Ollie</text>
+        <text encoding="base64">ICAgICAgICBOZXdSZWxpYy5kaXNhYmxlRmVhdHVyZShGZWF0dXJlKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYmplY3RzOwo=</text>
+        <text encoding="base64">ICAgICAgICBOZXdSZWxpYy5jcmFzaE5vdygpCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sdXRyb24ubGVhcGxpYi5sZWFwbW9kZWwuTGVhcEhlYWRlck1vZGVsCg==</text>
+        <text encoding="base64">ICAgICAgICBOZXdSZWxpYy5jcmFzaE5vdygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgSU9FeGNlcHRpb24K</text>
+        <text encoding="base64">ICAgICAgICBOZXdSZWxpYy53aXRoQXAK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB2YWwgZXhwZWN0ZWRCb2R5ID0gIiIiCiAgICAgICAgLy8gICAgIHsKICAgICAgICAvLyAgICAgICAgICJPY2N1cGFuY3lHcm91cCI6IHsKICAgICAgICAvLyAgICAgICAgICAgICAiaHJlZiI6ICIvb2NjdXBhbmN5Z3JvdXAvMSIsCiAgICAgICAgLy8gICAgICAgICAgICAgIk9jY3VwaWVkQWN0aW9uU2NoZWR1bGUiOiB7CiAgICAgICAgLy8gICAgICAgICAgICAgICAgICJTY2hlZHVsZVR5cGUiOiAiRGFpbHkiLAogICAgICAgIC8vICAgICAgICAgICAgICAgICAiRGFpbHlTY2hlZHVsZVByb3BlcnRpZXMiOiB7CiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAiU3RhcnRUaW1lIjogewogICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICJFdmVudFR5cGUiOiAiRml4ZWQiLAogICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICJUaW1lT2ZEYXkiOiB7IkhvdXIiOiA1LCJNaW51dGUiOiAyMH0KICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAiRW5kVGltZSI6IHsKICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAiRXZlbnRUeXBlIjogIkFzdHJvbm9taWMiLAogICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICJBc3Ryb25vbWljRXZlbnRUeXBlIjogIlN1bnJpc2UiLAogICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICJBc3Ryb25vbWljVGltZU9mZnNldCI6ICI1OjAwIgogICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgIC8vICAgICAgICAgICAgICAgICB9CiAgICAgICAgLy8gICAgICAgICAgICAgfSwKICAgICAgICAvLyAgICAgICAgICAgICAiVW5vY2N1cGllZEFjdGlvblNjaGVkdWxlIjogewogICAgICAgIC8vICAgICAgICAgICAgICAgICAiU2NoZWR1bGVUeXBlIjogIk5vbmUiCiAgICAgICAgLy8gICAgICAgICAgICAgfQogICAgICAgIC8vICAgICAgICAgfQogICAgICAgIC8vICAgICB9CiAgICAgICAgLy8gIiIiLnRyaW1JbmRlbnQoKQogICAgICAgIC8vIEpTT05Bc3NlcnQuYXNzZXJ0RXF1YWxzKGV4cGVjdGVkQm9keSwgdGVzdFJlcXVlc3QuYm9keS50b1ByZXR0eVN0cmluZygpKQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5uZXdyZWxpYy5hZ2VudC5hbmRyb2lkLk5ld1JlbGljCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKCkge30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKG9jY01vZGVsLm9jY3VwaWVkQWN0aW9uU2NoZWR1bGUsIHRlc3RCb2R5Lm9jY3VwaWVkQWN0aW9uU2NoZWR1bGUpCg==</text>
+        <text>Unhide Ollie</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>{
-
-}</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYmplY3RzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5sdXRyb24ubGVhcGxpYi5sZWFwbW9kZWwuTGVhcEhlYWRlck1vZGVsCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/href/occupiedActionSchedule/g</text>
