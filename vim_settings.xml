@@ -147,12 +147,12 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/CodeEntryViewModel.kt" timestamp="1612290909351">
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/CodeEntryViewModel.kt" timestamp="1612292263466">
         <mark key="'" line="12" column="26" />
-        <mark key="[" line="23" column="55" />
-        <mark key="]" line="24" column="40" />
-        <mark key="." line="24" column="39" />
-        <mark key="^" line="24" column="40" />
+        <mark key="[" line="24" column="80" />
+        <mark key="]" line="24" column="82" />
+        <mark key="." line="24" column="81" />
+        <mark key="^" line="24" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/response/processor/keypad/OccupancyGroupProcessor.java" timestamp="1602533025208">
         <mark key="[" line="29" column="100" />
