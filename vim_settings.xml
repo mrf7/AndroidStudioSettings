@@ -142,10 +142,11 @@
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/sqldelight/CoroutinesExtensions.kt" timestamp="1612217808136">
         <mark key="'" line="62" column="11" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/MainActivity.kt" timestamp="1612282140468">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/MainActivity.kt" timestamp="1612283814072">
+        <mark key="[" line="37" column="33" />
+        <mark key="]" line="38" column="58" />
+        <mark key="." line="38" column="57" />
+        <mark key="^" line="38" column="58" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/CodeEntryViewModel.kt" timestamp="1612282028327">
         <mark key="'" line="12" column="26" />
