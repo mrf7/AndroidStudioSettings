@@ -170,12 +170,12 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/iosMain/kotlin/org/commonsproject/commonpass/viewmodels/NativeCodeEntryViewModel.kt" timestamp="1612377896974">
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/iosMain/kotlin/org/commonsproject/commonpass/viewmodels/NativeCodeEntryViewModel.kt" timestamp="1612379785066">
         <mark key="'" line="29" column="37" />
-        <mark key="[" line="21" column="37" />
-        <mark key="]" line="22" column="54" />
-        <mark key="." line="22" column="53" />
-        <mark key="^" line="22" column="54" />
+        <mark key="[" line="31" column="56" />
+        <mark key="]" line="31" column="56" />
+        <mark key="." line="31" column="55" />
+        <mark key="^" line="31" column="56" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/Koin.kt" timestamp="1612371965753">
         <mark key="'" line="70" column="14" />
