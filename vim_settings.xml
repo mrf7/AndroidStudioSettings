@@ -148,15 +148,15 @@
         <mark key="." line="36" column="87" />
         <mark key="^" line="36" column="88" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/CodeEntryViewModel.kt" timestamp="1612372026097">
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/CodeEntryViewModel.kt" timestamp="1612372232202">
         <mark key="'" line="12" column="26" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="21" column="21" />
+        <mark key="[" line="21" column="45" />
+        <mark key="]" line="21" column="59" />
+        <mark key="." line="21" column="58" />
+        <mark key="^" line="21" column="59" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/Analytics.kt" timestamp="1612371908368">
-        <mark key="[" line="2" column="22" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/Analytics.kt" timestamp="1612372357984">
+        <mark key="[" line="2" column="21" />
         <mark key="]" line="9" column="1" />
         <mark key="^" line="9" column="1" />
         <mark key="." line="9" column="0" />
@@ -167,9 +167,6 @@
         <mark key="]" line="79" column="35" />
         <mark key="." line="79" column="34" />
         <mark key="^" line="79" column="35" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/DatabaseHelper.kt" timestamp="1612217792662">
-        <mark key="'" line="32" column="13" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidMain/kotlin/org/commonsproject/commonpass/Analytics.kt" timestamp="1612371752214">
         <mark key="[" line="8" column="16" />
@@ -225,6 +222,12 @@
         <mark key="]" line="21" column="72" />
         <mark key="^" line="21" column="72" />
         <mark key="." line="21" column="71" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/AnalyticsImpl.kt" timestamp="1612372394822">
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="11" column="39" />
+        <mark key="." line="11" column="38" />
+        <mark key="^" line="11" column="39" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidMain/kotlin/org/commonsproject/commonpass/NewRelic.kt" timestamp="1612371644003">
         <mark key="[" line="13" column="0" />
@@ -341,7 +344,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5uZXdyZWxpYy5hZ2VudC5hbmRyb2lkLk5ld1JlbGljCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -368,37 +371,37 @@
         <text>href</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGltcGxlbWVudGF0aW9uKCJjb20ubmV3cmVsaWMuYWdlbnQuYW5kcm9pZDphbmRyb2lkLWFnZW50OjUuMjguMSIpCg==</text>
+        <text encoding="base64">ICAgIGZ1biByZWNvcmRCcmVhZGNydW1iKGJyZWFkY3J1bWJOYW1lOiBTdHJpbmcpOiBCb29sZWFuCgogICAgZnVuIHJlY29yZEJyZWFkY3J1bWIoCiAgICAgICAgYnJlYWRjcnVtYk5hbWU6IFN0cmluZywKICAgICAgICBhdHRyaWJ1dGVzOiBNdXRhYmxlTWFwPFN0cmluZz8sIEFueT8+CiAgICApOiBCb29sZWFuCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5uZXdyZWxpYy5hZ2VudC5hbmRyb2lkLk5ld1JlbGljCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwZWN0IHZhbCBlbnZpcm9ubWVudDogRW52aXJvbm1lbnQK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5uZXdyZWxpYy5hZ2VudC5hbmRyb2lkLk5ld1JlbGljCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgWHt9Cg==</text>
+        <text encoding="base64">ZXhwZWN0IHZhbCBlbnZpcm9ubWVudDogRW52aXJvbm1lbnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNpbmdsZSB7IAogICAgICAgIFgoKQogICAgfQo=</text>
+        <text encoding="base64">Y2xhc3MgWHt9Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBBbmFseXRpY3MoKQo=</text>
+        <text encoding="base64">ICAgIHNpbmdsZSB7IAogICAgICAgIFgoKQogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
+        <text encoding="base64">ICAgICAgICBBbmFseXRpY3MoKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
@@ -407,10 +410,10 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvcmcuY29tbW9uc3Byb2plY3QuY29tbW9ucGFzcy4K</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
+        <text encoding="base64">ICAgICAgICBvcmcuY29tbW9uc3Byb2plY3QuY29tbW9ucGFzcy4K</text>
       </register>
       <register name=":" type="4">
         <text>s/href/occupiedActionSchedule/g</text>
