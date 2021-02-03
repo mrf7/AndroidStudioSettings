@@ -170,12 +170,12 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/iosMain/kotlin/org/commonsproject/commonpass/viewmodels/NativeCodeEntryViewModel.kt" timestamp="1612377230136">
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/iosMain/kotlin/org/commonsproject/commonpass/viewmodels/NativeCodeEntryViewModel.kt" timestamp="1612377896974">
         <mark key="'" line="29" column="37" />
-        <mark key="[" line="29" column="59" />
-        <mark key="]" line="29" column="59" />
-        <mark key="." line="29" column="58" />
-        <mark key="^" line="29" column="59" />
+        <mark key="[" line="21" column="37" />
+        <mark key="]" line="22" column="54" />
+        <mark key="." line="22" column="53" />
+        <mark key="^" line="22" column="54" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/Koin.kt" timestamp="1612371965753">
         <mark key="'" line="70" column="14" />
@@ -350,8 +350,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIGFuYWx5dGljczogQW5hbHl0aWNzCg==</text>
+      <register name="&quot;" type="4">
+        <text>by inject()</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -369,7 +369,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXMgTWFwPFN0cmluZywgQW55Pj8=</text>
+        <text>by inject()</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
