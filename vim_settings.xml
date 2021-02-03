@@ -158,11 +158,11 @@
         <mark key="." line="188" column="66" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/CodeEntryViewModel.kt" timestamp="1612375907889">
-        <mark key="'" line="12" column="26" />
-        <mark key="[" line="14" column="40" />
-        <mark key="]" line="14" column="36" />
-        <mark key="." line="14" column="35" />
-        <mark key="^" line="14" column="36" />
+        <mark key="'" line="13" column="26" />
+        <mark key="[" line="15" column="40" />
+        <mark key="]" line="15" column="36" />
+        <mark key="." line="15" column="35" />
+        <mark key="^" line="15" column="36" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/Analytics.kt" timestamp="1612372357984">
         <mark key="[" line="2" column="21" />
@@ -170,11 +170,12 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/iosMain/kotlin/org/commonsproject/commonpass/viewmodels/NativeCodeEntryViewModel.kt" timestamp="1612375969560">
-        <mark key="[" line="20" column="46" />
-        <mark key="]" line="21" column="48" />
-        <mark key="." line="21" column="47" />
-        <mark key="^" line="21" column="48" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/iosMain/kotlin/org/commonsproject/commonpass/viewmodels/NativeCodeEntryViewModel.kt" timestamp="1612377230136">
+        <mark key="'" line="29" column="37" />
+        <mark key="[" line="29" column="59" />
+        <mark key="]" line="29" column="59" />
+        <mark key="." line="29" column="58" />
+        <mark key="^" line="29" column="59" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/Koin.kt" timestamp="1612371965753">
         <mark key="'" line="70" column="14" />
@@ -206,7 +207,7 @@
         <mark key="^" line="4" column="37" />
         <mark key="." line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/AnalyticsImpl.kt" timestamp="1612372394822">
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/AnalyticsImpl.kt" timestamp="1612377739382">
         <mark key="[" line="11" column="30" />
         <mark key="]" line="11" column="39" />
         <mark key="." line="11" column="38" />
@@ -242,7 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="35" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/TriggerProgrammingFragment.kt" />
       <jump line="144" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/TriggerProgrammingViewModel.kt" />
       <jump line="176" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/TriggerProgrammingViewModel.kt" />
       <jump line="65" column="31" filename="$USER_HOME$/Documents/caseta-android-app/Utils/src/main/java/com/lutron/sharedutils/extension/CollectionExtension.kt" />
@@ -342,6 +342,7 @@
       <jump line="47" column="16" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
       <jump line="2" column="33" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/Analytics.kt" />
       <jump line="70" column="14" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/Koin.kt" />
+      <jump line="29" column="37" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/iosMain/kotlin/org/commonsproject/commonpass/viewmodels/NativeCodeEntryViewModel.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
