@@ -175,6 +175,12 @@
         <mark key="^" line="85" column="39" />
         <mark key="." line="85" column="38" />
       </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/iosMain/kotlin/org/commonsproject/commonpass/MainScope.kt" timestamp="1612465629630">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="9" column="4" />
+        <mark key="^" line="9" column="4" />
+        <mark key="." line="9" column="3" />
+      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/AnalyticsHelper.kt" timestamp="1612462203271">
         <mark key="'" line="2" column="22" />
         <mark key="[" line="17" column="25" />
@@ -188,6 +194,12 @@
         <mark key="]" line="17" column="33" />
         <mark key="^" line="17" column="33" />
         <mark key="." line="17" column="32" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/iosMain/kotlin/org/commonsproject/commonpass/viewmodels/NativeCodeEntryViewModel.kt" timestamp="1612465586521">
+        <mark key="[" line="25" column="33" />
+        <mark key="]" line="26" column="57" />
+        <mark key="^" line="26" column="57" />
+        <mark key="." line="26" column="56" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/Koin.kt" timestamp="1612462159511">
         <mark key="[" line="52" column="31" />
@@ -234,13 +246,6 @@
         <mark key="]" line="41" column="87" />
         <mark key="^" line="41" column="87" />
         <mark key="." line="41" column="86" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build.gradle.kts" timestamp="1612381892549">
-        <mark key="'" line="149" column="4" />
-        <mark key="[" line="153" column="27" />
-        <mark key="]" line="153" column="27" />
-        <mark key="." line="153" column="26" />
-        <mark key="^" line="153" column="27" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/iosMain/kotlin/org/commonsproject/commonpass/AnalyticsImpl.kt" timestamp="1612383816346">
         <mark key="[" line="0" column="37" />
