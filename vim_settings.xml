@@ -156,19 +156,28 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/CodeEntryViewModel.kt" timestamp="1612389040663">
-        <mark key="]" line="7" column="48" />
-        <mark key="^" line="7" column="48" />
-        <mark key="." line="7" column="47" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/CodeEntryViewModel.kt" timestamp="1612456722957">
+        <mark key="'" line="11" column="24" />
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="14" column="48" />
+        <mark key="^" line="14" column="48" />
+        <mark key="." line="14" column="47" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/Koin.kt" timestamp="1612455911621">
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/Koin.kt" timestamp="1612456760503">
         <mark key="[" line="52" column="31" />
-        <mark key="]" line="52" column="31" />
-        <mark key="." line="52" column="31" />
+        <mark key="]" line="53" column="17" />
+        <mark key="." line="53" column="16" />
+        <mark key="^" line="53" column="17" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.newrelic.agent.android/android-agent/5.28.1/8e8818e29d41480f10b716b5b8cf320f44c50d17/android-agent-5.28.1.jar!/com/newrelic/agent/android/NewRelic.class" timestamp="1612387856432">
         <mark key="[" line="511" column="0" />
         <mark key="]" line="529" column="5" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/MainApp.kt" timestamp="1612456727519">
+        <mark key="[" line="41" column="81" />
+        <mark key="]" line="41" column="87" />
+        <mark key="^" line="41" column="87" />
+        <mark key="." line="41" column="86" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build.gradle.kts" timestamp="1612381892549">
         <mark key="'" line="149" column="4" />
@@ -177,11 +186,12 @@
         <mark key="." line="153" column="26" />
         <mark key="^" line="153" column="27" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" timestamp="1612455922324">
-        <mark key="[" line="40" column="28" />
-        <mark key="]" line="40" column="27" />
-        <mark key="." line="40" column="26" />
-        <mark key="^" line="40" column="27" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" timestamp="1612456756930">
+        <mark key="'" line="36" column="14" />
+        <mark key="[" line="40" column="27" />
+        <mark key="]" line="41" column="48" />
+        <mark key="." line="41" column="47" />
+        <mark key="^" line="41" column="48" />
       </file>
       <file name="/Dummy.txt" timestamp="1612390283625">
         <mark key="[" line="0" column="0" />
@@ -330,14 +340,14 @@
       <jump line="149" column="4" filename="$USER_HOME$/repos/CommonPass-mobile/shared/build.gradle.kts" />
       <jump line="66" column="134" filename="$USER_HOME$/.gradle/caches/6.6.1/gradle-kotlin-dsl-accessors/2vo3bcpdqweiqtywnl8cqeu7z/cache/src/org/gradle/kotlin/dsl/Accessorsdh9tda8p8stj476a1zly6kg6l.kt" />
       <jump line="8" column="27" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/AnalyticsHelper.kt" />
-      <jump line="11" column="24" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/CodeEntryViewModel.kt" />
       <jump line="22" column="31" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/CodeEntryViewModel.kt" />
       <jump line="10" column="62" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/AnalyticsHelperImpl.kt" />
-      <jump line="36" column="14" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" />
       <jump line="32" column="31" filename="$USER_HOME$/repos/CommonPass-mobile/android/build.gradle.kts" />
       <jump line="191" column="19" filename="$USER_HOME$/repos/CommonPass-mobile/android/build.gradle.kts" />
       <jump line="51" column="31" filename="$USER_HOME$/repos/CommonPass-mobile/buildSrc/src/main/java/Dependencies.kt" />
       <jump line="79" column="79" filename="$USER_HOME$/repos/CommonPass-mobile/buildSrc/src/main/java/Dependencies.kt" />
+      <jump line="11" column="24" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/CodeEntryViewModel.kt" />
+      <jump line="36" column="14" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
