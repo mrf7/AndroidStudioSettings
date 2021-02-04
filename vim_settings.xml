@@ -145,31 +145,13 @@
         <mark key="^" line="22" column="0" />
         <mark key="." line="20" column="38" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/6.6.1/gradle-kotlin-dsl-accessors/2vo3bcpdqweiqtywnl8cqeu7z/cache/src/org/gradle/kotlin/dsl/Accessorsdh9tda8p8stj476a1zly6kg6l.kt" timestamp="1612381520009">
-        <mark key="'" line="66" column="134" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1612390283625">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/MainActivity.kt" timestamp="1612385253240">
         <mark key="[" line="26" column="100" />
         <mark key="]" line="27" column="8" />
         <mark key="." line="27" column="7" />
         <mark key="^" line="27" column="8" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/build.gradle.kts" timestamp="1612386454267">
-        <mark key="[" line="8" column="33" />
-        <mark key="]" line="9" column="16" />
-        <mark key="^" line="9" column="16" />
-        <mark key="." line="9" column="15" />
-      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/KoinTest.kt" timestamp="1612452073628" />
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/AnalyticsHelper.kt" timestamp="1612389603177">
-        <mark key="[" line="17" column="25" />
-        <mark key="]" line="17" column="28" />
-        <mark key="^" line="17" column="28" />
-        <mark key="." line="17" column="27" />
-      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/CodeEntryViewModel.kt" timestamp="1612389040663">
         <mark key="]" line="7" column="48" />
         <mark key="^" line="7" column="48" />
@@ -179,6 +161,33 @@
         <mark key="[" line="52" column="31" />
         <mark key="]" line="52" column="31" />
         <mark key="." line="52" column="31" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.newrelic.agent.android/android-agent/5.28.1/8e8818e29d41480f10b716b5b8cf320f44c50d17/android-agent-5.28.1.jar!/com/newrelic/agent/android/NewRelic.class" timestamp="1612387856432">
+        <mark key="[" line="511" column="0" />
+        <mark key="]" line="529" column="5" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build.gradle.kts" timestamp="1612381892549">
+        <mark key="'" line="149" column="4" />
+        <mark key="[" line="153" column="27" />
+        <mark key="]" line="153" column="27" />
+        <mark key="." line="153" column="26" />
+        <mark key="^" line="153" column="27" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1612390283625">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/build.gradle.kts" timestamp="1612453687228">
+        <mark key="'" line="191" column="19" />
+        <mark key="[" line="192" column="19" />
+        <mark key="]" line="192" column="39" />
+        <mark key="." line="192" column="38" />
+        <mark key="^" line="192" column="39" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/AnalyticsHelper.kt" timestamp="1612389603177">
+        <mark key="[" line="17" column="25" />
+        <mark key="]" line="17" column="28" />
+        <mark key="^" line="17" column="28" />
+        <mark key="." line="17" column="27" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/AndroidManifest.xml" timestamp="1612386420841">
         <mark key="[" line="4" column="66" />
@@ -197,10 +206,6 @@
         <mark key="^" line="21" column="72" />
         <mark key="." line="21" column="71" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.newrelic.agent.android/android-agent/5.28.1/8e8818e29d41480f10b716b5b8cf320f44c50d17/android-agent-5.28.1.jar!/com/newrelic/agent/android/NewRelic.class" timestamp="1612387856432">
-        <mark key="[" line="511" column="0" />
-        <mark key="]" line="529" column="5" />
-      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/AnalyticsHelperImpl.kt" timestamp="1612389708397">
         <mark key="'" line="10" column="62" />
         <mark key="[" line="21" column="81" />
@@ -208,12 +213,12 @@
         <mark key="." line="21" column="96" />
         <mark key="^" line="21" column="97" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build.gradle.kts" timestamp="1612381892549">
-        <mark key="'" line="149" column="4" />
-        <mark key="[" line="153" column="27" />
-        <mark key="]" line="153" column="27" />
-        <mark key="." line="153" column="26" />
-        <mark key="^" line="153" column="27" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/buildSrc/src/main/java/Dependencies.kt" timestamp="1612453675651">
+        <mark key="'" line="52" column="31" />
+        <mark key="[" line="79" column="68" />
+        <mark key="]" line="79" column="87" />
+        <mark key="^" line="79" column="87" />
+        <mark key="." line="79" column="86" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/iosMain/kotlin/org/commonsproject/commonpass/AnalyticsImpl.kt" timestamp="1612383816346">
         <mark key="[" line="0" column="37" />
@@ -223,9 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="8" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/SmartAwayActivity.java" />
-      <jump line="95" column="8" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/EditSceneBaseActivity.java" />
-      <jump line="16" column="18" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/values/strings.xml" />
       <jump line="9" column="8" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/menu/save_menu.xml" />
       <jump line="143" column="35" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/TriggerProgrammingFragment.kt" />
       <jump line="852" column="16" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BaseActivity.java" />
@@ -323,6 +325,9 @@
       <jump line="22" column="31" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/CodeEntryViewModel.kt" />
       <jump line="10" column="62" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/AnalyticsHelperImpl.kt" />
       <jump line="36" column="14" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" />
+      <jump line="32" column="31" filename="$USER_HOME$/repos/CommonPass-mobile/android/build.gradle.kts" />
+      <jump line="191" column="19" filename="$USER_HOME$/repos/CommonPass-mobile/android/build.gradle.kts" />
+      <jump line="51" column="31" filename="$USER_HOME$/repos/CommonPass-mobile/buildSrc/src/main/java/Dependencies.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -331,7 +336,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>&quot;com.newrelic.agent.android:android-agent:&quot;</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -349,7 +354,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>&quot;com.newrelic.agent.android:android-agent:&quot;</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
