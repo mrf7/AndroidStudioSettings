@@ -156,6 +156,11 @@
         <mark key="^" line="103" column="19" />
         <mark key="." line="93" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/iosMain/kotlin/org/commonsproject/commonpass/KotlinNSException.kt" timestamp="1612540105133">
+        <mark key="]" line="8" column="1" />
+        <mark key="^" line="8" column="1" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/MainActivity.kt" timestamp="1612385253240">
         <mark key="[" line="26" column="100" />
         <mark key="]" line="27" column="8" />
@@ -246,12 +251,6 @@
         <mark key="]" line="41" column="87" />
         <mark key="^" line="41" column="87" />
         <mark key="." line="41" column="86" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/iosMain/kotlin/org/commonsproject/commonpass/AnalyticsImpl.kt" timestamp="1612383816346">
-        <mark key="[" line="0" column="37" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" timestamp="1612462200995">
         <mark key="'" line="35" column="14" />
