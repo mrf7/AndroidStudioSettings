@@ -240,11 +240,12 @@
         <mark key="^" line="79" column="87" />
         <mark key="." line="79" column="86" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/MainApp.kt" timestamp="1612456727519">
-        <mark key="[" line="41" column="81" />
-        <mark key="]" line="41" column="87" />
-        <mark key="^" line="41" column="87" />
-        <mark key="." line="41" column="86" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/MainApp.kt" timestamp="1612545114847">
+        <mark key="'" line="57" column="44" />
+        <mark key="[" line="58" column="36" />
+        <mark key="]" line="58" column="95" />
+        <mark key="^" line="58" column="95" />
+        <mark key="." line="58" column="94" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" timestamp="1612543016930">
         <mark key="'" line="35" column="14" />
@@ -261,7 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="46" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/OnboardingFragment.kt" />
       <jump line="71" column="70" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/OnboardingFragment.kt" />
       <jump line="73" column="56" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/OnboardingFragment.kt" />
       <jump line="25" column="48" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/OnboardingViewModel.kt" />
@@ -361,6 +361,7 @@
       <jump line="4" column="20" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/AnalyticsHelper.kt" />
       <jump line="2" column="22" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/AnalyticsHelper.kt" />
       <jump line="61" column="15" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/iosMain/kotlin/org/commonsproject/commonpass/KoiniOS.kt" />
+      <jump line="57" column="44" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/MainApp.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
