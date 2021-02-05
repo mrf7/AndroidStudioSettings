@@ -240,12 +240,12 @@
         <mark key="^" line="79" column="87" />
         <mark key="." line="79" column="86" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/MainApp.kt" timestamp="1612545114847">
-        <mark key="'" line="57" column="44" />
-        <mark key="[" line="58" column="36" />
-        <mark key="]" line="58" column="95" />
-        <mark key="^" line="58" column="95" />
-        <mark key="." line="58" column="94" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/MainApp.kt" timestamp="1612545294211">
+        <mark key="'" line="58" column="44" />
+        <mark key="[" line="59" column="74" />
+        <mark key="]" line="59" column="88" />
+        <mark key="^" line="59" column="88" />
+        <mark key="." line="59" column="87" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" timestamp="1612543016930">
         <mark key="'" line="35" column="14" />
