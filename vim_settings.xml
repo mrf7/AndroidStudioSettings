@@ -139,6 +139,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.sqldelight/sqlite-driver/1.4.4/f066195de22a5950f6deff3bde92f6811e56b41/sqlite-driver-1.4.4-sources.jar!/com/squareup/sqldelight/sqlite/driver/JdbcSqliteDriver.kt" timestamp="1612818694970" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/CodeEntryViewModel.kt" timestamp="1612553915554">
         <mark key="'" line="11" column="24" />
         <mark key="[" line="17" column="8" />
@@ -200,6 +201,11 @@
         <mark key="]" line="23" column="26" />
         <mark key="." line="23" column="25" />
         <mark key="^" line="23" column="26" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/SqliteMigrationTest.kt" timestamp="1612818757044">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/buildSrc/src/main/java/Config.kt" timestamp="1612817332780">
         <mark key="[" line="11" column="56" />
@@ -317,7 +323,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text>Added NewRelic breadcrumbs on log calls</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZmlsZSA9IEZpbGUoInJvb3QiKQo=</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -350,43 +356,43 @@
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text>Added NewRelic breadcrumbs on log calls</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZmlsZSA9IEZpbGUoInJvb3QiKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuZGF0YWJhc2Uuc3FsaXRlLlNRTGl0ZURhdGFiYXNlCg==</text>
+        <text>Added NewRelic breadcrumbs on log calls</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC5zcWxjaXBoZXIuZGF0YWJhc2UuU3VwcG9ydEZhY3RvcnkK</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuZGF0YWJhc2Uuc3FsaXRlLlNRTGl0ZURhdGFiYXNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG5ldC5zcWxjaXBoZXIuZGF0YWJhc2UuU1FMaXRlRGF0YWJhc2UK</text>
+        <text encoding="base64">aW1wb3J0IG5ldC5zcWxjaXBoZXIuZGF0YWJhc2UuU3VwcG9ydEZhY3RvcnkK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IlNBRkVUWV9ORVRfQVBJX0tFWSI9ImJyb2tleSIK</text>
+        <text encoding="base64">aW1wb3J0IG5ldC5zcWxjaXBoZXIuZGF0YWJhc2UuU1FMaXRlRGF0YWJhc2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IlNBRkVUWV9ORVRfQVBJX0tFWSI9ImJyb2tleSIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuIHQodGhyb3dhYmxlOiBUaHJvd2FibGUpIHsKICAgIHRocm93YWJsZTo6Y2xhc3Muc2ltCn0K</text>
+        <text encoding="base64">ICAgICAgICB2YWwK</text>
       </register>
       <register name="9" type="2">
-        <text>}</text>
+        <text encoding="base64">ZnVuIHQodGhyb3dhYmxlOiBUaHJvd2FibGUpIHsKICAgIHRocm93YWJsZTo6Y2xhc3Muc2ltCn0K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2phdmFcLmxhbmdcLi8vZw==</text>
