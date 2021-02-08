@@ -139,13 +139,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/iosMain/kotlin/org/commonsproject/commonpass/KoiniOS.kt" timestamp="1612462217565">
-        <mark key="'" line="61" column="15" />
-        <mark key="[" line="85" column="22" />
-        <mark key="]" line="85" column="39" />
-        <mark key="^" line="85" column="39" />
-        <mark key="." line="85" column="38" />
-      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/CodeEntryViewModel.kt" timestamp="1612553915554">
         <mark key="'" line="11" column="24" />
         <mark key="[" line="17" column="8" />
@@ -153,18 +146,14 @@
         <mark key="^" line="17" column="29" />
         <mark key="." line="17" column="28" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/iosMain/kotlin/org/commonsproject/commonpass/viewmodels/NativeCodeEntryViewModel.kt" timestamp="1612465711020">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/Koin.kt" timestamp="1612462159511">
-        <mark key="[" line="52" column="31" />
-        <mark key="]" line="52" column="31" />
-        <mark key="." line="52" column="31" />
-      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidMain/kotlin/org/commonsproject/commonpass/KoinAndroid.kt" timestamp="1612802057863">
         <mark key="[" line="36" column="15" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/DatabaseHelper.kt" timestamp="1612810208002">
+        <mark key="[" line="65" column="37" />
+        <mark key="]" line="66" column="23" />
+        <mark key="^" line="66" column="23" />
+        <mark key="." line="66" column="22" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/EvidenceDetail.sq" timestamp="1612803414995" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/MainApp.kt" timestamp="1612550356547">
@@ -198,6 +187,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/2.sqm" timestamp="1612809884736">
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="0" column="44" />
+        <mark key="." line="0" column="43" />
+        <mark key="^" line="0" column="44" />
+      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/iosMain/kotlin/org/commonsproject/commonpass/MainScope.kt" timestamp="1612537810890">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="9" column="4" />
@@ -205,14 +200,16 @@
         <mark key="." line="9" column="3" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build/buildkonfig/commonMain/org/commonsproject/commonpass/CommonConfig.kt" timestamp="1612801753564" />
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/AnalyticsHelper.kt" timestamp="1612462203271">
-        <mark key="'" line="2" column="22" />
-        <mark key="[" line="17" column="25" />
-        <mark key="]" line="17" column="28" />
-        <mark key="^" line="17" column="28" />
-        <mark key="." line="17" column="27" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/1.sqm" timestamp="1612809876163">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="55" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/PassDetail.sq" timestamp="1612800979354" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/PassDetail.sq" timestamp="1612810171412">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="17" />
+        <mark key="^" line="6" column="17" />
+        <mark key="." line="6" column="16" />
+      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/AndroidManifest.xml" timestamp="1612552971684">
         <mark key="[" line="4" column="66" />
         <mark key="]" line="5" column="78" />
@@ -340,8 +337,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwK</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -359,7 +356,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>ObjCMethod</text>
+        <text>s</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -368,7 +365,7 @@
         <text>java\.lang\.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiByZWNvcmRDdXN0b21FdmVudChTdHJpbmcgZXZlbnRUeXBlLCBNYXA8U3RyaW5nLCBPYmplY3Q+IGV2ZW50QXR0cmlidXRlcykgewogICAgICAgIGlmIChudWxsID09IGV2ZW50QXR0cmlidXRlcykgewogICAgICAgICAgICBldmVudEF0dHJpYnV0ZXMgPSBuZXcgSGFzaE1hcCgpOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIEFuYWx5dGljc0NvbnRyb2xsZXJJbXBsLmdldEluc3RhbmNlKCkucmVjb3JkQ3VzdG9tRXZlbnQoZXZlbnRUeXBlLCAoTWFwKWV2ZW50QXR0cmlidXRlcyk7CiAgICB9CgogICAgcHVibGljIHN0YXRpYyBib29sZWFuIHJlY29yZEN1c3RvbUV2ZW50KFN0cmluZyBldmVudFR5cGUsIFN0cmluZyBldmVudE5hbWUsIE1hcDxTdHJpbmcsIE9iamVjdD4gZXZlbnRBdHRyaWJ1dGVzKSB7CiAgICAgICAgaWYgKG51bGwgPT0gZXZlbnRBdHRyaWJ1dGVzKSB7CiAgICAgICAgICAgIGV2ZW50QXR0cmlidXRlcyA9IG5ldyBIYXNoTWFwKCk7CiAgICAgICAgfQoKICAgICAgICBpZiAoZXZlbnROYW1lICE9IG51bGwgJiYgIWV2ZW50TmFtZS5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgKChNYXApZXZlbnRBdHRyaWJ1dGVzKS5wdXQoIm5hbWUiLCBldmVudE5hbWUpOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIHJlY29yZEN1c3RvbUV2ZW50KGV2ZW50VHlwZSwgKE1hcClldmVudEF0dHJpYnV0ZXMpOwogICAgfQo=</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgUGFzc0RldGFpbCBBREQgQ09MVU1OIHBhc3NEZXNjcmlwdGlvbiBURVhUOwo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
