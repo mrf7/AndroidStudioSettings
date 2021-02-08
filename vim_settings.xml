@@ -160,13 +160,6 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/build.gradle.kts" timestamp="1612453939022">
-        <mark key="'" line="191" column="19" />
-        <mark key="[" line="192" column="19" />
-        <mark key="]" line="192" column="39" />
-        <mark key="." line="192" column="38" />
-        <mark key="^" line="192" column="39" />
-      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/iosMain/kotlin/org/commonsproject/commonpass/KoiniOS.kt" timestamp="1612462217565">
         <mark key="'" line="61" column="15" />
         <mark key="[" line="85" column="22" />
@@ -204,6 +197,7 @@
         <mark key="]" line="52" column="31" />
         <mark key="." line="52" column="31" />
       </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/PassDetail.sq" timestamp="1612800979354" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/AndroidManifest.xml" timestamp="1612552971684">
         <mark key="[" line="4" column="66" />
         <mark key="]" line="5" column="78" />
@@ -216,13 +210,6 @@
         <mark key="]" line="21" column="85" />
         <mark key="^" line="21" column="85" />
         <mark key="." line="21" column="84" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/AnalyticsHelperImpl.kt" timestamp="1612389708397">
-        <mark key="'" line="10" column="62" />
-        <mark key="[" line="21" column="81" />
-        <mark key="]" line="21" column="97" />
-        <mark key="." line="21" column="96" />
-        <mark key="^" line="21" column="97" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/buildSrc/src/main/java/Dependencies.kt" timestamp="1612454031360">
         <mark key="'" line="79" column="79" />
