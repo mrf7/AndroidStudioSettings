@@ -139,28 +139,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.sqldelight/sqlite-driver/1.4.4/f066195de22a5950f6deff3bde92f6811e56b41/sqlite-driver-1.4.4-sources.jar!/com/squareup/sqldelight/sqlite/driver/JdbcSqliteDriver.kt" timestamp="1612819559309" />
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidMain/kotlin/org/commonsproject/commonpass/KoinAndroid.kt" timestamp="1612817417445">
-        <mark key="[" line="22" column="42" />
-        <mark key="]" line="22" column="50" />
-        <mark key="^" line="22" column="50" />
-        <mark key="." line="22" column="49" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/DatabaseHelper.kt" timestamp="1612819608454">
-        <mark key="'" line="42" column="0" />
-      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.sqldelight/sqlite-driver/1.4.4/f066195de22a5950f6deff3bde92f6811e56b41/sqlite-driver-1.4.4-sources.jar!/com/squareup/sqldelight/sqlite/driver/JdbcSqliteDriver.kt" timestamp="1612882534139" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidMain/kotlin/org/commonsproject/commonpass/KoinAndroid.kt" timestamp="1612817417445" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/EvidenceDetail.sq" timestamp="1612803414995" />
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build/generated/sqldelight/code/CommonPassDb/org/commonsproject/commonpass/db/shared/CommonPassDbImpl.kt" timestamp="1612820731862">
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build/generated/sqldelight/code/CommonPassDb/org/commonsproject/commonpass/db/shared/CommonPassDbImpl.kt" timestamp="1612882322470">
         <mark key="[" line="87" column="30" />
         <mark key="]" line="87" column="83" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build.gradle.kts" timestamp="1612820190367">
-        <mark key="[" line="131" column="0" />
-        <mark key="]" line="131" column="0" />
-        <mark key="^" line="130" column="5" />
-        <mark key="." line="131" column="0" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build.gradle.kts" timestamp="1612883378766">
+        <mark key="[" line="182" column="44" />
+        <mark key="]" line="182" column="98" />
+        <mark key="." line="182" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1612817539030">
+      <file name="/Dummy.txt" timestamp="1612883190206">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="18" />
@@ -189,7 +180,6 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/PassDetail.sq" timestamp="1612820595679" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/buildSrc/src/main/java/Dependencies.kt" timestamp="1612816302679">
         <mark key="'" line="85" column="16" />
         <mark key="[" line="81" column="68" />
@@ -209,9 +199,9 @@
         <mark key="^" line="23" column="26" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/SqliteMigrationTest.kt" timestamp="1612820289194">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/buildSrc/src/main/java/Config.kt" timestamp="1612817332780">
         <mark key="[" line="11" column="56" />
