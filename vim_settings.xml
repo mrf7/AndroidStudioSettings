@@ -193,18 +193,12 @@
         <mark key="." line="27" column="129" />
       </file>
       <file name="/build.gradle.kts" timestamp="1612884929827" />
-      <file name="$USER_HOME$/repos/CommonPass-mobile/buildSrc/src/main/java/Dependencies.kt" timestamp="1612816302679">
-        <mark key="'" line="85" column="16" />
-        <mark key="[" line="81" column="68" />
-        <mark key="]" line="81" column="87" />
-        <mark key="^" line="81" column="87" />
-        <mark key="." line="81" column="86" />
-      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/secrets.properties" timestamp="1612817319272">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/samples/sqldelight/README.md" timestamp="1612903300714" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/SqliteMigrationTest.kt" timestamp="1612902554756">
         <mark key="[" line="12" column="36" />
         <mark key="]" line="12" column="38" />
