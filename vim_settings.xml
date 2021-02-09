@@ -152,11 +152,11 @@
         <mark key="." line="18" column="38" />
         <mark key="^" line="18" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1612883190206">
+      <file name="/Dummy.txt" timestamp="1612887241945">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="19" />
-        <mark key="." line="0" column="18" />
-        <mark key="^" line="0" column="19" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="25" />
+        <mark key="^" line="0" column="26" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/java/io/File.java" timestamp="1612885174924" />
       <file name="/fragment.kt" timestamp="1612820582889">
@@ -200,11 +200,11 @@
         <mark key="." line="23" column="25" />
         <mark key="^" line="23" column="26" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/SqliteMigrationTest.kt" timestamp="1612886144182">
-        <mark key="[" line="15" column="32" />
-        <mark key="]" line="15" column="49" />
-        <mark key="." line="15" column="48" />
-        <mark key="^" line="15" column="49" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/SqliteMigrationTest.kt" timestamp="1612887580041">
+        <mark key="[" line="18" column="49" />
+        <mark key="]" line="19" column="21" />
+        <mark key="^" line="19" column="21" />
+        <mark key="." line="19" column="20" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/buildSrc/src/main/java/Config.kt" timestamp="1612817332780">
         <mark key="[" line="11" column="56" />
@@ -214,9 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="9" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/TriggerProgrammingFragment.kt" />
-      <jump line="145" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/TriggerProgrammingFragment.kt" />
-      <jump line="158" column="45" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/VoiceAliasEditFragment.kt" />
       <jump line="8" column="26" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/PrivacySettingsActivity.kt" />
       <jump line="71" column="7" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/OnBoardingFragment.kt" />
       <jump line="91" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/OnBoardingFragment.kt" />
@@ -314,6 +311,9 @@
       <jump line="83" column="16" filename="$USER_HOME$/repos/CommonPass-mobile/buildSrc/src/main/java/Dependencies.kt" />
       <jump line="42" column="0" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/DatabaseHelper.kt" />
       <jump line="18" column="37" filename="$USER_HOME$/repos/CommonPass-mobile/shared/build.gradle.kts" />
+      <jump line="16" column="59" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/SqliteMigrationTest.kt" />
+      <jump line="15" column="59" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/SqliteMigrationTest.kt" />
+      <jump line="19" column="23" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/SqliteMigrationTest.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -322,7 +322,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZQo=</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wLmRlbGV0ZU9uRXhpdCgpCg==</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -340,7 +340,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>it</text>
+        <text>${temp.canonicalPath}</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -355,43 +355,43 @@
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZQo=</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wLmRlbGV0ZU9uRXhpdCgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDbGFzc0xvYWRlcgo=</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wLmRlbGV0ZSgpCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgeCA9IENsYXNzTG9hZGVyLmdldFN5c3RlbVJlc291cmNlKCJ2MV8wLmRiIikK</text>
+      <register name="3" type="4">
+        <text encoding="base64">KCkKICAgICAgICA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB4LnBhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNvdXJjZVNldHNbImFuZHJvaWRUZXN0Il0ucmVzb3VyY2VzIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBwcmludGxuKEZpbGUoInYxXzAuZGIiKSkKICAgICAgICAvLyB2YWwgZmlsZSA9IEZpbGUoInJlc291cmNlcy9OZXdGaWxlLnR4dCIpCiAgICAgICAgLy8gZmlsZS5jcmVhdGVOZXdGaWxlKCkuYWxzbyB7IHByaW50bG4oIkNyZWF0ZWQgZmlsZT86ICRpdCIpIH0KICAgICAgICAvLyBwcmludGxuKGZpbGUuYWJzb2x1dGVQYXRoKQogICAgICAgIC8vIGZpbGUud3JpdGVUZXh0KCJ0ZXN0Iik=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uRmlsZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZmlsZSA9IEZpbGUoInJvb3QiKQo=</text>
+        <text encoding="base64">ICAgICAgICBDbGFzc0xvYWRlcgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text>Added NewRelic breadcrumbs on log calls</text>
+        <text encoding="base64">ICAgICAgICB2YWwgeCA9IENsYXNzTG9hZGVyLmdldFN5c3RlbVJlc291cmNlKCJ2MV8wLmRiIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuZGF0YWJhc2Uuc3FsaXRlLlNRTGl0ZURhdGFiYXNlCg==</text>
+        <text encoding="base64">ICAgICAgICB4LnBhCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2phdmFcLmxhbmdcLi8vZw==</text>
