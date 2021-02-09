@@ -148,10 +148,6 @@
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build/generated/sqldelight/code/CommonPassDb/org/commonsproject/commonpass/db/CommonPassDb.kt" timestamp="1612899088785">
         <mark key="'" line="19" column="39" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build/generated/sqldelight/code/CommonPassDb/org/commonsproject/commonpass/db/shared/CommonPassDbImpl.kt" timestamp="1612882322470">
-        <mark key="[" line="87" column="30" />
-        <mark key="]" line="87" column="83" />
-      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build.gradle.kts" timestamp="1612884940169">
         <mark key="'" line="18" column="37" />
         <mark key="[" line="183" column="44" />
@@ -180,6 +176,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/PassDetail.sq" timestamp="1612899754712">
+        <mark key="[" line="27" column="129" />
+        <mark key="]" line="27" column="145" />
+        <mark key="." line="27" column="129" />
       </file>
       <file name="/build.gradle.kts" timestamp="1612884929827" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/buildSrc/src/main/java/Dependencies.kt" timestamp="1612816302679">
@@ -320,8 +321,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZGIgPSBDb21tb25QYXNzRGIoCiAgICAgICAgICAgIGRyaXZlciwKICAgICAgICAgICAgUGFzc0RldGFpbC5BZGFwdGVyKHZhbGlkVW50aWxDaHJvbm9Vbml0QWRhcHRlciA9IEVudW1Db2x1bW5BZGFwdGVyKCkpCiAgICAgICAgKQo=</text>
+      <register name="&quot;" type="4">
+        <text>passDescription,</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -339,7 +340,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>passDescription,</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -355,43 +356,43 @@
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZGIgPSBDb21tb25QYXNzRGIoCiAgICAgICAgICAgIGRyaXZlciwKICAgICAgICAgICAgUGFzc0RldGFpbC5BZGFwdGVyKHZhbGlkVW50aWxDaHJvbm9Vbml0QWRhcHRlciA9IEVudW1Db2x1bW5BZGFwdGVyKCkpCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgIHBhc3NEZXNjcmlwdGlvbiBURVhULAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkYi5ldmlkZW5jZURldGFpbFF1ZXJpZXMK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZGIgPSBDb21tb25QYXNzRGIoCiAgICAgICAgICAgIGRyaXZlciwKICAgICAgICAgICAgUGFzc0RldGFpbC5BZGFwdGVyKHZhbGlkVW50aWxDaHJvbm9Vbml0QWRhcHRlciA9IEVudW1Db2x1bW5BZGFwdGVyKCkpCiAgICAgICAgKQo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZGJIZWxwZXIgPSBEYXRhYmFzZUhlbHBlcmRkKGRyaXZlciwgKQo=</text>
+        <text encoding="base64">ICAgICAgICBkYi5ldmlkZW5jZURldGFpbFF1ZXJpZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbi50ZXN0LmFzc2VydFRydWUK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZGJIZWxwZXIgPSBEYXRhYmFzZUhlbHBlcmRkKGRyaXZlciwgKQo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBDb21tb25QYXNzRGIuU2NoZW1hLgo=</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbi50ZXN0LmFzc2VydFRydWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlIHsgZmFsc2UgfQo=</text>
+        <text encoding="base64">ICAgICAgICBDb21tb25QYXNzRGIuU2NoZW1hLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW1wLmRlbGV0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlIHsgZmFsc2UgfQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDb21tb25QYXNzRGIuU2NoZW1hLgo=</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wLmRlbGV0ZSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW1wLmRlbGV0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBDb21tb25QYXNzRGIuU2NoZW1hLgo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2phdmFcLmxhbmdcLi8vZw==</text>
