@@ -141,8 +141,12 @@
     <filemarks>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.sqldelight/sqlite-driver/1.4.4/f066195de22a5950f6deff3bde92f6811e56b41/sqlite-driver-1.4.4-sources.jar!/com/squareup/sqldelight/sqlite/driver/JdbcSqliteDriver.kt" timestamp="1612882534139" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidMain/kotlin/org/commonsproject/commonpass/KoinAndroid.kt" timestamp="1612817417445" />
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build/generated/sqldelight/code/CommonPassDb/org/commonsproject/commonpass/db/CommonPassDb.kt" timestamp="1612898527970">
-        <mark key="'" line="15" column="26" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/DatabaseHelper.kt" timestamp="1612899034854">
+        <mark key="[" line="24" column="38" />
+        <mark key="]" line="25" column="96" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build/generated/sqldelight/code/CommonPassDb/org/commonsproject/commonpass/db/CommonPassDb.kt" timestamp="1612899088785">
+        <mark key="'" line="19" column="39" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build/generated/sqldelight/code/CommonPassDb/org/commonsproject/commonpass/db/shared/CommonPassDbImpl.kt" timestamp="1612882322470">
         <mark key="[" line="87" column="30" />
@@ -196,12 +200,10 @@
         <mark key="." line="23" column="25" />
         <mark key="^" line="23" column="26" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/SqliteMigrationTest.kt" timestamp="1612898575040">
-        <mark key="'" line="18" column="21" />
-        <mark key="[" line="18" column="49" />
-        <mark key="]" line="19" column="8" />
-        <mark key="." line="19" column="7" />
-        <mark key="^" line="19" column="8" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/SqliteMigrationTest.kt" timestamp="1612899481385">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/buildSrc/src/main/java/Config.kt" timestamp="1612817332780">
         <mark key="[" line="11" column="56" />
@@ -211,10 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="24" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/OnBoardingFragment.kt" />
-      <jump line="215" column="11" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BaseActivity.java" />
-      <jump line="91" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.1.0/9865019bbd2d95e41dede3d8ebf964aa93f97766/appcompat-1.1.0-sources.jar!/androidx/appcompat/app/ActionBar.java" />
-      <jump line="62" column="72" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/OnBoardingFragment.kt" />
       <jump line="72" column="32" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/OnBoardingFragment.kt" />
       <jump line="147" column="40" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/TriggerProgrammingFragment.kt" />
       <jump line="28" column="16" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/usecase/LightStatusTracker.kt" />
@@ -311,6 +309,10 @@
       <jump line="89" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.sqldelight/runtime-jvm/1.4.4/4f48e097d985ba077e89cf484a1d3d0f62f75cb8/runtime-jvm-1.4.4-sources.jar!/commonMain/com/squareup/sqldelight/db/SqlDriver.kt" />
       <jump line="18" column="21" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/SqliteMigrationTest.kt" />
       <jump line="15" column="26" filename="$USER_HOME$/repos/CommonPass-mobile/shared/build/generated/sqldelight/code/CommonPassDb/org/commonsproject/commonpass/db/CommonPassDb.kt" />
+      <jump line="7" column="28" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/SqliteMigrationTest.kt" />
+      <jump line="24" column="31" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/SqliteMigrationTest.kt" />
+      <jump line="20" column="29" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/SqliteMigrationTest.kt" />
+      <jump line="19" column="39" filename="$USER_HOME$/repos/CommonPass-mobile/shared/build/generated/sqldelight/code/CommonPassDb/org/commonsproject/commonpass/db/CommonPassDb.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -319,7 +321,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDb21tb25QYXNzRGIuU2NoZW1hLgo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZGIgPSBDb21tb25QYXNzRGIoCiAgICAgICAgICAgIGRyaXZlciwKICAgICAgICAgICAgUGFzc0RldGFpbC5BZGFwdGVyKHZhbGlkVW50aWxDaHJvbm9Vbml0QWRhcHRlciA9IEVudW1Db2x1bW5BZGFwdGVyKCkpCiAgICAgICAgKQo=</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -337,7 +339,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>${temp.canonicalPath}</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -346,37 +348,38 @@
         <text>java\.lang\.</text>
       </register>
       <register name="0" type="4">
-        <text>ALTER TABLE PassDetail ADD COLUMN passDescription TEXT</text>
+        <text>CommonPassDb(sqlDriver,
+        PassDetailAdapter = PassDetail.Adapter(validUntilChronoUnitAdapter = EnumColumnAdapter())</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDb21tb25QYXNzRGIuU2NoZW1hLgo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZGIgPSBDb21tb25QYXNzRGIoCiAgICAgICAgICAgIGRyaXZlciwKICAgICAgICAgICAgUGFzc0RldGFpbC5BZGFwdGVyKHZhbGlkVW50aWxDaHJvbm9Vbml0QWRhcHRlciA9IEVudW1Db2x1bW5BZGFwdGVyKCkpCiAgICAgICAgKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlIHsgZmFsc2UgfQo=</text>
+        <text encoding="base64">ICAgICAgICBkYi5ldmlkZW5jZURldGFpbFF1ZXJpZXMK</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW1wLmRlbGV0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZGJIZWxwZXIgPSBEYXRhYmFzZUhlbHBlcmRkKGRyaXZlciwgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDb21tb25QYXNzRGIuU2NoZW1hLgo=</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbi50ZXN0LmFzc2VydFRydWUK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW1wLmRlbGV0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBDb21tb25QYXNzRGIuU2NoZW1hLgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW1wLmRlbGV0ZU9uRXhpdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnRUcnVlIHsgZmFsc2UgfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB0ZW1wLmRlbGV0ZSgpCg==</text>
@@ -384,11 +387,11 @@
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">KCkKICAgICAgICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBDb21tb25QYXNzRGIuU2NoZW1hLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0ZW1wLmRlbGV0ZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2phdmFcLmxhbmdcLi8vZw==</text>
