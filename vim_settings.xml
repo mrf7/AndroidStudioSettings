@@ -150,6 +150,7 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="44" />
       </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build/buildkonfig/commonMain/org/commonsproject/commonpass/CommonConfig.kt" timestamp="1612981422810" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/1.sqm" timestamp="1612902179347">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="55" />
@@ -179,7 +180,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/java/io/File.java" timestamp="1612885174924" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.sqldelight/runtime-jvm/1.4.4/4f48e097d985ba077e89cf484a1d3d0f62f75cb8/runtime-jvm-1.4.4-sources.jar!/commonMain/com/squareup/sqldelight/db/SqlDriver.kt" timestamp="1612897380530">
         <mark key="'" line="89" column="8" />
       </file>
