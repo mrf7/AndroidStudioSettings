@@ -139,6 +139,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/PassListViewModel.kt" timestamp="1613068511476" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/CodeEntryFragment.kt" timestamp="1613060772076" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/navigation/nav_graph.xml" timestamp="1613059530257" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build.gradle.kts" timestamp="1612992319275">
@@ -146,19 +147,13 @@
         <mark key="]" line="155" column="0" />
         <mark key="." line="155" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1612904049363">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="26" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/iosMain/kotlin/org/commonsproject/commonpass/viewmodels/NativePassListViewModel.kt" timestamp="1613068533563">
+        <mark key="[" line="74" column="32" />
+        <mark key="]" line="74" column="30" />
+        <mark key="^" line="74" column="30" />
+        <mark key="." line="74" column="29" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/AppInfoRepo.kt" timestamp="1613068159788" />
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/2.sqm" timestamp="1612903592148">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-        <mark key="^" line="0" column="44" />
-      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/build.gradle.kts" timestamp="1612993520960">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -293,8 +288,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>sharedSettingsHelper</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -312,7 +307,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>sharedSettingsHelper</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
