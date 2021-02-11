@@ -139,9 +139,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/PassListViewModel.kt" timestamp="1613071648465">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="47" column="9" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/PassListViewModel.kt" timestamp="1613072591534">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="32" column="50" />
+        <mark key="." line="32" column="50" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/CodeEntryFragment.kt" timestamp="1613060772076" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/navigation/nav_graph.xml" timestamp="1613059530257" />
@@ -290,8 +291,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhciB2ZXJzaW9uVXBkYXRlU2hvd246IEJvb2xlYW4KICAgICAgICBnZXQoKSA9IHNoYXJlZFNldHRpbmdzSGVscGVyLnZlcnNpb25VcGRhdGVTaG93bgogICAgICAgIHNldCh2YWx1ZSkgewogICAgICAgICAgICBzaGFyZWRTZXR0aW5nc0hlbHBlci52ZXJzaW9uVXBkYXRlU2hvd24gPSB2YWx1ZQogICAgICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>=</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -309,7 +310,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>sharedSettingsHelper</text>
+        <text>=</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
