@@ -151,6 +151,12 @@
         <mark key="." line="0" column="12" />
         <mark key="^" line="0" column="44" />
       </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/build.gradle.kts" timestamp="1612993520960">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="35" column="23" />
+      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/1.sqm" timestamp="1612902179347">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="55" />
@@ -173,11 +179,11 @@
         <mark key="]" line="155" column="0" />
         <mark key="." line="155" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/gradle.properties" timestamp="1612971570614">
-        <mark key="[" line="25" column="24" />
-        <mark key="]" line="23" column="26" />
-        <mark key="." line="23" column="25" />
-        <mark key="^" line="23" column="26" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/gradle.properties" timestamp="1612993484539">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="19" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/buildSrc/src/main/java/Config.kt" timestamp="1612991620223">
         <mark key="[" line="4" column="31" />
@@ -294,7 +300,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZENvbmZpZ0ZpZWxkKGNvbS5jb2RpbmdmZWxpbmUuYnVpbGRrb25maWcuY29tcGlsZXIuRmllbGRTcGVjLlR5cGUuU1RSSU5HLCBDb25maWcuS2V5LmRlYnVnVmVyc2lvbiwgZGVidWd2ZXJzaW9uKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -312,7 +318,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>debugversion</text>
+        <text>&quot;</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -327,43 +333,43 @@
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZENvbmZpZ0ZpZWxkKGNvbS5jb2RpbmdmZWxpbmUuYnVpbGRrb25maWcuY29tcGlsZXIuRmllbGRTcGVjLlR5cGUuU1RSSU5HLCBDb25maWcuS2V5LmRlYnVnVmVyc2lvbiwgZGVidWd2ZXJzaW9uKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZCB7Cg==</text>
+        <text encoding="base64">dmFsIGRlYnVndmVyc2lvbiA6U3RyaW5nIGJ5IHByb2plY3QKCgpkZWJ1Z3ZlcnNpb249Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuZCB7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text>debugversion=1.0.14</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBidWlsZENvbmZpZ0ZpZWxkKGNvbS5jb2RpbmdmZWxpbmUuYnVpbGRrb25maWcuY29tcGlsZXIuRmllbGRTcGVjLlR5cGUuU1RSSU5HLCBDb25maWcuS2V5LmRlYnVnVmVyc2lvbiwgZGVidWd2ZXJzaW9uKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZCB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuZCB7CiAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL2phdmFcLmxhbmdcLi8vZw==</text>
