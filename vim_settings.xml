@@ -144,8 +144,12 @@
         <mark key="]" line="32" column="50" />
         <mark key="." line="32" column="50" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/CodeEntryFragment.kt" timestamp="1613060772076" />
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/navigation/nav_graph.xml" timestamp="1613059530257" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/secrets.properties" timestamp="1612991633759">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="0" column="50" />
+        <mark key="." line="0" column="49" />
+        <mark key="^" line="0" column="50" />
+      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build.gradle.kts" timestamp="1612992319275">
         <mark key="[" line="155" column="0" />
         <mark key="]" line="155" column="0" />
@@ -156,21 +160,6 @@
         <mark key="]" line="75" column="9" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/AppInfoRepo.kt" timestamp="1613068159788" />
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/build.gradle.kts" timestamp="1612993520960">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="35" column="23" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/SharedSettingsHelper.kt" timestamp="1613067823944" />
-      <file name="$USER_HOME$/repos/CommonPass-mobile/secrets.properties" timestamp="1612991633759">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="0" column="50" />
-        <mark key="." line="0" column="49" />
-        <mark key="^" line="0" column="50" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/PassListFragment.kt" timestamp="1613067750466" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/gradle.properties" timestamp="1612993484539">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -181,7 +170,6 @@
         <mark key="[" line="4" column="31" />
         <mark key="]" line="4" column="48" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/iosMain/kotlin/org/commonsproject/commonpass/AppInfo.kt" timestamp="1612992291469" />
     </filemarks>
     <jumps>
       <jump line="72" column="32" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/OnBoardingFragment.kt" />
