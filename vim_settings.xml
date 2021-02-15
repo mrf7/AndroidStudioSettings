@@ -144,6 +144,12 @@
         <mark key="]" line="32" column="50" />
         <mark key="." line="32" column="50" />
       </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/DataServicesFragment.kt" timestamp="1613405690244">
+        <mark key="'" line="150" column="30" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/DataServicesViewModel.kt" timestamp="1613405686848">
+        <mark key="'" line="22" column="15" />
+      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/secrets.properties" timestamp="1612991633759">
         <mark key="[" line="0" column="18" />
         <mark key="]" line="0" column="50" />
@@ -165,8 +171,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="32" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/OnBoardingFragment.kt" />
-      <jump line="147" column="40" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/TriggerProgrammingFragment.kt" />
       <jump line="28" column="16" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/usecase/LightStatusTracker.kt" />
       <jump line="90" column="55" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/view/IconTextVisitor.kt" />
       <jump line="38" column="13" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/helper/HomeStatusHelper.java" />
@@ -265,6 +269,8 @@
       <jump line="20" column="29" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/SqliteMigrationTest.kt" />
       <jump line="19" column="39" filename="$USER_HOME$/repos/CommonPass-mobile/shared/build/generated/sqldelight/code/CommonPassDb/org/commonsproject/commonpass/db/CommonPassDb.kt" />
       <jump line="35" column="75" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/MainActivity.kt" />
+      <jump line="22" column="15" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/DataServicesViewModel.kt" />
+      <jump line="150" column="30" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/DataServicesFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
