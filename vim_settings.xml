@@ -154,12 +154,6 @@
         <mark key="]" line="80" column="9" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" timestamp="1613418512879" />
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" timestamp="1613423699664">
-        <mark key="[" line="108" column="27" />
-        <mark key="]" line="108" column="98" />
-        <mark key="." line="108" column="97" />
-        <mark key="^" line="108" column="98" />
-      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/DataServicesFragment.kt" timestamp="1613405690244">
         <mark key="'" line="150" column="30" />
       </file>
@@ -175,12 +169,7 @@
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build/generated/sqldelight/code/CommonPassDb/org/commonsproject/commonpass/db/PassDetail.kt" timestamp="1613413491537">
         <mark key="'" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/values/strings.xml" timestamp="1613423218769">
-        <mark key="[" line="124" column="34" />
-        <mark key="]" line="124" column="41" />
-        <mark key="^" line="124" column="41" />
-        <mark key="." line="124" column="40" />
-      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/values/strings.xml" timestamp="1613423218769" />
     </filemarks>
     <jumps>
       <jump line="37" column="26" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/view/IconTextBulletinRenderer.kt" />
