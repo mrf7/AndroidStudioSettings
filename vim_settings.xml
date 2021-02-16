@@ -139,11 +139,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/PassListViewModel.kt" timestamp="1613072591534">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="32" column="50" />
-        <mark key="." line="32" column="50" />
-      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build/generated/sqldelight/code/CommonPassDb/org/commonsproject/commonpass/db/shared/CommonPassDbImpl.kt" timestamp="1613413506164">
         <mark key="'" line="193" column="20" />
         <mark key="[" line="193" column="20" />
