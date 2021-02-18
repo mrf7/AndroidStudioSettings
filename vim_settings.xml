@@ -139,15 +139,25 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1613667581745">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/FragmentUtils.kt" timestamp="1613517658384">
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/MainActivity.kt" timestamp="1613517416444" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/delete_reminder_dialog_layout.xml" timestamp="1613518698187">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="43" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/build.gradle.kts" timestamp="1613591591115">
+        <mark key="[" line="28" column="27" />
+        <mark key="]" line="28" column="33" />
+        <mark key="." line="28" column="32" />
+        <mark key="^" line="28" column="33" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/code_entry_fragment.xml" timestamp="1613518403891">
         <mark key="[" line="74" column="0" />
@@ -158,7 +168,7 @@
         <mark key="[" line="28" column="38" />
         <mark key="]" line="28" column="69" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/navigation/nav_graph.xml" timestamp="1613520291964">
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/navigation/nav_graph.xml" timestamp="1613667825204">
         <mark key="^" line="5" column="45" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/welcome_fragment.xml" timestamp="1613520226733">
@@ -177,18 +187,6 @@
         <mark key="]" line="159" column="0" />
         <mark key="." line="159" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" timestamp="1613520490845" />
-      <file name="/Dummy.txt" timestamp="1613593822690">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/build.gradle.kts" timestamp="1613591591115">
-        <mark key="[" line="28" column="27" />
-        <mark key="]" line="28" column="33" />
-        <mark key="." line="28" column="32" />
-        <mark key="^" line="28" column="33" />
-      </file>
-      <file name="/build.gradle.kts" timestamp="1613591219265" />
-      <file name="$USER_HOME$/repos/CommonPass-mobile/gradle.properties" timestamp="1613591393810" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/thecommonsproject/android/commonpass/debug/WelcomeFragment.kt" timestamp="1613519105143">
         <mark key="'" line="26" column="44" />
         <mark key="[" line="31" column="31" />
@@ -309,7 +307,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>Merge branch 'main' of github.com:the-commons-project/CommonPass-mobile into merge-release</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -342,43 +340,43 @@
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>Merge branch 'main' of github.com:the-commons-project/CommonPass-mobile into merge-release</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFsIGRlYnVndmVyc2lvbjogU3RyaW5nIGJ5IHByb2plY3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZENvbmZpZ0ZpZWxkKGNvbS5jb2RpbmdmZWxpbmUuYnVpbGRrb25maWcuY29tcGlsZXIuRmllbGRTcGVjLlR5cGUuU1RSSU5HLCBDb25maWcuS2V5LmRlYnVnVmVyc2lvbiwgZGVidWd2ZXJzaW9uKQo=</text>
+        <text encoding="base64">dmFsIGRlYnVndmVyc2lvbjogU3RyaW5nIGJ5IHByb2plY3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZENvbmZpZ0ZpZWxkKGNvbS5jb2RpbmdmZWxpbmUuYnVpbGRrb25maWcuY29tcGlsZXIuRmllbGRTcGVjLlR5cGUuU1RSSU5HLCBDb25maWcuS2V5LmNvbW1vblBhc3NQb2xpY3lBcGlLZXksIHNlY3JldHMuZ2V0UHJvcGVydHkoQ29uZmlnLktleS5jb21tb25QYXNzUG9saWN5QXBpS2V5KSkK</text>
+        <text encoding="base64">ICAgICAgICBidWlsZENvbmZpZ0ZpZWxkKGNvbS5jb2RpbmdmZWxpbmUuYnVpbGRrb25maWcuY29tcGlsZXIuRmllbGRTcGVjLlR5cGUuU1RSSU5HLCBDb25maWcuS2V5LmRlYnVnVmVyc2lvbiwgZGVidWd2ZXJzaW9uKQo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBidWlsZENvbmZpZ0ZpZWxkKGNvbS5jb2RpbmdmZWxpbmUuYnVpbGRrb25maWcuY29tcGlsZXIuRmllbGRTcGVjLlR5cGUuU1RSSU5HLCBDb25maWcuS2V5LnNhZmV0eU5ldEFwaUtleSwgc2VjcmV0cy5nZXRQcm9wZXJ0eShDb25maWcuS2V5LnNhZmV0eU5ldEFwaUtleSkpCg==</text>
+        <text encoding="base64">ICAgICAgICBidWlsZENvbmZpZ0ZpZWxkKGNvbS5jb2RpbmdmZWxpbmUuYnVpbGRrb25maWcuY29tcGlsZXIuRmllbGRTcGVjLlR5cGUuU1RSSU5HLCBDb25maWcuS2V5LmNvbW1vblBhc3NQb2xpY3lBcGlLZXksIHNlY3JldHMuZ2V0UHJvcGVydHkoQ29uZmlnLktleS5jb21tb25QYXNzUG9saWN5QXBpS2V5KSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICBidWlsZENvbmZpZ0ZpZWxkKGNvbS5jb2RpbmdmZWxpbmUuYnVpbGRrb25maWcuY29tcGlsZXIuRmllbGRTcGVjLlR5cGUuU1RSSU5HLCBDb25maWcuS2V5LnNhZmV0eU5ldEFwaUtleSwgc2VjcmV0cy5nZXRQcm9wZXJ0eShDb25maWcuS2V5LnNhZmV0eU5ldEFwaUtleSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxhYmVsPSJmcmFnbWVudF93ZWxjb21lIgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Ub3BPZj0iQGlkL2NvbnRpbnVlX2J1dHRvbiIK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxhYmVsPSJmcmFnbWVudF93ZWxjb21lIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LlRvb2xiYXIK</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Ub3BPZj0iQGlkL2NvbnRpbnVlX2J1dHRvbiIK</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL3Bpbl90aXRsZS93ZWxjb21lX3RpdGxlL2c=</text>
