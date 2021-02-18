@@ -153,12 +153,6 @@
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="43" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/build.gradle.kts" timestamp="1613591591115">
-        <mark key="[" line="28" column="27" />
-        <mark key="]" line="28" column="33" />
-        <mark key="." line="28" column="32" />
-        <mark key="^" line="28" column="33" />
-      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/code_entry_fragment.xml" timestamp="1613518403891">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="89" column="10" />
