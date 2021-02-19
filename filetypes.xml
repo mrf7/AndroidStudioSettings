@@ -8,10 +8,10 @@
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="CodeResources" type="PLAIN_TEXT" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
+      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="xcconfig" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
-      <mapping ext="pem" type="PLAIN_TEXT" />
       <mapping ext="xcfilelist" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <removed_mapping ext="psd" approved="true" type="Image" />
