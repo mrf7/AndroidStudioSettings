@@ -7,9 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>LeapExceptionModel</entry>
-        <entry>dp</entry>
-        <entry>\%</entry>
         <entry>emit(.*)</entry>
         <entry>emit\((.*)\)</entry>
         <entry>actualyE</entry>
@@ -27,11 +24,11 @@
         <entry>any</entry>
         <entry>Collections.singltonList\((R.drawable.\w)\)</entry>
         <entry>href</entry>
+        <entry>java\.lang\.</entry>
+        <entry>pin_description</entry>
+        <entry>pin_title</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL0xlYXBFeGNlcHRpb25Nb2RlbC9SZXF1ZXN0UmVzcG9uc2VQcm9jZXNzaW5nRXhjZXB0aW9uL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL2RwL3B4</entry>
-        <entry encoding="base64">JzwsJz4vXCU=</entry>
         <entry encoding="base64">JzwsJz5zL2VtaXQoLiopL19zY3JlZW5TdGF0ZS52YWx1ZSA9ICQxL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2VtaXQoLiopL19zY3JlZW5TdGF0ZS52YWx1ZSA9IFwxL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2VtaXRcKCguKilcKS9fc2NyZWVuU3RhdGUudmFsdWUgPSBcMS9n</entry>
@@ -46,9 +43,12 @@
         <entry encoding="base64">JzwsJz5zL21vc3RSZWNlbnREYXRhL29sZERhdGEvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyJrZXkiL1VQREFURURfVFJJR0dFUl9LRVkvZw==</entry>
         <entry>s/any/all/g</entry>
-        <entry>reg</entry>
         <entry encoding="base64">JzwsJz5zL0NvbGxlY3Rpb25zLnNpbmdsdG9uTGlzdFwoKFIuZHJhd2FibGUuXHcpXCkvJDE=</entry>
         <entry>s/href/occupiedActionSchedule/g</entry>
+        <entry encoding="base64">JzwsJz5zL2phdmFcLmxhbmdcLi8vZw==</entry>
+        <entry>reg</entry>
+        <entry encoding="base64">JzwsJz5zL3Bpbl9kZXNjcmlwdGlvbi93ZWxjb21lX2V4cGxhbmF0aW9uL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3Bpbl90aXRsZS93ZWxjb21lX3RpdGxlL2c=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -139,170 +139,60 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/requestcreator/BaseRequestCreator.java" timestamp="1602532364448" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/LeapOccupancyGroupModel.java" timestamp="1602531524742" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/test/java/com.lutron.leaplib/leapmodel/LeapOccupancyGroupModelTest.kt" timestamp="1602533861031">
-        <mark key="[" line="108" column="66" />
-        <mark key="]" line="108" column="56" />
-        <mark key="^" line="108" column="56" />
-        <mark key="." line="108" column="55" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/requestcreator/OccupancyGroupRequestCreator.java" timestamp="1602533584857">
-        <mark key="'" line="41" column="74" />
-        <mark key="[" line="37" column="34" />
-        <mark key="]" line="37" column="34" />
-        <mark key="^" line="38" column="93" />
-        <mark key="." line="37" column="34" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/build.gradle" timestamp="1602534854312">
-        <mark key="[" line="5" column="30" />
-        <mark key="]" line="5" column="31" />
-        <mark key="." line="5" column="31" />
-      </file>
-      <file name="/fragment.kt" timestamp="1602532393672">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="91" />
-        <mark key="." line="0" column="91" />
-        <mark key="^" line="0" column="13" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.11.0/8f3dba92b2f979fd859ce2eda9e1cf8bacf5cc91/jackson-databind-2.11.0-sources.jar!/com/fasterxml/jackson/databind/node/ObjectNode.java" timestamp="1602530760017" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/LeapHeaderModel.java" timestamp="1602533791668">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="104" column="89" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/requestcreator/ZoneStatusRequestCreator.java" timestamp="1602530664449" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/LeapHeaderModel.kt" timestamp="1602530482282">
-        <mark key="[" line="11" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/SuppressBodyDirectiveModel.java" timestamp="1602530656350" />
-      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/constant/LeapConstant.java" timestamp="1602530006705">
-        <mark key="[" line="84" column="31" />
-        <mark key="]" line="83" column="36" />
-        <mark key="." line="84" column="35" />
-        <mark key="^" line="83" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/test/java/com.lutron.leaplib/requestcreator/OccupancyGroupRequestCreatorTest.kt" timestamp="1602533772040">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="72" column="46" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/response/processor/keypad/OccupancyGroupProcessor.java" timestamp="1602533025208">
-        <mark key="[" line="29" column="100" />
-        <mark key="]" line="29" column="100" />
-        <mark key="." line="29" column="117" />
-        <mark key="^" line="38" column="73" />
-      </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/LeapTimeOfDayModel.kt" timestamp="1602532890456">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="5" />
-        <mark key="^" line="8" column="5" />
-        <mark key="." line="8" column="4" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1602533994003">
+      <file name="/Dummy.txt" timestamp="1613667581745">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/leapmodel/LeapOccupancyGroupModel.kt" timestamp="1602532704412">
-        <mark key="[" line="17" column="2" />
-        <mark key="]" line="17" column="2" />
-        <mark key="." line="17" column="2" />
-        <mark key="^" line="9" column="5" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/FragmentUtils.kt" timestamp="1613517658384">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/datastore/leap/LeapResourceDataSource.kt" timestamp="1602533892326" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/delete_reminder_dialog_layout.xml" timestamp="1613518698187">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="43" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/code_entry_fragment.xml" timestamp="1613518403891">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="89" column="10" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/CodeEntryFragment.kt" timestamp="1613519640682">
+        <mark key="'" line="142" column="0" />
+        <mark key="[" line="28" column="38" />
+        <mark key="]" line="28" column="69" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/navigation/nav_graph.xml" timestamp="1613667825204">
+        <mark key="^" line="5" column="45" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/welcome_fragment.xml" timestamp="1613520226733">
+        <mark key="'" line="22" column="8" />
+        <mark key="[" line="49" column="50" />
+        <mark key="]" line="49" column="63" />
+        <mark key="." line="49" column="62" />
+        <mark key="^" line="49" column="63" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/WelcomeFragment.kt" timestamp="1613519668022">
+        <mark key="'" line="55" column="0" />
+        <mark key="^" line="20" column="35" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build.gradle.kts" timestamp="1613593654021">
+        <mark key="[" line="159" column="0" />
+        <mark key="]" line="159" column="0" />
+        <mark key="." line="159" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/thecommonsproject/android/commonpass/debug/WelcomeFragment.kt" timestamp="1613519105143">
+        <mark key="'" line="26" column="44" />
+        <mark key="[" line="31" column="31" />
+        <mark key="]" line="32" column="36" />
+        <mark key="." line="32" column="35" />
+        <mark key="^" line="32" column="36" />
+      </file>
+      <file name="/fragment.java" timestamp="1613519229825">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="78" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/TriggerProgrammingFragment.kt" />
-      <jump line="157" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/RingDeviceSummaryFragment.kt" />
-      <jump line="186" column="57" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModel.kt" />
-      <jump line="140" column="29" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/data/repository/RingRepo.kt" />
-      <jump line="452" column="49" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/data/repository/RingRepo.kt" />
-      <jump line="460" column="32" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/data/repository/RingRepo.kt" />
-      <jump line="134" column="73" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/TriggerProgrammingFragment.kt" />
-      <jump line="137" column="64" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/TriggerProgrammingFragment.kt" />
-      <jump line="191" column="65" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModel.kt" />
-      <jump line="344" column="34" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ring/data/repository/RingRepoTest.kt" />
-      <jump line="155" column="13" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/HomeActivity.java" />
-      <jump line="4895" column="28" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0/2151d26c3b241f0a887f2dadb9ab091649fcf020/recyclerview-1.0.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java" />
-      <jump line="13253" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.0.0/2151d26c3b241f0a887f2dadb9ab091649fcf020/recyclerview-1.0.0-sources.jar!/androidx/recyclerview/widget/RecyclerView.java" />
-      <jump line="123" column="22" filename="$USER_HOME$/Library/Android/sdk/sources/android-29/android/view/ViewGroup.java" />
-      <jump line="8949" column="8" filename="$USER_HOME$/Library/Android/sdk/sources/android-29/android/view/ViewGroup.java" />
-      <jump line="817" column="38" filename="$USER_HOME$/Library/Android/sdk/sources/android-29/android/view/View.java" />
-      <jump line="115" column="21" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/TriggerProgrammingFragment.kt" />
-      <jump line="44" column="35" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/TriggerProgrammingFragment.kt" />
-      <jump line="144" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/TriggerProgrammingViewModel.kt" />
-      <jump line="176" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/TriggerProgrammingViewModel.kt" />
-      <jump line="65" column="31" filename="$USER_HOME$/Documents/caseta-android-app/Utils/src/main/java/com/lutron/sharedutils/extension/CollectionExtension.kt" />
-      <jump line="145" column="35" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/data/repository/RingRepo.kt" />
-      <jump line="128" column="60" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/TriggerProgrammingFragment.kt" />
-      <jump line="1578" column="18" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/values/strings.xml" />
-      <jump line="187" column="8" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/SmartAwayActivity.java" />
-      <jump line="95" column="8" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/EditSceneBaseActivity.java" />
-      <jump line="16" column="18" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/values/strings.xml" />
-      <jump line="9" column="8" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/menu/save_menu.xml" />
-      <jump line="143" column="35" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/TriggerProgrammingFragment.kt" />
-      <jump line="852" column="16" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BaseActivity.java" />
-      <jump line="140" column="43" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/TriggerProgrammingFragment.kt" />
-      <jump line="72" column="46" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/OnboardingFragment.kt" />
-      <jump line="71" column="70" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/OnboardingFragment.kt" />
-      <jump line="73" column="56" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/OnboardingFragment.kt" />
-      <jump line="25" column="48" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/OnboardingViewModel.kt" />
-      <jump line="119" column="9" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/TriggerProgrammingFragment.kt" />
-      <jump line="145" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/TriggerProgrammingFragment.kt" />
-      <jump line="158" column="45" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/VoiceAliasEditFragment.kt" />
-      <jump line="8" column="26" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/PrivacySettingsActivity.kt" />
-      <jump line="71" column="7" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/OnBoardingFragment.kt" />
-      <jump line="91" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/OnBoardingFragment.kt" />
-      <jump line="35" column="24" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/OnBoardingFragment.kt" />
-      <jump line="215" column="11" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BaseActivity.java" />
-      <jump line="91" column="22" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.1.0/9865019bbd2d95e41dede3d8ebf964aa93f97766/appcompat-1.1.0-sources.jar!/androidx/appcompat/app/ActionBar.java" />
-      <jump line="62" column="72" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/OnBoardingFragment.kt" />
-      <jump line="72" column="32" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/OnBoardingFragment.kt" />
-      <jump line="147" column="40" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/TriggerProgrammingFragment.kt" />
-      <jump line="28" column="16" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/usecase/LightStatusTracker.kt" />
-      <jump line="90" column="55" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/view/IconTextVisitor.kt" />
-      <jump line="38" column="13" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/helper/HomeStatusHelper.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/helper/HomeStatusHelper.java" />
-      <jump line="62" column="49" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/helper/HomeStatusHelper.java" />
-      <jump line="51" column="49" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/common/helper/HomeStatusHelper.java" />
-      <jump line="112" column="8" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/adapter/RingDeviceRecyclerAdapter.kt" />
-      <jump line="113" column="64" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/adapter/RingDeviceRecyclerAdapter.kt" />
-      <jump line="294" column="44" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/FileImportExportPresenter.java" />
-      <jump line="62" column="73" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/FileImportExportPresenter.java" />
-      <jump line="504" column="18" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/presenter/FileImportExportPresenter.java" />
-      <jump line="291" column="28" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.kt" />
-      <jump line="105" column="13" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BaseBleActivity.kt" />
-      <jump line="153" column="46" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.10/9d22e03b9f0a300edff23ccf219d406d12c3378f/rxjava-2.2.10-sources.jar!/io/reactivex/subjects/BehaviorSubject.java" />
-      <jump line="37" column="26" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/view/IconTextBulletinRenderer.kt" />
-      <jump line="128" column="40" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/view/OneLineVisitor.kt" />
-      <jump line="29" column="51" filename="$USER_HOME$/Documents/Sample/android-architecture-components/PagingWithNetworkSample/lib/src/main/java/com/android/example/paging/pagingwithnetwork/reddit/ui/SubRedditViewModel.kt" />
-      <jump line="105" column="21" filename="$USER_HOME$/Documents/Sample/android-architecture-components/PagingWithNetworkSample/app/src/test/java/com/android/example/paging/pagingwithnetwork/reddit/repository/inMemory/InMemoryRepositoryTest.kt" />
-      <jump line="560" column="19" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.0-rc01/cca6b1d13507033419ba77f0a7382316127976f1/paging-common-2.1.0-rc01-sources.jar!/androidx/paging/PagedList.java" />
-      <jump line="137" column="17" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.paging/paging-common/2.1.0-rc01/cca6b1d13507033419ba77f0a7382316127976f1/paging-common-2.1.0-rc01-sources.jar!/androidx/paging/PagedList.java" />
-      <jump line="67" column="18" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/communication/CommunicationManager.kt" />
-      <jump line="154" column="50" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/WorksWithRingViewModel.kt" />
-      <jump line="155" column="67" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/WorksWithRingViewModel.kt" />
-      <jump line="124" column="70" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/view/fragment/WorksWithRingFragment.kt" />
-      <jump line="125" column="12" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModel.kt" />
-      <jump line="43" column="15" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/RingDeviceSummaryViewModel.kt" />
-      <jump line="73" column="74" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/WorksWithRingViewModel.kt" />
-      <jump line="168" column="107" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/WorksWithRingViewModel.kt" />
-      <jump line="116" column="61" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/WorksWithRingViewModel.kt" />
-      <jump line="167" column="37" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/usecase/presenter/WorksWithRingViewModel.kt" />
-      <jump line="64" column="6" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ring/usecase/presenter/WorksWithRingViewModelTest.kt" />
-      <jump line="182" column="32" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ring/usecase/presenter/WorksWithRingViewModelTest.kt" />
-      <jump line="183" column="31" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ring/usecase/presenter/WorksWithRingViewModelTest.kt" />
-      <jump line="305" column="22" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ring/usecase/presenter/WorksWithRingViewModelTest.kt" />
-      <jump line="105" column="18" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/res/values/strings.xml" />
-      <jump line="695" column="71" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/BaseActivity.java" />
-      <jump line="241" column="17" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/ring/data/repository/RingRepo.kt" />
-      <jump line="25" column="76" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/bulletin/usecase/LightStatusTracker.kt" />
-      <jump line="25" column="55" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ObservableTest.kt" />
-      <jump line="8094" column="43" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.2.10/9d22e03b9f0a300edff23ccf219d406d12c3378f/rxjava-2.2.10-sources.jar!/io/reactivex/Observable.java" />
-      <jump line="26" column="70" filename="$USER_HOME$/Documents/caseta-android-app/app/src/test/java/com/lutron/mmw/ObservableTest.kt" />
       <jump line="43" column="55" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/business/pagesource/TimeClockEventsPageSource.kt" />
       <jump line="139" column="92" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/fragment/AddDeviceByButtonPressFragment.java" />
       <jump line="241" column="23" filename="$USER_HOME$/Documents/caseta-android-app/app/src/main/java/com/lutron/mmw/activity/AddDeviceActivity.java" />
@@ -315,6 +205,94 @@
       <jump line="85" column="23" filename="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/test/java/com.lutron.leaplib/requestcreator/OccupancyGroupRequestCreatorTest.kt" />
       <jump line="60" column="35" filename="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/test/java/com.lutron.leaplib/requestcreator/OccupancyGroupRequestCreatorTest.kt" />
       <jump line="71" column="8" filename="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/test/java/com.lutron.leaplib/requestcreator/OccupancyGroupRequestCreatorTest.kt" />
+      <jump line="19" column="40" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/CodeEntryViewModel.kt" />
+      <jump line="2" column="13" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/CPResult.kt" />
+      <jump line="37" column="26" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" />
+      <jump line="32" column="13" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/DatabaseHelper.kt" />
+      <jump line="62" column="11" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/sqldelight/CoroutinesExtensions.kt" />
+      <jump line="75" column="6" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" />
+      <jump line="13" column="33" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/MainActivity.kt" />
+      <jump line="46" column="19" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.newrelic.agent.android/android-agent/5.28.1/8e8818e29d41480f10b716b5b8cf320f44c50d17/android-agent-5.28.1.jar!/com/newrelic/agent/android/NewRelic.class" />
+      <jump line="39" column="17" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/MainActivity.kt" />
+      <jump line="462" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.newrelic.agent.android/android-agent/5.28.1/8e8818e29d41480f10b716b5b8cf320f44c50d17/android-agent-5.28.1.jar!/com/newrelic/agent/android/NewRelic.class" />
+      <jump line="70" column="26" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
+      <jump line="47" column="16" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
+      <jump line="2" column="33" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/Analytics.kt" />
+      <jump line="70" column="14" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/Koin.kt" />
+      <jump line="29" column="37" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/iosMain/kotlin/org/commonsproject/commonpass/viewmodels/NativeCodeEntryViewModel.kt" />
+      <jump line="149" column="4" filename="$USER_HOME$/repos/CommonPass-mobile/shared/build.gradle.kts" />
+      <jump line="66" column="134" filename="$USER_HOME$/.gradle/caches/6.6.1/gradle-kotlin-dsl-accessors/2vo3bcpdqweiqtywnl8cqeu7z/cache/src/org/gradle/kotlin/dsl/Accessorsdh9tda8p8stj476a1zly6kg6l.kt" />
+      <jump line="8" column="27" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/AnalyticsHelper.kt" />
+      <jump line="22" column="31" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/CodeEntryViewModel.kt" />
+      <jump line="10" column="62" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/AnalyticsHelperImpl.kt" />
+      <jump line="32" column="31" filename="$USER_HOME$/repos/CommonPass-mobile/android/build.gradle.kts" />
+      <jump line="191" column="19" filename="$USER_HOME$/repos/CommonPass-mobile/android/build.gradle.kts" />
+      <jump line="51" column="31" filename="$USER_HOME$/repos/CommonPass-mobile/buildSrc/src/main/java/Dependencies.kt" />
+      <jump line="79" column="79" filename="$USER_HOME$/repos/CommonPass-mobile/buildSrc/src/main/java/Dependencies.kt" />
+      <jump line="11" column="24" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/CodeEntryViewModel.kt" />
+      <jump line="36" column="14" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" />
+      <jump line="4" column="20" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/AnalyticsHelper.kt" />
+      <jump line="2" column="22" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/AnalyticsHelper.kt" />
+      <jump line="61" column="15" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/iosMain/kotlin/org/commonsproject/commonpass/KoiniOS.kt" />
+      <jump line="57" column="45" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/MainApp.kt" />
+      <jump line="83" column="16" filename="$USER_HOME$/repos/CommonPass-mobile/buildSrc/src/main/java/Dependencies.kt" />
+      <jump line="42" column="0" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/DatabaseHelper.kt" />
+      <jump line="18" column="37" filename="$USER_HOME$/repos/CommonPass-mobile/shared/build.gradle.kts" />
+      <jump line="16" column="59" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/SqliteMigrationTest.kt" />
+      <jump line="15" column="59" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/SqliteMigrationTest.kt" />
+      <jump line="19" column="23" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/SqliteMigrationTest.kt" />
+      <jump line="89" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.sqldelight/runtime-jvm/1.4.4/4f48e097d985ba077e89cf484a1d3d0f62f75cb8/runtime-jvm-1.4.4-sources.jar!/commonMain/com/squareup/sqldelight/db/SqlDriver.kt" />
+      <jump line="18" column="21" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/SqliteMigrationTest.kt" />
+      <jump line="15" column="26" filename="$USER_HOME$/repos/CommonPass-mobile/shared/build/generated/sqldelight/code/CommonPassDb/org/commonsproject/commonpass/db/CommonPassDb.kt" />
+      <jump line="7" column="28" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/SqliteMigrationTest.kt" />
+      <jump line="24" column="31" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/SqliteMigrationTest.kt" />
+      <jump line="20" column="29" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/SqliteMigrationTest.kt" />
+      <jump line="19" column="39" filename="$USER_HOME$/repos/CommonPass-mobile/shared/build/generated/sqldelight/code/CommonPassDb/org/commonsproject/commonpass/db/CommonPassDb.kt" />
+      <jump line="35" column="75" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/MainActivity.kt" />
+      <jump line="22" column="15" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/DataServicesViewModel.kt" />
+      <jump line="150" column="30" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/DataServicesFragment.kt" />
+      <jump line="86" column="11" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
+      <jump line="65" column="22" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
+      <jump line="109" column="22" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" />
+      <jump line="10" column="13" filename="$USER_HOME$/repos/CommonPass-mobile/shared/build/generated/sqldelight/code/CommonPassDb/org/commonsproject/commonpass/db/PassDetail.kt" />
+      <jump line="113" column="23" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" />
+      <jump line="7" column="21" filename="$USER_HOME$/repos/CommonPass-mobile/shared/build/generated/sqldelight/code/CommonPassDb/org/commonsproject/commonpass/db/PassDetail.kt" />
+      <jump line="193" column="20" filename="$USER_HOME$/repos/CommonPass-mobile/shared/build/generated/sqldelight/code/CommonPassDb/org/commonsproject/commonpass/db/shared/CommonPassDbImpl.kt" />
+      <jump line="70" column="33" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/DatabaseHelper.kt" />
+      <jump line="53" column="22" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/DatabaseHelper.kt" />
+      <jump line="86" column="29" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" />
+      <jump line="81" column="31" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" />
+      <jump line="160" column="72" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
+      <jump line="108" column="8" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
+      <jump line="890" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.2.4/bfa66119813f2997ac526678b7ed354312c83fc/fragment-1.2.4-sources.jar!/androidx/fragment/app/Fragment.java" />
+      <jump line="87" column="12" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
+      <jump line="46" column="54" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/iosMain/kotlin/org/commonsproject/commonpass/viewmodels/NativeDataServicesViewModel.kt" />
+      <jump line="107" column="16" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/onboarding/OnboardingFragment.kt" />
+      <jump line="59" column="83" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/CodeEntryFragment.kt" />
+      <jump line="154" column="27" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/PassListFragment.kt" />
+      <jump line="153" column="101" filename="$USER_HOME$/repos/CommonPass-mobile/shared/build.gradle.kts" />
+      <jump line="77" column="20" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/onboarding/OnboardingFragment.kt" />
+      <jump line="33" column="10" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/CodeEntryFragment.kt" />
+      <jump line="26" column="44" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/thecommonsproject/android/commonpass/debug/WelcomeFragment.kt" />
+      <jump line="14" column="16" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/CodeEntryViewModel.kt" />
+      <jump line="35" column="36" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/CodeEntryViewModel.kt" />
+      <jump line="89" column="40" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/navigation/nav_graph.xml" />
+      <jump line="12" column="14" filename="$USER_HOME$/repos/CommonPass-mobile/android/build/generated/source/navigation-args/debug/org/commonsproject/commonpass/android/fragment/onboarding/OnboardingFragmentDirections.kt" />
+      <jump line="60" column="8" filename="$USER_HOME$/repos/CommonPass-mobile/android/build/generated/source/navigation-args/debug/org/commonsproject/commonpass/android/fragment/PassListFragmentDirections.kt" />
+      <jump line="13" column="19" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/CodeEntryViewModel.kt" />
+      <jump line="31" column="27" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/CodeEntryFragment.kt" />
+      <jump line="48" column="58" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/CodeEntryFragment.kt" />
+      <jump line="143" column="8" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/CodeEntryFragment.kt" />
+      <jump line="41" column="44" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/CodeEntryFragment.kt" />
+      <jump line="10" column="25" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/welcome_fragment.xml" />
+      <jump line="69" column="0" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/welcome_fragment.xml" />
+      <jump line="59" column="42" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/welcome_fragment.xml" />
+      <jump line="142" column="0" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/CodeEntryFragment.kt" />
+      <jump line="45" column="3" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/WelcomeFragment.kt" />
+      <jump line="55" column="0" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/WelcomeFragment.kt" />
+      <jump line="38" column="44" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/welcome_fragment.xml" />
+      <jump line="22" column="8" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/welcome_fragment.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -323,7 +301,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text>Unhide Ollie</text>
+        <text>Merge branch 'main' of github.com:the-commons-project/CommonPass-mobile into merge-release</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -341,73 +319,71 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>!!.</text>
+        <text>debugversion</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
       </register>
       <register name="/" type="4">
-        <text>href</text>
+        <text>pin_title</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKG9jY01vZGVsLmhyZWYsIHRlc3RCb2R5LmhyZWYpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">VG9vbGJhci5Pbk1lbnVJdGVtQ2xpY2tMaXN0ZW5lciA=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text>Unhide Ollie</text>
+        <text>Merge branch 'main' of github.com:the-commons-project/CommonPass-mobile into merge-release</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5PYmplY3RzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5sdXRyb24ubGVhcGxpYi5sZWFwbW9kZWwuTGVhcEhlYWRlck1vZGVsCg==</text>
+        <text encoding="base64">dmFsIGRlYnVndmVyc2lvbjogU3RyaW5nIGJ5IHByb2plY3QK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgSU9FeGNlcHRpb24K</text>
+        <text encoding="base64">ICAgICAgICBidWlsZENvbmZpZ0ZpZWxkKGNvbS5jb2RpbmdmZWxpbmUuYnVpbGRrb25maWcuY29tcGlsZXIuRmllbGRTcGVjLlR5cGUuU1RSSU5HLCBDb25maWcuS2V5LmRlYnVnVmVyc2lvbiwgZGVidWd2ZXJzaW9uKQo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB2YWwgZXhwZWN0ZWRCb2R5ID0gIiIiCiAgICAgICAgLy8gICAgIHsKICAgICAgICAvLyAgICAgICAgICJPY2N1cGFuY3lHcm91cCI6IHsKICAgICAgICAvLyAgICAgICAgICAgICAiaHJlZiI6ICIvb2NjdXBhbmN5Z3JvdXAvMSIsCiAgICAgICAgLy8gICAgICAgICAgICAgIk9jY3VwaWVkQWN0aW9uU2NoZWR1bGUiOiB7CiAgICAgICAgLy8gICAgICAgICAgICAgICAgICJTY2hlZHVsZVR5cGUiOiAiRGFpbHkiLAogICAgICAgIC8vICAgICAgICAgICAgICAgICAiRGFpbHlTY2hlZHVsZVByb3BlcnRpZXMiOiB7CiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAiU3RhcnRUaW1lIjogewogICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICJFdmVudFR5cGUiOiAiRml4ZWQiLAogICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICJUaW1lT2ZEYXkiOiB7IkhvdXIiOiA1LCJNaW51dGUiOiAyMH0KICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgICAiRW5kVGltZSI6IHsKICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgICAiRXZlbnRUeXBlIjogIkFzdHJvbm9taWMiLAogICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICJBc3Ryb25vbWljRXZlbnRUeXBlIjogIlN1bnJpc2UiLAogICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgICAgICJBc3Ryb25vbWljVGltZU9mZnNldCI6ICI1OjAwIgogICAgICAgIC8vICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgIC8vICAgICAgICAgICAgICAgICB9CiAgICAgICAgLy8gICAgICAgICAgICAgfSwKICAgICAgICAvLyAgICAgICAgICAgICAiVW5vY2N1cGllZEFjdGlvblNjaGVkdWxlIjogewogICAgICAgIC8vICAgICAgICAgICAgICAgICAiU2NoZWR1bGVUeXBlIjogIk5vbmUiCiAgICAgICAgLy8gICAgICAgICAgICAgfQogICAgICAgIC8vICAgICAgICAgfQogICAgICAgIC8vICAgICB9CiAgICAgICAgLy8gIiIiLnRyaW1JbmRlbnQoKQogICAgICAgIC8vIEpTT05Bc3NlcnQuYXNzZXJ0RXF1YWxzKGV4cGVjdGVkQm9keSwgdGVzdFJlcXVlc3QuYm9keS50b1ByZXR0eVN0cmluZygpKQo=</text>
+        <text encoding="base64">ICAgICAgICBidWlsZENvbmZpZ0ZpZWxkKGNvbS5jb2RpbmdmZWxpbmUuYnVpbGRrb25maWcuY29tcGlsZXIuRmllbGRTcGVjLlR5cGUuU1RSSU5HLCBDb25maWcuS2V5LmNvbW1vblBhc3NQb2xpY3lBcGlLZXksIHNlY3JldHMuZ2V0UHJvcGVydHkoQ29uZmlnLktleS5jb21tb25QYXNzUG9saWN5QXBpS2V5KSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKCkge30K</text>
+        <text encoding="base64">ICAgICAgICBidWlsZENvbmZpZ0ZpZWxkKGNvbS5jb2RpbmdmZWxpbmUuYnVpbGRrb25maWcuY29tcGlsZXIuRmllbGRTcGVjLlR5cGUuU1RSSU5HLCBDb25maWcuS2V5LnNhZmV0eU5ldEFwaUtleSwgc2VjcmV0cy5nZXRQcm9wZXJ0eShDb25maWcuS2V5LnNhZmV0eU5ldEFwaUtleSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuYXNzZXJ0RXF1YWxzKG9jY01vZGVsLm9jY3VwaWVkQWN0aW9uU2NoZWR1bGUsIHRlc3RCb2R5Lm9jY3VwaWVkQWN0aW9uU2NoZWR1bGUpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZQo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="4">
-        <text>{
-
-}</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxhYmVsPSJmcmFnbWVudF93ZWxjb21lIgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQK</text>
+        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2NvbnN0cmFpbnRCb3R0b21fdG9Ub3BPZj0iQGlkL2NvbnRpbnVlX2J1dHRvbiIK</text>
       </register>
       <register name=":" type="4">
-        <text>s/href/occupiedActionSchedule/g</text>
+        <text encoding="base64">JzwsJz5zL3Bpbl90aXRsZS93ZWxjb21lX3RpdGxlL2c=</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>href</last-search>
+      <last-search>pin_title</last-search>
       <last-offset />
-      <last-pattern>href</last-pattern>
-      <last-replace>occupiedActionSchedule</last-replace>
-      <last-substitute>href</last-substitute>
+      <last-pattern>pin_title</last-pattern>
+      <last-replace>welcome_title</last-replace>
+      <last-substitute>pin_title</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
