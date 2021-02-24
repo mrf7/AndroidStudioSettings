@@ -150,10 +150,6 @@
         <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/SwaggerHelpers.kt" timestamp="1614181408455" />
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/delete_reminder_dialog_layout.xml" timestamp="1613518698187">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="43" />
-      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/adapter/PassViewAdapter.kt" timestamp="1614181266362" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/CodeEntryFragment.kt" timestamp="1613519640682">
         <mark key="'" line="142" column="0" />
