@@ -161,10 +161,6 @@
         <mark key="." line="49" column="62" />
         <mark key="^" line="49" column="63" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/WelcomeFragment.kt" timestamp="1613519668022">
-        <mark key="'" line="55" column="0" />
-        <mark key="^" line="20" column="35" />
-      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build.gradle.kts" timestamp="1613593654021">
         <mark key="[" line="159" column="0" />
         <mark key="]" line="159" column="0" />
@@ -197,6 +193,7 @@
         <mark key="[" line="12" column="40" />
         <mark key="]" line="12" column="59" />
       </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/policy_list_fragment.xml" timestamp="1614200974718" />
     </filemarks>
     <jumps>
       <jump line="35" column="81" filename="$USER_HOME$/Documents/caseta-android-app/look-before-you-leap/src/main/java/com/lutron/leaplib/requestcreator/OccupancyGroupRequestCreator.java" />
