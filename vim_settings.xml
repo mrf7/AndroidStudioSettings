@@ -157,11 +157,11 @@
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/app/Activity.java" timestamp="1614196841201">
         <mark key="'" line="8675" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/code_entry_fragment.xml" timestamp="1614789018635">
-        <mark key="[" line="111" column="42" />
-        <mark key="]" line="111" column="42" />
-        <mark key="^" line="111" column="42" />
-        <mark key="." line="111" column="41" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/code_entry_fragment.xml" timestamp="1614789446443">
+        <mark key="[" line="108" column="31" />
+        <mark key="]" line="108" column="31" />
+        <mark key="^" line="108" column="31" />
+        <mark key="." line="108" column="30" />
       </file>
       <file name="$USER_HOME$/repos/oss/Kermit/KermitSample/gradle/wrapper/gradle-wrapper.properties" timestamp="1614368470383">
         <mark key="[" line="12" column="0" />
@@ -195,6 +195,10 @@
         <mark key="]" line="10" column="55" />
         <mark key="." line="10" column="54" />
         <mark key="^" line="10" column="55" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/terms_dialog_layout.xml" timestamp="1614789347427">
+        <mark key="[" line="201" column="0" />
+        <mark key="]" line="201" column="59" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build.gradle.kts" timestamp="1613593654021">
         <mark key="[" line="159" column="0" />
@@ -318,7 +322,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGlzdHJpYnV0aW9uVXJsPWh0dHBzXDovL3NlcnZpY2VzLmdyYWRsZS5vcmcvZGlzdHJpYnV0aW9ucy9ncmFkbGUtNS42LjQtYWxsLnppcAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOnJpcHBsZUNvbG9yPSJAY29sb3IvQ29tbW9uUGFzc0J1dHRvblJpcHBsZSIK</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -336,7 +340,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>number</text>
+        <text encoding="base64">ICAgICAgICBhcHA6cmlwcGxlQ29sb3I9IkBjb2xvci9Db21tb25QYXNzQmx1ZSI=</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -345,7 +349,7 @@
         <text>pin_title</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGlzdHJpYnV0aW9uVXJsPWh0dHBzXDovL3NlcnZpY2VzLmdyYWRsZS5vcmcvZGlzdHJpYnV0aW9ucy9ncmFkbGUtNi41LWFsbC56aXAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOnJpcHBsZUNvbG9yPSJAY29sb3IvQ29tbW9uUGFzc0J1dHRvblJpcHBsZSIK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
