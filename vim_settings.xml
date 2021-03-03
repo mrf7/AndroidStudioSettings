@@ -139,21 +139,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1614284111904">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" timestamp="1614185049450">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/MainActivity.kt" timestamp="1614196783882">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/app/Activity.java" timestamp="1614196841201">
         <mark key="'" line="8675" column="0" />
       </file>
@@ -168,42 +153,41 @@
         <mark key="]" line="12" column="77" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/iosMain/kotlin/org/commonsproject/commonpass/viewmodels/NativeCodeEntryViewModel.kt" timestamp="1614803481245" />
       <file name="$USER_HOME$/repos/oss/Kermit/gradle/wrapper/gradle-wrapper.properties" timestamp="1614368468041">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="77" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.KevinSchildhorn/OTPView/0.1.6/d456749bc244aa70d85cd4337d9b834bf8d7f7e4/OTPView-0.1.6-sources.jar!/com/kevinschildhorn/otpview/OTPView.kt" timestamp="1614800192705">
-        <mark key="'" line="442" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/CodeEntryFragment.kt" timestamp="1614800542368">
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/CodeEntryFragment.kt" timestamp="1614804268191">
         <mark key="'" line="58" column="27" />
-        <mark key="[" line="124" column="150" />
-        <mark key="]" line="124" column="158" />
-        <mark key="." line="124" column="157" />
-        <mark key="^" line="124" column="158" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.2.0/13e8ff89631c2e101eb6bddd12c2fb4bbd74b15d/appcompat-1.2.0-sources.jar!/androidx/appcompat/app/AppCompatActivity.java" timestamp="1614196802869">
         <mark key="'" line="634" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/welcome_fragment.xml" timestamp="1614787972002" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/terms_dialog_layout.xml" timestamp="1614789347427">
+        <mark key="[" line="201" column="0" />
+        <mark key="]" line="201" column="59" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.KevinSchildhorn/OTPView/0.1.7/9ca7c12fbfac048ef5a196fdfd3a14cc4f466c18/OTPView-0.1.7-sources.jar!/com/kevinschildhorn/otpview/OTPView.kt" timestamp="1614804251656" />
+      <file name="/Dummy.txt" timestamp="1614804932703">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/build.gradle.kts" timestamp="1614803588452" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.KevinSchildhorn/OTPView/0.1.6/d456749bc244aa70d85cd4337d9b834bf8d7f7e4/OTPView-0.1.6-sources.jar!/com/kevinschildhorn/otpview/OTPView.kt" timestamp="1614800192705">
+        <mark key="'" line="442" column="0" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/pass_card_front.xml" timestamp="1614199555942">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
         <mark key="." line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/welcome_fragment.xml" timestamp="1614787972002" />
-      <file name="$USER_HOME$/repos/CommonPass-mobile/secrets.properties" timestamp="1614181613898">
-        <mark key="[" line="10" column="20" />
-        <mark key="]" line="10" column="55" />
-        <mark key="." line="10" column="54" />
-        <mark key="^" line="10" column="55" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/terms_dialog_layout.xml" timestamp="1614789347427">
-        <mark key="[" line="201" column="0" />
-        <mark key="]" line="201" column="59" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/buildSrc/src/main/java/Config.kt" timestamp="1614181602915">
-        <mark key="[" line="12" column="40" />
-        <mark key="]" line="12" column="59" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/buildSrc/src/main/java/Dependencies.kt" timestamp="1614803748409">
+        <mark key="[" line="34" column="23" />
+        <mark key="]" line="34" column="24" />
+        <mark key="." line="34" column="24" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/values/strings.xml" timestamp="1614800596907">
         <mark key="[" line="149" column="45" />
