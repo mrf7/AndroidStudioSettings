@@ -172,11 +172,11 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="77" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/CodeEntryFragment.kt" timestamp="1614792074364">
-        <mark key="[" line="70" column="27" />
-        <mark key="]" line="70" column="27" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/CodeEntryFragment.kt" timestamp="1614792158194">
+        <mark key="[" line="62" column="29" />
+        <mark key="]" line="62" column="29" />
         <mark key="^" line="68" column="73" />
-        <mark key="." line="70" column="27" />
+        <mark key="." line="62" column="29" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.2.0/13e8ff89631c2e101eb6bddd12c2fb4bbd74b15d/appcompat-1.2.0-sources.jar!/androidx/appcompat/app/AppCompatActivity.java" timestamp="1614196802869">
         <mark key="'" line="634" column="0" />
@@ -322,7 +322,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>.toUpperCase()</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -340,7 +340,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>.toUpperCase()</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
