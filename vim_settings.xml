@@ -146,11 +146,7 @@
         <mark key="^" line="108" column="31" />
         <mark key="." line="108" column="30" />
       </file>
-      <file name="$USER_HOME$/repos/oss/OTPView/otpView/src/main/java/com/kevinschildhorn/otpview/OTPView.kt" timestamp="1614889378234">
-        <mark key="[" line="173" column="0" />
-        <mark key="]" line="173" column="0" />
-        <mark key="." line="173" column="0" />
-      </file>
+      <file name="$USER_HOME$/repos/oss/OTPView/otpView/src/main/java/com/kevinschildhorn/otpview/OTPView.kt" timestamp="1614891169247" />
       <file name="$USER_HOME$/repos/oss/Kermit/KermitSample/gradle/wrapper/gradle-wrapper.properties" timestamp="1614368470383">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="77" />
@@ -163,10 +159,6 @@
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/CodeEntryFragment.kt" timestamp="1614807444036">
         <mark key="'" line="58" column="27" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="69" column="16" />
-        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/welcome_fragment.xml" timestamp="1614787972002" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/terms_dialog_layout.xml" timestamp="1614789347427">
@@ -174,7 +166,7 @@
         <mark key="]" line="201" column="59" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.KevinSchildhorn/OTPView/0.1.7/9ca7c12fbfac048ef5a196fdfd3a14cc4f466c18/OTPView-0.1.7-sources.jar!/com/kevinschildhorn/otpview/OTPView.kt" timestamp="1614807928009" />
-      <file name="/Dummy.txt" timestamp="1614807124709">
+      <file name="/Dummy.txt" timestamp="1614891320085">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
