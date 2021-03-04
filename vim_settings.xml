@@ -139,13 +139,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/android/text/TextWatcher.java" timestamp="1614886565257" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/code_entry_fragment.xml" timestamp="1614789446443">
         <mark key="[" line="108" column="31" />
         <mark key="]" line="108" column="31" />
         <mark key="^" line="108" column="31" />
         <mark key="." line="108" column="30" />
       </file>
-      <file name="$USER_HOME$/repos/oss/OTPView/otpView/src/main/java/com/kevinschildhorn/otpview/OTPView.kt" timestamp="1614884428389">
+      <file name="$USER_HOME$/repos/oss/OTPView/otpView/src/main/java/com/kevinschildhorn/otpview/OTPView.kt" timestamp="1614885846627">
         <mark key="[" line="174" column="87" />
         <mark key="]" line="174" column="89" />
         <mark key="^" line="174" column="89" />
@@ -179,17 +180,15 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1614807982145">
+      <file name="/fragment.kt" timestamp="1614886036268">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/build.gradle.kts" timestamp="1614803588452" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.KevinSchildhorn/OTPView/0.1.6/d456749bc244aa70d85cd4337d9b834bf8d7f7e4/OTPView-0.1.6-sources.jar!/com/kevinschildhorn/otpview/OTPView.kt" timestamp="1614806192834">
         <mark key="'" line="442" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/pass_card_front.xml" timestamp="1614199555942">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/buildSrc/src/main/java/Dependencies.kt" timestamp="1614885350140">
         <mark key="[" line="34" column="23" />
