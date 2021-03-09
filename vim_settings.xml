@@ -144,7 +144,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" timestamp="1615301903111" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" timestamp="1615305473339">
+        <mark key="[" line="157" column="53" />
+        <mark key="]" line="157" column="72" />
+        <mark key="^" line="157" column="72" />
+        <mark key="." line="157" column="71" />
+      </file>
       <file name="/fragment.kt" timestamp="1615240418432">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
@@ -176,11 +181,13 @@
         <mark key="^" line="169" column="8" />
         <mark key="." line="169" column="7" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardFragment.kt" timestamp="1615238317356">
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/java/time/format/SignStyle.java" timestamp="1615305581001" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardFragment.kt" timestamp="1615301994009">
         <mark key="[" line="103" column="0" />
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
       </file>
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/java/time/format/DateTimeFormatterBuilder.java" timestamp="1615305604098" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" timestamp="1615237852836">
         <mark key="]" line="109" column="0" />
         <mark key="^" line="109" column="0" />
@@ -301,7 +308,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>Long</text>
+        <text>.getLocalizedDateTimePattern(FormatStyle.FULL, )</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -319,7 +326,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>Long</text>
+        <text>.getLocalizedDateTimePattern(FormatStyle.FULL, )</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
