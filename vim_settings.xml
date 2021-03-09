@@ -144,10 +144,17 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" timestamp="1615306740112">
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="156" column="0" />
-        <mark key="." line="156" column="0" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" timestamp="1615315632009">
+        <mark key="'" line="116" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="209" column="99" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/SwaggerHelpers.kt" timestamp="1615315579698">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="/fragment.kt" timestamp="1615240418432">
         <mark key="[" line="0" column="0" />
@@ -187,10 +194,17 @@
         <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/java/time/format/DateTimeFormatterBuilder.java" timestamp="1615305611757" />
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" timestamp="1615237852836">
-        <mark key="]" line="109" column="0" />
-        <mark key="^" line="109" column="0" />
-        <mark key="." line="109" column="0" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" timestamp="1615315639474">
+        <mark key="'" line="131" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="108" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/values/strings.xml" timestamp="1615315590174">
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build/generated/sqldelight/code/CommonPassDb/org/commonsproject/commonpass/db/EvidenceSupportingFacts.kt" timestamp="1615237888896">
         <mark key="]" line="4" column="0" />
@@ -199,8 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="11" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/sqldelight/CoroutinesExtensions.kt" />
-      <jump line="75" column="6" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" />
       <jump line="13" column="33" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/MainActivity.kt" />
       <jump line="46" column="19" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.newrelic.agent.android/android-agent/5.28.1/8e8818e29d41480f10b716b5b8cf320f44c50d17/android-agent-5.28.1.jar!/com/newrelic/agent/android/NewRelic.class" />
@@ -299,6 +311,8 @@
       <jump line="61" column="27" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardFragment.kt" />
       <jump line="150" column="39" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
       <jump line="154" column="41" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
+      <jump line="118" column="0" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
+      <jump line="132" column="0" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -307,7 +321,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gRGF0ZVRpbWVGb3JtYXR0ZXJCdWlsZGVyKCkuYXBwZW5kVmFsdWUoQ2hyb25vRmllbGQuTU9OVEhfT0ZfWUVBUikK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5jb21tb25zcHJvamVjdC5jb21tb25wYXNzLm1vZGVscy5zd2FnZ2VyLlNVUFBPUlRJTkdfRkFDVF9BQ0NSRURJVEFUSU9OUwo=</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -340,44 +354,43 @@
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gRGF0ZVRpbWVGb3JtYXR0ZXJCdWlsZGVyKCkuYXBwZW5kVmFsdWUoQ2hyb25vRmllbGQuTU9OVEhfT0ZfWUVBUikK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5jb21tb25zcHJvamVjdC5jb21tb25wYXNzLm1vZGVscy5zd2FnZ2VyLlNVUFBPUlRJTkdfRkFDVF9BQ0NSRURJVEFUSU9OUwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>LocalDate.parse(it,
-                DateTimeFormatter.ISO_DATE)</text>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5jb21tb25zcHJvamVjdC5jb21tb25wYXNzLnJlcG9zLm51bWJlcgo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gRGF0ZUZvcm1hdC5mb3JtYXQoIk1NTSBkZCwgeXl5eSIsIGZvcm1hdHRlci5wYXJzZShpdCkhISkK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5jb21tb25zcHJvamVjdC5jb21tb25wYXNzLnJlcG9zLmFjY3JlZGl0YXRpb25zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGZvcm1hdHRlciA9IFNpbXBsZURhdGVGb3JtYXQoInl5eXktTU0tZGQiLCBMb2NhbGUuVVMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiXG4kewogICAgICAgICAgICAgICAgICAgIGlmIChwYXNzSW5mby5hY2NyZWRpdGF0aW9ucyA9PSBudWxsKSByZXNvdXJjZXMuZ2V0U3RyaW5nKFIuc3RyaW5nLmFjY3JlZGl0YXRpb25zX25vdF9wcm92aWRlZCkKICAgICAgICAgICAgICAgICAgICBlbHNlIHJlc291cmNlcy5nZXRTdHJpbmcoUi5zdHJpbmcuYWNjcmVkaXRhdGlvbnNfY29sb24sIHBhc3NJbmZvLmFjY3JlZGl0YXRpb25zKQogICAgICAgICAgICAgICAgICAgIH0iLA==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvdmVyCg==</text>
+        <text encoding="base64">dmFsIFBhc3NJbmZvQ29udGFpbmVyLmFjY3JlZGl0YXRpb25zOiBTdHJpbmc/CiAgICBnZXQoKSA9IGV2aWRlbmNlPy5zZWNvbmQ/LmZpbmQgeyBpdC5sYWJlbC5lcXVhbHMoU1VQUE9SVElOR19GQUNUX0FDQ1JFRElUQVRJT05TLCBpZ25vcmVDYXNlID0gdHJ1ZSkgfT8udmFsdWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QFNlcmlhbGl6YWJsZQo=</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYWNjcmVkaXRhdGlvbnNfY29sb24iPkFjY3JlZGl0YXRpb25zOiAlczwvc3RyaW5nPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcGFnZXJBZGFwdGVyOiBQYXNzQ2FyZFBhZ2VyQWRhcHRlcgo=</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYWNjcmVkaXRhdGlvbnNfbm90X3Byb3ZpZGVkIj5BY2NyZWRpdGF0aW9ucyBub3QgcHJvdmlkZWQ8L3N0cmluZz4K</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBwYWdlckFkYXB0ZXIgPSBQYXNzQ2FyZFBhZ2VyQWRhcHRlcih0aGlzLCBwYXNzZXMpCiAgICAgICAgICAgICAgICBwYXNzX3ZpZXdfcGFnZXIuYWRhcHRlciA9IHBhZ2VyQWRhcHRlcgoKICAgICAgICAgICAgICAgIFRhYkxheW91dE1lZGlhdG9yKHBhc3NfdGFiX2xheW91dCwgcGFzc192aWV3X3BhZ2VyKSB7IF8sIF8gLT4gfS5hdHRhY2goKQo=</text>
+        <text encoding="base64">Y29uc3QgdmFsIFNVUFBPUlRJTkdfRkFDVF9BQ0NSRURJVEFUSU9OUyA9ICJBY2NyZWRpdGF0aW9ucyIK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBwYXNzTGlzdFZpZXdNb2RlbC5vYnNlcnZlUGFzc2VzKCkK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAiXG4kewogICAgICAgICAgICAgICAgICAgIGlmIChwYXNzSW5mby5hY2NyZWRpdGF0aW9ucyA9PSBudWxsKSByZXNvdXJjZXMuZ2V0U3RyaW5nKFIuc3RyaW5nLmFjY3JlZGl0YXRpb25zX25vdF9wcm92aWRlZCkKICAgICAgICAgICAgICAgICAgICBlbHNlIHJlc291cmNlcy5nZXRTdHJpbmcoUi5zdHJpbmcuYWNjcmVkaXRhdGlvbnNfY29sb24sIHBhc3NJbmZvLmFjY3JlZGl0YXRpb25zKQogICAgICAgICAgICAgICAgICAgIH0i</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
