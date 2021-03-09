@@ -144,11 +144,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" timestamp="1615305473339">
-        <mark key="[" line="157" column="53" />
-        <mark key="]" line="157" column="72" />
-        <mark key="^" line="157" column="72" />
-        <mark key="." line="157" column="71" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" timestamp="1615306740112">
+        <mark key="[" line="156" column="0" />
+        <mark key="]" line="156" column="0" />
+        <mark key="." line="156" column="0" />
       </file>
       <file name="/fragment.kt" timestamp="1615240418432">
         <mark key="[" line="0" column="0" />
@@ -187,7 +186,7 @@
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/java/time/format/DateTimeFormatterBuilder.java" timestamp="1615305604098" />
+      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/java/time/format/DateTimeFormatterBuilder.java" timestamp="1615305611757" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" timestamp="1615237852836">
         <mark key="]" line="109" column="0" />
         <mark key="^" line="109" column="0" />
@@ -307,8 +306,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>.getLocalizedDateTimePattern(FormatStyle.FULL, )</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gRGF0ZVRpbWVGb3JtYXR0ZXJCdWlsZGVyKCkuYXBwZW5kVmFsdWUoQ2hyb25vRmllbGQuTU9OVEhfT0ZfWUVBUikK</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -340,45 +339,45 @@
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>LocalDate.parse(it,
-                DateTimeFormatter.ISO_DATE)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gRGF0ZVRpbWVGb3JtYXR0ZXJCdWlsZGVyKCkuYXBwZW5kVmFsdWUoQ2hyb25vRmllbGQuTU9OVEhfT0ZfWUVBUikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gRGF0ZUZvcm1hdC5mb3JtYXQoIk1NTSBkZCwgeXl5eSIsIGZvcm1hdHRlci5wYXJzZShpdCkhISkK</text>
+      <register name="2" type="4">
+        <text>LocalDate.parse(it,
+                DateTimeFormatter.ISO_DATE)</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGZvcm1hdHRlciA9IFNpbXBsZURhdGVGb3JtYXQoInl5eXktTU0tZGQiLCBMb2NhbGUuVVMpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gRGF0ZUZvcm1hdC5mb3JtYXQoIk1NTSBkZCwgeXl5eSIsIGZvcm1hdHRlci5wYXJzZShpdCkhISkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvdmVyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGZvcm1hdHRlciA9IFNpbXBsZURhdGVGb3JtYXQoInl5eXktTU0tZGQiLCBMb2NhbGUuVVMpCg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QFNlcmlhbGl6YWJsZQo=</text>
+        <text encoding="base64">ICAgICAgICBvdmVyCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcGFnZXJBZGFwdGVyOiBQYXNzQ2FyZFBhZ2VyQWRhcHRlcgo=</text>
+        <text encoding="base64">QFNlcmlhbGl6YWJsZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBwYWdlckFkYXB0ZXIgPSBQYXNzQ2FyZFBhZ2VyQWRhcHRlcih0aGlzLCBwYXNzZXMpCiAgICAgICAgICAgICAgICBwYXNzX3ZpZXdfcGFnZXIuYWRhcHRlciA9IHBhZ2VyQWRhcHRlcgoKICAgICAgICAgICAgICAgIFRhYkxheW91dE1lZGlhdG9yKHBhc3NfdGFiX2xheW91dCwgcGFzc192aWV3X3BhZ2VyKSB7IF8sIF8gLT4gfS5hdHRhY2goKQo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcGFnZXJBZGFwdGVyOiBQYXNzQ2FyZFBhZ2VyQWRhcHRlcgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBwYXNzTGlzdFZpZXdNb2RlbC5vYnNlcnZlUGFzc2VzKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbCBwYWdlckFkYXB0ZXIgPSBQYXNzQ2FyZFBhZ2VyQWRhcHRlcih0aGlzLCBwYXNzZXMpCiAgICAgICAgICAgICAgICBwYXNzX3ZpZXdfcGFnZXIuYWRhcHRlciA9IHBhZ2VyQWRhcHRlcgoKICAgICAgICAgICAgICAgIFRhYkxheW91dE1lZGlhdG9yKHBhc3NfdGFiX2xheW91dCwgcGFzc192aWV3X3BhZ2VyKSB7IF8sIF8gLT4gfS5hdHRhY2goKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vbkNsZWFyZWQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBwYXNzTGlzdFZpZXdNb2RlbC5vYnNlcnZlUGFzc2VzKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
