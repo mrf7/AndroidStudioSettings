@@ -158,6 +158,18 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="8" />
       </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/build.gradle.kts" timestamp="1615412186156">
+        <mark key="[" line="213" column="43" />
+        <mark key="]" line="214" column="38" />
+        <mark key="^" line="214" column="38" />
+        <mark key="." line="214" column="37" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" timestamp="1615412356533">
+        <mark key="'" line="101" column="34" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/DataServicesFragment.kt" timestamp="1615227299965">
         <mark key="'" line="93" column="34" />
         <mark key="[" line="93" column="50" />
@@ -165,29 +177,17 @@
         <mark key="^" line="94" column="32" />
         <mark key="." line="93" column="50" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/code_entry_fragment.xml" timestamp="1614959320593">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="107" column="31" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/oss/OTPView/otpView/src/main/java/com/kevinschildhorn/otpview/OTPView.kt" timestamp="1614958855941">
-        <mark key="[" line="180" column="0" />
-        <mark key="]" line="180" column="0" />
-        <mark key="." line="180" column="0" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.KevinSchildhorn/OTPView/0.1.6/d456749bc244aa70d85cd4337d9b834bf8d7f7e4/OTPView-0.1.6-sources.jar!/com/kevinschildhorn/otpview/OTPView.kt" timestamp="1614891904544">
-        <mark key="'" line="442" column="0" />
-        <mark key="[" line="168" column="48" />
-        <mark key="]" line="169" column="8" />
-        <mark key="^" line="169" column="8" />
-        <mark key="." line="169" column="7" />
-      </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/java/time/format/SignStyle.java" timestamp="1615305581001" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardFragment.kt" timestamp="1615301994009">
         <mark key="[" line="103" column="0" />
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/buildSrc/src/main/java/Dependencies.kt" timestamp="1615412345662">
+        <mark key="[" line="125" column="67" />
+        <mark key="]" line="125" column="67" />
+        <mark key="^" line="125" column="67" />
+        <mark key="." line="125" column="66" />
       </file>
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/java/time/format/DateTimeFormatterBuilder.java" timestamp="1615305611757" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" timestamp="1615315639474">
@@ -208,20 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" />
-      <jump line="13" column="33" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/MainActivity.kt" />
-      <jump line="46" column="19" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.newrelic.agent.android/android-agent/5.28.1/8e8818e29d41480f10b716b5b8cf320f44c50d17/android-agent-5.28.1.jar!/com/newrelic/agent/android/NewRelic.class" />
-      <jump line="39" column="17" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/MainActivity.kt" />
-      <jump line="462" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.newrelic.agent.android/android-agent/5.28.1/8e8818e29d41480f10b716b5b8cf320f44c50d17/android-agent-5.28.1.jar!/com/newrelic/agent/android/NewRelic.class" />
-      <jump line="70" column="26" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
-      <jump line="47" column="16" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
-      <jump line="2" column="33" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/Analytics.kt" />
-      <jump line="70" column="14" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/Koin.kt" />
-      <jump line="29" column="37" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/iosMain/kotlin/org/commonsproject/commonpass/viewmodels/NativeCodeEntryViewModel.kt" />
-      <jump line="149" column="4" filename="$USER_HOME$/repos/CommonPass-mobile/shared/build.gradle.kts" />
-      <jump line="66" column="134" filename="$USER_HOME$/.gradle/caches/6.6.1/gradle-kotlin-dsl-accessors/2vo3bcpdqweiqtywnl8cqeu7z/cache/src/org/gradle/kotlin/dsl/Accessorsdh9tda8p8stj476a1zly6kg6l.kt" />
-      <jump line="8" column="27" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/AnalyticsHelper.kt" />
-      <jump line="22" column="31" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/CodeEntryViewModel.kt" />
       <jump line="10" column="62" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/AnalyticsHelperImpl.kt" />
       <jump line="32" column="31" filename="$USER_HOME$/repos/CommonPass-mobile/android/build.gradle.kts" />
       <jump line="191" column="19" filename="$USER_HOME$/repos/CommonPass-mobile/android/build.gradle.kts" />
@@ -308,6 +294,20 @@
       <jump line="154" column="41" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
       <jump line="118" column="0" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
       <jump line="132" column="0" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" />
+      <jump line="60" column="43" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" />
+      <jump line="79" column="21" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" />
+      <jump line="84" column="35" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" />
+      <jump line="223" column="42" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" />
+      <jump line="44" column="12" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" />
+      <jump line="86" column="25" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" />
+      <jump line="297" column="0" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" />
+      <jump line="99" column="57" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" />
+      <jump line="100" column="38" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" />
+      <jump line="142" column="7" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/listenablefuture/1.0/be1234988ac73d61e52e35a912169b06020caa7/listenablefuture-1.0-sources.jar!/com/google/common/util/concurrent/ListenableFuture.java" />
+      <jump line="103" column="54" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" />
+      <jump line="108" column="26" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" />
+      <jump line="101" column="34" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -316,7 +316,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5jb21tb25zcHJvamVjdC5jb21tb25wYXNzLm1vZGVscy5zd2FnZ2VyLlNVUFBPUlRJTkdfRkFDVF9BQ0NSRURJVEFUSU9OUwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -334,7 +334,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>.getLocalizedDateTimePattern(FormatStyle.FULL, )</text>
+        <text>jdk8</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -342,50 +342,50 @@
       <register name="/" type="4">
         <text>pin_title</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOnJpcHBsZUNvbG9yPSJAY29sb3IvQ29tbW9uUGFzc0J1dHRvblJpcHBsZSIK</text>
+      <register name="0" type="4">
+        <text>org.jetbrains.kotlinx:kotlinx-coroutines-test:${Versions.coroutines}</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5jb21tb25zcHJvamVjdC5jb21tb25wYXNzLm1vZGVscy5zd2FnZ2VyLlNVUFBPUlRJTkdfRkFDVF9BQ0NSRURJVEFUSU9OUwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5jb21tb25zcHJvamVjdC5jb21tb25wYXNzLnJlcG9zLm51bWJlcgo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5jb21tb25zcHJvamVjdC5jb21tb25wYXNzLm1vZGVscy5zd2FnZ2VyLlNVUFBPUlRJTkdfRkFDVF9BQ0NSRURJVEFUSU9OUwo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5jb21tb25zcHJvamVjdC5jb21tb25wYXNzLnJlcG9zLmFjY3JlZGl0YXRpb25zCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5jb21tb25zcHJvamVjdC5jb21tb25wYXNzLnJlcG9zLm51bWJlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiXG4kewogICAgICAgICAgICAgICAgICAgIGlmIChwYXNzSW5mby5hY2NyZWRpdGF0aW9ucyA9PSBudWxsKSByZXNvdXJjZXMuZ2V0U3RyaW5nKFIuc3RyaW5nLmFjY3JlZGl0YXRpb25zX25vdF9wcm92aWRlZCkKICAgICAgICAgICAgICAgICAgICBlbHNlIHJlc291cmNlcy5nZXRTdHJpbmcoUi5zdHJpbmcuYWNjcmVkaXRhdGlvbnNfY29sb24sIHBhc3NJbmZvLmFjY3JlZGl0YXRpb25zKQogICAgICAgICAgICAgICAgICAgIH0iLA==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5jb21tb25zcHJvamVjdC5jb21tb25wYXNzLnJlcG9zLmFjY3JlZGl0YXRpb25zCg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFsIFBhc3NJbmZvQ29udGFpbmVyLmFjY3JlZGl0YXRpb25zOiBTdHJpbmc/CiAgICBnZXQoKSA9IGV2aWRlbmNlPy5zZWNvbmQ/LmZpbmQgeyBpdC5sYWJlbC5lcXVhbHMoU1VQUE9SVElOR19GQUNUX0FDQ1JFRElUQVRJT05TLCBpZ25vcmVDYXNlID0gdHJ1ZSkgfT8udmFsdWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiXG4kewogICAgICAgICAgICAgICAgICAgIGlmIChwYXNzSW5mby5hY2NyZWRpdGF0aW9ucyA9PSBudWxsKSByZXNvdXJjZXMuZ2V0U3RyaW5nKFIuc3RyaW5nLmFjY3JlZGl0YXRpb25zX25vdF9wcm92aWRlZCkKICAgICAgICAgICAgICAgICAgICBlbHNlIHJlc291cmNlcy5nZXRTdHJpbmcoUi5zdHJpbmcuYWNjcmVkaXRhdGlvbnNfY29sb24sIHBhc3NJbmZvLmFjY3JlZGl0YXRpb25zKQogICAgICAgICAgICAgICAgICAgIH0iLA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYWNjcmVkaXRhdGlvbnNfY29sb24iPkFjY3JlZGl0YXRpb25zOiAlczwvc3RyaW5nPgo=</text>
+        <text encoding="base64">dmFsIFBhc3NJbmZvQ29udGFpbmVyLmFjY3JlZGl0YXRpb25zOiBTdHJpbmc/CiAgICBnZXQoKSA9IGV2aWRlbmNlPy5zZWNvbmQ/LmZpbmQgeyBpdC5sYWJlbC5lcXVhbHMoU1VQUE9SVElOR19GQUNUX0FDQ1JFRElUQVRJT05TLCBpZ25vcmVDYXNlID0gdHJ1ZSkgfT8udmFsdWUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYWNjcmVkaXRhdGlvbnNfbm90X3Byb3ZpZGVkIj5BY2NyZWRpdGF0aW9ucyBub3QgcHJvdmlkZWQ8L3N0cmluZz4K</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYWNjcmVkaXRhdGlvbnNfY29sb24iPkFjY3JlZGl0YXRpb25zOiAlczwvc3RyaW5nPgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgdmFsIFNVUFBPUlRJTkdfRkFDVF9BQ0NSRURJVEFUSU9OUyA9ICJBY2NyZWRpdGF0aW9ucyIK</text>
+        <text encoding="base64">ICAgIDxzdHJpbmcgbmFtZT0iYWNjcmVkaXRhdGlvbnNfbm90X3Byb3ZpZGVkIj5BY2NyZWRpdGF0aW9ucyBub3QgcHJvdmlkZWQ8L3N0cmluZz4K</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAiXG4kewogICAgICAgICAgICAgICAgICAgIGlmIChwYXNzSW5mby5hY2NyZWRpdGF0aW9ucyA9PSBudWxsKSByZXNvdXJjZXMuZ2V0U3RyaW5nKFIuc3RyaW5nLmFjY3JlZGl0YXRpb25zX25vdF9wcm92aWRlZCkKICAgICAgICAgICAgICAgICAgICBlbHNlIHJlc291cmNlcy5nZXRTdHJpbmcoUi5zdHJpbmcuYWNjcmVkaXRhdGlvbnNfY29sb24sIHBhc3NJbmZvLmFjY3JlZGl0YXRpb25zKQogICAgICAgICAgICAgICAgICAgIH0i</text>
+      <register name="9" type="2">
+        <text encoding="base64">Y29uc3QgdmFsIFNVUFBPUlRJTkdfRkFDVF9BQ0NSRURJVEFUSU9OUyA9ICJBY2NyZWRpdGF0aW9ucyIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
