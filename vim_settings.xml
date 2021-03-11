@@ -164,8 +164,8 @@
         <mark key="^" line="214" column="38" />
         <mark key="." line="214" column="37" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" timestamp="1615414514696">
-        <mark key="'" line="277" column="42" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" timestamp="1615414582690">
+        <mark key="'" line="267" column="25" />
         <mark key="[" line="269" column="0" />
         <mark key="]" line="269" column="0" />
         <mark key="." line="269" column="0" />
@@ -212,7 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="59" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/SqliteMigrationTest.kt" />
       <jump line="19" column="23" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/SqliteMigrationTest.kt" />
       <jump line="89" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.sqldelight/runtime-jvm/1.4.4/4f48e097d985ba077e89cf484a1d3d0f62f75cb8/runtime-jvm-1.4.4-sources.jar!/commonMain/com/squareup/sqldelight/db/SqlDriver.kt" />
       <jump line="18" column="21" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/SqliteMigrationTest.kt" />
@@ -312,6 +311,7 @@
       <jump line="750" column="29" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.camera/camera-core/1.0.0-beta12/297f1985db1b83671508951bd11dc5c10c7532a7/camera-core-1.0.0-beta12-sources.jar!/androidx/camera/core/ImageAnalysis.java" />
       <jump line="230" column="37" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" />
       <jump line="276" column="42" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" />
+      <jump line="267" column="25" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
