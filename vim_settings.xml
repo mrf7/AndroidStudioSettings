@@ -139,6 +139,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/qr/barcodescanner/statemachine/BarcodeScannerStateMachine.kt" timestamp="1615489107732">
+        <mark key="[" line="21" column="85" />
+      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" timestamp="1615414582690">
         <mark key="'" line="264" column="25" />
         <mark key="[" line="266" column="0" />
@@ -155,11 +158,6 @@
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1615228702861">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" timestamp="1615315632009">
         <mark key="^" line="36" column="99" />
@@ -203,9 +201,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/qr/barcodescanner/VerificationRequestPayload.kt" timestamp="1615488826849">
+        <mark key="'" line="12" column="37" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="23" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/SqliteMigrationTest.kt" />
       <jump line="89" column="8" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.sqldelight/runtime-jvm/1.4.4/4f48e097d985ba077e89cf484a1d3d0f62f75cb8/runtime-jvm-1.4.4-sources.jar!/commonMain/com/squareup/sqldelight/db/SqlDriver.kt" />
       <jump line="18" column="21" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/SqliteMigrationTest.kt" />
       <jump line="15" column="26" filename="$USER_HOME$/repos/CommonPass-mobile/shared/build/generated/sqldelight/code/CommonPassDb/org/commonsproject/commonpass/db/CommonPassDb.kt" />
@@ -305,6 +305,7 @@
       <jump line="230" column="37" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" />
       <jump line="276" column="42" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" />
       <jump line="267" column="25" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" />
+      <jump line="12" column="37" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/qr/barcodescanner/VerificationRequestPayload.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
