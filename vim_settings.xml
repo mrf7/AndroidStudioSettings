@@ -167,6 +167,11 @@
         <mark key="^" line="7" column="8" />
         <mark key="." line="7" column="7" />
       </file>
+      <file name="/Dummy.txt" timestamp="1615578644099">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" timestamp="1615315632009">
         <mark key="^" line="36" column="99" />
       </file>
@@ -203,11 +208,6 @@
         <mark key="[" line="123" column="0" />
         <mark key="]" line="123" column="0" />
         <mark key="." line="123" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build/generated/sqldelight/code/CommonPassDb/org/commonsproject/commonpass/db/EvidenceSupportingFacts.kt" timestamp="1615237888896">
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/qr/barcodescanner/VerificationRequestPayload.kt" timestamp="1615488826849">
         <mark key="'" line="12" column="37" />
