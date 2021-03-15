@@ -139,6 +139,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/316b11b479a33a3b478ae3183d0764fd/jetified-zxing-android-embedded-4.1.0/res/values/values.xml" timestamp="1615831617205" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/qr/barcodescanner/statemachine/BarcodeScannerStateMachine.kt" timestamp="1615573478238">
         <mark key="'" line="21" column="58" />
         <mark key="[" line="21" column="85" />
@@ -153,13 +154,17 @@
       <file name="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6d87ba3829f155ce03f76330674cf685/jetified-play-services-mlkit-barcode-scanning-16.1.4/jars/classes.jar!/com/google/mlkit/vision/barcode/Barcode.class" timestamp="1615413689756">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/data_services_fragment.xml" timestamp="1615831844344">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="49" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/CodeEntryFragment.kt" timestamp="1615820786281">
         <mark key="[" line="125" column="150" />
         <mark key="]" line="125" column="158" />
         <mark key="^" line="125" column="158" />
         <mark key="." line="125" column="157" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/java/time/format/DateTimeFormatterBuilder.java" timestamp="1615305611757" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" timestamp="1615315639474">
         <mark key="'" line="134" column="0" />
         <mark key="[" line="22" column="0" />
@@ -174,24 +179,26 @@
         <mark key="." line="7" column="7" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.KevinSchildhorn/OTPView/0.1.7/9ca7c12fbfac048ef5a196fdfd3a14cc4f466c18/OTPView-0.1.7-sources.jar!/com/kevinschildhorn/otpview/OTPView.kt" timestamp="1615582234698" />
-      <file name="/Dummy.txt" timestamp="1615826581162">
+      <file name="/Dummy.txt" timestamp="1615829539556">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" timestamp="1615315632009">
-        <mark key="^" line="36" column="99" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/SwaggerHelpers.kt" timestamp="1615315579698">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/build.gradle.kts" timestamp="1615412186156">
         <mark key="[" line="213" column="43" />
         <mark key="]" line="214" column="38" />
         <mark key="^" line="214" column="38" />
         <mark key="." line="214" column="37" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/DataServicesFragment.kt" timestamp="1615831667614">
+        <mark key="'" line="93" column="34" />
+        <mark key="[" line="60" column="74" />
+        <mark key="]" line="60" column="91" />
+        <mark key="^" line="60" column="91" />
+        <mark key="." line="60" column="90" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/values/styles.xml" timestamp="1615831622058">
+        <mark key="'" line="35" column="37" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.KevinSchildhorn/OTPView/0.1.6/d456749bc244aa70d85cd4337d9b834bf8d7f7e4/OTPView-0.1.6-sources.jar!/com/kevinschildhorn/otpview/OTPView.kt" timestamp="1615579647227">
         <mark key="'" line="442" column="0" />
@@ -200,17 +207,15 @@
         <mark key="^" line="169" column="8" />
         <mark key="." line="169" column="7" />
       </file>
-      <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/java/time/format/SignStyle.java" timestamp="1615305581001" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/pass_card_front.xml" timestamp="1615831024553">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="49" />
+      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/AndroidManifest.xml" timestamp="1615579540433">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="^" line="18" column="12" />
         <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardFragment.kt" timestamp="1615301994009">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/buildSrc/src/main/java/Dependencies.kt" timestamp="1615829323471">
         <mark key="[" line="34" column="19" />
@@ -228,7 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="26" filename="$USER_HOME$/repos/CommonPass-mobile/shared/build/generated/sqldelight/code/CommonPassDb/org/commonsproject/commonpass/db/CommonPassDb.kt" />
       <jump line="7" column="28" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/SqliteMigrationTest.kt" />
       <jump line="24" column="31" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/SqliteMigrationTest.kt" />
       <jump line="20" column="29" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/SqliteMigrationTest.kt" />
@@ -328,6 +332,7 @@
       <jump line="12" column="37" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/qr/barcodescanner/VerificationRequestPayload.kt" />
       <jump line="7" column="8" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/qr/barcodescanner/statemachine/handler/ScannedBarcodeHandler.kt" />
       <jump line="21" column="58" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/qr/barcodescanner/statemachine/BarcodeScannerStateMachine.kt" />
+      <jump line="35" column="37" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/values/styles.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -335,8 +340,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text>Make button move with keyboar</text>
+      <register name="&quot;" type="4">
+        <text>CommonPassWhite</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -354,7 +359,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>jdk8</text>
+        <text>CommonPassWhite</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -362,8 +367,8 @@
       <register name="/" type="4">
         <text>pin_title</text>
       </register>
-      <register name="0" type="4">
-        <text>org.jetbrains.kotlinx:kotlinx-coroutines-test:${Versions.coroutines}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGNvbG9yL3p4aW5nX3RyYW5zcGFyZW50Igo=</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
