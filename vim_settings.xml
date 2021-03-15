@@ -148,12 +148,12 @@
         <mark key="'" line="21" column="58" />
         <mark key="[" line="21" column="85" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/DataServicesFragment.kt" timestamp="1615834917160">
-        <mark key="'" line="167" column="8" />
-        <mark key="[" line="167" column="30" />
-        <mark key="]" line="167" column="47" />
-        <mark key="." line="167" column="46" />
-        <mark key="^" line="167" column="47" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/DataServicesFragment.kt" timestamp="1615836302169">
+        <mark key="'" line="168" column="8" />
+        <mark key="[" line="165" column="0" />
+        <mark key="]" line="165" column="23" />
+        <mark key="." line="165" column="0" />
+        <mark key="^" line="168" column="47" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/values/styles.xml" timestamp="1615831622058">
         <mark key="'" line="35" column="37" />
@@ -186,11 +186,11 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="49" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/Platform.kt" timestamp="1615834153967">
-        <mark key="[" line="16" column="69" />
-        <mark key="]" line="16" column="71" />
-        <mark key="^" line="16" column="71" />
-        <mark key="." line="16" column="70" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/Platform.kt" timestamp="1615836534622">
+        <mark key="[" line="18" column="37" />
+        <mark key="]" line="18" column="36" />
+        <mark key="^" line="18" column="36" />
+        <mark key="." line="18" column="35" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/AndroidManifest.xml" timestamp="1615579540433">
         <mark key="[" line="19" column="0" />
@@ -331,8 +331,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>parse</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBTdXBwcmVzcygidW51c2VkIikK</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -359,7 +359,7 @@
         <text>pin_title</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6YmFja2dyb3VuZD0iQGNvbG9yL3p4aW5nX3RyYW5zcGFyZW50Igo=</text>
+        <text encoding="base64">ICAgIEBTdXBwcmVzcygidW51c2VkIikK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
