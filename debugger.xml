@@ -155,6 +155,17 @@
     <CustomRenderers VERSION="8">
       <Renderer ID="CompoundTypeRenderer">
         <option name="ENABLED" value="true" />
+        <option name="QUALIFIED_NAME" value="org.commonsproject.commonpass.repos.PassInfoContainer" />
+        <Renderer ID="EnumerationChildrenRenderer" role="children">
+          <option name="QUALIFIED_NAME" value="org.commonsproject.commonpass.repos.PassInfoContainer" />
+          <option name="AppendDefault" value="true" />
+          <ChildrenExpression Name="">
+            <TextWithImports text="this.originalTestDate&#13;import org.commonsproject.commonpass.repos.originalTestDate&#13;Kotlin" type="expression" />
+          </ChildrenExpression>
+        </Renderer>
+      </Renderer>
+      <Renderer ID="CompoundTypeRenderer">
+        <option name="ENABLED" value="true" />
         <option name="QUALIFIED_NAME" value="com.lutron.uicomponents.viewmodels.TimeEditorModel" />
         <Renderer ID="EnumerationChildrenRenderer" role="children">
           <option name="QUALIFIED_NAME" value="com.lutron.uicomponents.viewmodels.TimeEditorModel" />
@@ -271,11 +282,6 @@
       <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
     </general>
     <debuggers>
-      <debugger id="kotlin_debugger">
-        <configuration>
-          <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
-        </configuration>
-      </debugger>
       <debugger id="ObjectiveC">
         <configuration>
           <option name="VALUES_FILTER_ENABLED" value="false" />
