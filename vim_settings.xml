@@ -174,12 +174,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" timestamp="1615996356978">
-        <mark key="'" line="136" column="60" />
-        <mark key="[" line="136" column="15" />
-        <mark key="]" line="136" column="20" />
-        <mark key="." line="136" column="19" />
-        <mark key="^" line="136" column="20" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" timestamp="1615996539681">
+        <mark key="'" line="149" column="60" />
+        <mark key="[" line="241" column="20" />
+        <mark key="]" line="241" column="24" />
+        <mark key="." line="241" column="23" />
+        <mark key="^" line="241" column="24" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/DataServicesFragment.kt" timestamp="1615921571355">
         <mark key="'" line="168" column="8" />
@@ -323,7 +323,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>Value</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -341,7 +341,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>Value</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
