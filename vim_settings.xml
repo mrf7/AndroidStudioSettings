@@ -146,21 +146,10 @@
         <mark key="." line="6" column="34" />
         <mark key="^" line="6" column="35" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/DataServicesViewModel.kt" timestamp="1615903459993">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="53" column="34" />
-        <mark key="^" line="53" column="34" />
-        <mark key="." line="53" column="33" />
-      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/DateHelper.kt" timestamp="1616015355580" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/java/time/ZoneOffset.java" timestamp="1616010576062" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/java/time/format/DateTimeFormatterBuilder.java" timestamp="1616075890255" />
       <file name="$USER_HOME$/Library/Android/sdk/sources/android-29/java/time/ZonedDateTime.java" timestamp="1616014524083" />
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/iosMain/kotlin/org/commonsproject/commonpass/viewmodels/NativeDataServicesViewModel.kt" timestamp="1615903480861">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1616015373399">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -186,12 +175,6 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="36" column="22" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/ios2/CommonPassIOS/ViewControllers/DataServicesViewController.swift" timestamp="1615906753242">
-        <mark key="[" line="81" column="42" />
-        <mark key="]" line="81" column="42" />
-        <mark key="." line="81" column="41" />
-        <mark key="^" line="81" column="42" />
-      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/Platform.kt" timestamp="1615992553728">
         <mark key="[" line="16" column="69" />
         <mark key="]" line="16" column="69" />
@@ -206,6 +189,15 @@
         <mark key="." line="18" column="67" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/CHDSError.kt" timestamp="1616075053767" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/buildSrc/src/main/java/Dependencies.kt" timestamp="1616080582199">
+        <mark key="[" line="34" column="19" />
+        <mark key="]" line="34" column="20" />
+        <mark key="^" line="34" column="20" />
+        <mark key="." line="34" column="19" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/secrets.properties" timestamp="1616080766942">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/iosMain/kotlin/org/commonsproject/commonpass/Date.kt" timestamp="1616075098237" />
       <file name="/fragment.java" timestamp="1616013252182">
         <mark key="[" line="0" column="0" />
