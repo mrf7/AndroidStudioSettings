@@ -145,7 +145,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" timestamp="1616437211404">
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" timestamp="1616439341909">
         <mark key="a" line="192" column="6" />
         <mark key="'" line="195" column="6" />
         <mark key="[" line="133" column="5" />
@@ -167,6 +167,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/CustomBarcodeEncoder.kt" timestamp="1616439439153" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/buildSrc/src/main/java/Dependencies.kt" timestamp="1616080582199">
         <mark key="[" line="34" column="19" />
         <mark key="]" line="34" column="20" />
