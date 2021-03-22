@@ -191,6 +191,11 @@
         <mark key="^" line="60" column="12" />
         <mark key="." line="60" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/ios2/Podfile" timestamp="1616435640374">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1616013252182">
         <mark key="[" line="0" column="0" />
       </file>
@@ -303,8 +308,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>ervicesViewModel</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwb2QgJ0pXVERlY29kZScK</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -336,33 +341,36 @@
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>lazy {
-        requireActivity().getViewModel()
-    }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBwb2QgJ0pXVERlY29kZScK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text>Force us locale in error screen also</text>
+      <register name="2" type="4">
+        <text>lazy {
+        requireActivity().getViewModel()
+    }</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxhYmJyZXZpYXRlZCBtb250aD4gPGRheT4gPHRpbWU+PEFNL1BNPgo=</text>
+        <text>Force us locale in error screen also</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyA8YWJicmV2aWF0ZWQgbW9udGg+IDxkYXk+IDx0aW1lPjxBTS9QTT4KICAgICAgICB2YWwgZGF5VGltZUZvcm1hdHRlciA9IERhdGVUaW1lRm9ybWF0dGVyQnVpbGRlcigpCiAgICAgICAgICAgIC5hcHBlbmRUZXh0KENocm9ub0ZpZWxkLk1PTlRIX09GX1lFQVIsIFRleHRTdHlsZS5TSE9SVCkKICAgICAgICAgICAgLmFwcGVuZExpdGVyYWwoJyAnKQogICAgICAgICAgICAuYXBwZW5kVmFsdWUoQ2hyb25vRmllbGQuREFZX09GX01PTlRIKQogICAgICAgICAgICAuYXBwZW5kTGl0ZXJhbCgiLCAiKQogICAgICAgICAgICAuYXBwZW5kVmFsdWUoQ2hyb25vRmllbGQuQ0xPQ0tfSE9VUl9PRl9BTVBNKQogICAgICAgICAgICAuYXBwZW5kTGl0ZXJhbCgiOiIpCiAgICAgICAgICAgIC5hcHBlbmRWYWx1ZShDaHJvbm9GaWVsZC5NSU5VVEVfT0ZfSE9VUikKICAgICAgICAgICAgLmFwcGVuZFRleHQoQ2hyb25vRmllbGQuQU1QTV9PRl9EQVksIFRleHRTdHlsZS5GVUxMKQogICAgICAgICAgICAudG9Gb3JtYXR0ZXIoTG9jYWxlLlVTKQo=</text>
+        <text encoding="base64">ICAgIDxhYmJyZXZpYXRlZCBtb250aD4gPGRheT4gPHRpbWU+PEFNL1BNPgo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyA8YWJicmV2aWF0ZWQgbW9udGg+IDxkYXk+IDx0aW1lPjxBTS9QTT4KICAgICAgICB2YWwgZGF5VGltZUZvcm1hdHRlciA9IERhdGVUaW1lRm9ybWF0dGVyQnVpbGRlcigpCiAgICAgICAgICAgIC5hcHBlbmRUZXh0KENocm9ub0ZpZWxkLk1PTlRIX09GX1lFQVIsIFRleHRTdHlsZS5TSE9SVCkKICAgICAgICAgICAgLmFwcGVuZExpdGVyYWwoJyAnKQogICAgICAgICAgICAuYXBwZW5kVmFsdWUoQ2hyb25vRmllbGQuREFZX09GX01PTlRIKQogICAgICAgICAgICAuYXBwZW5kTGl0ZXJhbCgiLCAiKQogICAgICAgICAgICAuYXBwZW5kVmFsdWUoQ2hyb25vRmllbGQuQ0xPQ0tfSE9VUl9PRl9BTVBNKQogICAgICAgICAgICAuYXBwZW5kTGl0ZXJhbCgiOiIpCiAgICAgICAgICAgIC5hcHBlbmRWYWx1ZShDaHJvbm9GaWVsZC5NSU5VVEVfT0ZfSE9VUikKICAgICAgICAgICAgLmFwcGVuZFRleHQoQ2hyb25vRmllbGQuQU1QTV9PRl9EQVksIFRleHRTdHlsZS5GVUxMKQogICAgICAgICAgICAudG9Gb3JtYXR0ZXIoTG9jYWxlLlVTKQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHZhbCBmPSBqYXZhLnRleHQuRGF0ZUZvcm1hdC5USU1FWk9ORV9GSUVMRAo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>ateTimeFormatterWithZone.format(
                     LocalDateTime.parse(
                         passInfo.originalTestDate,
@@ -370,17 +378,14 @@
                     )
                 )</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0RXZpZGVuY2VTdHJpbmdUb01pbGxpcygpCg==</text>
-      </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzSW5mby50ZXN0VGltZU1pbGxpcwo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0RXZpZGVuY2VTdHJpbmdUb01pbGxpcygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudGV4dC5mb3JtYXQuRGF0ZUZvcm1hdAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzSW5mby50ZXN0VGltZU1pbGxpcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
