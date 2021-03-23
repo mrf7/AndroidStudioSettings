@@ -145,12 +145,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" timestamp="1616513993508">
-        <mark key="'" line="272" column="12" />
-        <mark key="[" line="255" column="0" />
-        <mark key="]" line="255" column="0" />
-        <mark key="." line="255" column="0" />
-        <mark key="^" line="275" column="46" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" timestamp="1616521642707">
+        <mark key="'" line="273" column="12" />
+        <mark key="[" line="252" column="17" />
+        <mark key="]" line="252" column="18" />
+        <mark key="." line="252" column="515" />
+        <mark key="^" line="252" column="18" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/.git/info/exclude" timestamp="1616437746038">
         <mark key="[" line="5" column="4" />
@@ -336,7 +336,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>@+id/guideline_left</text>
+        <text>a</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -354,7 +354,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>@+id/guideline_left</text>
+        <text>a</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
