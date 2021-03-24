@@ -179,18 +179,18 @@
         <mark key="^" line="149" column="36" />
         <mark key="." line="149" column="35" />
       </file>
+      <file name="/Dummy.txt" timestamp="1616610178881">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" timestamp="1616600334636">
         <mark key="'" line="185" column="38" />
         <mark key="[" line="186" column="11" />
         <mark key="]" line="186" column="24" />
         <mark key="." line="186" column="23" />
         <mark key="^" line="186" column="24" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/.git/info/exclude" timestamp="1616437746038">
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="6" column="10" />
-        <mark key="." line="6" column="9" />
-        <mark key="^" line="6" column="10" />
       </file>
       <file name="/fragment.kt" timestamp="1616597302640">
         <mark key="[" line="0" column="0" />
@@ -320,7 +320,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMdXRMb2cuZChMT0dHRVJfVEFHLCA6ICIpCg==</text>
+        <text>Review comment</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -353,31 +353,31 @@
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMdXRMb2cuZChMT0dHRVJfVEFHLCA6ICIpCg==</text>
+        <text>Review comment</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLndpdGhUYWcoIk1SRiIpLmQgeyAic3RyaW5nIGxlbmd0aDogJHtzdHJpbmcubGVuZ3RofSIgfQo=</text>
+        <text encoding="base64">ICAgICAgICBMdXRMb2cuZChMT0dHRVJfVEFHLCA6ICIpCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzc19xcl9jb2RlLnNldEltYWdlQml0bWFwKHJlcy5nZXRPck51bGwoKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLndpdGhUYWcoIk1SRiIpLmQgeyAic3RyaW5nIGxlbmd0aDogJHtzdHJpbmcubGVuZ3RofSIgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0aW9uID0gcmVzLmV4Y2VwdGlvbk9yTnVsbCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzc19xcl9jb2RlLnNldEltYWdlQml0bWFwKHJlcy5nZXRPck51bGwoKSkK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLndpdGhUYWcoIk1SRiIpLmUoZXhjZXB0aW9uKSB7ICJnb3QgZXg6IiB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0aW9uID0gcmVzLmV4Y2VwdGlvbk9yTnVsbCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiXG4iICsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLndpdGhUYWcoIk1SRiIpLmUoZXhjZXB0aW9uKSB7ICJnb3QgZXg6IiB9Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiXG4iICsK</text>
