@@ -139,19 +139,51 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1616610178881">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" timestamp="1616600334636">
+        <mark key="'" line="185" column="38" />
+        <mark key="[" line="186" column="11" />
+        <mark key="]" line="186" column="24" />
+        <mark key="." line="186" column="23" />
+        <mark key="^" line="186" column="24" />
+      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/PassListViewModel.kt" timestamp="1616511620000">
         <mark key="[" line="55" column="62" />
         <mark key="]" line="55" column="65" />
         <mark key="." line="55" column="64" />
         <mark key="^" line="55" column="65" />
       </file>
+      <file name="/fragment.kt" timestamp="1616597302640">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/CodeEntryViewModel.kt" timestamp="1616508980885">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.4.0/392876e10bc1179c094f0b03cca80a79b8b338a7/core-3.4.0-sources.jar!/com/google/zxing/qrcode/encoder/Encoder.java" timestamp="1616601120364" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/DatabaseHelper.kt" timestamp="1616597905198">
         <mark key="[" line="81" column="34" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/CustomBarcodeEncoder.kt" timestamp="1616611341736">
+        <mark key="[" line="58" column="78" />
+        <mark key="]" line="58" column="78" />
+        <mark key="^" line="58" column="78" />
+        <mark key="." line="58" column="77" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/Platform.kt" timestamp="1616597176546">
+        <mark key="[" line="26" column="51" />
+        <mark key="]" line="26" column="51" />
+        <mark key="." line="26" column="51" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/PassDetail.sq" timestamp="1616598051018">
+        <mark key="[" line="23" column="148" />
+        <mark key="]" line="30" column="29" />
+        <mark key="^" line="30" column="29" />
+        <mark key="." line="30" column="28" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/Pass.kt" timestamp="1616597513237">
         <mark key="[" line="40" column="33" />
@@ -178,34 +210,6 @@
         <mark key="]" line="149" column="36" />
         <mark key="^" line="149" column="36" />
         <mark key="." line="149" column="35" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1616610178881">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" timestamp="1616600334636">
-        <mark key="'" line="185" column="38" />
-        <mark key="[" line="186" column="11" />
-        <mark key="]" line="186" column="24" />
-        <mark key="." line="186" column="23" />
-        <mark key="^" line="186" column="24" />
-      </file>
-      <file name="/fragment.kt" timestamp="1616597302640">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/DataServicesFragment.kt" timestamp="1616594933990" />
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/Platform.kt" timestamp="1616597176546">
-        <mark key="[" line="26" column="51" />
-        <mark key="]" line="26" column="51" />
-        <mark key="." line="26" column="51" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/PassDetail.sq" timestamp="1616598051018">
-        <mark key="[" line="23" column="148" />
-        <mark key="]" line="30" column="29" />
-        <mark key="^" line="30" column="29" />
-        <mark key="." line="30" column="28" />
       </file>
       <file name="/fragment.java" timestamp="1616601107453">
         <mark key="[" line="0" column="0" />
