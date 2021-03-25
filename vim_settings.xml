@@ -145,13 +145,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" timestamp="1616600334636">
-        <mark key="'" line="185" column="38" />
-        <mark key="[" line="186" column="11" />
-        <mark key="]" line="186" column="24" />
-        <mark key="." line="186" column="23" />
-        <mark key="^" line="186" column="24" />
-      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/PassListViewModel.kt" timestamp="1616511620000">
         <mark key="[" line="55" column="62" />
         <mark key="]" line="55" column="65" />
@@ -164,6 +157,9 @@
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/CodeEntryViewModel.kt" timestamp="1616508980885">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="27" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/androidTest/java/org/commonsproject/commonpass/android/LocaleDateFormattingTest.kt" timestamp="1616683390091">
+        <mark key="'" line="32" column="23" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/DatabaseHelper.kt" timestamp="1616597905198">
         <mark key="[" line="81" column="34" />
@@ -180,10 +176,9 @@
         <mark key="." line="26" column="51" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/PassDetail.sq" timestamp="1616598051018">
-        <mark key="[" line="23" column="148" />
-        <mark key="]" line="30" column="29" />
-        <mark key="^" line="30" column="29" />
-        <mark key="." line="30" column="28" />
+        <mark key="]" line="12" column="29" />
+        <mark key="^" line="12" column="29" />
+        <mark key="." line="12" column="28" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/Pass.kt" timestamp="1616597513237">
         <mark key="[" line="40" column="33" />
@@ -221,7 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="890" column="24" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.2.4/bfa66119813f2997ac526678b7ed354312c83fc/fragment-1.2.4-sources.jar!/androidx/fragment/app/Fragment.java" />
       <jump line="87" column="12" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
       <jump line="46" column="54" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/iosMain/kotlin/org/commonsproject/commonpass/viewmodels/NativeDataServicesViewModel.kt" />
       <jump line="107" column="16" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/onboarding/OnboardingFragment.kt" />
@@ -321,6 +315,7 @@
       <jump line="257" column="31" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
       <jump line="269" column="12" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
       <jump line="185" column="38" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
+      <jump line="32" column="23" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/androidTest/java/org/commonsproject/commonpass/android/LocaleDateFormattingTest.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
