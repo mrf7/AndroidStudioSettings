@@ -139,29 +139,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/3.sqm" timestamp="1616686976580">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="49" />
-        <mark key="^" line="0" column="49" />
-        <mark key="." line="0" column="48" />
-      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/fragment_qr_code.xml" timestamp="1616774815294">
         <mark key="[" line="9" column="25" />
         <mark key="]" line="9" column="37" />
         <mark key="." line="9" column="36" />
         <mark key="^" line="9" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1616774624359">
+      <file name="/Dummy.txt" timestamp="1616781148626">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" timestamp="1616774856351">
-        <mark key="[" line="183" column="0" />
-        <mark key="]" line="203" column="5" />
-        <mark key="." line="167" column="43" />
-        <mark key="^" line="167" column="44" />
+        <mark key="[" line="178" column="0" />
+        <mark key="]" line="198" column="5" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/QrCodeFragment.kt" timestamp="1616774938677">
         <mark key="[" line="80" column="36" />
@@ -175,7 +167,7 @@
         <mark key="^" line="340" column="11" />
         <mark key="." line="340" column="10" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/Platform.kt" timestamp="1616774615476">
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/Platform.kt" timestamp="1616781321690">
         <mark key="[" line="26" column="51" />
         <mark key="]" line="26" column="51" />
         <mark key="." line="26" column="51" />
@@ -304,7 +296,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">ID0=</text>
+        <text>/</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -322,7 +314,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0=</text>
+        <text>/</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
