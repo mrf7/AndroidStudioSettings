@@ -165,11 +165,11 @@
         <mark key="]" line="36" column="33" />
         <mark key="." line="36" column="33" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/pass_card_front.xml" timestamp="1616783411897">
-        <mark key="[" line="343" column="50" />
-        <mark key="]" line="343" column="50" />
-        <mark key="^" line="340" column="11" />
-        <mark key="." line="343" column="50" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/pass_card_front.xml" timestamp="1616787470329">
+        <mark key="[" line="343" column="46" />
+        <mark key="]" line="343" column="46" />
+        <mark key="^" line="343" column="46" />
+        <mark key="." line="343" column="45" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/Platform.kt" timestamp="1616781321690">
         <mark key="[" line="26" column="51" />
@@ -312,7 +312,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>Click QR Code to expand</text>
+        <text>Body</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -330,7 +330,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>tools:context=&quot;.QrCodeFragment&quot;</text>
+        <text>Body</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
