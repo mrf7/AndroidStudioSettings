@@ -149,8 +149,7 @@
         <mark key="." line="38" column="32" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/navigation/nav_graph.xml" timestamp="1617049665250">
-        <mark key="[" line="102" column="15" />
-        <mark key="]" line="111" column="13" />
+        <mark key="]" line="164" column="13" />
       </file>
       <file name="/PassPageView.xib" timestamp="1617048127135" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/PassInfoContainer.kt" timestamp="1617036786669">
@@ -173,12 +172,6 @@
         <mark key="[" line="1421" column="0" />
         <mark key="]" line="1421" column="0" />
         <mark key="." line="1421" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/values/strings.xml" timestamp="1617049967428">
-        <mark key="[" line="164" column="43" />
-        <mark key="]" line="164" column="46" />
-        <mark key="." line="164" column="45" />
-        <mark key="^" line="164" column="46" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/adapter/LabListAdapter.kt" timestamp="1617039061610">
         <mark key="[" line="10" column="0" />
