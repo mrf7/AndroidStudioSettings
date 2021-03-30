@@ -161,6 +161,10 @@
       <file name="/Dummy.txt" timestamp="1617046919277">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" timestamp="1617119547607" />
+      <file name="/fragment.kt" timestamp="1617118094834">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/LabListFragment.kt" timestamp="1617039045329" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/pass_card_front.xml" timestamp="1617049577507">
         <mark key="[" line="385" column="16" />
@@ -262,7 +266,6 @@
       <jump line="140" column="33" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
       <jump line="263" column="122" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
       <jump line="255" column="50" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
-      <jump line="180" column="53" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
       <jump line="181" column="68" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
       <jump line="136" column="9" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
       <jump line="265" column="30" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
@@ -280,6 +283,7 @@
       <jump line="67" column="46" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/PassListFragment.kt" />
       <jump line="118" column="25" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardFragment.kt" />
       <jump line="171" column="18" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/values/strings.xml" />
+      <jump line="180" column="16" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -287,8 +291,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>Click</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBoaW50c1tFbmNvZGVIaW50VHlwZS5RUl9WRVJTSU9OXSA9IDI2Cg==</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -306,7 +310,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>Click</text>
+        <text>/</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -321,43 +325,43 @@
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPSJAc3R5bGUvQ29tbW9uUGFzcy5QYXNzLkJvZHkiCg==</text>
+        <text encoding="base64">ICAgICAgICBoaW50c1tFbmNvZGVIaW50VHlwZS5RUl9WRVJTSU9OXSA9IDI2Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCTAxMTYyMzlGMjYwODI5NTcwMDk3QkVCRiAvKiBVSVZpZXdVdGlsLnN3aWZ0IGluIFNvdXJjZXMgKi8sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0eWxlPSJAc3R5bGUvQ29tbW9uUGFzcy5QYXNzLkJvZHkiCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5sYWJfbGlzdF9pdGVtLioK</text>
+        <text encoding="base64">CQkJCTAxMTYyMzlGMjYwODI5NTcwMDk3QkVCRiAvKiBVSVZpZXdVdGlsLnN3aWZ0IGluIFNvdXJjZXMgKi8sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJibGFja19vdmVybGF5Ij4jNjYwMDAwMDA8L2NvbG9yPgo=</text>
+        <text encoding="base64">aW1wb3J0IGtvdGxpbnguYW5kcm9pZC5zeW50aGV0aWMubWFpbi5sYWJfbGlzdF9pdGVtLioK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJibGFja19vdmVybGF5Ij4jNjYwMDAwMDA8L2NvbG9yPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZU9wdGlvbnNNZW51KG1lbnU6IE1lbnUsIGluZmxhdGVyOiBNZW51SW5mbGF0ZXIpIHsKICAgICAgICBhZGRNZW51KHJlcXVpcmVDb250ZXh0KCksIGluZmxhdGVyLCBtZW51LCB0aGlzLCBmYWxzZSwgZmFsc2UpCiAgICAgICAgc3VwZXIub25DcmVhdGVPcHRpb25zTWVudShtZW51LCBpbmZsYXRlcikKICAgIH0KCiAgICBvdmVycmlkZSBmdW4gb25NZW51SXRlbUNsaWNrKGl0ZW06IE1lbnVJdGVtPyk6IEJvb2xlYW4gewogICAgICAgIHJldHVybiBtZW51Q2xpY2tIYW5kbGVyKGl0ZW0sIG51bGwpID86IHN1cGVyLm9uT3B0aW9uc0l0ZW1TZWxlY3RlZChpdGVtISEpCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvblByZXBhcmVPcHRpb25zTWVudShtZW51OiBNZW51KSB7CiAgICAgICAgc3VwZXIub25QcmVwYXJlT3B0aW9uc01lbnUobWVudSkKICAgIH0K</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvbkNyZWF0ZU9wdGlvbnNNZW51KG1lbnU6IE1lbnUsIGluZmxhdGVyOiBNZW51SW5mbGF0ZXIpIHsKICAgICAgICBhZGRNZW51KHJlcXVpcmVDb250ZXh0KCksIGluZmxhdGVyLCBtZW51LCB0aGlzLCBmYWxzZSwgZmFsc2UpCiAgICAgICAgc3VwZXIub25DcmVhdGVPcHRpb25zTWVudShtZW51LCBpbmZsYXRlcikKICAgIH0KCiAgICBvdmVycmlkZSBmdW4gb25NZW51SXRlbUNsaWNrKGl0ZW06IE1lbnVJdGVtPyk6IEJvb2xlYW4gewogICAgICAgIHJldHVybiBtZW51Q2xpY2tIYW5kbGVyKGl0ZW0sIG51bGwpID86IHN1cGVyLm9uT3B0aW9uc0l0ZW1TZWxlY3RlZChpdGVtISEpCiAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByCg==</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBvblByZXBhcmVPcHRpb25zTWVudShtZW51OiBNZW51KSB7CiAgICAgICAgc3VwZXIub25QcmVwYXJlT3B0aW9uc01lbnUobWVudSkKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRNZW51KCkK</text>
+        <text encoding="base64">ICAgICAgICByCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1xcbi8vZw==</text>
