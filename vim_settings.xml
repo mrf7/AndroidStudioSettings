@@ -142,16 +142,21 @@
       <file name="/Dummy.txt" timestamp="1617135663666">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" timestamp="1617203277954">
+        <mark key="[" line="191" column="66" />
+        <mark key="]" line="191" column="80" />
+        <mark key="." line="191" column="79" />
+        <mark key="^" line="191" column="80" />
+      </file>
       <file name="/fragment.kt" timestamp="1617118094834">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/DataServicesFragment.kt" timestamp="1617131511097" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/DatabaseHelper.kt" timestamp="1617134878470" />
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/pass_card_front.xml" timestamp="1617049577507">
-        <mark key="[" line="385" column="16" />
-        <mark key="]" line="388" column="61" />
-        <mark key="." line="388" column="60" />
-        <mark key="^" line="388" column="61" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/pass_card_front.xml" timestamp="1617203216328">
+        <mark key="[" line="118" column="43" />
+        <mark key="]" line="118" column="43" />
+        <mark key="." line="118" column="43" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/ios2/CommonPassIOS.xcodeproj/project.pbxproj" timestamp="1617048164683">
         <mark key="[" line="1421" column="0" />
@@ -286,8 +291,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHBhc3NJbmZvQ29udGFpbmVyID0gdmlld0FkYXB0ZXIuY3VycmVudExpc3RbaW5kZXhdCg==</text>
+      <register name="&quot;" type="4">
+        <text>ommonPassQRCode</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -305,7 +310,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>IS</text>
+        <text>ommonPassQRCode</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
