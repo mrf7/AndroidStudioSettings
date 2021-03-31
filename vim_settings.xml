@@ -151,8 +151,6 @@
       <file name="/fragment.kt" timestamp="1617118094834">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/DataServicesFragment.kt" timestamp="1617131511097" />
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/DatabaseHelper.kt" timestamp="1617134878470" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/pass_card_front.xml" timestamp="1617203216328">
         <mark key="[" line="118" column="43" />
         <mark key="]" line="118" column="43" />
@@ -175,8 +173,7 @@
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/navigation/nav_graph.xml" timestamp="1617049665250">
         <mark key="]" line="164" column="13" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/PassListFragment.kt" timestamp="1617199010748" />
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build/generated/sqldelight/code/CommonPassDb/org/commonsproject/commonpass/db/PassDetail.kt" timestamp="1617134827485" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build.gradle.kts" timestamp="1617219484663" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/adapter/LabListAdapter.kt" timestamp="1617039061610">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
