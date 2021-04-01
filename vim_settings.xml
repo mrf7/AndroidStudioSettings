@@ -149,6 +149,7 @@
         <mark key="'" line="103" column="31" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/Environment.kt" timestamp="1617289687120" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build.gradle.kts" timestamp="1617305039436" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" timestamp="1617293024440">
         <mark key="'" line="50" column="23" />
         <mark key="[" line="50" column="67" />
@@ -162,10 +163,24 @@
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/PassInfoContainer.kt" timestamp="1617288223503">
         <mark key="'" line="59" column="27" />
       </file>
+      <file name="/Dummy.txt" timestamp="1617305467141">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.kt" timestamp="1617293126408">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/QrCodeFragment.kt" timestamp="1617305266954">
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/ios2/Podfile" timestamp="1617300161774" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/QrFullscreenFragment.kt" timestamp="1617305369272">
+        <mark key="[" line="23" column="22" />
+        <mark key="]" line="23" column="22" />
+        <mark key="^" line="23" column="25" />
+        <mark key="." line="23" column="22" />
+      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/PassCreationViewModel.kt" timestamp="1617293102449">
         <mark key="'" line="20" column="13" />
       </file>
@@ -279,7 +294,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>ommonPassQRCode</text>
+        <text>QrCodeFragmentArgs</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -297,7 +312,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>ommonPassQRCode</text>
+        <text>QrCodeFragmentArgs</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -312,31 +327,31 @@
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHBhc3NJbmZvQ29udGFpbmVyID0gdmlld0FkYXB0ZXIuY3VycmVudExpc3RbaW5kZXhdCg==</text>
+        <text encoding="base64">LyoqCiAqIEFuIGV4YW1wbGUgZnVsbC1zY3JlZW4gZnJhZ21lbnQgdGhhdCBzaG93cyBhbmQgaGlkZXMgdGhlIHN5c3RlbSBVSSAoaS5lLgogKiBzdGF0dXMgYmFyIGFuZCBuYXZpZ2F0aW9uL3N5c3RlbSBiYXIpIHdpdGggdXNlciBpbnRlcmFjdGlvbi4KICovCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHBhc3NJbmZvQ29udGFpbmVyID0gdmlld0FkYXB0ZXIuY3VycmVudExpc3RbaW5kZXhdCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGFiSW5kZXggPT0gRkxJR0hUX0lOREVYKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGFiSW5kZXggPT0gRkxJR0hUX0lOREVYKSB7Cg==</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGFiSW5kZXggPT0gRkxJR0hUX0lOREVYKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudFRpbWVNaWxsaXMoKS8qY3VycmVudFRpbWVNaWxsaXMoKSArICgxMDAwICogNjAgKiA2MCAqIDI0ICogMTQpKi8K</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGFiSW5kZXggPT0gRkxJR0hUX0lOREVYKSB7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY3VycmVudFRpbWVNaWxsaXMoKS8qY3VycmVudFRpbWVNaWxsaXMoKSArICgxMDAwICogNjAgKiA2MCAqIDI0ICogMTQpKi8K</text>
@@ -348,7 +363,7 @@
         <text encoding="base64">ICAgICAgICAgICAgY3VycmVudFRpbWVNaWxsaXMoKS8qY3VycmVudFRpbWVNaWxsaXMoKSArICgxMDAwICogNjAgKiA2MCAqIDI0ICogMTQpKi8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoaW50c1tFbmNvZGVIaW50VHlwZS5RUl9WRVJTSU9OXSA9IDI2Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudFRpbWVNaWxsaXMoKS8qY3VycmVudFRpbWVNaWxsaXMoKSArICgxMDAwICogNjAgKiA2MCAqIDI0ICogMTQpKi8K</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1xcbi8vZw==</text>
