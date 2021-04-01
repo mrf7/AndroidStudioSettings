@@ -142,12 +142,6 @@
       <file name="/Dummy.txt" timestamp="1617135663666">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" timestamp="1617203277954">
-        <mark key="[" line="191" column="66" />
-        <mark key="]" line="191" column="80" />
-        <mark key="." line="191" column="79" />
-        <mark key="^" line="191" column="80" />
-      </file>
       <file name="/fragment.kt" timestamp="1617118094834">
         <mark key="[" line="0" column="0" />
       </file>
@@ -161,6 +155,9 @@
         <mark key="]" line="1421" column="0" />
         <mark key="." line="1421" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/ktor/CommonPassApiImpl.kt" timestamp="1617285020688">
+        <mark key="'" line="103" column="32" />
+      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/commontrust/fhir/DataSourceGatewayOAuthUrls.kt" timestamp="1617199031083">
         <mark key="'" line="4" column="11" />
       </file>
@@ -173,7 +170,12 @@
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/navigation/nav_graph.xml" timestamp="1617049665250">
         <mark key="]" line="164" column="13" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build.gradle.kts" timestamp="1617219484663" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/Pass.kt" timestamp="1617284981017">
+        <mark key="'" line="18" column="13" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build.gradle.kts" timestamp="1617284821670">
+        <mark key="[" line="187" column="5" />
+      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/adapter/LabListAdapter.kt" timestamp="1617039061610">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -181,9 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="20" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/onboarding/OnboardingFragment.kt" />
-      <jump line="33" column="10" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/CodeEntryFragment.kt" />
-      <jump line="26" column="44" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/thecommonsproject/android/commonpass/debug/WelcomeFragment.kt" />
       <jump line="14" column="16" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/CodeEntryViewModel.kt" />
       <jump line="35" column="36" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/CodeEntryViewModel.kt" />
       <jump line="89" column="40" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/navigation/nav_graph.xml" />
@@ -281,6 +280,9 @@
       <jump line="180" column="16" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
       <jump line="43" column="25" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/DatabaseHelper.kt" />
       <jump line="4" column="11" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/commontrust/fhir/DataSourceGatewayOAuthUrls.kt" />
+      <jump line="18" column="13" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/Pass.kt" />
+      <jump line="105" column="23" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/ktor/CommonPassApiImpl.kt" />
+      <jump line="103" column="32" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/ktor/CommonPassApiImpl.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
