@@ -142,12 +142,6 @@
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/requests/PreflightPassRequest.kt" timestamp="1617290696057">
         <mark key="'" line="14" column="22" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/Evidence.kt" timestamp="1617297938417">
-        <mark key="[" line="30" column="3" />
-        <mark key="]" line="30" column="34" />
-        <mark key="^" line="30" column="34" />
-        <mark key="." line="30" column="33" />
-      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/DatabaseHelper.kt" timestamp="1617291010060">
         <mark key="'" line="65" column="23" />
       </file>
@@ -167,9 +161,6 @@
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/PassInfoContainer.kt" timestamp="1617288223503">
         <mark key="'" line="59" column="27" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" timestamp="1617288215049">
-        <mark key="'" line="162" column="59" />
       </file>
       <file name="/fragment.kt" timestamp="1617293126408">
         <mark key="[" line="0" column="0" />
