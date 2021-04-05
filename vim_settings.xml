@@ -139,9 +139,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/requests/PreflightPassRequest.kt" timestamp="1617290696057">
-        <mark key="'" line="14" column="22" />
-      </file>
       <file name="/Dummy.txt" timestamp="1617384282622">
         <mark key="[" line="0" column="0" />
       </file>
@@ -170,6 +167,12 @@
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build/buildkonfig/commonMain/org/commonsproject/commonpass/CommonConfig.kt" timestamp="1617380707958">
         <mark key="'" line="14" column="6" />
       </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/commontrust/auth/CommonTrustAuthorizationStatus.kt" timestamp="1617637126937">
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="3" column="9" />
+        <mark key="." line="3" column="8" />
+        <mark key="^" line="3" column="9" />
+      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/5.sqm" timestamp="1617389806733">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="2" />
@@ -178,10 +181,6 @@
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/DatabaseHelper.kt" timestamp="1617632560495">
         <mark key="'" line="65" column="23" />
-        <mark key="[" line="87" column="28" />
-        <mark key="]" line="87" column="29" />
-        <mark key="^" line="87" column="29" />
-        <mark key="." line="87" column="28" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/ktor/CommonPassApiImpl.kt" timestamp="1617291560558">
         <mark key="'" line="103" column="31" />
@@ -332,13 +331,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text>CREATE TABLE KeyValueStore (
-    name TEXT NOT NULL,
-    namespace TEXT NOT NULL,
-    value BLOB NOT NULL,
-    PRIMARY KEY(name, namespace)
-);</text>
+      <register name="&quot;" type="4">
+        <text>h</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -356,7 +350,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>h</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
