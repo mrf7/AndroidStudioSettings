@@ -176,16 +176,21 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidMain/kotlin/org/commonsproject/commonpass/KoinAndroid.kt" timestamp="1617382171564" />
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/DatabaseHelper.kt" timestamp="1617389945432">
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/DatabaseHelper.kt" timestamp="1617632560495">
         <mark key="'" line="65" column="23" />
-        <mark key="[" line="44" column="9" />
-        <mark key="]" line="44" column="9" />
-        <mark key="^" line="44" column="9" />
-        <mark key="." line="44" column="8" />
+        <mark key="[" line="87" column="28" />
+        <mark key="]" line="87" column="29" />
+        <mark key="^" line="87" column="29" />
+        <mark key="." line="87" column="28" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/ktor/CommonPassApiImpl.kt" timestamp="1617291560558">
         <mark key="'" line="103" column="31" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/PassDetail.sq" timestamp="1617632443598">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="14" column="41" />
+        <mark key="^" line="14" column="41" />
+        <mark key="." line="14" column="40" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build.gradle.kts" timestamp="1617384886696">
         <mark key="[" line="206" column="112" />
