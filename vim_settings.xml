@@ -144,6 +144,9 @@
         <mark key="]" line="12" column="20" />
         <mark key="." line="12" column="20" />
       </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/qr/barcodescanner/statemachine/handler/SMARTHealthCard/SMARTHealthCardHandler.kt" timestamp="1617736387278">
+        <mark key="[" line="28" column="0" />
+      </file>
       <file name="/fragment.kt" timestamp="1617732489384">
         <mark key="[" line="0" column="0" />
       </file>
@@ -177,6 +180,9 @@
         <mark key="^" line="10" column="34" />
         <mark key="." line="10" column="33" />
       </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/qr/barcodescanner/statemachine/handler/ScannedBarcodeHandler.kt" timestamp="1617736126415">
+        <mark key="'" line="7" column="19" />
+      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/PassCreationViewModel.kt" timestamp="1617718447200">
         <mark key="'" line="20" column="13" />
       </file>
@@ -199,7 +205,6 @@
       <jump line="276" column="42" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" />
       <jump line="267" column="25" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" />
       <jump line="12" column="37" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/qr/barcodescanner/VerificationRequestPayload.kt" />
-      <jump line="7" column="8" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/qr/barcodescanner/statemachine/handler/ScannedBarcodeHandler.kt" />
       <jump line="21" column="58" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/qr/barcodescanner/statemachine/BarcodeScannerStateMachine.kt" />
       <jump line="35" column="37" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/values/styles.xml" />
       <jump line="6" column="16" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/Policy.kt" />
@@ -282,6 +287,7 @@
       <jump line="12" column="8" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/IntentTemplate.kt" />
       <jump line="132" column="38" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/ktor/CommonPassApiImpl.kt" />
       <jump line="32" column="9" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardFragment.kt" />
+      <jump line="7" column="19" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/qr/barcodescanner/statemachine/handler/ScannedBarcodeHandler.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
