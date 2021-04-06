@@ -180,12 +180,6 @@
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/LabListFragment.kt" timestamp="1617645613596">
         <mark key="'" line="131" column="42" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/PassDetail.sq" timestamp="1617632443598">
-        <mark key="[" line="14" column="17" />
-        <mark key="]" line="14" column="41" />
-        <mark key="^" line="14" column="41" />
-        <mark key="." line="14" column="40" />
-      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/viewmodels/SharedLabListViewModel.kt" timestamp="1617655396143" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/PassCreationViewModel.kt" timestamp="1617718447200">
         <mark key="'" line="20" column="13" />
