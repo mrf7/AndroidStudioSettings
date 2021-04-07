@@ -157,6 +157,9 @@
         <mark key="." line="3" column="8" />
         <mark key="^" line="3" column="9" />
       </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/AnalyticsHelper.kt" timestamp="1617818760641">
+        <mark key="'" line="2" column="10" />
+      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/commontrust/CommonTrustService.kt" timestamp="1617637174106">
         <mark key="[" line="139" column="43" />
         <mark key="]" line="139" column="61" />
@@ -169,7 +172,6 @@
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidMain/kotlin/org/commonsproject/commonpass/KoinAndroid.kt" timestamp="1617643513926">
         <mark key="'" line="23" column="22" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/QRViewModel.kt" timestamp="1617808671456" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-json-metadata/1.0.1/ad3ebca002583934b18cfa2bb7acbbe04bf448b2/kotlinx-serialization-json-metadata-1.0.1-sources.jar!/commonMain/kotlinx/serialization/json/JsonElement.kt" timestamp="1617743339198">
         <mark key="'" line="146" column="23" />
       </file>
@@ -191,7 +193,6 @@
         <mark key="^" line="150" column="71" />
         <mark key="." line="150" column="70" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/values/strings.xml" timestamp="1617808943712" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/IntentTemplate.kt" timestamp="1617814809717">
         <mark key="'" line="6" column="18" />
         <mark key="[" line="10" column="30" />
@@ -207,7 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="55" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" />
       <jump line="178" column="58" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" />
       <jump line="20" column="13" filename="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6d87ba3829f155ce03f76330674cf685/jetified-play-services-mlkit-barcode-scanning-16.1.4/jars/classes.jar!/com/google/mlkit/vision/barcode/Barcode.class" />
       <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6d87ba3829f155ce03f76330674cf685/jetified-play-services-mlkit-barcode-scanning-16.1.4/jars/classes.jar!/com/google/mlkit/vision/barcode/Barcode.class" />
@@ -307,6 +307,7 @@
       <jump line="10" column="18" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/IntentTemplate.kt" />
       <jump line="6" column="18" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/IntentTemplate.kt" />
       <jump line="6" column="13" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/Intent.kt" />
+      <jump line="2" column="10" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/AnalyticsHelper.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
