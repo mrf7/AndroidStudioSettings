@@ -140,10 +140,10 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/requests/PreflightPassRequest.kt" timestamp="1617814015282">
-        <mark key="[" line="33" column="76" />
-        <mark key="]" line="33" column="78" />
-        <mark key="^" line="33" column="78" />
-        <mark key="." line="33" column="77" />
+        <mark key="[" line="32" column="76" />
+        <mark key="]" line="32" column="78" />
+        <mark key="^" line="32" column="78" />
+        <mark key="." line="32" column="77" />
       </file>
       <file name="/Dummy.txt" timestamp="1617814535791">
         <mark key="[" line="0" column="0" />
