@@ -139,13 +139,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/requests/PreflightPassRequest.kt" timestamp="1617743475072">
-        <mark key="'" line="46" column="25" />
-        <mark key="[" line="46" column="54" />
-        <mark key="]" line="46" column="55" />
-        <mark key="." line="46" column="54" />
-        <mark key="^" line="46" column="55" />
-      </file>
       <file name="/fragment.kt" timestamp="1617732489384">
         <mark key="[" line="0" column="0" />
       </file>
@@ -190,12 +183,6 @@
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/qr/barcodescanner/statemachine/handler/ScannedBarcodeHandler.kt" timestamp="1617736126415">
         <mark key="'" line="7" column="19" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/ktor/CommonPassApiMock.kt" timestamp="1617743440673">
-        <mark key="[" line="34" column="15" />
-        <mark key="]" line="34" column="37" />
-        <mark key="^" line="34" column="37" />
-        <mark key="." line="34" column="36" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/PassCreationViewModel.kt" timestamp="1617718447200">
         <mark key="'" line="20" column="13" />
