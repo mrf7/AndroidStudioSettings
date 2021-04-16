@@ -154,17 +154,18 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="/fragment.kt" timestamp="1617732489384">
+      <file name="/fragment.kt" timestamp="1618594536726">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/fragment_evidence_details.xml" timestamp="1618582669577">
         <mark key="'" line="24" column="40" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/EvidenceDetailsFragment.kt" timestamp="1618589584620">
-        <mark key="[" line="173" column="58" />
-        <mark key="]" line="173" column="58" />
-        <mark key="^" line="55" column="53" />
-        <mark key="." line="173" column="58" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/EvidenceDetailsFragment.kt" timestamp="1618596034359">
+        <mark key="'" line="51" column="75" />
+        <mark key="[" line="174" column="16" />
+        <mark key="]" line="173" column="121" />
+        <mark key="^" line="173" column="121" />
+        <mark key="." line="173" column="120" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/AnalyticsHelper.kt" timestamp="1617818760641">
         <mark key="'" line="2" column="10" />
@@ -172,11 +173,8 @@
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/LabListFragment.kt" timestamp="1617645613596">
         <mark key="'" line="131" column="42" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidMain/kotlin/org/commonsproject/commonpass/KoinAndroid.kt" timestamp="1617643513926">
-        <mark key="'" line="23" column="22" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/EvidenceResultData.kt" timestamp="1618588925015">
-        <mark key="[" line="24" column="27" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/EvidenceResultData.kt" timestamp="1618595317698">
+        <mark key="[" line="24" column="75" />
         <mark key="]" line="24" column="39" />
         <mark key="." line="24" column="38" />
         <mark key="^" line="24" column="39" />
@@ -223,10 +221,14 @@
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/PassCreationViewModel.kt" timestamp="1617718447200">
         <mark key="'" line="20" column="13" />
       </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/PassCreationFragment.kt" timestamp="1618593132979">
+        <mark key="[" line="71" column="25" />
+        <mark key="]" line="72" column="77" />
+        <mark key="^" line="72" column="77" />
+        <mark key="." line="72" column="76" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="32" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" />
-      <jump line="167" column="17" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" />
       <jump line="750" column="29" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.camera/camera-core/1.0.0-beta12/297f1985db1b83671508951bd11dc5c10c7532a7/camera-core-1.0.0-beta12-sources.jar!/androidx/camera/core/ImageAnalysis.java" />
       <jump line="230" column="37" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" />
       <jump line="276" column="42" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" />
@@ -325,6 +327,8 @@
       <jump line="88" column="21" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
       <jump line="228" column="55" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
       <jump line="24" column="40" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/fragment_evidence_details.xml" />
+      <jump line="49" column="85" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/EvidenceDetailsFragment.kt" />
+      <jump line="51" column="75" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/EvidenceDetailsFragment.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -333,7 +337,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>.toHtmlSpan()</text>
+        <text>String</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -351,7 +355,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>.toHtmlSpan()</text>
+        <text>String</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
