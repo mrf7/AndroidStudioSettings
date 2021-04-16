@@ -148,13 +148,17 @@
       <file name="/Dummy.txt" timestamp="1617814535791">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" timestamp="1618520945436">
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" timestamp="1618521485624">
+        <mark key="'" line="228" column="55" />
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
       </file>
       <file name="/fragment.kt" timestamp="1617732489384">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/fragment_evidence_details.xml" timestamp="1618582669577">
+        <mark key="'" line="24" column="40" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/commontrust/auth/CommonTrustAuthorizationStatus.kt" timestamp="1617637126937">
         <mark key="[" line="3" column="7" />
@@ -213,8 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="13" filename="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6d87ba3829f155ce03f76330674cf685/jetified-play-services-mlkit-barcode-scanning-16.1.4/jars/classes.jar!/com/google/mlkit/vision/barcode/Barcode.class" />
-      <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6d87ba3829f155ce03f76330674cf685/jetified-play-services-mlkit-barcode-scanning-16.1.4/jars/classes.jar!/com/google/mlkit/vision/barcode/Barcode.class" />
       <jump line="182" column="32" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" />
       <jump line="167" column="17" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" />
       <jump line="750" column="29" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.camera/camera-core/1.0.0-beta12/297f1985db1b83671508951bd11dc5c10c7532a7/camera-core-1.0.0-beta12-sources.jar!/androidx/camera/core/ImageAnalysis.java" />
@@ -313,6 +315,8 @@
       <jump line="6" column="13" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/Intent.kt" />
       <jump line="2" column="10" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/AnalyticsHelper.kt" />
       <jump line="88" column="21" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
+      <jump line="228" column="55" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
+      <jump line="24" column="40" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/fragment_evidence_details.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
