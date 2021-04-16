@@ -160,6 +160,12 @@
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/fragment_evidence_details.xml" timestamp="1618582669577">
         <mark key="'" line="24" column="40" />
       </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/EvidenceDetailsFragment.kt" timestamp="1618589156652">
+        <mark key="[" line="173" column="58" />
+        <mark key="]" line="173" column="58" />
+        <mark key="^" line="55" column="53" />
+        <mark key="." line="173" column="58" />
+      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/commontrust/auth/CommonTrustAuthorizationStatus.kt" timestamp="1617637126937">
         <mark key="[" line="3" column="7" />
         <mark key="]" line="3" column="9" />
@@ -181,6 +187,12 @@
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidMain/kotlin/org/commonsproject/commonpass/KoinAndroid.kt" timestamp="1617643513926">
         <mark key="'" line="23" column="22" />
       </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/EvidenceResultData.kt" timestamp="1618588925015">
+        <mark key="[" line="24" column="27" />
+        <mark key="]" line="24" column="39" />
+        <mark key="." line="24" column="38" />
+        <mark key="^" line="24" column="39" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-json-metadata/1.0.1/ad3ebca002583934b18cfa2bb7acbbe04bf448b2/kotlinx-serialization-json-metadata-1.0.1-sources.jar!/commonMain/kotlinx/serialization/json/JsonElement.kt" timestamp="1617743339198">
         <mark key="'" line="146" column="23" />
       </file>
@@ -201,6 +213,12 @@
         <mark key="]" line="150" column="71" />
         <mark key="^" line="150" column="71" />
         <mark key="." line="150" column="70" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/values/strings.xml" timestamp="1618587817583">
+        <mark key="[" line="166" column="66" />
+        <mark key="]" line="166" column="194" />
+        <mark key="." line="166" column="193" />
+        <mark key="^" line="166" column="194" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/IntentTemplate.kt" timestamp="1617814809717">
         <mark key="'" line="6" column="18" />
@@ -324,8 +342,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBDb3VudERvd25UaW1lcgo=</text>
+      <register name="&quot;" type="4">
+        <text>.toHtmlSpan()</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -343,7 +361,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>.toHtmlSpan()</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
