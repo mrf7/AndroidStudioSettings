@@ -173,7 +173,7 @@
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/build/generated/source/navigation-args/debug/org/commonsproject/commonpass/android/fragment/EvidenceDetailsFragmentArgs.kt" timestamp="1618589690313" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/navigation/nav_graph.xml" timestamp="1618589765633" />
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/MainApp.kt" timestamp="1618849773152">
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/MainApp.kt" timestamp="1618850123744">
         <mark key="[" line="86" column="97" />
         <mark key="]" line="86" column="97" />
         <mark key="." line="86" column="97" />
@@ -184,9 +184,6 @@
         <mark key="]" line="10" column="30" />
         <mark key="^" line="10" column="38" />
         <mark key="." line="10" column="30" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/qr/barcodescanner/statemachine/handler/ScannedBarcodeHandler.kt" timestamp="1617736126415">
-        <mark key="'" line="7" column="19" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/PassCreationFragment.kt" timestamp="1618593132979">
         <mark key="[" line="71" column="25" />
@@ -226,6 +223,7 @@
         <mark key="." line="166" column="193" />
         <mark key="^" line="166" column="194" />
       </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/CrashLogger.kt" timestamp="1618852471413" />
     </filemarks>
     <jumps>
       <jump line="276" column="42" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" />
