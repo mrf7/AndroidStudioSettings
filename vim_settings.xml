@@ -139,6 +139,22 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1618599802298">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="52" />
+        <mark key="." line="0" column="51" />
+        <mark key="^" line="0" column="52" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" timestamp="1618843998011">
+        <mark key="'" line="67" column="16" />
+        <mark key="[" line="273" column="50" />
+        <mark key="]" line="274" column="87" />
+        <mark key="." line="274" column="86" />
+        <mark key="^" line="274" column="87" />
+      </file>
+      <file name="/fragment.kt" timestamp="1618594536726">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/MainActivity.kt" timestamp="1618873344124">
         <mark key="'" line="40" column="68" />
       </file>
@@ -158,39 +174,17 @@
         <mark key="." line="24" column="38" />
         <mark key="^" line="24" column="39" />
       </file>
-      <file name="$USER_HOME$/repos/oss/Kermit/build.gradle.kts" timestamp="1618948565604">
-        <mark key="[" line="59" column="1" />
-        <mark key="]" line="61" column="55" />
-        <mark key="." line="61" column="54" />
-        <mark key="^" line="61" column="55" />
-      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-ui-ktx/2.3.0/407dd936012d5b65b0af3e897ea62e436a811419/navigation-ui-ktx-2.3.0-sources.jar!/androidx/navigation/ui/AppBarConfiguration.kt" timestamp="1618873330850">
         <mark key="[" line="40" column="11" />
         <mark key="]" line="40" column="11" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/PassListFragment.kt" timestamp="1618873923196">
+        <mark key="'" line="108" column="12" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/MainApp.kt" timestamp="1618850123744">
         <mark key="[" line="86" column="97" />
         <mark key="]" line="86" column="97" />
         <mark key="." line="86" column="97" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1618599802298">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="52" />
-        <mark key="." line="0" column="51" />
-        <mark key="^" line="0" column="52" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" timestamp="1618843998011">
-        <mark key="'" line="67" column="16" />
-        <mark key="[" line="273" column="50" />
-        <mark key="]" line="274" column="87" />
-        <mark key="." line="274" column="86" />
-        <mark key="^" line="274" column="87" />
-      </file>
-      <file name="/fragment.kt" timestamp="1618594536726">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/PassListFragment.kt" timestamp="1618873923196">
-        <mark key="'" line="108" column="12" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/build/generated/source/navigation-args/debug/org/commonsproject/commonpass/android/fragment/PassListFragmentDirections.kt" timestamp="1618873773404">
         <mark key="'" line="74" column="8" />
@@ -310,8 +304,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cGx1Z2lucyB7CiAgICAKfQo=</text>
+      <register name="&quot;" type="4">
+        <text>$/ Version should be inherited from parent</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -329,7 +323,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>$/ Version should be inherited from parent</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
