@@ -57,82 +57,82 @@
   <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIE8=</text>
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEc=</text>
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIE0=</text>
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFY=</text>
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEY=</text>
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFQ=</text>
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFI=</text>
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEk=</text>
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIE4=</text>
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEI=</text>
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFA=</text>
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEE=</text>
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEU=</text>
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEQ=</text>
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIE9QRU5fQlJBQ0tFVA==</text>
+        <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIENMT1NFX0JSQUNLRVQ=</text>
+        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEg=</text>
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIDI=</text>
+        <text>ctrl pressed 2</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEo=</text>
+        <text>ctrl pressed J</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEM=</text>
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFc=</text>
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFg=</text>
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFM=</text>
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIFE=</text>
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEw=</text>
+        <text>ctrl pressed L</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text encoding="base64">Y3RybCBwcmVzc2VkIEs=</text>
+        <text>ctrl pressed K</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
@@ -144,9 +144,6 @@
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/FragmentUtils.kt" timestamp="1618873400444">
         <mark key="'" line="37" column="23" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/fragment_evidence_details.xml" timestamp="1618582669577">
-        <mark key="'" line="24" column="40" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/EvidenceDetailsFragment.kt" timestamp="1618599577383">
         <mark key="'" line="47" column="75" />
@@ -161,14 +158,12 @@
         <mark key="." line="24" column="38" />
         <mark key="^" line="24" column="39" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/Intent.kt" timestamp="1617814814145">
-        <mark key="'" line="6" column="13" />
-        <mark key="[" line="12" column="20" />
-        <mark key="]" line="12" column="20" />
-        <mark key="." line="12" column="20" />
+      <file name="$USER_HOME$/repos/oss/Kermit/build.gradle.kts" timestamp="1618948565604">
+        <mark key="[" line="59" column="1" />
+        <mark key="]" line="61" column="55" />
+        <mark key="." line="61" column="54" />
+        <mark key="^" line="61" column="55" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/build/generated/source/navigation-args/debug/org/commonsproject/commonpass/android/fragment/EvidenceDetailsFragmentArgs.kt" timestamp="1618589690313" />
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/navigation/nav_graph.xml" timestamp="1618873797888" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-ui-ktx/2.3.0/407dd936012d5b65b0af3e897ea62e436a811419/navigation-ui-ktx-2.3.0-sources.jar!/androidx/navigation/ui/AppBarConfiguration.kt" timestamp="1618873330850">
         <mark key="[" line="40" column="11" />
         <mark key="]" line="40" column="11" />
@@ -177,12 +172,6 @@
         <mark key="[" line="86" column="97" />
         <mark key="]" line="86" column="97" />
         <mark key="." line="86" column="97" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/PassCreationFragment.kt" timestamp="1618593132979">
-        <mark key="[" line="71" column="25" />
-        <mark key="]" line="72" column="77" />
-        <mark key="^" line="72" column="77" />
-        <mark key="." line="72" column="76" />
       </file>
       <file name="/Dummy.txt" timestamp="1618599802298">
         <mark key="[" line="0" column="0" />
@@ -200,10 +189,6 @@
       <file name="/fragment.kt" timestamp="1618594536726">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/AnalyticsHelper.kt" timestamp="1617818760641">
-        <mark key="'" line="2" column="10" />
-      </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/AnalyticsHelperImpl.kt" timestamp="1618849620249" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/PassListFragment.kt" timestamp="1618873923196">
         <mark key="'" line="108" column="12" />
       </file>
@@ -216,7 +201,6 @@
         <mark key="." line="166" column="193" />
         <mark key="^" line="166" column="194" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/CrashLogger.kt" timestamp="1618852471413" />
     </filemarks>
     <jumps>
       <jump line="136" column="9" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
@@ -326,8 +310,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>A</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cGx1Z2lucyB7CiAgICAKfQo=</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -360,43 +344,43 @@
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text>Add migration for KeyValueStore table</text>
+        <text encoding="base64">cGx1Z2lucyB7CiAgICAKfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDb3VudERvd25UaW1lcgo=</text>
+        <text encoding="base64">ICAgIGFwcGx5KHBsdWdpbiA9ICJvcmcuamxsZWl0c2NodWguZ3JhZGxlLmt0bGludCIpIC8vIFZlcnNpb24gc2hvdWxkIGJlIGluaGVyaXRlZCBmcm9tIHBhcmVudAo=</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGlyZWRfYmFubmVyLnRleHQgPSAiZXg6ICR7UmFuZG9tLm5leHRJbnQoMTAwKX0iCg==</text>
+        <text encoding="base64">ICAgIHBsdWdpbnMgewogICAgICAgIGlkKCAib3JnLmpsbGVpdHNjaHVoLmdyYWRsZS5rdGxpbnQiKSB2ZXJzaW9uICgiPGN1cnJlbnRfdmVyc2lvbj4iKQogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIHg6IE1hdGVyaWFsVGV4dFZpZXcgPSBleHBpcmVkX2Jhbm5lcgo=</text>
+        <text>Add migration for KeyValueStore table</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9hZGluZ0RpYWxvZz8uZGlzbWlzcygpCg==</text>
+        <text encoding="base64">ICAgICAgICBDb3VudERvd25UaW1lcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHg6IEpzb25FbGVtZW50PyA9IGludGVudFsidHlwZSJdIGFzPyBKc29uUHJpbWl0aXZlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4cGlyZWRfYmFubmVyLnRleHQgPSAiZXg6ICR7UmFuZG9tLm5leHRJbnQoMTAwKX0iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHg6IEpzb25FbGVtZW50PyA9IGludGVudFsidHlwZSJdIGFzPyBKc29uUHJpbWl0aXZlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsIHg6IE1hdGVyaWFsVGV4dFZpZXcgPSBleHBpcmVkX2Jhbm5lcgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHkgPSB4Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9hZGluZ0RpYWxvZz8uZGlzbWlzcygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHggPSBpbnRlbnRbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHg6IEpzb25FbGVtZW50PyA9IGludGVudFsidHlwZSJdIGFzPyBKc29uUHJpbWl0aXZlCg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1xcbi8vZw==</text>
@@ -415,7 +399,7 @@
     </search>
   </component>
   <component name="VimSettings">
-    <state version="7" enabled="true" />
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
