@@ -139,6 +139,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/requests/PreflightPassRequest.kt" timestamp="1617814015282">
+        <mark key="[" line="32" column="76" />
+        <mark key="]" line="32" column="78" />
+        <mark key="^" line="32" column="78" />
+        <mark key="." line="32" column="77" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1617814535791">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/fragment.kt" timestamp="1617732489384">
         <mark key="[" line="0" column="0" />
       </file>
@@ -147,6 +156,9 @@
         <mark key="]" line="3" column="9" />
         <mark key="." line="3" column="8" />
         <mark key="^" line="3" column="9" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/AnalyticsHelper.kt" timestamp="1617818760641">
+        <mark key="'" line="2" column="10" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/commontrust/CommonTrustService.kt" timestamp="1617637174106">
         <mark key="[" line="139" column="43" />
@@ -163,7 +175,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-json-metadata/1.0.1/ad3ebca002583934b18cfa2bb7acbbe04bf448b2/kotlinx-serialization-json-metadata-1.0.1-sources.jar!/commonMain/kotlinx/serialization/json/JsonElement.kt" timestamp="1617743339198">
         <mark key="'" line="146" column="23" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/Intent.kt" timestamp="1617652795409">
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/Intent.kt" timestamp="1617814814145">
+        <mark key="'" line="6" column="13" />
         <mark key="[" line="12" column="20" />
         <mark key="]" line="12" column="20" />
         <mark key="." line="12" column="20" />
@@ -174,12 +187,18 @@
         <mark key="^" line="17" column="13" />
         <mark key="." line="17" column="12" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/IntentTemplate.kt" timestamp="1617742981898">
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/viewmodels/SharedLabListViewModel.kt" timestamp="1617814022921">
+        <mark key="[" line="150" column="69" />
+        <mark key="]" line="150" column="71" />
+        <mark key="^" line="150" column="71" />
+        <mark key="." line="150" column="70" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/IntentTemplate.kt" timestamp="1617814809717">
         <mark key="'" line="6" column="18" />
-        <mark key="[" line="13" column="43" />
-        <mark key="]" line="10" column="34" />
-        <mark key="^" line="10" column="34" />
-        <mark key="." line="10" column="33" />
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="10" column="30" />
+        <mark key="^" line="10" column="38" />
+        <mark key="." line="10" column="30" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/qr/barcodescanner/statemachine/handler/ScannedBarcodeHandler.kt" timestamp="1617736126415">
         <mark key="'" line="7" column="19" />
@@ -189,9 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="44" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" />
-      <jump line="42" column="10" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" />
-      <jump line="180" column="55" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" />
       <jump line="178" column="58" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/labselect/qr/ScannerFragment.kt" />
       <jump line="20" column="13" filename="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6d87ba3829f155ce03f76330674cf685/jetified-play-services-mlkit-barcode-scanning-16.1.4/jars/classes.jar!/com/google/mlkit/vision/barcode/Barcode.class" />
       <jump line="0" column="0" filename="$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6d87ba3829f155ce03f76330674cf685/jetified-play-services-mlkit-barcode-scanning-16.1.4/jars/classes.jar!/com/google/mlkit/vision/barcode/Barcode.class" />
@@ -284,11 +300,14 @@
       <jump line="132" column="38" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/ktor/CommonPassApiImpl.kt" />
       <jump line="32" column="9" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardFragment.kt" />
       <jump line="7" column="19" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/qr/barcodescanner/statemachine/handler/ScannedBarcodeHandler.kt" />
-      <jump line="6" column="18" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/IntentTemplate.kt" />
       <jump line="49" column="19" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/requests/PreflightPassRequest.kt" />
       <jump line="52" column="64" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/requests/PreflightPassRequest.kt" />
       <jump line="146" column="23" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-json-metadata/1.0.1/ad3ebca002583934b18cfa2bb7acbbe04bf448b2/kotlinx-serialization-json-metadata-1.0.1-sources.jar!/commonMain/kotlinx/serialization/json/JsonElement.kt" />
       <jump line="54" column="25" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/requests/PreflightPassRequest.kt" />
+      <jump line="10" column="18" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/IntentTemplate.kt" />
+      <jump line="6" column="18" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/IntentTemplate.kt" />
+      <jump line="6" column="13" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/Intent.kt" />
+      <jump line="2" column="10" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/AnalyticsHelper.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -297,7 +316,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>? = null</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -315,7 +334,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>? = null</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -324,18 +343,13 @@
         <text>\\n</text>
       </register>
       <register name="0" type="2">
-        <text>CREATE TABLE KeyValueStore (
-    name TEXT NOT NULL,
-    namespace TEXT NOT NULL,
-    value BLOB NOT NULL,
-    PRIMARY KEY(name, namespace)
-);</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2FkaW5nRGlhbG9nPy5kaXNtaXNzKCkK</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHg6IEpzb25FbGVtZW50PyA9IGludGVudFsidHlwZSJdIGFzPyBKc29uUHJpbWl0aXZlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9hZGluZ0RpYWxvZz8uZGlzbWlzcygpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -347,33 +361,33 @@
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHkgPSB4Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHg6IEpzb25FbGVtZW50PyA9IGludGVudFsidHlwZSJdIGFzPyBKc29uUHJpbWl0aXZlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIHggPSBpbnRlbnRbXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHkgPSB4Lgo=</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIHggPSBpbnRlbnRbXQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">QFBhcmNlbGl6ZQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>,
     @SerialName(&quot;departure_airport_country&quot;)
     val departureCountry: String</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBTZXJpYWxOYW1lKCJkZXBhcnR1cmVfYWlycG9ydF9jb3VudHJ5IikKICAgIHZhbCBkZXBhcnR1cmVDb3VudHJ5OiBTdHJpbmc=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXV0YWJsZUxpc3RPZjxTdHJpbmc+KCkuCg==</text>
+        <text encoding="base64">ICAgIEBTZXJpYWxOYW1lKCJkZXBhcnR1cmVfYWlycG9ydF9jb3VudHJ5IikKICAgIHZhbCBkZXBhcnR1cmVDb3VudHJ5OiBTdHJpbmc=</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zL1xcbi8vZw==</text>
