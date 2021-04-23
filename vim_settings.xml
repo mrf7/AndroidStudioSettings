@@ -168,7 +168,11 @@
         <mark key="^" line="169" column="69" />
         <mark key="." line="169" column="68" />
       </file>
-      <file name="$USER_HOME$/repos/oss/Kermit/KermitSample/shared/build.gradle.kts" timestamp="1619117175011" />
+      <file name="$USER_HOME$/repos/oss/Kermit/KermitSample/KermitSampleIOS/Podfile" timestamp="1619122359977">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="5" column="2" />
+        <mark key="." line="5" column="2" />
+      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/EvidenceResultData.kt" timestamp="1618595317698">
         <mark key="[" line="24" column="75" />
         <mark key="]" line="24" column="39" />
@@ -306,7 +310,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>$/ Version should be inherited from parent</text>
+        <text>#</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -324,7 +328,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>$/ Version should be inherited from parent</text>
+        <text>#</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
@@ -378,7 +382,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdmFsIHg6IEpzb25FbGVtZW50PyA9IGludGVudFsidHlwZSJdIGFzPyBKc29uUHJpbWl0aXZlCg==</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5zL1xcbi8vZw==</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
