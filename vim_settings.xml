@@ -179,6 +179,12 @@
         <mark key="." line="24" column="38" />
         <mark key="^" line="24" column="39" />
       </file>
+      <file name="$USER_HOME$/repos/oss/Kermit/KermitSample/build.gradle.kts" timestamp="1619191329563">
+        <mark key="[" line="18" column="46" />
+        <mark key="]" line="18" column="47" />
+        <mark key="." line="18" column="46" />
+        <mark key="^" line="18" column="47" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-ui-ktx/2.3.0/407dd936012d5b65b0af3e897ea62e436a811419/navigation-ui-ktx-2.3.0-sources.jar!/androidx/navigation/ui/AppBarConfiguration.kt" timestamp="1618873330850">
         <mark key="[" line="40" column="11" />
         <mark key="]" line="40" column="11" />
@@ -311,7 +317,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>31</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -329,7 +335,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>31</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
