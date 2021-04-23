@@ -139,13 +139,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/requests/PreflightPassRequest.kt" timestamp="1619196185692">
-        <mark key="[" line="48" column="48" />
-        <mark key="]" line="48" column="48" />
-        <mark key="." line="48" column="47" />
-        <mark key="^" line="48" column="48" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1619199802318">
+      <file name="/Dummy.txt" timestamp="1619199829143">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="113" />
         <mark key="." line="0" column="112" />
