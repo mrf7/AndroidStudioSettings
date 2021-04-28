@@ -145,14 +145,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="113" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/MainActivity.kt" timestamp="1618873344124">
-        <mark key="'" line="40" column="68" />
-      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/FragmentUtils.kt" timestamp="1618873400444">
         <mark key="'" line="37" column="23" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/CodeEntryViewModel.kt" timestamp="1619623174958">
+      <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/CodeEntryViewModel.kt" timestamp="1619626363795">
         <mark key="'" line="20" column="34" />
+        <mark key="[" line="20" column="42" />
       </file>
       <file name="$USER_HOME$/repos/oss/Kermit/KermitSample/KermitSampleIOS/Podfile" timestamp="1619122359977">
         <mark key="[" line="5" column="2" />
@@ -165,6 +163,12 @@
         <mark key="]" line="22" column="20" />
         <mark key="." line="22" column="19" />
         <mark key="^" line="22" column="20" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/iosMain/kotlin/org/commonsproject/commonpass/viewmodels/NativeCodeEntryViewModel.kt" timestamp="1619626394562">
+        <mark key="[" line="28" column="43" />
+        <mark key="]" line="28" column="74" />
+        <mark key="^" line="28" column="74" />
+        <mark key="." line="28" column="73" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/CodeEntryFragment.kt" timestamp="1619624899086" />
       <file name="$USER_HOME$/repos/oss/Kermit/KermitSample/build.gradle.kts" timestamp="1619191329563">
