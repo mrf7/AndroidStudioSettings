@@ -203,12 +203,7 @@
       <file name="/fragment.kt" timestamp="1619632161814">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/Policy.kt" timestamp="1619195389205">
-        <mark key="[" line="9" column="16" />
-        <mark key="]" line="9" column="26" />
-        <mark key="." line="9" column="25" />
-        <mark key="^" line="9" column="26" />
-      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/PassDetail.sq" timestamp="1619710450177" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/PassListFragment.kt" timestamp="1619545595263">
         <mark key="'" line="108" column="12" />
       </file>
