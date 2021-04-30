@@ -140,11 +140,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/CodeEntryViewModel.kt" timestamp="1619637808485">
-        <mark key="'" line="20" column="34" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="22" column="47" />
-        <mark key="^" line="19" column="54" />
-        <mark key="." line="19" column="53" />
+        <mark key="]" line="15" column="47" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/onboarding/OnboardingFragment.kt" timestamp="1619467349250">
         <mark key="'" line="22" column="19" />
