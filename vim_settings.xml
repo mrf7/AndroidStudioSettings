@@ -152,6 +152,7 @@
       <file name="/0.db" timestamp="1620054494569">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/1.sqm" timestamp="1620068006706" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest1.kt" timestamp="1620067635621">
         <mark key="'" line="4" column="25" />
         <mark key="[" line="32" column="63" />
