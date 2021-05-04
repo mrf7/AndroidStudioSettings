@@ -162,12 +162,12 @@
       <file name="$USER_HOME$/repos/CommonPass-mobile/buildSrc/src/main/java/Dependencies.kt" timestamp="1620070777073">
         <mark key="'" line="95" column="8" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest1.kt" timestamp="1620141853885">
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest1.kt" timestamp="1620144461907">
         <mark key="'" line="4" column="25" />
-        <mark key="[" line="17" column="45" />
-        <mark key="]" line="30" column="30" />
-        <mark key="." line="30" column="29" />
-        <mark key="^" line="30" column="30" />
+        <mark key="[" line="28" column="55" />
+        <mark key="]" line="23" column="20" />
+        <mark key="." line="23" column="19" />
+        <mark key="^" line="23" column="20" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/6.sqm" timestamp="1620054487051">
         <mark key="'" line="22" column="8" />
@@ -295,7 +295,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>src/androidTest/resources</text>
+        <text>_filled.db</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -313,7 +313,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>src/androidTest/resources</text>
+        <text>_filled.db</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
