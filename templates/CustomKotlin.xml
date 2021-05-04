@@ -14,10 +14,8 @@
       <option name="KOTLIN_STATEMENT" value="true" />
     </context>
   </template>
-  <template name="test" value="/**&#10; * $COMMENT$&#10; */&#10;@Test&#10;fun `$TESTNAME$`() {&#10;    $BODY$&#10;}" description="Test format" toReformat="false" toShortenFQNames="true">
+  <template name="test" value="@Test&#10;fun $TESTNAME$() {&#10;    $END$&#10;}" description="Test format" toReformat="false" toShortenFQNames="true">
     <variable name="TESTNAME" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="COMMENT" expression="" defaultValue="" alwaysStopAt="true" />
-    <variable name="BODY" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN_CLASS" value="true" />
     </context>
