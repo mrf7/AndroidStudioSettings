@@ -139,11 +139,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1620157088478">
+      <file name="/Dummy.txt" timestamp="1620158243700">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="50" />
-        <mark key="." line="0" column="50" />
-        <mark key="^" line="0" column="52" />
+        <mark key="]" line="0" column="30" />
+        <mark key="." line="0" column="29" />
+        <mark key="^" line="0" column="30" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/4.sqm" timestamp="1620158810033">
+        <mark key="[" line="1" column="58" />
+        <mark key="]" line="1" column="93" />
       </file>
       <file name="/fragment.kt" timestamp="1619807731838">
         <mark key="[" line="0" column="0" />
@@ -157,12 +161,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/1.sqm" timestamp="1620145204022" />
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest1.kt" timestamp="1620154423491">
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest1.kt" timestamp="1620158399730">
         <mark key="'" line="67" column="8" />
-        <mark key="[" line="94" column="83" />
-        <mark key="]" line="92" column="93" />
-        <mark key="^" line="92" column="93" />
-        <mark key="." line="92" column="92" />
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="93" column="61" />
+        <mark key="^" line="93" column="61" />
+        <mark key="." line="93" column="60" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/5.sqm" timestamp="1620147709567">
         <mark key="[" line="6" column="0" />
@@ -173,24 +177,30 @@
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/qr/barcodescanner/statemachine/handler/opencerta/OpenCertaHandler.kt" timestamp="1620086926031">
         <mark key="'" line="80" column="33" />
       </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/PassDetail.sq" timestamp="1620158636971">
+        <mark key="[" line="24" column="34" />
+        <mark key="]" line="24" column="195" />
+        <mark key="^" line="14" column="14" />
+        <mark key="." line="14" column="13" />
+      </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidMain/kotlin/org/commonsproject/commonpass/PlatformAndroid.kt" timestamp="1620072401775">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/6.sqm" timestamp="1620054487051">
-        <mark key="'" line="22" column="8" />
-        <mark key="[" line="24" column="26" />
-        <mark key="]" line="22" column="7" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/6.sqm" timestamp="1620158124793">
+        <mark key="'" line="46" column="8" />
+        <mark key="[" line="22" column="194" />
+        <mark key="]" line="24" column="26" />
         <mark key="^" line="24" column="26" />
-        <mark key="." line="22" column="7" />
+        <mark key="." line="24" column="25" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build.gradle.kts" timestamp="1620157281025" />
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest.kt" timestamp="1619815224789">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="35" column="5" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest.kt" timestamp="1620158831182">
+        <mark key="[" line="90" column="65" />
+        <mark key="]" line="96" column="132" />
+        <mark key="^" line="96" column="132" />
+        <mark key="." line="96" column="131" />
       </file>
       <file name="/fragment.java" timestamp="1620147657883">
         <mark key="[" line="0" column="0" />
@@ -304,13 +314,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text>CREATE TABLE KeyValueStore (
-    name TEXT NOT NULL,
-    namespace TEXT NOT NULL,
-    value BLOB NOT NULL,
-    PRIMARY KEY(name, namespace)
-);</text>
+      <register name="&quot;" type="4">
+        <text>515fd525-e40f-40a5-ae31-1b4541ef473b</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -336,8 +341,8 @@
       <register name="/" type="4">
         <text>_databaseC</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcmVzdWx0czogUmVzdWx0U2V0ID0gY29ubmVjdGlvbi5jcmVhdGVTdGF0ZW1lbnQoKQogICAgICAgICAgICAuZXhlY3V0ZVF1ZXJ5KCJTRUxFQ1QgcGFzc0Rlc2NyaXB0aW9uLCB2YWxpZFVudGlsQ2hyb25vVW5pdCBGUk9NIFBhc3NEZXRhaWwiKQo=</text>
+      <register name="0" type="4">
+        <text>515fd525-e40f-40a5-ae31-1b4541ef473b</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
