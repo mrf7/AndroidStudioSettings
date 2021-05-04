@@ -162,12 +162,12 @@
       <file name="$USER_HOME$/repos/CommonPass-mobile/buildSrc/src/main/java/Dependencies.kt" timestamp="1620070777073">
         <mark key="'" line="95" column="8" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest1.kt" timestamp="1620140469548">
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest1.kt" timestamp="1620141476547">
         <mark key="'" line="4" column="25" />
-        <mark key="[" line="20" column="14" />
-        <mark key="]" line="20" column="15" />
-        <mark key="." line="20" column="14" />
-        <mark key="^" line="20" column="15" />
+        <mark key="[" line="15" column="48" />
+        <mark key="]" line="15" column="48" />
+        <mark key="." line="15" column="47" />
+        <mark key="^" line="15" column="48" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/6.sqm" timestamp="1620054487051">
         <mark key="'" line="22" column="8" />
@@ -294,8 +294,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5icm90bGkuZGVjLkJyb3RsaUlucHV0U3RyZWFtCg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -328,34 +328,34 @@
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5icm90bGkuZGVjLkJyb3RsaUlucHV0U3RyZWFtCg==</text>
+        <text encoding="base64">ICAgICAgICBlcnJvcigiIikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkcml2ZXIuZ2V0Q29ubmVjdGlvbigpLmNyZWF0ZVN0YXRlbWVudCgpCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5icm90bGkuZGVjLkJyb3RsaUlucHV0U3RyZWFtCg==</text>
       </register>
       <register name="r" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmV4ZWN1dGVRdWVyeSgiSU5TRVJUIElOVE8gUGFzc0RldGFpbChpZCwgcG9saWN5U2hvcnRDb2RlLCB1c2VyVG9rZW4sIGlzc3VlZE9uLCBpc3N1ZWRPblRpbWVzdGFtcCwgIikK</text>
+        <text encoding="base64">ICAgICAgICBkcml2ZXIuZ2V0Q29ubmVjdGlvbigpLmNyZWF0ZVN0YXRlbWVudCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmV4ZWN1dGVRdWVyeSgiSU5TRVJUIElOVE8gUGFzc0RldGFpbChpZCwgcG9saWN5U2hvcnRDb2RlLCB1c2VyVG9rZW4sIGlzc3VlZE9uLCBpc3N1ZWRPblRpbWVzdGFtcCwgIikK</text>
       </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGp1bml0LmZyYW1ld29yay5Bc3NlcnQuYXNzZXJ0TnVsbAo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogCiAgICAgKi8K</text>
       </register>
       <register name="6" type="2">
-        <text>Add schema 1 db with pass detail entryc</text>
+        <text encoding="base64">aW1wb3J0IGp1bml0LmZyYW1ld29yay5Bc3NlcnQuYXNzZXJ0TnVsbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmV4ZWN1dGUoIiIiSU5TRVJUIElOVE8gUGFzc0RldGFpbCAoaWQsIHBvbGljeVNob3J0Q29kZSwgdXNlclRva2VuLCBpc3N1ZWRPbiwgaXNzdWVkT25UaW1lc3RhbXAsIHZhbGlkVW50aWwsIHZhbGlkVW50aWxUaW1lc3RhbXAgVkFMVUVTKCJwYXNzMSIsIE5VTEwsIE5VTEwsIDIwMjEtMDMtMzBUMTg6NDA6MzQuICIiIikK</text>
+        <text>Add schema 1 db with pass detail entryc</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -364,7 +364,7 @@
         <text encoding="base64">ICAgICAgICAgICAgLmV4ZWN1dGUoIiIiSU5TRVJUIElOVE8gUGFzc0RldGFpbCAoaWQsIHBvbGljeVNob3J0Q29kZSwgdXNlclRva2VuLCBpc3N1ZWRPbiwgaXNzdWVkT25UaW1lc3RhbXAsIHZhbGlkVW50aWwsIHZhbGlkVW50aWxUaW1lc3RhbXAgVkFMVUVTKCJwYXNzMSIsIE5VTEwsIE5VTEwsIDIwMjEtMDMtMzBUMTg6NDA6MzQuICIiIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAocmVzdWx0cy5uZXh0KCkpIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmV4ZWN1dGUoIiIiSU5TRVJUIElOVE8gUGFzc0RldGFpbCAoaWQsIHBvbGljeVNob3J0Q29kZSwgdXNlclRva2VuLCBpc3N1ZWRPbiwgaXNzdWVkT25UaW1lc3RhbXAsIHZhbGlkVW50aWwsIHZhbGlkVW50aWxUaW1lc3RhbXAgVkFMVUVTKCJwYXNzMSIsIE5VTEwsIE5VTEwsIDIwMjEtMDMtMzBUMTg6NDA6MzQuICIiIikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
