@@ -139,7 +139,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1620158243700">
+      <file name="/Dummy.txt" timestamp="1620160360593">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="29" />
@@ -195,20 +195,18 @@
         <mark key="^" line="24" column="26" />
         <mark key="." line="24" column="25" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build.gradle.kts" timestamp="1620160295915" />
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest.kt" timestamp="1620160270162">
-        <mark key="'" line="113" column="8" />
-        <mark key="[" line="136" column="56" />
-        <mark key="]" line="136" column="56" />
-        <mark key="^" line="123" column="4" />
-        <mark key="." line="136" column="56" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest.kt" timestamp="1620160769007">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="134" column="60" />
+        <mark key="]" line="134" column="70" />
+        <mark key="^" line="134" column="70" />
+        <mark key="." line="134" column="69" />
       </file>
       <file name="/fragment.java" timestamp="1620147657883">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="23" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/DatabaseHelper.kt" />
       <jump line="51" column="39" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" />
       <jump line="103" column="31" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/ktor/CommonPassApiImpl.kt" />
       <jump line="40" column="44" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/PassCreationViewModel.kt" />
@@ -308,6 +306,7 @@
       <jump line="86" column="28" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest.kt" />
       <jump line="111" column="10" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest.kt" />
       <jump line="112" column="8" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest.kt" />
+      <jump line="40" column="0" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
