@@ -195,13 +195,13 @@
         <mark key="^" line="24" column="26" />
         <mark key="." line="24" column="25" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build.gradle.kts" timestamp="1620157281025" />
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest.kt" timestamp="1620160086275">
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build.gradle.kts" timestamp="1620160295915" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest.kt" timestamp="1620160270162">
         <mark key="'" line="113" column="8" />
-        <mark key="[" line="128" column="47" />
-        <mark key="]" line="128" column="48" />
+        <mark key="[" line="136" column="56" />
+        <mark key="]" line="136" column="56" />
         <mark key="^" line="123" column="4" />
-        <mark key="." line="128" column="48" />
+        <mark key="." line="136" column="56" />
       </file>
       <file name="/fragment.java" timestamp="1620147657883">
         <mark key="[" line="0" column="0" />
@@ -315,8 +315,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBmdW4gbWlncmF0ZTV0bzYoKSB7CiAgICAgICAgLy8gU2NoZW1hIGNoYW5nZSBvbmx5LCBtYWtlIHN1cmUgbWlncmF0aW9uIHN1Y2NlZWRzIAogICAgICAgIHZhbCBkcml2ZXIgPSBnZXRPbGREYkRyaXZlcig1KQogICAgICAgIENvbW1vblBhc3NEYi5TY2hlbWEubWlncmF0ZShkcml2ZXIsIDUsIDYpCiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -334,7 +334,7 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>TEST</text>
+        <text>/</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
