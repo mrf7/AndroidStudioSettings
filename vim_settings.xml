@@ -7,7 +7,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>emit\((.*)\)</entry>
         <entry>actualyE</entry>
         <entry>actualE</entry>
         <entry>getSystemAction</entry>
@@ -27,9 +26,9 @@
         <entry>pin_description</entry>
         <entry>pin_title</entry>
         <entry>_databaseC</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2FjdHVhbHlFL2UvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2FjdHVhbEUvZS9n</entry>
         <entry encoding="base64">JzwsJz5zL2dldFN5c3RlbUFjdGlvbi9nZXRSZXNvdXJjZUdyb3VwL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2JlYWNvbnMvaXQvZw==</entry>
@@ -49,6 +48,7 @@
         <entry encoding="base64">JzwsJz4vX2RhdGFiYXNlQy9jL2c=</entry>
         <entry encoding="base64">JzwsJz5zL19kYXRhYmFzZUMvYy9n</entry>
         <entry>reg</entry>
+        <entry encoding="base64">JzwsJz5zL3Rlc3Qvb3RoZXIvZw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -188,7 +188,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/6.sqm" timestamp="1620158124793">
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/6.sqm" timestamp="1620160195151">
         <mark key="'" line="46" column="8" />
         <mark key="[" line="22" column="194" />
         <mark key="]" line="24" column="26" />
@@ -196,20 +196,18 @@
         <mark key="." line="24" column="25" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build.gradle.kts" timestamp="1620157281025" />
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest.kt" timestamp="1620158831182">
-        <mark key="[" line="90" column="65" />
-        <mark key="]" line="96" column="132" />
-        <mark key="^" line="96" column="132" />
-        <mark key="." line="96" column="131" />
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest.kt" timestamp="1620160086275">
+        <mark key="'" line="113" column="8" />
+        <mark key="[" line="128" column="47" />
+        <mark key="]" line="128" column="48" />
+        <mark key="^" line="123" column="4" />
+        <mark key="." line="128" column="48" />
       </file>
       <file name="/fragment.java" timestamp="1620147657883">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="12" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/DatabaseHelper.kt" />
-      <jump line="46" column="28" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" />
-      <jump line="14" column="22" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/requests/PreflightPassRequest.kt" />
       <jump line="65" column="23" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/DatabaseHelper.kt" />
       <jump line="51" column="39" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" />
       <jump line="103" column="31" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/ktor/CommonPassApiImpl.kt" />
@@ -307,6 +305,9 @@
       <jump line="41" column="8" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest1.kt" />
       <jump line="23" column="34" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest1.kt" />
       <jump line="67" column="8" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest1.kt" />
+      <jump line="86" column="28" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest.kt" />
+      <jump line="111" column="10" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest.kt" />
+      <jump line="112" column="8" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -314,8 +315,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>515fd525-e40f-40a5-ae31-1b4541ef473b</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBmdW4gbWlncmF0ZTV0bzYoKSB7CiAgICAgICAgLy8gU2NoZW1hIGNoYW5nZSBvbmx5LCBtYWtlIHN1cmUgbWlncmF0aW9uIHN1Y2NlZWRzIAogICAgICAgIHZhbCBkcml2ZXIgPSBnZXRPbGREYkRyaXZlcig1KQogICAgICAgIENvbW1vblBhc3NEYi5TY2hlbWEubWlncmF0ZShkcml2ZXIsIDUsIDYpCiAgICB9Cg==</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -333,21 +334,36 @@
         <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>TEST</text>
       </register>
       <register name="m" type="4">
         <text>checkManuId(rxBleScanResult.scanRecord)</text>
       </register>
       <register name="/" type="4">
-        <text>_databaseC</text>
+        <text>test</text>
       </register>
-      <register name="0" type="4">
-        <text>515fd525-e40f-40a5-ae31-1b4541ef473b</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBmdW4gbWlncmF0ZTV0bzYoKSB7CiAgICAgICAgLy8gU2NoZW1hIGNoYW5nZSBvbmx5LCBtYWtlIHN1cmUgbWlncmF0aW9uIHN1Y2NlZWRzIAogICAgICAgIHZhbCBkcml2ZXIgPSBnZXRPbGREYkRyaXZlcig1KQogICAgICAgIENvbW1vblBhc3NEYi5TY2hlbWEubWlncmF0ZShkcml2ZXIsIDUsIDYpCiAgICB9Cg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjb25uZWN0aW9uID0gZHJpdmVyLmdldENvbm5lY3Rpb24oKQo=</text>
+      </register>
+      <register name="r" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBPbmx5IHNjaGVtYSBjaGFuZ2VzCg==</text>
+      </register>
+      <register name="4" type="2">
         <text>CREATE TABLE KeyValueStore (
     name TEXT NOT NULL,
     namespace TEXT NOT NULL,
@@ -355,56 +371,41 @@
     PRIMARY KEY(name, namespace)
 );</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CkNSRUFURSBUQUJMRSBLZXlWYWx1ZVN0b3JlICgKICAgIG5hbWUgVEVYVCBOT1QgTlVMTCwKICAgIG5hbWVzcGFjZSBURVhUIE5PVCBOVUxMLAogICAgdmFsdWUgQkxPQiBOT1QgTlVMTCwKICAgIFBSSU1BUlkgS0VZKG5hbWUsIG5hbWVzcGFjZSkKKTs=</text>
-      </register>
-      <register name="r" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
-      </register>
-      <register name="3" type="2">
-        <text>wrote migration tests up to 3</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICRCT0RZJAo=</text>
-      </register>
       <register name="t" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CkNSRUFURSBUQUJMRSBLZXlWYWx1ZVN0b3JlICgKICAgIG5hbWUgVEVYVCBOT1QgTlVMTCwKICAgIG5hbWVzcGFjZSBURVhUIE5PVCBOVUxMLAogICAgdmFsdWUgQkxPQiBOT1QgTlVMTCwKICAgIFBSSU1BUlkgS0VZKG5hbWUsIG5hbWVzcGFjZSkKKTs=</text>
       </register>
       <register name="6" type="2">
-        <text>/**
- * $COMMENT$
- */</text>
+        <text>wrote migration tests up to 3</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICRCT0RZJAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text>col INT wfdd</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text>/**
+ * $COMMENT$
+ */</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text encoding="base64">JzwsJz5zL3Rlc3Qvb3RoZXIvZw==</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>_databaseC</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern>_databaseC</last-pattern>
-      <last-replace>c</last-replace>
-      <last-substitute>_databaseC</last-substitute>
+      <last-pattern>test</last-pattern>
+      <last-replace>other</last-replace>
+      <last-substitute>test</last-substitute>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
