@@ -163,7 +163,6 @@
       <file name="/0.db" timestamp="1620054494569">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/1.sqm" timestamp="1620145204022" />
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest1.kt" timestamp="1620158399730">
         <mark key="'" line="67" column="8" />
         <mark key="[" line="14" column="13" />
@@ -197,6 +196,10 @@
         <mark key="]" line="24" column="26" />
         <mark key="^" line="24" column="26" />
         <mark key="." line="24" column="25" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build.gradle.kts" timestamp="1620239009781">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="30" />
       </file>
       <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest.kt" timestamp="1620160769007">
         <mark key="'" line="40" column="0" />
@@ -320,8 +323,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGtvdGxpbigibmF0aXZlLmNvY29hcG9kcyIpCg==</text>
       </register>
       <register name="c" type="2">
         <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
@@ -348,7 +351,7 @@
         <text>test</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBmdW4gbWlncmF0ZTV0bzYoKSB7CiAgICAgICAgLy8gU2NoZW1hIGNoYW5nZSBvbmx5LCBtYWtlIHN1cmUgbWlncmF0aW9uIHN1Y2NlZWRzIAogICAgICAgIHZhbCBkcml2ZXIgPSBnZXRPbGREYkRyaXZlcig1KQogICAgICAgIENvbW1vblBhc3NEYi5TY2hlbWEubWlncmF0ZShkcml2ZXIsIDUsIDYpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGtvdGxpbigibmF0aXZlLmNvY29hcG9kcyIpCg==</text>
       </register>
       <register name="p" type="2">
         <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
