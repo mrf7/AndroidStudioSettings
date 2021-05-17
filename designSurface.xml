@@ -1,0 +1,12 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="android/src/main/res/drawable/bttn_background_card_blue.xml" value="0.38229166666666664" />
+        <entry key="android/src/main/res/drawable/ic_circle_lab.xml" value="0.5697916666666667" />
+        <entry key="android/src/main/res/drawable/ic_circle_user.xml" value="0.5697916666666667" />
+        <entry key="android/src/main/res/drawable/ic_get_a_commonpass_arrow.xml" value="0.561025641025641" />
+      </map>
+    </option>
+  </component>
+</application>
