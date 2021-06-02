@@ -9,7 +9,9 @@
         <entry key="android/src/main/res/drawable/ic_circle_user.xml" value="0.5697916666666667" />
         <entry key="android/src/main/res/drawable/ic_circle_vaccination.xml" value="0.40989583333333335" />
         <entry key="android/src/main/res/drawable/ic_get_a_commonpass_arrow.xml" value="0.561025641025641" />
+        <entry key="android/src/main/res/layout/fragment_customer_support.xml" value="0.3067708333333333" />
         <entry key="android/src/main/res/layout/pass_card_front.xml" value="0.3880208333333333" />
+        <entry key="android/src/main/res/menu/dropdown_menu.xml" value="0.28489583333333335" />
       </map>
     </option>
   </component>
