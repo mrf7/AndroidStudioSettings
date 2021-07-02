@@ -2,7 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="../../../../layout/custom_preview.xml" value="0.4395833333333333" />
+        <entry key="../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="android/src/main/res/drawable/bttn_background_card_blue.xml" value="0.38229166666666664" />
         <entry key="android/src/main/res/drawable/circle_e4f1ff.xml" value="0.20208333333333334" />
         <entry key="android/src/main/res/drawable/ic_baseline_search.xml" value="0.5697916666666667" />
@@ -27,7 +27,7 @@
         <entry key="android/src/main/res/layout/pass_card_front.xml" value="0.3880208333333333" />
         <entry key="android/src/main/res/layout/policy_list_fragment.xml" value="0.3482789855072464" />
         <entry key="android/src/main/res/layout/popup_choice_dialog_layout.xml" value="0.1" />
-        <entry key="android/src/main/res/layout/something_went_wrong_dialog_layout.xml" value="0.19166666666666668" />
+        <entry key="android/src/main/res/layout/something_went_wrong_dialog_layout.xml" value="0.2" />
         <entry key="android/src/main/res/layout/welcome_fragment.xml" value="0.296875" />
         <entry key="android/src/main/res/menu/dropdown_menu.xml" value="0.328125" />
       </map>
