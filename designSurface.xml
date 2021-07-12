@@ -21,7 +21,7 @@
         <entry key="android/src/main/res/layout/code_entry_fragment.xml" value="1.0" />
         <entry key="android/src/main/res/layout/fragment_customer_support.xml" value="0.5546875" />
         <entry key="android/src/main/res/layout/fragment_evidence_details.xml" value="0.5546875" />
-        <entry key="android/src/main/res/layout/fragment_lab_retrieval_type.xml" value="0.19322916666666667" />
+        <entry key="android/src/main/res/layout/fragment_lab_retrieval_type.xml" value="0.44895833333333335" />
         <entry key="android/src/main/res/layout/lab_list_fragment.xml" value="0.5505208333333333" />
         <entry key="android/src/main/res/layout/lab_retrieval_lab_link_view_adapter.xml" value="0.2755208333333333" />
         <entry key="android/src/main/res/layout/pass_card_fragment.xml" value="0.34322916666666664" />
