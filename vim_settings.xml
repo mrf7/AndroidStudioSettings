@@ -1,0 +1,428 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>actualyE</entry>
+        <entry>actualE</entry>
+        <entry>getSystemAction</entry>
+        <entry>beacons</entry>
+        <entry encoding="base64">XDwoXD4=</entry>
+        <entry>systemActionData</entry>
+        <entry>inputStream</entry>
+        <entry>leapBridgeSystemModel</entry>
+        <entry>(s|S)ystemAction</entry>
+        <entry encoding="base64">XDxzbG90XD4=</entry>
+        <entry>mostRecentData</entry>
+        <entry>&quot;key&quot;</entry>
+        <entry>any</entry>
+        <entry>Collections.singltonList\((R.drawable.\w)\)</entry>
+        <entry>href</entry>
+        <entry>java\.lang\.</entry>
+        <entry>pin_description</entry>
+        <entry>pin_title</entry>
+        <entry>_databaseC</entry>
+        <entry>test</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5zL2FjdHVhbEUvZS9n</entry>
+        <entry encoding="base64">JzwsJz5zL2dldFN5c3RlbUFjdGlvbi9nZXRSZXNvdXJjZUdyb3VwL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2JlYWNvbnMvaXQvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL3N5c3RlbUFjdGlvbkRhdGEvZXZlbnRUeXBlL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2lucHV0U3RyZWFtL291dHB1dC9n</entry>
+        <entry encoding="base64">JzwsJz5zL2xlYXBCcmlkZ2VTeXN0ZW1Nb2RlbC9zZXJpYWxNb25pdG9yL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLyhzfFMpeXN0ZW1BY3Rpb24vZGV0ZWN0aW9uR3JvdXAvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL21vc3RSZWNlbnREYXRhL29sZERhdGEvZw==</entry>
+        <entry encoding="base64">JzwsJz5zLyJrZXkiL1VQREFURURfVFJJR0dFUl9LRVkvZw==</entry>
+        <entry>s/any/all/g</entry>
+        <entry encoding="base64">JzwsJz5zL0NvbGxlY3Rpb25zLnNpbmdsdG9uTGlzdFwoKFIuZHJhd2FibGUuXHcpXCkvJDE=</entry>
+        <entry>s/href/occupiedActionSchedule/g</entry>
+        <entry encoding="base64">JzwsJz5zL2phdmFcLmxhbmdcLi8vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL3Bpbl9kZXNjcmlwdGlvbi93ZWxjb21lX2V4cGxhbmF0aW9uL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL3Bpbl90aXRsZS93ZWxjb21lX3RpdGxlL2c=</entry>
+        <entry>w</entry>
+        <entry encoding="base64">JzwsJz4vX2RhdGFiYXNlQy9jL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL19kYXRhYmFzZUMvYy9n</entry>
+        <entry>reg</entry>
+        <entry encoding="base64">JzwsJz5zL3Rlc3Qvb3RoZXIvZw==</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIE8=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEc=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIE0=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFY=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEY=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFQ=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFI=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEk=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIE4=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEI=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFA=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEE=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEU=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEQ=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIE9QRU5fQlJBQ0tFVA==</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIENMT1NFX0JSQUNLRVQ=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEg=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIDI=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEo=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEM=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFc=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFg=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFM=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFE=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEw=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEs=</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/requests/PreflightPassRequest.kt" timestamp="1620223701990">
+        <mark key="'" line="16" column="11" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1620160360593">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="30" />
+        <mark key="." line="0" column="29" />
+        <mark key="^" line="0" column="30" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/4.sqm" timestamp="1620158810033">
+        <mark key="[" line="1" column="58" />
+        <mark key="]" line="1" column="93" />
+      </file>
+      <file name="/fragment.kt" timestamp="1619807731838">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/2.sqm" timestamp="1620156923599">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="/0.db" timestamp="1620054494569">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest1.kt" timestamp="1620158399730">
+        <mark key="'" line="67" column="8" />
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="93" column="61" />
+        <mark key="^" line="93" column="61" />
+        <mark key="." line="93" column="60" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/5.sqm" timestamp="1620147709567">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="12" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/qr/barcodescanner/statemachine/handler/opencerta/OpenCertaHandler.kt" timestamp="1620086926031">
+        <mark key="'" line="80" column="33" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/PassDetail.sq" timestamp="1620158636971">
+        <mark key="[" line="24" column="34" />
+        <mark key="]" line="24" column="195" />
+        <mark key="^" line="14" column="14" />
+        <mark key="." line="14" column="13" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidMain/kotlin/org/commonsproject/commonpass/PlatformAndroid.kt" timestamp="1620072401775">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/6.sqm" timestamp="1620160195151">
+        <mark key="'" line="46" column="8" />
+        <mark key="[" line="22" column="194" />
+        <mark key="]" line="24" column="26" />
+        <mark key="^" line="24" column="26" />
+        <mark key="." line="24" column="25" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/build.gradle.kts" timestamp="1620239372245">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="30" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest.kt" timestamp="1620160769007">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="134" column="60" />
+        <mark key="]" line="134" column="70" />
+        <mark key="^" line="134" column="70" />
+        <mark key="." line="134" column="69" />
+      </file>
+      <file name="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" timestamp="1620223696824">
+        <mark key="'" line="55" column="36" />
+      </file>
+      <file name="/fragment.java" timestamp="1620147657883">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="40" column="44" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/PassCreationViewModel.kt" />
+      <jump line="50" column="23" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" />
+      <jump line="20" column="13" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/PassCreationViewModel.kt" />
+      <jump line="36" column="32" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidMain/kotlin/org/commonsproject/commonpass/KoinAndroid.kt" />
+      <jump line="22" column="6" filename="$USER_HOME$/repos/CommonPass-mobile/shared/build/buildkonfig/commonMain/org/commonsproject/commonpass/CommonConfig.kt" />
+      <jump line="25" column="12" filename="$USER_HOME$/repos/CommonPass-mobile/buildSrc/src/main/java/Config.kt" />
+      <jump line="206" column="98" filename="$USER_HOME$/repos/CommonPass-mobile/shared/build.gradle.kts" />
+      <jump line="41" column="78" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidMain/kotlin/org/commonsproject/commonpass/KoinAndroid.kt" />
+      <jump line="17" column="20" filename="$USER_HOME$/repos/CommonPass-mobile/buildSrc/src/main/java/Config.kt" />
+      <jump line="29" column="28" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidMain/kotlin/org/commonsproject/commonpass/KoinAndroid.kt" />
+      <jump line="14" column="6" filename="$USER_HOME$/repos/CommonPass-mobile/shared/build/buildkonfig/commonMain/org/commonsproject/commonpass/CommonConfig.kt" />
+      <jump line="121" column="45" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidMain/kotlin/org/commonsproject/commonpass/KoinAndroid.kt" />
+      <jump line="2" column="15" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/PassType.kt" />
+      <jump line="19" column="9" filename="$USER_HOME$/repos/CommonPass-mobile/shared/build/generated/sqldelight/code/CommonPassDb/org/commonsproject/commonpass/db/PassDetail.kt" />
+      <jump line="24" column="73" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" />
+      <jump line="29" column="15" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" />
+      <jump line="28" column="28" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" />
+      <jump line="27" column="48" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/TermsAndServiceWebViewFragment.kt" />
+      <jump line="132" column="38" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/LabListFragment.kt" />
+      <jump line="101" column="24" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/LabListViewModel.kt" />
+      <jump line="224" column="33" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/LabListFragment.kt" />
+      <jump line="151" column="50" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/viewmodels/SharedLabListViewModel.kt" />
+      <jump line="23" column="22" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidMain/kotlin/org/commonsproject/commonpass/KoinAndroid.kt" />
+      <jump line="133" column="26" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/ktor/CommonPassApiImpl.kt" />
+      <jump line="152" column="36" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/viewmodels/SharedLabListViewModel.kt" />
+      <jump line="234" column="31" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/LabListFragment.kt" />
+      <jump line="131" column="42" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/LabListFragment.kt" />
+      <jump line="42" column="8" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/LabListViewModel.kt" />
+      <jump line="103" column="58" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/LabListViewModel.kt" />
+      <jump line="134" column="63" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/ktor/CommonPassApiImpl.kt" />
+      <jump line="132" column="38" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/ktor/CommonPassApiImpl.kt" />
+      <jump line="32" column="9" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardFragment.kt" />
+      <jump line="7" column="19" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/qr/barcodescanner/statemachine/handler/ScannedBarcodeHandler.kt" />
+      <jump line="49" column="19" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/requests/PreflightPassRequest.kt" />
+      <jump line="52" column="64" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/requests/PreflightPassRequest.kt" />
+      <jump line="146" column="23" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-serialization-json-metadata/1.0.1/ad3ebca002583934b18cfa2bb7acbbe04bf448b2/kotlinx-serialization-json-metadata-1.0.1-sources.jar!/commonMain/kotlinx/serialization/json/JsonElement.kt" />
+      <jump line="54" column="25" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/requests/PreflightPassRequest.kt" />
+      <jump line="10" column="18" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/IntentTemplate.kt" />
+      <jump line="6" column="13" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/Intent.kt" />
+      <jump line="2" column="10" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/AnalyticsHelper.kt" />
+      <jump line="88" column="21" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
+      <jump line="228" column="55" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
+      <jump line="24" column="40" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/res/layout/fragment_evidence_details.xml" />
+      <jump line="49" column="85" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/EvidenceDetailsFragment.kt" />
+      <jump line="51" column="75" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/EvidenceDetailsFragment.kt" />
+      <jump line="224" column="8" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
+      <jump line="67" column="16" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/passcard/PassCardSubFragment.kt" />
+      <jump line="79" column="8" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/PassListFragment.kt" />
+      <jump line="138" column="26" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/PassListFragment.kt" />
+      <jump line="41" column="38" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/MainActivity.kt" />
+      <jump line="65" column="12" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-ui-ktx/2.3.0/407dd936012d5b65b0af3e897ea62e436a811419/navigation-ui-ktx-2.3.0-sources.jar!/androidx/navigation/ui/Toolbar.kt" />
+      <jump line="40" column="68" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/MainActivity.kt" />
+      <jump line="37" column="23" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/FragmentUtils.kt" />
+      <jump line="444" column="17" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/PassListFragment.kt" />
+      <jump line="106" column="21" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/PassListFragment.kt" />
+      <jump line="74" column="8" filename="$USER_HOME$/repos/CommonPass-mobile/android/build/generated/source/navigation-args/debug/org/commonsproject/commonpass/android/fragment/PassListFragmentDirections.kt" />
+      <jump line="452" column="53" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/PassListFragment.kt" />
+      <jump line="445" column="16" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/PassListFragment.kt" />
+      <jump line="61" column="21" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/PassListFragment.kt" />
+      <jump line="108" column="12" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/PassListFragment.kt" />
+      <jump line="17" column="66" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/Intent.kt" />
+      <jump line="12" column="31" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/requests/PreflightPassRequest.kt" />
+      <jump line="12" column="10" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/IntentTemplate.kt" />
+      <jump line="8" column="8" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/IntentTemplate.kt" />
+      <jump line="6" column="14" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/IntentTemplate.kt" />
+      <jump line="40" column="24" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/ktor/CommonPassApiMock.kt" />
+      <jump line="22" column="19" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/onboarding/OnboardingFragment.kt" />
+      <jump line="73" column="22" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/fragment/BaseToolbarFragment.kt" />
+      <jump line="20" column="34" filename="$USER_HOME$/repos/CommonPass-mobile/android/src/main/java/org/commonsproject/commonpass/android/viewmodel/CodeEntryViewModel.kt" />
+      <jump line="74" column="30" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" />
+      <jump line="55" column="20" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/ktor/CommonPassApiImpl.kt" />
+      <jump line="97" column="49" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/ktor/CommonPassApiImpl.kt" />
+      <jump line="56" column="20" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/ktor/CommonPassApiImpl.kt" />
+      <jump line="98" column="0" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/ktor/CommonPassApiImpl.kt" />
+      <jump line="203" column="0" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/ktor/CommonPassApiImpl.kt" />
+      <jump line="9" column="21" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest1.kt" />
+      <jump line="15" column="4" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.squareup.sqldelight/sqlite-driver/1.4.4/f066195de22a5950f6deff3bde92f6811e56b41/sqlite-driver-1.4.4-sources.jar!/com/squareup/sqldelight/sqlite/driver/JdbcSqliteDriver.kt" />
+      <jump line="157" column="38" filename="$USER_HOME$/repos/CommonPass-mobile/shared/build.gradle.kts" />
+      <jump line="15" column="28" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-gradle-plugin-api/1.3.72/f5a031322d2a6bee960ae70f517c30982084e226/kotlin-gradle-plugin-api-1.3.72-sources.jar!/org/jetbrains/kotlin/gradle/plugin/KotlinSourceSet.kt" />
+      <jump line="10" column="41" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest1.kt" />
+      <jump line="12" column="21" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest1.kt" />
+      <jump line="14" column="25" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest1.kt" />
+      <jump line="20" column="43" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest1.kt" />
+      <jump line="16" column="16" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest1.kt" />
+      <jump line="17" column="29" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest1.kt" />
+      <jump line="4" column="25" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest1.kt" />
+      <jump line="18" column="8" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/sqldelight/org/commonsproject/commonpass/db/6.sqm" />
+      <jump line="95" column="8" filename="$USER_HOME$/repos/CommonPass-mobile/buildSrc/src/main/java/Dependencies.kt" />
+      <jump line="10" column="21" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidMain/kotlin/org/commonsproject/commonpass/CompressionHelperAndroid.kt" />
+      <jump line="186" column="32" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/qr/barcodescanner/statemachine/handler/opencerta/OpenCertaHandler.kt" />
+      <jump line="80" column="33" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/qr/barcodescanner/statemachine/handler/opencerta/OpenCertaHandler.kt" />
+      <jump line="41" column="8" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest1.kt" />
+      <jump line="23" column="34" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest1.kt" />
+      <jump line="67" column="8" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest1.kt" />
+      <jump line="86" column="28" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest.kt" />
+      <jump line="111" column="10" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest.kt" />
+      <jump line="112" column="8" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest.kt" />
+      <jump line="40" column="0" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/androidTest/kotlin/org/commonsproject/commonpass/MigrationTest.kt" />
+      <jump line="55" column="36" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/repos/PassRepo.kt" />
+      <jump line="16" column="11" filename="$USER_HOME$/repos/CommonPass-mobile/shared/src/commonMain/kotlin/org/commonsproject/commonpass/models/swagger/visitpass/requests/PreflightPassRequest.kt" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="a" type="4">
+        <text />
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGtvdGxpbigibmF0aXZlLmNvY29hcG9kcyIpCg==</text>
+      </register>
+      <register name="c" type="2">
+        <text encoding="base64">ICAgICAgICBtb2Nra09iamVjdChDb21tdW5pY2F0aW9uTWFuYWdlcikgewogICAgICAgICAgICB2YWwgbWFuYWdlciA9IG1vY2trPENvbW11bmljYXRpb25NYW5hZ2VyPihyZWxheGVkID0gdHJ1ZSkKICAgICAgICAgICAgZXZlcnkgeyBDb21tdW5pY2F0aW9uTWFuYWdlci5nZXRJbnN0YW5jZSgpIH0gcmV0dXJucyBtYW5hZ2VyCg==</text>
+      </register>
+      <register name="e" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtQ29tbWFuZFJlc3VsdCA9IENvbW1hbmRSZXN1bHQuQ09NTUFORF9GQUlMVVJFOwo=</text>
+      </register>
+      <register name="f" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgbW9ja0Z1dHVyZTogU2V0dGFibGVGdXR1cmU8TGVhcFJlcXVlc3RSZXNwb25zZU1vZGVsPiA9IFNldHRhYmxlRnV0dXJlLmNyZWF0ZSgpCg==</text>
+      </register>
+      <register name="k" type="4">
+        <text>rxBleScanResult.bleDevice.name == &quot;Ketra&quot;</text>
+      </register>
+      <register name="+" type="4">
+        <text>https://developer.spotify.com/documentation/web-api/reference/object-model/</text>
+      </register>
+      <register name="-" type="4">
+        <text>/</text>
+      </register>
+      <register name="m" type="4">
+        <text>checkManuId(rxBleScanResult.scanRecord)</text>
+      </register>
+      <register name="/" type="4">
+        <text>test</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGtvdGxpbigibmF0aXZlLmNvY29hcG9kcyIpCg==</text>
+      </register>
+      <register name="p" type="2">
+        <text encoding="base64">QFByZXBhcmVGb3JUZXN0KEZlYXR1cmVNYW5hZ2VyLmNsYXNzKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjb25uZWN0aW9uID0gZHJpdmVyLmdldENvbm5lY3Rpb24oKQo=</text>
+      </register>
+      <register name="r" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgbW9ja1JlZ2lzdHJ5OiBGdXR1cmVSZXN1bHRSZWdpc3RyeTxTdHJpbmcsIExlYXBSZXF1ZXN0UmVzcG9uc2VNb2RlbD4gPSBtb2NrayhyZWxheGVkID0gdHJ1ZSkgewogICAgICAgICAgICBldmVyeSB7IHJlZ2lzdGVyRm9yUmVzdWx0KGNhcHR1cmUocmVnaXN0ZXJJZFNsb3QpKSB9IHJldHVybnMgbW9ja0Z1dHVyZQogICAgICAgICAgICBldmVyeSB7IHVucmVnaXN0ZXJXaXRoUmVzdWx0KGNhcHR1cmUodW5yZWdpc3RlcklkU2xvdCksIGFueSgpKSB9IHJldHVybnMgdHJ1ZQogICAgICAgIH0KCiAgICAgICAgQ29tbXVuaWNhdGlvbk1hbmFnZXIuZ2V0SW5zdGFuY2UoKS5tUmVnaXN0cnkgPSBtb2NrUmVnaXN0cnkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBPbmx5IHNjaGVtYSBjaGFuZ2VzCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text>CREATE TABLE KeyValueStore (
+    name TEXT NOT NULL,
+    namespace TEXT NOT NULL,
+    value BLOB NOT NULL,
+    PRIMARY KEY(name, namespace)
+);</text>
+      </register>
+      <register name="t" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CkNSRUFURSBUQUJMRSBLZXlWYWx1ZVN0b3JlICgKICAgIG5hbWUgVEVYVCBOT1QgTlVMTCwKICAgIG5hbWVzcGFjZSBURVhUIE5PVCBOVUxMLAogICAgdmFsdWUgQkxPQiBOT1QgTlVMTCwKICAgIFBSSU1BUlkgS0VZKG5hbWUsIG5hbWVzcGFjZSkKKTs=</text>
+      </register>
+      <register name="6" type="2">
+        <text>wrote migration tests up to 3</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICRCT0RZJAo=</text>
+      </register>
+      <register name="w" type="4">
+        <text />
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text>/**
+ * $COMMENT$
+ */</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">JzwsJz5zL3Rlc3Qvb3RoZXIvZw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>test</last-search>
+      <last-offset />
+      <last-pattern>test</last-pattern>
+      <last-replace>other</last-replace>
+      <last-substitute>test</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="7" enabled="true" />
+    <notifications>
+      <idea-join enabled="true" />
+      <idea-put enabled="false" />
+    </notifications>
+  </component>
+</application>
